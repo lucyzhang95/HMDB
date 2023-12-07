@@ -5,8 +5,8 @@ Current output:
 ```ruby
 {
     "_id":"HMDB0000259",
-    "associated_microbe":"Escherichia coli",
     "name":"Serotonin",
+    "associated_microbe":"Escherichia coli",
     "chemical_formula":"C10H12N2O",
     "sample_name":[
         "Blood",
