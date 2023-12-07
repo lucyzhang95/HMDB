@@ -12,7 +12,7 @@ with zipfile.ZipFile(file_path, "r") as zip_f:
     with zip_f.open(file_name) as xml_f:
         for event, elem in ET.iterparse(xml_f, events=("start", "end")):
             if event == 'end' and elem.tag.endswith('metabolite'):
-                output = {"_id": None}
+                output = {"_id": None, "name": None, "associated_microbe": None}
                 pathway_dict = {"name": [], "kegg_map_id": [], "smpdb_id": []}
                 disease_dict = {"name": [], "omim": [], "pmid": []}
                 protein_dict = {"name": [], "uniprotkb": []}
@@ -23,7 +23,7 @@ with zipfile.ZipFile(file_path, "r") as zip_f:
                                   "foodb_id", "kegg_id"]
                     if tname == "accession":
                         output["_id"] = metabolite.text
-                    elif tname in tname_list:
+                    elif tname in tname_list and not None:
                         output[tname] = metabolite.text if metabolite.text else None
                     elif tname == "ontology":
                         for descendant in metabolite.iter("{http://www.hmdb.ca}descendant"):
@@ -32,7 +32,7 @@ with zipfile.ZipFile(file_path, "r") as zip_f:
                                 microbe = descendant.findall(".//{http://www.hmdb.ca}term")
                                 species = microbe[-1].text
                                 if species != "Microbe":
-                                    output["microbe"] = species
+                                    output["associated_microbe"] = species
                     elif tname == "biological_properties":
                         for child in metabolite.iter("{http://www.hmdb.ca}biological_properties"):
                             biospec_loc = child.find("{http://www.hmdb.ca}biospecimen_locations")
@@ -69,6 +69,7 @@ with zipfile.ZipFile(file_path, "r") as zip_f:
 
                 output["pathways"] = pathway_dict
                 output["diseases"] = disease_dict
+                output["associated_proteins"] = protein_dict
                 print(output)
 
 
