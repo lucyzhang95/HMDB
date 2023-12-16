@@ -12,7 +12,7 @@ with zipfile.ZipFile(file_path, "r") as zip_f:
     with zip_f.open(file_name) as xml_f:
         for event, elem in ET.iterparse(xml_f, events=("start", "end")):
             if event == 'end' and elem.tag.endswith('metabolite'):
-                output = {"_id": None, "name": None, "associated_microbe": None}
+                output = {"_id": None, "name": None}
                 pathway_dict = {"name": [], "kegg_map_id": [], "smpdb_id": []}
                 disease_dict = {"name": [], "omim": [], "pmid": []}
                 protein_dict = {"name": [], "uniprotkb": []}
@@ -27,12 +27,12 @@ with zipfile.ZipFile(file_path, "r") as zip_f:
                         output[tname] = metabolite.text if metabolite.text else None
                     elif tname == "ontology":
                         for descendant in metabolite.iter("{http://www.hmdb.ca}descendant"):
-                            term = descendant.find("{http://www.hmdb.ca}term")
-                            if term is not None and term.text == "Microbe":
-                                microbe = descendant.findall(".//{http://www.hmdb.ca}term")
-                                species = microbe[-1].text
-                                if species != "Microbe":
-                                    output["associated_microbe"] = species
+                            term = descendant.findall("{http://www.hmdb.ca}term")
+                            if term and term[0].text == "Microbe":
+                                microbe_descendants = descendant.findall(".//{http://www.hmdb.ca}term")
+                                # The output of microbe_descendants = ['Microbe', 'Alcaligenes', 'Alcaligenes eutrophus']
+                                microbe_names = [microbe.text for microbe in microbe_descendants[1:]]
+                                output["associated_microbe"] = microbe_names
                     elif tname == "biological_properties":
                         for child in metabolite.iter("{http://www.hmdb.ca}biological_properties"):
                             biospec_loc = child.find("{http://www.hmdb.ca}biospecimen_locations")
