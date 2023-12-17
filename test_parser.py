@@ -1,5 +1,6 @@
 import xml.etree.ElementTree as ET
 import os
+import time
 import biothings_client
 from collections.abc import Iterator
 from collections import defaultdict
@@ -88,6 +89,7 @@ output:
 # For example, descendant and descendants tags under different levels have different element text contents
 
 
+start_time = time.time()
 def strip_tag_namespace(tag) -> str:
     idx = tag.rfind("}")
     # rfind() method "not found" == -1
@@ -97,7 +99,8 @@ def strip_tag_namespace(tag) -> str:
 
 
 xml_path = "/Users/lucyzhang1116/Documents/Projects/Microbiome_KG/HMDB"
-xml_name = "metabolites_19014.xml"
+#xml_name = "metabolites_19014.xml"
+xml_name = "hmdb_metabolites.xml"
 xml_file = os.path.join(xml_path, xml_name)
 
 '''
@@ -141,7 +144,7 @@ microbe_list = ['Alcaligenes', 'Acetobacter', 'Rhodococcus', 'Rhodococcus rhodoc
 taxon = get_taxon_info(microbe_list)
 '''
 
-
+'''
 def remove_empty_values(new_association_list) -> list:
     filtered_association = []
     if new_association_list:
@@ -163,11 +166,12 @@ def remove_duplicate_microbe(microbe_list) -> list:
         if is_unique:
             unique_microbes_l.append(microbe)
     return unique_microbes_l
+'''
 
 
 # Need different way to extract the info, does not need to be divided up by "metabolite" tags
-def get_all_microbe_names(xml_file) -> list:
-    microbes = []
+def get_all_microbe_names(xml_file) -> set:
+    microbes_l = []
     for event, elem in ET.iterparse(xml_file, events=("start", "end")):
         if event == 'end' and elem.tag.endswith('metabolite'):
             for metabolite in elem:
@@ -177,14 +181,20 @@ def get_all_microbe_names(xml_file) -> list:
                         term = descendant.findall("{http://www.hmdb.ca}term")
                         if term and term[0].text == "Microbe":
                             microbe_descendants = descendant.findall(".//{http://www.hmdb.ca}term")
-                            microbes.append(microbe_descendants)
-    return microbes
+                            for microbe_name in microbe_descendants[1:]:
+                                microbes_l.append(microbe_name)
+                                print(microbe_name.text)
+    return set(microbes_l)
 
 
 all_microbes = get_all_microbe_names(xml_file)
-print(all_microbes)
+print(len(all_microbes))
 
+end_time = time.time()
+total_time = end_time - start_time
+print(f"The process takes {total_time} sec.")
 
+'''
 for event, elem in ET.iterparse(xml_file, events=("start", "end")):
     if event == 'end' and elem.tag.endswith('metabolite'):
         output = {"_id": None,
@@ -249,7 +259,7 @@ for event, elem in ET.iterparse(xml_file, events=("start", "end")):
         output["associated_proteins"] = remove_empty_values(output["associated_proteins"])
         output = {k: v for k, v in output.items() if v}
         #print(output)
-
+'''
 
 
 
