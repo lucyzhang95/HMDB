@@ -4,113 +4,84 @@ Parser for HMDB database
 Current output:
 ```ruby
 {
-   "_id":"HMDB0000895",
-   "name":"Acetylcholine",
-   "chemical_formula":"C7H16NO2",
-   "associated_microbe":[
-      "Lactobacillus"
+   "_id":"HMDB0002303",
+   "name":"Dimethylsulfide",
+   "chebi_id":"17437",
+   "associated_diseases":[
+      {
+         "name":"Crohn's disease",
+         "omim":"266600",
+         "pmid":[
+            "16440420",
+            "11418788",
+            "8723414",
+            "19491857",
+            "17269711",
+            "23516449",
+            "23867873",
+            "24811995",
+            "25598765",
+            "26806034",
+            "26848182",
+            "27609529",
+            "28842642"
+         ]
+      },
+      {
+         "name":"Dimethyl sulfide poisoning",
+         "pmid":[
+            "1874893"
+         ]
+      },
+      {
+         "name":"Ulcerative colitis",
+         "pmid":[
+            "21059682",
+            "1740537",
+            "17314143",
+            "17269711",
+            "21761941",
+            "23516449",
+            "23867873",
+            "24811995",
+            "25598765",
+            "26806034",
+            "26848182",
+            "27609529",
+            "28842642"
+         ]
+      },
+      {
+         "name":"Nonalcoholic fatty liver disease",
+         "pmid":[
+            "23454028"
+         ]
+      }
+   ],
+   "associated_proteins":[
+      {
+         "name":"Indolethylamine N-methyltransferase",
+         "uniprotkb":"O95050"
+      }
+   ],
+   "chemical_formula":"C2H6S",
+   "associated_microbes":[
+      "Cyanothece",
+      "Rhizobiaceae",
+      "Rhizobium leguminosarum",
+      "Pseudomonas deceptionensis",
+      "Bradyrhizobium diazoefficiens",
+      "Escherichia coli"
    ],
    "sample_name":[
+      "Blood",
       "Cerebrospinal Fluid (CSF)",
-      "Saliva"
+      "Feces",
+      "Urine"
    ],
-   "drugbank_id":"DB03128",
-   "foodb_id":"FDB012191",
-   "chemspider_id":"182",
-   "kegg_id":"C01996",
-   "pubchem_compound_id":"187",
-   "chebi_id":"15355",
-   "pathways":{
-      "name":[
-         "Betazole Action Pathway",
-         "Cimetidine Action Pathway",
-         "Esomeprazole Action Pathway",
-         "Famotidine Action Pathway",
-         "Gastric Acid Production",
-         "Lafutidine H2-Antihistamine Action",
-         "Lansoprazole Action Pathway",
-         "Metiamide Action Pathway",
-         "Nizatidine Action Pathway",
-         "Omeprazole Action Pathway",
-         "Pantoprazole Action Pathway",
-         "Phospholipid Biosynthesis",
-         "Pirenzepine Action Pathway",
-         "Rabeprazole Action Pathway",
-         "Ranitidine Action Pathway",
-         "Roxatidine acetate Action Pathway"
-      ],
-      "kegg_map_id":[
-         "map00564"
-      ],
-      "smpdb_id":[
-         "SMP00736",
-         "SMP00232",
-         "SMP00225",
-         "SMP00231",
-         "SMP00589",
-         "SMP51038",
-         "SMP00227",
-         "SMP00735",
-         "SMP00233",
-         "SMP00226",
-         "SMP00228",
-         "SMP00025",
-         "SMP00246",
-         "SMP00229",
-         "SMP00230",
-         "SMP00734"
-      ]
-   },
-   "diseases":{
-      "name":[
-         "Alzheimer's disease",
-         "Multi-infarct dementia"
-      ],
-      "omim":[
-         "104300"
-      ],
-      "pmid":[
-         "17031479",
-         "11959400",
-         "8595727",
-         "15361288",
-         "9693263",
-         "15465626",
-         "15061359",
-         "10494443",
-         "11255442",
-         "12498967",
-         "16227558",
-         "9720975",
-         "12111441",
-         "16244393",
-         "8356878",
-         "12391605",
-         "8478958",
-         "21292280",
-         "20858978",
-         "21474939",
-         "20523031",
-         "11314776",
-         "1716470",
-         "23857558",
-         "15361288",
-         "15465626",
-         "9116178",
-         "12498967"
-      ]
-   },
-   "associated_proteins":{
-      "name":[
-         "Choline O-acetyltransferase",
-         "Acetylcholinesterase",
-         "Cholinesterase"
-      ],
-      "uniprotkb":[
-         "P28329",
-         "P22303",
-         "P06276"
-      ]
-   }
+   "kegg_id":"C00580",
+   "foodb_id":"FDB003591",
+   "pubchem_compound_id":"1068",
+   "chemspider_id":"1039"
 }
 ```
