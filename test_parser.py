@@ -161,32 +161,33 @@ def get_taxon_info(microbial_names):
     :return: a dictionary with query _ids (taxids) as the keys and taxonomy fields with the query _id as values
     """
     t = biothings_client.get_client("taxon")
-    taxon_info = t.querymany(microbial_names,
-                             scopes="scientific_name",
-                             fields=["_id", "scientific_name", "lineage", "parent_taxid", "rank"])
-    # print(taxon_info)
+    if os.path.isfile("hmdb_mapped_taxon.pkl") is False:
+        taxon_info = t.querymany(microbial_names,
+                                 scopes="scientific_name",
+                                 fields=["_id", "scientific_name", "lineage", "parent_taxid", "rank"])
+        # print(taxon_info)
 
-    unique_taxon_d = {}
-    taxon_d = defaultdict(list)
-    for d in taxon_info:
-        if "notfound" not in d:
-            if d["rank"] != "subgenus":
-                taxon_d[d["query"]].append((d["_score"]))
+        unique_taxon_d = {}
+        taxon_d = defaultdict(list)
+        for d in taxon_info:
+            if "notfound" not in d:
+                if d["rank"] != "subgenus":
+                    taxon_d[d["query"]].append((d["_score"]))
 
-    max_score = [(k, max(v)) for k, v in taxon_d.items()]
+        max_score = [(k, max(v)) for k, v in taxon_d.items()]
 
-    for d in taxon_info:
-        for s in max_score:
-            if d["query"] in s[0] and d["_score"] == s[1]:
-                unique_taxon_d[d["query"]] = {
-                    "_id": d["_id"],
-                    "scientific_name": d["scientific_name"],
-                    "lineage": d["lineage"],
-                    "parent_taxid": d["parent_taxid"],
-                    "rank": d["rank"]
-                }
-    # print(unique_taxon_d)
-    yield unique_taxon_d
+        for d in taxon_info:
+            for s in max_score:
+                if d["query"] in s[0] and d["_score"] == s[1]:
+                    unique_taxon_d[d["query"]] = {
+                        "taxid": d["_id"],
+                        "scientific_name": d["scientific_name"],
+                        "lineage": d["lineage"],
+                        "parent_taxid": d["parent_taxid"],
+                        "rank": d["rank"]
+                    }
+        # print(unique_taxon_d)
+        yield unique_taxon_d
 
 
 def save_mapped_taxon_to_pkl(output_pkl):
@@ -210,11 +211,11 @@ def save_mapped_taxon_to_pkl(output_pkl):
 
 mapped_taxon = save_mapped_taxon_to_pkl("hmdb_mapped_taxon.pkl")
 
-'''
+
 with open("hmdb_mapped_taxon.pkl", "rb") as handle:
     taxon = pickle.load(handle)
-    print(len(taxon))
-'''
+    print(taxon)
+
 
 # taxon_l = ["Sphingomonas natatoria", "Pediococcus", "pediococcus parvulus"]
 # taxon = get_taxon_info(["Sphingomonas natatoria", "Pediococcus", "pediococcus parvulus"])
