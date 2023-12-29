@@ -230,22 +230,23 @@ for event, elem in ET.iterparse(xml_file, events=("start", "end")):
     if event == 'end' and elem.tag.endswith('metabolite'):
         output = {"_id": None,
                   "name": None,
-                  "chebi_id": None,
+                  "xrefs": {},
                   "associated_microbes": [],
                   "associated_pathways": [],
                   "associated_diseases": [],
                   "associated_proteins": []}
         for metabolite in elem:
             tname = strip_tag_namespace(metabolite.tag)
-            tname_list = ["accession", "name", "chebi_id", "pubchem_compound_id",
-                          "chemical_formula", "chemspider_id", "drugbank_id",
-                          "foodb_id", "kegg_id", "bigg_id"]
+            # TODO: add name, description, status, state, chemical_formula
+            tname_list = ["chebi_id", "pubchem_compound_id", "chemspider_id", "drugbank_id",
+                          "foodb_id", "kegg_id", "bigg_id", "smiles", "inchikey", "pdb_id"]
             if tname == "accession":
                 if metabolite.text:
                     output["_id"] = metabolite.text
             elif tname in tname_list:
                 if metabolite.text:
-                    output[tname] = metabolite.text
+                    xref_ids = {tname: metabolite.text}
+                    output["xrefs"].update(xref_ids)
             elif tname == "ontology":
                 for descendant in metabolite.iter("{http://www.hmdb.ca}descendant"):
                     term = descendant.findall("{http://www.hmdb.ca}term")
