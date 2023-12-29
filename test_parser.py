@@ -6,8 +6,13 @@ import pickle
 from collections.abc import Iterator
 from collections import defaultdict
 
+xml_path = "/Users/bailinzhang/Documents/Wu_Lab/Projects/HMDB_data"
+xml_name = "metabolites_19014.xml"
+# xml_name = "hmdb_metabolites.xml"
+xml_file = os.path.join(xml_path, xml_name)
+
 """
-# Too slow, not idea for big files
+# Too slow, not ideal for big files
 tree = ET.parse("metabolites_microbe_example.xml")
 root = tree.getroot()
 
@@ -66,9 +71,8 @@ for child in root:
                                 output["hmdb"]["associated_microbe"] = microbe
 
 print(output)
-"""
 
-"""
+'''
 output:
 {
     "_id":"17066",
@@ -84,6 +88,7 @@ output:
         "associated_microbe":"Alcaligenes eutrophus" # Need to read paper to figure out the edge info
     }
 }
+'''
 """
 
 # The difficulty of processing this data is that there are a lot of same element tags for different biological entities
@@ -99,12 +104,6 @@ def strip_tag_namespace(tag) -> str:
     if idx != -1:  # if idx is not "not found"
         tag = tag[idx + 1:]
     return tag
-
-
-xml_path = "/Users/bailinzhang/Documents/Wu_Lab/Projects/HMDB_data"
-# xml_name = "metabolites_19014.xml"
-xml_name = "hmdb_metabolites.xml"
-xml_file = os.path.join(xml_path, xml_name)
 
 
 '''
@@ -136,32 +135,26 @@ def remove_duplicate_microbe(microbe_list) -> list:
     return unique_microbes_l
 
 
-# Need different way to extract the info, does not need to be divided up by "metabolite" tags
 def get_all_microbe_names(input_xml) -> str:
-    for event, elem in ET.iterparse(input_xml, events=("start", "end")):
-        if event == 'end' and elem.tag.endswith('metabolite'):
-            for metabolite in elem:
-                tagname = strip_tag_namespace(metabolite.tag)
-                if tagname == "ontology":
-                    for descendant in metabolite.iter("{http://www.hmdb.ca}descendant"):
-                        term = descendant.findall("{http://www.hmdb.ca}term")
-                        if term and term[0].text == "Microbe":
-                            microbe_descendants = descendant.findall(".//{http://www.hmdb.ca}term")
-                            for microbe_name in microbe_descendants[1:]:
-                                # microbes_l.append(microbe_name.text)
-                                yield microbe_name.text
-                                # print(microbe_name.text)yield set(microbes_l)
+    if not os.path.exists("hmdb_mapped_taxon.pkl"):
+        for event, elem in ET.iterparse(input_xml, events=("start", "end")):
+            if event == 'end' and elem.tag.endswith('metabolite'):
+                for metabolite in elem:
+                    tagname = strip_tag_namespace(metabolite.tag)
+                    if tagname == "ontology":
+                        for descendant in metabolite.iter("{http://www.hmdb.ca}descendant"):
+                            term = descendant.findall("{http://www.hmdb.ca}term")
+                            if term and term[0].text == "Microbe":
+                                microbe_descendants = descendant.findall(".//{http://www.hmdb.ca}term")
+                                for microbe_name in microbe_descendants[1:]:
+                                    # microbes_l.append(microbe_name.text)
+                                    yield microbe_name.text
+                                    # print(microbe_name.text)yield set(microbes_l)
 
 
 def get_taxon_info(microbial_names):
-    """retrieve ncbi taxonomy information from biothings_client
-    taxonomy information includes "scientific_name", "parent_taxid", "lineage", and "rank"
-
-    :param microbial_names: a set of ncbi taxon ids obtained from Disbiome Experiment database "organism_ncbi_id"
-    :return: a dictionary with query _ids (taxids) as the keys and taxonomy fields with the query _id as values
-    """
     t = biothings_client.get_client("taxon")
-    if os.path.isfile("hmdb_mapped_taxon.pkl") is False:
+    if not os.path.exists("hmdb_mapped_taxon.pkl"):
         taxon_info = t.querymany(microbial_names,
                                  scopes="scientific_name",
                                  fields=["_id", "scientific_name", "lineage", "parent_taxid", "rank"])
@@ -171,21 +164,22 @@ def get_taxon_info(microbial_names):
         taxon_d = defaultdict(list)
         for d in taxon_info:
             if "notfound" not in d:
-                if d["rank"] != "subgenus":
+                if 2 in d["lineage"] and d["rank"] != "subgenus":
                     taxon_d[d["query"]].append((d["_score"]))
 
-        max_score = [(k, max(v)) for k, v in taxon_d.items()]
+        # Take the highest score associated with the query microbial name
+        max_score = dict([(name, max(score)) for name, score in taxon_d.items()])
+        # print(max_score)
 
         for d in taxon_info:
-            for s in max_score:
-                if d["query"] in s[0] and d["_score"] == s[1]:
-                    unique_taxon_d[d["query"]] = {
-                        "taxid": d["_id"],
-                        "scientific_name": d["scientific_name"],
-                        "lineage": d["lineage"],
-                        "parent_taxid": d["parent_taxid"],
-                        "rank": d["rank"]
-                    }
+            if d["query"] in max_score and d["_score"] == max_score[d["query"]]:
+                unique_taxon_d[d["query"]] = {
+                    "taxid": d["_id"],
+                    "scientific_name": d["scientific_name"],
+                    "lineage": d["lineage"],
+                    "parent_taxid": d["parent_taxid"],
+                    "rank": d["rank"]
+                }
         # print(unique_taxon_d)
         yield unique_taxon_d
 
@@ -209,6 +203,7 @@ def save_mapped_taxon_to_pkl(output_pkl):
         pass
 
 
+"""
 mapped_taxon = save_mapped_taxon_to_pkl("hmdb_mapped_taxon.pkl")
 
 
@@ -217,23 +212,26 @@ with open("hmdb_mapped_taxon.pkl", "rb") as handle:
     print(taxon)
 
 
-# taxon_l = ["Sphingomonas natatoria", "Pediococcus", "pediococcus parvulus"]
-# taxon = get_taxon_info(["Sphingomonas natatoria", "Pediococcus", "pediococcus parvulus"])
-# for taxon_d in taxon:
-#     print(taxon_d)
+taxon_l = ["Enterococcus", "Escherichia coli"]
+test = get_taxon_info(taxon_l)
+for microbe in test:
+    print(microbe)
 
 
-end_time = time.time()
-total_time = end_time - start_time
-print(f"The process takes {total_time} sec.")
 
+microbes = get_all_microbe_names(xml_file)
+for microbe in microbes:
+    taxon = get_taxon_info(microbe)
+    for taxon_d in taxon:
+        print(taxon_d)
+"""
 
-'''
 for event, elem in ET.iterparse(xml_file, events=("start", "end")):
     if event == 'end' and elem.tag.endswith('metabolite'):
         output = {"_id": None,
                   "name": None,
                   "chebi_id": None,
+                  "associated_microbes": [],
                   "associated_pathways": [],
                   "associated_diseases": [],
                   "associated_proteins": []}
@@ -256,7 +254,11 @@ for event, elem in ET.iterparse(xml_file, events=("start", "end")):
                         # The output of microbe_descendants = ['Microbe', 'Alcaligenes', 'Alcaligenes eutrophus']
                         microbe_names = [microbe.text for microbe in microbe_descendants[1:]]
                         unique_microbes = remove_duplicate_microbe(microbe_names)
-                        output["associated_microbes"] = unique_microbes
+                        with open("hmdb_mapped_taxon.pkl", "rb") as handle:
+                            taxon = pickle.load(handle)
+                            for microbe in unique_microbes:
+                                if microbe in taxon:
+                                    output[microbe] = output["associated_microbes"].append(taxon[microbe])
             elif tname == "biological_properties":
                 for child in metabolite.iter("{http://www.hmdb.ca}biological_properties"):
                     biospec_loc = child.find("{http://www.hmdb.ca}biospecimen_locations")
@@ -292,5 +294,8 @@ for event, elem in ET.iterparse(xml_file, events=("start", "end")):
         output["associated_diseases"] = remove_empty_values(output["associated_diseases"])
         output["associated_proteins"] = remove_empty_values(output["associated_proteins"])
         output = {k: v for k, v in output.items() if v}
-        #print(output)
-'''
+        print(output)
+
+end_time = time.time()
+total_time = end_time - start_time
+print(f"The process takes {total_time} sec.")
