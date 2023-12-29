@@ -2,6 +2,110 @@ from pathlib import Path
 import os
 import zipfile
 import xml.etree.ElementTree as ET
+import pickle
+import biothings_client
+from collections import defaultdict
+
+
+def strip_tag_namespace(tag) -> str:
+    idx = tag.rfind("}")
+    # rfind() method "not found" == -1
+    if idx != -1:  # if idx is not "not found"
+        tag = tag[idx + 1:]
+    return tag
+
+
+def get_all_microbe_names(input_xml) -> str:
+    if not os.path.exists("hmdb_mapped_taxon.pkl"):
+        for event, elem in ET.iterparse(input_xml, events=("start", "end")):
+            if event == 'end' and elem.tag.endswith('metabolite'):
+                for metabolite in elem:
+                    tagname = strip_tag_namespace(metabolite.tag)
+                    if tagname == "ontology":
+                        for descendant in metabolite.iter("{http://www.hmdb.ca}descendant"):
+                            term = descendant.findall("{http://www.hmdb.ca}term")
+                            if term and term[0].text == "Microbe":
+                                microbe_descendants = descendant.findall(".//{http://www.hmdb.ca}term")
+                                for microbe_name in microbe_descendants[1:]:
+                                    # microbes_l.append(microbe_name.text)
+                                    yield microbe_name.text
+                                    # print(microbe_name.text) yield set(microbes_l)
+
+
+def get_taxon_info(microbial_names):
+    t = biothings_client.get_client("taxon")
+    if not os.path.exists("hmdb_mapped_taxon.pkl"):
+        taxon_info = t.querymany(microbial_names,
+                                 scopes="scientific_name",
+                                 fields=["_id", "scientific_name", "lineage", "parent_taxid", "rank"])
+        # print(taxon_info)
+
+        unique_taxon_d = {}
+        taxon_d = defaultdict(list)
+        for d in taxon_info:
+            if "notfound" not in d:
+                # taxid 2 is bacteria super kingdom on ncbi taxon browser
+                if 2 in d["lineage"] and d["rank"] != "subgenus":
+                    taxon_d[d["query"]].append((d["_score"]))
+
+        # Take the highest score associated with the query microbial name
+        max_score = dict([(name, max(score)) for name, score in taxon_d.items()])
+        # print(max_score)
+
+        for d in taxon_info:
+            if d["query"] in max_score and d["_score"] == max_score[d["query"]]:
+                unique_taxon_d[d["query"]] = {
+                    "taxid": d["_id"],
+                    "scientific_name": d["scientific_name"],
+                    "lineage": d["lineage"],
+                    "parent_taxid": d["parent_taxid"],
+                    "rank": d["rank"]
+                }
+        # print(unique_taxon_d)
+        yield unique_taxon_d
+
+
+def save_mapped_taxon_to_pkl(input_xml, output_pkl):
+    microbes_l = []
+    microbes = get_all_microbe_names(input_xml)
+    for microbe in microbes:
+        microbes_l.append(microbe)
+
+    unique_microbes = set(microbes_l)
+    taxon = get_taxon_info(unique_microbes)
+
+    check_pkl_file = os.path.exists(output_pkl)
+    if not check_pkl_file:
+        for taxon_d in taxon:
+            with open(output_pkl, "wb") as handle:
+                pickle.dump(taxon_d, handle, protocol=pickle.HIGHEST_PROTOCOL)
+                return output_pkl
+    else:
+        pass
+
+
+def remove_empty_values(new_association_list) -> list:
+    filtered_association = []
+    if new_association_list:
+        for d in new_association_list:
+            if any(d.values()):
+                filtered_association.append({k: v for k, v in d.items() if v})
+        new_association_list = filtered_association
+        return new_association_list
+
+
+def remove_duplicate_microbe(microbe_list) -> list:
+    unique_microbes_l = []
+    for microbe in microbe_list:
+        is_unique = True
+        for other_microbe in microbe_list:
+            if microbe != other_microbe and microbe in other_microbe:
+                is_unique = False
+                break
+        if is_unique:
+            unique_microbes_l.append(microbe)
+    return unique_microbes_l
+
 
 path = Path.cwd()
 file_path = os.path.join(path, "hmdb_metabolites.zip")
