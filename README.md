@@ -74,13 +74,13 @@ Current output:
          "rank":"species"
       },
       {
-         "scientific_name":"Clostridium difficile"
+         "scientific_name":"clostridium difficile"
       },
       {
-         "scientific_name":"Clostridium lituseburense"
+         "scientific_name":"clostridium lituseburense"
       },
       {
-         "scientific_name":"Clostridium propionicum"
+         "scientific_name":"clostridium propionicum"
       },
       {
          "taxid":"99675",
@@ -101,7 +101,7 @@ Current output:
          "rank":"species"
       },
       {
-         "scientific_name":"Clostridium stricklandii"
+         "scientific_name":"clostridium stricklandii"
       },
       {
          "taxid":"1550",
