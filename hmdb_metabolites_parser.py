@@ -297,7 +297,7 @@ def load_hmdb_data() -> Iterator[dict]:
                                 output["average_mw"] = metabolite.text
                         elif tname == "monisotopic_molecular_weight":
                             if metabolite.text:
-                                output["monisotopic_mw"] = metabolite.text
+                                output["monoisotopic_mw"] = metabolite.text
                         elif tname == "ontology":
                             for descendant in metabolite.iter("{http://www.hmdb.ca}descendant"):
                                 term = descendant.findall("{http://www.hmdb.ca}term")
