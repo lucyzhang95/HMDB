@@ -367,11 +367,11 @@ Current output:
    "monoisotopic_mw":"152.047344122",
    "state":"Solid",
    "sample_name":[
-      "Blood",
-      "Cerebrospinal Fluid (CSF)",
-      "Feces",
-      "Saliva",
-      "Urine"
+      "blood",
+      "cerebrospinal fluid (csf)",
+      "feces",
+      "saliva",
+      "urine"
    ]
 }
 ```
