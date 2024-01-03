@@ -366,7 +366,7 @@ Current output:
    "average_mw":"152.1473",
    "monoisotopic_mw":"152.047344122",
    "state":"Solid",
-   "sample_name":[
+   "biospecimen_samples":[
       "blood",
       "cerebrospinal fluid (csf)",
       "feces",
