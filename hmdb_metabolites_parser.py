@@ -11,8 +11,6 @@ from pathlib import Path
 
 import biothings_client
 
-# start_time = time.time()
-
 
 def strip_tag_namespace(tag: str) -> str:
     """Strip namespace from main element tag
@@ -386,13 +384,3 @@ def load_hmdb_data() -> Iterator[dict]:
                     replace_dict_keys(output, "bigg", "bigg_id")
                     replace_dict_keys(output, "pdb", "pdb_id")
                     yield output
-
-
-data = load_hmdb_data()
-for obj in data:
-    if "associated_microbes" in obj:
-        print(obj)
-
-# end_time = time.time()
-# total_time = end_time - start_time
-# print(f"The process takes {total_time} sec.")
