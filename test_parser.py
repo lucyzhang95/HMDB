@@ -106,12 +106,6 @@ def strip_tag_namespace(tag) -> str:
     return tag
 
 
-'''
-microbe_list = ['Alcaligenes', 'Clostridium neopropionicum']
-taxon = get_taxon_info(microbe_list)
-'''
-
-
 def remove_empty_values(new_association_list) -> list:
     filtered_association = []
     if new_association_list:
@@ -203,6 +197,12 @@ def save_mapped_taxon_to_pkl(output_pkl):
         pass
 
 
+def replace_dict_keys(d, new_k, old_k):
+    if "xrefs" in d and old_k in d["xrefs"]:
+        d["xrefs"][new_k] = d["xrefs"].get(old_k)
+        del d["xrefs"][old_k]
+
+
 """
 mapped_taxon = save_mapped_taxon_to_pkl("hmdb_mapped_taxon.pkl")
 
@@ -224,12 +224,14 @@ for microbe in microbes:
     taxon = get_taxon_info(microbe)
     for taxon_d in taxon:
         print(taxon_d)
-"""
+
 
 for event, elem in ET.iterparse(xml_file, events=("start", "end")):
     if event == 'end' and elem.tag.endswith('metabolite'):
         output = {"_id": None,
                   "name": None,
+                  "chemical_formula": None,
+                  "description": None,
                   "xrefs": {},
                   "associated_microbes": [],
                   "associated_pathways": [],
@@ -238,15 +240,37 @@ for event, elem in ET.iterparse(xml_file, events=("start", "end")):
         for metabolite in elem:
             tname = strip_tag_namespace(metabolite.tag)
             # TODO: add name, description, status, state, chemical_formula
-            tname_list = ["chebi_id", "pubchem_compound_id", "chemspider_id", "drugbank_id",
+            tname_list = ["chebi_id", "chemspider_id", "drugbank_id",
                           "foodb_id", "kegg_id", "bigg_id", "smiles", "inchikey", "pdb_id"]
             if tname == "accession":
                 if metabolite.text:
                     output["_id"] = metabolite.text
+            elif tname == "name":
+                if metabolite.text:
+                    output["name"] = metabolite.text
             elif tname in tname_list:
                 if metabolite.text:
-                    xref_ids = {tname: metabolite.text}
+                    if "_id" in tname:
+                        prefix = tname.replace("_id", "").upper()
+                        xref_ids = {tname: f"{prefix}:{metabolite.text}"}
+                    else:
+                        xref_ids = {tname: metabolite.text}
                     output["xrefs"].update(xref_ids)
+            elif tname == "pubchem_compound_id":
+                if metabolite.text:
+                    output["xrefs"].update({"pubchem_cid": f"PUBCHEM_CID:{metabolite.text}"})
+            elif tname == "status":
+                if metabolite.text:
+                    output["status"] = metabolite.text
+            elif tname == "description":
+                if metabolite.text:
+                    output["description"] = metabolite.text
+            elif tname == "state":
+                if metabolite.text:
+                    output["state"] = metabolite.text
+            elif tname == "chemical_formula":
+                if metabolite.text:
+                    output["chemical_formula"] = metabolite.text
             elif tname == "ontology":
                 for descendant in metabolite.iter("{http://www.hmdb.ca}descendant"):
                     term = descendant.findall("{http://www.hmdb.ca}term")
@@ -260,6 +284,8 @@ for event, elem in ET.iterparse(xml_file, events=("start", "end")):
                             for microbe in unique_microbes:
                                 if microbe in taxon:
                                     output[microbe] = output["associated_microbes"].append(taxon[microbe])
+                                else:
+                                    output[microbe] = output["associated_microbes"].append(unique_microbes)
             elif tname == "biological_properties":
                 for child in metabolite.iter("{http://www.hmdb.ca}biological_properties"):
                     biospec_loc = child.find("{http://www.hmdb.ca}biospecimen_locations")
@@ -295,8 +321,16 @@ for event, elem in ET.iterparse(xml_file, events=("start", "end")):
         output["associated_diseases"] = remove_empty_values(output["associated_diseases"])
         output["associated_proteins"] = remove_empty_values(output["associated_proteins"])
         output = {k: v for k, v in output.items() if v}
+        replace_dict_keys(output, "chebi", "chebi_id")
+        replace_dict_keys(output, "kegg", "kegg_id")
+        replace_dict_keys(output, "chemspider", "chemspider_id")
+        replace_dict_keys(output, "drugbank", "drugbank_id")
+        replace_dict_keys(output, "foodb", "foodb_id")
+        replace_dict_keys(output, "bigg", "bigg_id")
+        replace_dict_keys(output, "pdb", "pdb_id")
         print(output)
 
 end_time = time.time()
 total_time = end_time - start_time
 print(f"The process takes {total_time} sec.")
+"""
