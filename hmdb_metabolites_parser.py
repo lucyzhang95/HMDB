@@ -329,7 +329,7 @@ def load_hmdb_data() -> Iterator[dict]:
                                     "{http://www.hmdb.ca}biospecimen_locations"
                                 )
                                 if biospec_loc:
-                                    specimens = [specimen.text for specimen in biospec_loc]
+                                    specimens = [specimen.text.lower() for specimen in biospec_loc]
                                     output["sample_name"] = specimens
 
                                 pathways = child.find("{http://www.hmdb.ca}pathways")
