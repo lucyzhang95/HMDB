@@ -4,10 +4,58 @@ Parser for HMDB database
 Current output:
 ```ruby
 {
-   "_id":"HMDB0002303",
-   "name":"Dimethylsulfide",
-   "chebi_id":"17437",
+   "_id":"HMDB0000577",
+   "name":"5beta-Coprostanol",
+   "chemical_formula":"C27H48O",
+   "description":"Coprosterol or coprostanol is a cholesterol derivative found in human feces, gallstones, eggs, and other biological matter. Coprosterol is the odorous principle of feces. It is formed from the biohydrogenation of cholesterol (cholest-5en-3&#946;-ol) in the gut of most higher animals and birds. This compound has frequently been used as a biomarker for the presence of human faecal matter in the environment. American physician Austin Flint named it stercorin (Wikipedia). The transformation of cholesterol into coprosterol in its passage through the body involves a reduction of the C5:C6 double bond, and a transition from the allocholanic- to the cholanic-ring system. Although it is established that the bacterial flora of the intestine is concerned in the reduction process, the mechanism by which the stereochemical change is brought about is unknown. Current data suggests that cholestenone and coprostanone, and not cholesterol itself, are the immediate precursors of coprosterol which is formed from them in the intestine by bacterial reduction. Coprosterol is also a microbial metabolite, it can be produced by Lactobacillus (PMID: 20338415).",
+   "xrefs":{
+      "smiles":"[H][C@@]1(CC[C@@]2([H])[C@]3([H])CC[C@]4([H])C[C@@H](O)CC[C@]4(C)[C@@]3([H])CC[C@]12C)[C@H](C)CCCC(C)C",
+      "inchikey":"QYIXCDOBOSTCEI-NWKZBHTNSA-N",
+      "pubchem_cid":"PUBCHEM_CID:221122",
+      "chebi":"CHEBI:89519",
+      "chemspider":"CHEMSPIDER:191826",
+      "foodb":"FOODB:FDB022125"
+   },
+   "associated_microbes":[
+      {
+         "taxid":"1578",
+         "scientific_name":"lactobacillus",
+         "lineage":[
+            1578,
+            33958,
+            186826,
+            91061,
+            1239,
+            1783272,
+            2,
+            131567,
+            1
+         ],
+         "parent_taxid":33958,
+         "rank":"genus"
+      }
+   ],
    "associated_diseases":[
+      {
+         "name":"Colorectal cancer",
+         "omim":"114500",
+         "pmid":[
+            "7482520",
+            "22148915",
+            "19006102",
+            "23940645",
+            "24424155",
+            "20156336",
+            "19678709",
+            "25105552",
+            "21773981",
+            "25037050",
+            "27015276",
+            "27107423",
+            "27275383",
+            "28587349"
+         ]
+      },
       {
          "name":"Crohn's disease",
          "omim":"266600",
@@ -28,12 +76,6 @@ Current output:
          ]
       },
       {
-         "name":"Dimethyl sulfide poisoning",
-         "pmid":[
-            "1874893"
-         ]
-      },
-      {
          "name":"Ulcerative colitis",
          "pmid":[
             "21059682",
@@ -50,38 +92,12 @@ Current output:
             "27609529",
             "28842642"
          ]
-      },
-      {
-         "name":"Nonalcoholic fatty liver disease",
-         "pmid":[
-            "23454028"
-         ]
       }
    ],
-   "associated_proteins":[
-      {
-         "name":"Indolethylamine N-methyltransferase",
-         "uniprotkb":"O95050"
-      }
-   ],
-   "chemical_formula":"C2H6S",
-   "associated_microbes":[
-      "Cyanothece",
-      "Rhizobiaceae",
-      "Rhizobium leguminosarum",
-      "Pseudomonas deceptionensis",
-      "Bradyrhizobium diazoefficiens",
-      "Escherichia coli"
-   ],
+   "status":"detected",
+   "state":"Solid",
    "sample_name":[
-      "Blood",
-      "Cerebrospinal Fluid (CSF)",
-      "Feces",
-      "Urine"
-   ],
-   "kegg_id":"C00580",
-   "foodb_id":"FDB003591",
-   "pubchem_compound_id":"1068",
-   "chemspider_id":"1039"
+      "Feces"
+   ]
 }
 ```
