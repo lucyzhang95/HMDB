@@ -364,7 +364,7 @@ Current output:
    ],
    "status":"quantified",
    "average_mw":"152.1473",
-   "monisotopic_mw":"152.047344122",
+   "monoisotopic_mw":"152.047344122",
    "state":"Solid",
    "sample_name":[
       "Blood",
