@@ -320,7 +320,7 @@ def load_hmdb_data() -> Iterator[dict]:
                                             else:
                                                 output[microbe] = output[
                                                     "associated_microbes"
-                                                ].append({"scientific_name": microbe})
+                                                ].append({"scientific_name": microbe.lower()})
                         elif tname == "biological_properties":
                             for child in metabolite.iter(
                                 "{http://www.hmdb.ca}biological_properties"
