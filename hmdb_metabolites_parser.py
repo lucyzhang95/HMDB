@@ -1,6 +1,7 @@
 import os
 import pathlib
 import pickle
+import typing
 
 # import time
 import xml.etree.ElementTree as ET
@@ -126,7 +127,7 @@ def get_taxon_info(microbial_names: set) -> dict:
         for d in taxon_info:
             if d["query"] in max_score and d["_score"] == max_score[d["query"]]:
                 unique_taxon_d[d["query"]] = {
-                    "taxid": d["_id"],
+                    "taxid": int(d["_id"]),
                     "scientific_name": d["scientific_name"],
                     "lineage": d["lineage"],
                     "parent_taxid": d["parent_taxid"],
@@ -136,7 +137,7 @@ def get_taxon_info(microbial_names: set) -> dict:
         yield unique_taxon_d
 
 
-def save_mapped_taxon_to_pkl(input_xml: str | pathlib.Path, output_pkl: str | pathlib.Path):
+def save_mapped_taxon_to_pkl(input_xml, output_pkl: str | Path):
     """save the mapped microbial ncbi taxon info to pickle file
 
     :param input_xml: hmdb_metabolites.xml
@@ -233,6 +234,7 @@ def load_hmdb_data() -> Iterator[dict]:
 
     with zipfile.ZipFile(file_path, "r") as zip_f:
         with zip_f.open(file_name) as xml_f:
+            save_mapped_taxon_to_pkl(xml_f, "hmdb_mapped_taxon.pkl")
             for event, elem in ET.iterparse(xml_f, events=("start", "end")):
                 if event == "end" and elem.tag.endswith("metabolite"):
                     output = {
@@ -253,11 +255,9 @@ def load_hmdb_data() -> Iterator[dict]:
                             "chemspider_id",
                             "drugbank_id",
                             "foodb_id",
-                            "kegg_id",
-                            "bigg_id",
                             "smiles",
                             "inchikey",
-                            "pdb_id",
+                            "pdb_id"
                         ]
                         if tname == "accession":
                             if metabolite.text:
@@ -276,8 +276,11 @@ def load_hmdb_data() -> Iterator[dict]:
                         elif tname == "pubchem_compound_id":
                             if metabolite.text:
                                 output["xrefs"].update(
-                                    {"pubchem_cid": f"PUBCHEM_CID:{metabolite.text}"}
+                                    {"pubchem_cid": f"PUBCHEM.COMPOUND:{int(metabolite.text)}"}
                                 )
+                        elif tname == "kegg_id":
+                            if metabolite.text:
+                                output["xrefs"].update({"kegg": f"KEGG.COMPOUND:{metabolite.text}"})
                         elif tname == "status":
                             if metabolite.text:
                                 output["status"] = metabolite.text
@@ -286,16 +289,16 @@ def load_hmdb_data() -> Iterator[dict]:
                                 output["description"] = metabolite.text
                         elif tname == "state":
                             if metabolite.text:
-                                output["state"] = metabolite.text
+                                output["state"] = metabolite.text.lower()
                         elif tname == "chemical_formula":
                             if metabolite.text:
                                 output["chemical_formula"] = metabolite.text
                         elif tname == "average_molecular_weight":
                             if metabolite.text:
-                                output["average_mw"] = metabolite.text
+                                output["average_mw"] = float(metabolite.text)
                         elif tname == "monisotopic_molecular_weight":
                             if metabolite.text:
-                                output["monoisotopic_mw"] = metabolite.text
+                                output["monoisotopic_mw"] = float(metabolite.text)
                         elif tname == "ontology":
                             for descendant in metabolite.iter("{http://www.hmdb.ca}descendant"):
                                 term = descendant.findall("{http://www.hmdb.ca}term")
@@ -348,12 +351,12 @@ def load_hmdb_data() -> Iterator[dict]:
                                 if diseases:
                                     disease_dict = {
                                         "name": diseases.findtext("{http://www.hmdb.ca}name"),
-                                        "omim": diseases.findtext("{http://www.hmdb.ca}omim_id"),
+                                        "omim": f"OMIM:{diseases.findtext('{http://www.hmdb.ca}omim_id')}",
                                         "pmid": [],
                                     }
                                     for ref in diseases.findall(".//{http://www.hmdb.ca}pubmed_id"):
                                         if ref.text:
-                                            disease_dict["pmid"].append(ref.text)
+                                            disease_dict["pmid"].append(int(ref.text))
                                     output["associated_diseases"].append(disease_dict)
                         elif tname == "protein_associations":
                             for proteins in metabolite.iter("{http://www.hmdb.ca}protein"):
