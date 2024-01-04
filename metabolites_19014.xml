@@ -8044,44 +8044,6 @@
                   </synonyms>
                   <descendants>
                     <descendant>
-                      <term>Escherichia</term>
-                      <definition/>
-                      <parent_id>7739</parent_id>
-                      <level>5</level>
-                      <type>parent</type>
-                      <synonyms>
-                      </synonyms>
-                      <descendants>
-                        <descendant>
-                          <term>Escherichia coli</term>
-                          <definition/>
-                          <parent_id>11296</parent_id>
-                          <level>6</level>
-                          <type>child</type>
-                          <synonyms>
-                          </synonyms>
-                        </descendant>
-                      </descendants>
-                    </descendant>
-                    <descendant>
-                      <term>Enterococcus</term>
-                      <definition/>
-                      <parent_id>7739</parent_id>
-                      <level>5</level>
-                      <type>child</type>
-                      <synonyms>
-                      </synonyms>
-                    </descendant>
-                    <descendant>
-                      <term>Streptococcus</term>
-                      <definition/>
-                      <parent_id>7739</parent_id>
-                      <level>5</level>
-                      <type>child</type>
-                      <synonyms>
-                      </synonyms>
-                    </descendant>
-                    <descendant>
                       <term>Alcaligenes</term>
                       <definition/>
                       <parent_id>7739</parent_id>
