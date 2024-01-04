@@ -1,7 +1,6 @@
 import os
 import pathlib
 import pickle
-import typing
 
 # import time
 import xml.etree.ElementTree as ET
@@ -257,7 +256,7 @@ def load_hmdb_data() -> Iterator[dict]:
                             "foodb_id",
                             "smiles",
                             "inchikey",
-                            "pdb_id"
+                            "pdb_id",
                         ]
                         if tname == "accession":
                             if metabolite.text:
