@@ -349,10 +349,13 @@ def load_hmdb_data() -> Iterator[dict]:
                             for diseases in metabolite.iter("{http://www.hmdb.ca}disease"):
                                 if diseases:
                                     disease_dict = {
-                                        "name": diseases.findtext("{http://www.hmdb.ca}name"),
-                                        "omim": f"OMIM:{diseases.findtext('{http://www.hmdb.ca}omim_id')}",
-                                        "pmid": [],
+                                        "name": diseases.findtext("{http://www.hmdb.ca}name")
                                     }
+                                    if diseases.findtext("{http://www.hmdb.ca}omim_id"):
+                                        disease_dict[
+                                            "omim"
+                                        ] = f"OMIM:{diseases.findtext('{http://www.hmdb.ca}omim_id')}"
+                                    disease_dict["pmid"] = []
                                     for ref in diseases.findall(".//{http://www.hmdb.ca}pubmed_id"):
                                         if ref.text:
                                             disease_dict["pmid"].append(int(ref.text))
@@ -379,10 +382,8 @@ def load_hmdb_data() -> Iterator[dict]:
                     )
                     output = {k: v for k, v in output.items() if v}
                     replace_dict_keys(output, "chebi", "chebi_id")
-                    replace_dict_keys(output, "kegg", "kegg_id")
                     replace_dict_keys(output, "chemspider", "chemspider_id")
                     replace_dict_keys(output, "drugbank", "drugbank_id")
                     replace_dict_keys(output, "foodb", "foodb_id")
-                    replace_dict_keys(output, "bigg", "bigg_id")
                     replace_dict_keys(output, "pdb", "pdb_id")
                     yield output
