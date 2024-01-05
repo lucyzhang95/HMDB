@@ -26,7 +26,7 @@ with open("hmdb_metabolites_output.pkl", "rb") as handle:
     microbes[col_to_convert] = microbes[col_to_convert].apply(convert_to_int)
     microbes["rank"] = microbes["rank"].replace('', pd.NA)
     microbes["scientific_name"] = microbes["scientific_name"].str.capitalize()
-    microbe_export = microbes.to_csv("hmdb_microbes.csv")
+    microbe_export = microbes.to_csv("hmdb_microbes.csv", index=False)
 
     for hmdb_d in data:
         for microbe_d in hmdb_d["associated_microbes"]:
@@ -47,6 +47,6 @@ with open("hmdb_metabolites_output.pkl", "rb") as handle:
 
 microbe_metabolites_df = pd.json_normalize(metabolite_microbe_pairs)
 microbe_metabolites_df[["taxid"]] = microbe_metabolites_df[["taxid"]].apply(convert_to_int)
-microbe_metabolites_df.to_csv("hmdb_microbe_metabolite.csv")
+microbe_metabolites_df.to_csv("hmdb_microbe_metabolite.csv", index=False)
 
 
