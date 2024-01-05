@@ -25,11 +25,12 @@ with open("hmdb_metabolites_output.pkl", "rb") as handle:
     col_to_convert = ["taxid", "parent_taxid"]
     microbes[col_to_convert] = microbes[col_to_convert].apply(convert_to_int)
     microbes["rank"] = microbes["rank"].replace('', pd.NA)
+    microbes["scientific_name"] = microbes["scientific_name"].str.capitalize()
     microbe_export = microbes.to_csv("hmdb_microbes.csv")
 
     for hmdb_d in data:
         for microbe_d in hmdb_d["associated_microbes"]:
-            metabolite_microbe_d = {"scientific_name": microbe_d["scientific_name"],
+            metabolite_microbe_d = {"scientific_name": microbe_d["scientific_name"].capitalize(),
                                     "name": hmdb_d["name"],
                                     "chemical_formula": hmdb_d["chemical_formula"],
                                     "smiles": hmdb_d["xrefs"]["smiles"],
