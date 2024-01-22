@@ -17,36 +17,45 @@ def convert_to_int(val):
     return pd.to_numeric(val, errors='coerce').astype('Int64')
 
 
-metabolite_microbe_pairs = []
-with open("hmdb_metabolites_output.pkl", "rb") as handle:
-    data = pickle.load(handle)
-    df = pd.json_normalize(data)
-    microbes = pd.json_normalize(df["associated_microbes"].explode())
-    col_to_convert = ["taxid", "parent_taxid"]
-    microbes[col_to_convert] = microbes[col_to_convert].apply(convert_to_int)
-    microbes["rank"] = microbes["rank"].replace('', pd.NA)
-    microbes["scientific_name"] = microbes["scientific_name"].str.capitalize()
-    microbe_export = microbes.to_csv("hmdb_microbes.csv", index=False)
+def get_node_pair(type_str: str, key: str, filter_keys: list) -> list:
+    output_pair = []
+    with open("hmdb_metabolites_output.pkl", "rb") as handle:
+        data = pickle.load(handle)
+        for hmdb_d in data:
+            if type_str in hmdb_d:
+                for type_d in hmdb_d[type_str]:
+                    pair_d = {"metabolite_name": hmdb_d["name"],
+                              "chemical_formula": hmdb_d["chemical_formula"],
+                              "smiles": hmdb_d["xrefs"]["smiles"],
+                              "inchikey": hmdb_d["xrefs"]["inchikey"],
+                              key: type_d[key]}
+                    for filter_key in filter_keys:
+                        if filter_key in type_d:
+                            pair_d[filter_key] = type_d[filter_key]
+                    output_pair.append(pair_d)
+    return output_pair
 
-    for hmdb_d in data:
-        for microbe_d in hmdb_d["associated_microbes"]:
-            metabolite_microbe_d = {"scientific_name": microbe_d["scientific_name"].capitalize(),
-                                    "name": hmdb_d["name"],
-                                    "chemical_formula": hmdb_d["chemical_formula"],
-                                    "smiles": hmdb_d["xrefs"]["smiles"],
-                                    "inchikey": hmdb_d["xrefs"]["inchikey"]}
-            if "taxid" in microbe_d:
-                metabolite_microbe_d["taxid"] = microbe_d["taxid"]
-            if "rank" in microbe_d:
-                metabolite_microbe_d["rank"] = microbe_d["rank"]
-            if "pubchem_cid" in hmdb_d["xrefs"]:
-                metabolite_microbe_d["pubchem_cid"] = hmdb_d["xrefs"]["pubchem_cid"]
-            if "monoisotopic_mw" in hmdb_d:
-                metabolite_microbe_d["monoisotopic_mw"] = hmdb_d["monoisotopic_mw"]
-            metabolite_microbe_pairs.append(metabolite_microbe_d)
 
-microbe_metabolites_df = pd.json_normalize(metabolite_microbe_pairs)
-microbe_metabolites_df[["taxid"]] = microbe_metabolites_df[["taxid"]].apply(convert_to_int)
-microbe_metabolites_df.to_csv("hmdb_microbe_metabolite.csv", index=False)
+microbe_metabolite = get_node_pair(type_str="associated_microbes", key="scientific_name", filter_keys=["taxid", "rank"])
+disease_metabolite = get_node_pair(type_str="associated_diseases", key="name", filter_keys=["omim"])
+pathway_metabolite = get_node_pair(type_str="associated_pathways", key="name", filter_keys=["smpdb_id", "kegg_map_id"])
+protein_metabolite = get_node_pair(type_str="associated_proteins", key="name", filter_keys=["uniprotkb"])
+# print(microbe_metabolite)
+print(f"microbe-metabolite: {len(microbe_metabolite)}")
+# print(disease_metabolite)
+print(f"disease-metabolite: {len(disease_metabolite)}")
+# print(pathway_metabolite)
+print(f"pathway-metabolite: {len(pathway_metabolite)}")
+# print(protein_metabolite)
+print(f"protein-metabolite: {len(protein_metabolite)}")
+
+
+
+
+
+
+# microbe_metabolites_df = pd.json_normalize(metabolite_microbe_pairs)
+# microbe_metabolites_df[["taxid"]] = microbe_metabolites_df[["taxid"]].apply(convert_to_int)
+# microbe_metabolites_df.to_csv("hmdb_microbe_metabolite.csv", index=False)
 
 
