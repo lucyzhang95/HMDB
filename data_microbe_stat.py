@@ -36,6 +36,14 @@ def get_node_pair(type_str: str, key: str, filter_keys: list) -> list:
     return output_pair
 
 
+def export_metabolite_pair_to_csv(input_pair_list, output_file, int_row):
+    df = pd.json_normalize(input_pair_list)
+    if int_row is not None:
+        df[[int_row]] = df[[int_row]].apply(convert_to_int)
+    df.to_csv(output_file, index=False)
+    return df
+
+
 microbe_metabolite = get_node_pair(type_str="associated_microbes", key="scientific_name", filter_keys=["taxid", "rank"])
 disease_metabolite = get_node_pair(type_str="associated_diseases", key="name", filter_keys=["omim"])
 pathway_metabolite = get_node_pair(type_str="associated_pathways", key="name", filter_keys=["smpdb_id", "kegg_map_id"])
@@ -49,13 +57,18 @@ print(f"pathway-metabolite: {len(pathway_metabolite)}")
 # print(protein_metabolite)
 print(f"protein-metabolite: {len(protein_metabolite)}")
 
+df_microbe_metabolite = export_metabolite_pair_to_csv(input_pair_list=microbe_metabolite,
+                                                      output_file="hmdb_microbe_metabolite.csv",
+                                                      int_row="taxid", )
+df_disease_metabolite = export_metabolite_pair_to_csv(input_pair_list=disease_metabolite,
+                                                      output_file="hmdb_disease_metabolite.csv",
+                                                      int_row=None)
+df_pathway_metabolite = export_metabolite_pair_to_csv(input_pair_list=pathway_metabolite,
+                                                      output_file="hmdb_pathway_metabolite.csv",
+                                                      int_row=None)
+df_protein_metabolite = export_metabolite_pair_to_csv(input_pair_list=protein_metabolite,
+                                                      output_file="hmdb_protein_metabolite.csv",
+                                                      int_row=None)
 
-
-
-
-
-# microbe_metabolites_df = pd.json_normalize(metabolite_microbe_pairs)
-# microbe_metabolites_df[["taxid"]] = microbe_metabolites_df[["taxid"]].apply(convert_to_int)
-# microbe_metabolites_df.to_csv("hmdb_microbe_metabolite.csv", index=False)
 
 
