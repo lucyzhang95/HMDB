@@ -3,6 +3,9 @@ import pandas as pd
 import pickle
 import os
 
+# Todo: How to write better code for checking the file and call the function to create file if not exist
+# Todo: What is good for visualization?
+
 
 def save_hmdb_microbe_data_to_pkl(output_file):
     if not os.path.exists(output_file):
