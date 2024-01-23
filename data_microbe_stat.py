@@ -1,16 +1,19 @@
-# from hmdb_metabolites_parser import load_hmdb_data
+from hmdb_metabolites_parser import load_hmdb_data
 import pandas as pd
 import pickle
+import os
 
 
-# all_data = []
-# data = load_hmdb_data()
-# for obj in data:
-#     print(obj)
-#     if "associated_microbes" in obj:
-#         all_data.append(obj)
-# with open("hmdb_metabolites_output.pkl", "wb") as handle:
-#     pickle.dump(all_data, handle, protocol=pickle.HIGHEST_PROTOCOL)
+def save_hmdb_microbe_data_to_pkl(output_file):
+    if not os.path.exists(output_file):
+        all_data = []
+        input_data = load_hmdb_data()
+        for obj in input_data:
+            # print(obj)
+            if "associated_microbes" in obj:
+                all_data.append(obj)
+        with open(output_file, "wb") as handle:
+            pickle.dump(all_data, handle, protocol=pickle.HIGHEST_PROTOCOL)
 
 
 def convert_to_int(val):
@@ -18,6 +21,7 @@ def convert_to_int(val):
 
 
 def get_node_pair(node_str: str, key: str, filter_keys: list | None) -> list:
+    save_hmdb_microbe_data_to_pkl("hmdb_metabolites_output.pkl")
     output_pair = []
     with open("hmdb_metabolites_output.pkl", "rb") as handle:
         data = pickle.load(handle)
