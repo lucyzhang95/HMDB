@@ -24,9 +24,10 @@ def convert_to_int(val):
 
 
 def get_node_pair(node_str: str, key: str, filter_keys: list | None) -> list:
-    save_hmdb_microbe_data_to_pkl("hmdb_metabolites_output.pkl")
+    # delete: save_hmdb_microbe_data_to_pkl("hmdb_metabolites_output.pkl")
     output_pair = []
-    with open("hmdb_metabolites_output.pkl", "rb") as handle:
+    with open("data/hmdb_metabolites_output.pkl", "rb") as handle:
+        # TODO: pass hmdb as a parameter, and do the process (Or another helper function uses hmdb, can make a class)
         data = pickle.load(handle)
         for hmdb_d in data:
             if node_str in hmdb_d:
@@ -81,20 +82,17 @@ print(f"protein-metabolite: {len(protein_metabolite)}")
 print(f"biospecimen-metabolite: {len(biospecimen_metabolite)}")
 
 df_microbe_metabolite = export_metabolite_pair_to_csv(input_pair_list=microbe_metabolite,
-                                                      output_file="hmdb_microbe_metabolite.csv",
+                                                      output_file="data/hmdb_microbe_metabolite.csv",
                                                       int_row="taxid", )
 df_disease_metabolite = export_metabolite_pair_to_csv(input_pair_list=disease_metabolite,
-                                                      output_file="hmdb_disease_metabolite.csv",
+                                                      output_file="data/hmdb_disease_metabolite.csv",
                                                       int_row=None)
 df_pathway_metabolite = export_metabolite_pair_to_csv(input_pair_list=pathway_metabolite,
-                                                      output_file="hmdb_pathway_metabolite.csv",
+                                                      output_file="data/hmdb_pathway_metabolite.csv",
                                                       int_row=None)
 df_protein_metabolite = export_metabolite_pair_to_csv(input_pair_list=protein_metabolite,
-                                                      output_file="hmdb_protein_metabolite.csv",
+                                                      output_file="data/hmdb_protein_metabolite.csv",
                                                       int_row=None)
 df_biospecimen_metabolite = export_metabolite_pair_to_csv(input_pair_list=biospecimen_metabolite,
-                                                          output_file="hmdb_biospecimen_metabolite.csv",
+                                                          output_file="data/hmdb_biospecimen_metabolite.csv",
                                                           int_row=None)
-
-
-
