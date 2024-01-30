@@ -65,7 +65,7 @@ def get_all_microbe_names(input_xml: str | pathlib.Path) -> Iterator[str]:
     :param input_xml: hmdb_metabolites.xml file
     :return: an iterator of strings of microbial names
     """
-    if not os.path.exists("hmdb_mapped_taxon.pkl"):
+    if not os.path.exists("data/hmdb_mapped_taxon.pkl"):
         for event, elem in ET.iterparse(input_xml, events=("start", "end")):
             if event == "end" and elem.tag.endswith("metabolite"):
                 for metabolite in elem:
@@ -97,7 +97,7 @@ def get_taxon_info(microbial_names: set) -> dict:
     :return: a dictionary contains all taxid and associated info
     """
     t = biothings_client.get_client("taxon")
-    if not os.path.exists("hmdb_mapped_taxon.pkl"):
+    if not os.path.exists("data/hmdb_mapped_taxon.pkl"):
         taxon_info = t.querymany(
             microbial_names,
             scopes="scientific_name",
@@ -228,12 +228,12 @@ def load_hmdb_data() -> Iterator[dict]:
     pathways, diseases, and proteins, state, status, anatomical locations
     """
     path = Path.cwd()
-    file_path = os.path.join(path, "hmdb_metabolites.zip")
-    file_name = "hmdb_metabolites.xml"
+    file_path = os.path.join(path, "source/hmdb_metabolites.zip")
+    file_name = "source/hmdb_metabolites.xml"
 
     with zipfile.ZipFile(file_path, "r") as zip_f:
         with zip_f.open(file_name) as xml_f:
-            save_mapped_taxon_to_pkl(xml_f, "hmdb_mapped_taxon.pkl")
+            save_mapped_taxon_to_pkl(xml_f, "data/hmdb_mapped_taxon.pkl")
             for event, elem in ET.iterparse(xml_f, events=("start", "end")):
                 if event == "end" and elem.tag.endswith("metabolite"):
                     output = {
@@ -310,7 +310,7 @@ def load_hmdb_data() -> Iterator[dict]:
                                         microbe.text for microbe in microbe_descendants[1:]
                                     ]
                                     unique_microbes = remove_duplicate_microbe(microbe_names)
-                                    with open("hmdb_mapped_taxon.pkl", "rb") as handle:
+                                    with open("data/hmdb_mapped_taxon.pkl", "rb") as handle:
                                         taxon = pickle.load(handle)
                                         for microbe in unique_microbes:
                                             if microbe in taxon:
