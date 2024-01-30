@@ -1,2 +1,7 @@
 venv
 .idea
+.DS_Store
+.flake8
+pyproject.toml
+hmdb_metabolites.xml
+hmdb_metabolites.zip
