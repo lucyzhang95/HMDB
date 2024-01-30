@@ -1,0 +1,853 @@
+metabolite_name,chemical_formula,smiles,inchikey,name,omim
+3-Hydroxybutyric acid,C4H8O3,C[C@@H](O)CC(O)=O,WHBMMWSBFZVSSR-GSVOUGTGSA-N,Diabetes mellitus type 2,OMIM:125853
+3-Hydroxybutyric acid,C4H8O3,C[C@@H](O)CC(O)=O,WHBMMWSBFZVSSR-GSVOUGTGSA-N,Obesity,OMIM:601665
+3-Hydroxybutyric acid,C4H8O3,C[C@@H](O)CC(O)=O,WHBMMWSBFZVSSR-GSVOUGTGSA-N,Pancreatic cancer,OMIM:260350
+3-Hydroxybutyric acid,C4H8O3,C[C@@H](O)CC(O)=O,WHBMMWSBFZVSSR-GSVOUGTGSA-N,Colorectal cancer,OMIM:114500
+3-Hydroxybutyric acid,C4H8O3,C[C@@H](O)CC(O)=O,WHBMMWSBFZVSSR-GSVOUGTGSA-N,Schizophrenia,OMIM:181500
+3-Hydroxybutyric acid,C4H8O3,C[C@@H](O)CC(O)=O,WHBMMWSBFZVSSR-GSVOUGTGSA-N,Early preeclampsia,
+3-Hydroxybutyric acid,C4H8O3,C[C@@H](O)CC(O)=O,WHBMMWSBFZVSSR-GSVOUGTGSA-N,Pregnancy,
+3-Hydroxybutyric acid,C4H8O3,C[C@@H](O)CC(O)=O,WHBMMWSBFZVSSR-GSVOUGTGSA-N,Late-onset preeclampsia,
+3-Hydroxybutyric acid,C4H8O3,C[C@@H](O)CC(O)=O,WHBMMWSBFZVSSR-GSVOUGTGSA-N,2-Ketoglutarate dehydrogenase complex deficiency,OMIM:203740
+3-Hydroxybutyric acid,C4H8O3,C[C@@H](O)CC(O)=O,WHBMMWSBFZVSSR-GSVOUGTGSA-N,3-Hydroxy-3-Methylglutaryl-CoA Synthase Deficiency,OMIM:605911
+3-Hydroxybutyric acid,C4H8O3,C[C@@H](O)CC(O)=O,WHBMMWSBFZVSSR-GSVOUGTGSA-N,3-Hydroxyacyl-CoA dehydrogenase deficiency,OMIM:231530
+3-Hydroxybutyric acid,C4H8O3,C[C@@H](O)CC(O)=O,WHBMMWSBFZVSSR-GSVOUGTGSA-N,Long-chain-3-hydroxyacyl CoA dehydrogenase deficiency,
+3-Hydroxybutyric acid,C4H8O3,C[C@@H](O)CC(O)=O,WHBMMWSBFZVSSR-GSVOUGTGSA-N,Short-chain L-3-hydroxyacyl-CoA dehydrogenase deficiency,
+3-Hydroxybutyric acid,C4H8O3,C[C@@H](O)CC(O)=O,WHBMMWSBFZVSSR-GSVOUGTGSA-N,Ketotic hypoglycemia,
+3-Hydroxybutyric acid,C4H8O3,C[C@@H](O)CC(O)=O,WHBMMWSBFZVSSR-GSVOUGTGSA-N,3-Hydroxy-3-methylglutaryl-CoA lyase deficiency,OMIM:246450
+3-Hydroxybutyric acid,C4H8O3,C[C@@H](O)CC(O)=O,WHBMMWSBFZVSSR-GSVOUGTGSA-N,"Adrenal hyperplasia, congenital, due to 3-beta-hydroxysteroid dehydrogenase 2 deficiency",OMIM:201810
+3-Hydroxybutyric acid,C4H8O3,C[C@@H](O)CC(O)=O,WHBMMWSBFZVSSR-GSVOUGTGSA-N,Pyruvate dehydrogenase phosphatase deficiency,OMIM:608782
+3-Hydroxybutyric acid,C4H8O3,C[C@@H](O)CC(O)=O,WHBMMWSBFZVSSR-GSVOUGTGSA-N,Carnitine palmitoyltransferase I deficiency,OMIM:255120
+3-Hydroxybutyric acid,C4H8O3,C[C@@H](O)CC(O)=O,WHBMMWSBFZVSSR-GSVOUGTGSA-N,Anoxia,
+3-Hydroxybutyric acid,C4H8O3,C[C@@H](O)CC(O)=O,WHBMMWSBFZVSSR-GSVOUGTGSA-N,Meningitis,
+3-Hydroxybutyric acid,C4H8O3,C[C@@H](O)CC(O)=O,WHBMMWSBFZVSSR-GSVOUGTGSA-N,Ulcerative colitis,
+3-Hydroxybutyric acid,C4H8O3,C[C@@H](O)CC(O)=O,WHBMMWSBFZVSSR-GSVOUGTGSA-N,Crohn's disease,OMIM:266600
+3-Hydroxybutyric acid,C4H8O3,C[C@@H](O)CC(O)=O,WHBMMWSBFZVSSR-GSVOUGTGSA-N,Alzheimer's disease,OMIM:104300
+3-Hydroxybutyric acid,C4H8O3,C[C@@H](O)CC(O)=O,WHBMMWSBFZVSSR-GSVOUGTGSA-N,Frontotemporal dementia,OMIM:600274
+3-Hydroxybutyric acid,C4H8O3,C[C@@H](O)CC(O)=O,WHBMMWSBFZVSSR-GSVOUGTGSA-N,Lewy body disease,
+3-Hydroxybutyric acid,C4H8O3,C[C@@H](O)CC(O)=O,WHBMMWSBFZVSSR-GSVOUGTGSA-N,Eosinophilic esophagitis,OMIM:610247
+3-Hydroxybutyric acid,C4H8O3,C[C@@H](O)CC(O)=O,WHBMMWSBFZVSSR-GSVOUGTGSA-N,Medium Chain Acyl-CoA Dehydrogenase Deficiency,OMIM:201450
+3-Hydroxybutyric acid,C4H8O3,C[C@@H](O)CC(O)=O,WHBMMWSBFZVSSR-GSVOUGTGSA-N,Fumarase deficiency,OMIM:606812
+3-Hydroxybutyric acid,C4H8O3,C[C@@H](O)CC(O)=O,WHBMMWSBFZVSSR-GSVOUGTGSA-N,3-Hydroxyisobutyric acid dehydrogenase deficiency,
+3-Hydroxybutyric acid,C4H8O3,C[C@@H](O)CC(O)=O,WHBMMWSBFZVSSR-GSVOUGTGSA-N,3-Hydroxydicarboxylic aciduria,
+3-Hydroxybutyric acid,C4H8O3,C[C@@H](O)CC(O)=O,WHBMMWSBFZVSSR-GSVOUGTGSA-N,Pyruvate carboxylase deficiency,OMIM:266150
+p-Hydroxyphenylacetic acid,C8H8O3,OC(=O)CC1=CC=C(O)C=C1,XQXPVVBIMDBYFF-UHFFFAOYSA-N,Schizophrenia,OMIM:181500
+p-Hydroxyphenylacetic acid,C8H8O3,OC(=O)CC1=CC=C(O)C=C1,XQXPVVBIMDBYFF-UHFFFAOYSA-N,Epilepsy,
+p-Hydroxyphenylacetic acid,C8H8O3,OC(=O)CC1=CC=C(O)C=C1,XQXPVVBIMDBYFF-UHFFFAOYSA-N,Colorectal cancer,OMIM:114500
+p-Hydroxyphenylacetic acid,C8H8O3,OC(=O)CC1=CC=C(O)C=C1,XQXPVVBIMDBYFF-UHFFFAOYSA-N,Ulcerative colitis,
+p-Hydroxyphenylacetic acid,C8H8O3,OC(=O)CC1=CC=C(O)C=C1,XQXPVVBIMDBYFF-UHFFFAOYSA-N,Crohn's disease,OMIM:266600
+p-Hydroxyphenylacetic acid,C8H8O3,OC(=O)CC1=CC=C(O)C=C1,XQXPVVBIMDBYFF-UHFFFAOYSA-N,Lung Cancer,OMIM:211980
+p-Hydroxyphenylacetic acid,C8H8O3,OC(=O)CC1=CC=C(O)C=C1,XQXPVVBIMDBYFF-UHFFFAOYSA-N,Spina Bifida,OMIM:182940
+p-Hydroxyphenylacetic acid,C8H8O3,OC(=O)CC1=CC=C(O)C=C1,XQXPVVBIMDBYFF-UHFFFAOYSA-N,Eosinophilic esophagitis,OMIM:610247
+p-Hydroxyphenylacetic acid,C8H8O3,OC(=O)CC1=CC=C(O)C=C1,XQXPVVBIMDBYFF-UHFFFAOYSA-N,Perillyl alcohol administration for cancer treatment,
+p-Hydroxyphenylacetic acid,C8H8O3,OC(=O)CC1=CC=C(O)C=C1,XQXPVVBIMDBYFF-UHFFFAOYSA-N,Fumarase deficiency,OMIM:606812
+p-Hydroxyphenylacetic acid,C8H8O3,OC(=O)CC1=CC=C(O)C=C1,XQXPVVBIMDBYFF-UHFFFAOYSA-N,Phenylketonuria,OMIM:261600
+Butyric acid,C4H8O2,CCCC(O)=O,FERIUCNNQQJTOY-UHFFFAOYSA-N,Asthma,OMIM:600807
+Butyric acid,C4H8O2,CCCC(O)=O,FERIUCNNQQJTOY-UHFFFAOYSA-N,Crohn's disease,OMIM:266600
+Butyric acid,C4H8O2,CCCC(O)=O,FERIUCNNQQJTOY-UHFFFAOYSA-N,Ulcerative colitis,
+Butyric acid,C4H8O2,CCCC(O)=O,FERIUCNNQQJTOY-UHFFFAOYSA-N,Colorectal cancer,OMIM:114500
+Butyric acid,C4H8O2,CCCC(O)=O,FERIUCNNQQJTOY-UHFFFAOYSA-N,Irritable bowel syndrome,
+Butyric acid,C4H8O2,CCCC(O)=O,FERIUCNNQQJTOY-UHFFFAOYSA-N,Nonalcoholic fatty liver disease,
+Butyric acid,C4H8O2,CCCC(O)=O,FERIUCNNQQJTOY-UHFFFAOYSA-N,Celiac disease,OMIM:212750
+Butyric acid,C4H8O2,CCCC(O)=O,FERIUCNNQQJTOY-UHFFFAOYSA-N,Autism,OMIM:209850
+Butyric acid,C4H8O2,CCCC(O)=O,FERIUCNNQQJTOY-UHFFFAOYSA-N,Pervasive developmental disorder not otherwise specified,
+Butyric acid,C4H8O2,CCCC(O)=O,FERIUCNNQQJTOY-UHFFFAOYSA-N,Bladder infections,
+Butyric acid,C4H8O2,CCCC(O)=O,FERIUCNNQQJTOY-UHFFFAOYSA-N,Diverticular disease,
+Butyric acid,C4H8O2,CCCC(O)=O,FERIUCNNQQJTOY-UHFFFAOYSA-N,Rheumatoid arthritis,OMIM:180300
+Butyric acid,C4H8O2,CCCC(O)=O,FERIUCNNQQJTOY-UHFFFAOYSA-N,Enteritis,
+Butyric acid,C4H8O2,CCCC(O)=O,FERIUCNNQQJTOY-UHFFFAOYSA-N,AIDS,
+Butyric acid,C4H8O2,CCCC(O)=O,FERIUCNNQQJTOY-UHFFFAOYSA-N,Eosinophilic esophagitis,OMIM:610247
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Early preeclampsia,
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Pregnancy,
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Late-onset preeclampsia,
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Asthma,OMIM:600807
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Multiple sclerosis,OMIM:126200
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Crohn's disease,OMIM:266600
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Ulcerative colitis,
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Colorectal cancer,OMIM:114500
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Irritable bowel syndrome,
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Nonalcoholic fatty liver disease,
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Celiac disease,OMIM:212750
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Autism,OMIM:209850
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Pervasive developmental disorder not otherwise specified,
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Diverticular disease,
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Gout,OMIM:138900
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Sepsis,
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Enteritis,
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Lung Cancer,OMIM:211980
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Perillyl alcohol administration for cancer treatment,
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Argininosuccinic aciduria,OMIM:207900
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Propionic acidemia,OMIM:606054
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Tyrosinemia I,OMIM:276700
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Phenylketonuria,OMIM:261600
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Maple syrup urine disease,OMIM:248600
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Eosinophilic esophagitis,OMIM:610247
+Ascorbic acid,C6H8O6,[H][C@@]1(OC(=O)C(O)=C1O)[C@@H](O)CO,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,Hyperoxalemia,
+Ascorbic acid,C6H8O6,[H][C@@]1(OC(=O)C(O)=C1O)[C@@H](O)CO,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,Canavan disease,OMIM:271900
+Ascorbic acid,C6H8O6,[H][C@@]1(OC(=O)C(O)=C1O)[C@@H](O)CO,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,Traumatic brain injury,
+Ascorbic acid,C6H8O6,[H][C@@]1(OC(=O)C(O)=C1O)[C@@H](O)CO,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,Meningitis,
+Ascorbic acid,C6H8O6,[H][C@@]1(OC(=O)C(O)=C1O)[C@@H](O)CO,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,Eosinophilic esophagitis,OMIM:610247
+Epinephrine,C9H13NO3,CNC[C@H](O)C1=CC(O)=C(O)C=C1,UCTWMZQNUQWSLP-VIFPVBQESA-N,Addison's Disease,OMIM:240200
+Epinephrine,C9H13NO3,CNC[C@H](O)C1=CC(O)=C(O)C=C1,UCTWMZQNUQWSLP-VIFPVBQESA-N,Subarachnoid hemorrhage,OMIM:105800
+Epinephrine,C9H13NO3,CNC[C@H](O)C1=CC(O)=C(O)C=C1,UCTWMZQNUQWSLP-VIFPVBQESA-N,Pheochromocytoma,OMIM:171300
+Epinephrine,C9H13NO3,CNC[C@H](O)C1=CC(O)=C(O)C=C1,UCTWMZQNUQWSLP-VIFPVBQESA-N,Head injury,
+Epinephrine,C9H13NO3,CNC[C@H](O)C1=CC(O)=C(O)C=C1,UCTWMZQNUQWSLP-VIFPVBQESA-N,Cerebral infarction,
+Epinephrine,C9H13NO3,CNC[C@H](O)C1=CC(O)=C(O)C=C1,UCTWMZQNUQWSLP-VIFPVBQESA-N,Bacterial meningitis,
+Epinephrine,C9H13NO3,CNC[C@H](O)C1=CC(O)=C(O)C=C1,UCTWMZQNUQWSLP-VIFPVBQESA-N,Encephalitis,
+Epinephrine,C9H13NO3,CNC[C@H](O)C1=CC(O)=C(O)C=C1,UCTWMZQNUQWSLP-VIFPVBQESA-N,Schizophrenia,OMIM:181500
+Dopamine,C8H11NO2,NCCC1=CC(O)=C(O)C=C1,VYFYYTLLBUKUHU-UHFFFAOYSA-N,Dopamine Beta-Hydroxylase Deficiency,OMIM:223360
+Dopamine,C8H11NO2,NCCC1=CC(O)=C(O)C=C1,VYFYYTLLBUKUHU-UHFFFAOYSA-N,Hypothyroidism,
+Dopamine,C8H11NO2,NCCC1=CC(O)=C(O)C=C1,VYFYYTLLBUKUHU-UHFFFAOYSA-N,Alzheimer's disease,OMIM:104300
+Dopamine,C8H11NO2,NCCC1=CC(O)=C(O)C=C1,VYFYYTLLBUKUHU-UHFFFAOYSA-N,Cerebral infarction,
+Dopamine,C8H11NO2,NCCC1=CC(O)=C(O)C=C1,VYFYYTLLBUKUHU-UHFFFAOYSA-N,Bacterial meningitis,
+Dopamine,C8H11NO2,NCCC1=CC(O)=C(O)C=C1,VYFYYTLLBUKUHU-UHFFFAOYSA-N,Encephalitis,
+Dopamine,C8H11NO2,NCCC1=CC(O)=C(O)C=C1,VYFYYTLLBUKUHU-UHFFFAOYSA-N,Vitiligo,OMIM:193200
+Dopamine,C8H11NO2,NCCC1=CC(O)=C(O)C=C1,VYFYYTLLBUKUHU-UHFFFAOYSA-N,Aromatic L-amino acid decarboxylase deficiency,OMIM:608643
+Dopamine,C8H11NO2,NCCC1=CC(O)=C(O)C=C1,VYFYYTLLBUKUHU-UHFFFAOYSA-N,Eosinophilic esophagitis,OMIM:610247
+Dopamine,C8H11NO2,NCCC1=CC(O)=C(O)C=C1,VYFYYTLLBUKUHU-UHFFFAOYSA-N,Schizophrenia,OMIM:181500
+Dopamine,C8H11NO2,NCCC1=CC(O)=C(O)C=C1,VYFYYTLLBUKUHU-UHFFFAOYSA-N,Dopamine-serotonin Vesicular Transport Defect,
+Dimethylamine,C2H7N,CNC,ROSDSFDQCJNGOL-UHFFFAOYSA-N,Kidney disease,
+Dimethylamine,C2H7N,CNC,ROSDSFDQCJNGOL-UHFFFAOYSA-N,Uremia,
+Dimethylamine,C2H7N,CNC,ROSDSFDQCJNGOL-UHFFFAOYSA-N,Early preeclampsia,
+Dimethylamine,C2H7N,CNC,ROSDSFDQCJNGOL-UHFFFAOYSA-N,Pregnancy,
+Dimethylamine,C2H7N,CNC,ROSDSFDQCJNGOL-UHFFFAOYSA-N,Late-onset preeclampsia,
+Dimethylamine,C2H7N,CNC,ROSDSFDQCJNGOL-UHFFFAOYSA-N,Pancreatic cancer,OMIM:260350
+Dimethylamine,C2H7N,CNC,ROSDSFDQCJNGOL-UHFFFAOYSA-N,Diabetes mellitus type 2,OMIM:125853
+Dimethylamine,C2H7N,CNC,ROSDSFDQCJNGOL-UHFFFAOYSA-N,Rhabdomyolysis,
+Dimethylamine,C2H7N,CNC,ROSDSFDQCJNGOL-UHFFFAOYSA-N,Diabetes mellitus type 1,OMIM:222100
+Dimethylamine,C2H7N,CNC,ROSDSFDQCJNGOL-UHFFFAOYSA-N,Autosomal  dominant polycystic kidney disease,OMIM:601313
+Dimethylamine,C2H7N,CNC,ROSDSFDQCJNGOL-UHFFFAOYSA-N,Bladder infections,
+Dimethylamine,C2H7N,CNC,ROSDSFDQCJNGOL-UHFFFAOYSA-N,Eosinophilic esophagitis,OMIM:610247
+Dimethylamine,C2H7N,CNC,ROSDSFDQCJNGOL-UHFFFAOYSA-N,Duchenne Muscular Dystrophy,OMIM:310200
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Alcoholism,
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Pregnancy,
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Autism,OMIM:209850
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Autosomal  dominant polycystic kidney disease,OMIM:601313
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Celiac disease,OMIM:212750
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Cervical myelopathy,
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Crohn's disease,OMIM:266600
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Irritable bowel syndrome,
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Kidney disease,
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Lung Cancer,OMIM:211980
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Diverticular disease,
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Eosinophilic esophagitis,OMIM:610247
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Ulcerative colitis,
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Pervasive developmental disorder not otherwise specified,
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Early preeclampsia,
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Late-onset preeclampsia,
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Nonalcoholic fatty liver disease,
+gamma-Aminobutyric acid,C4H9NO2,NCCCC(O)=O,BTCSSZJGUNDROE-UHFFFAOYSA-N,Alzheimer's disease,OMIM:104300
+gamma-Aminobutyric acid,C4H9NO2,NCCCC(O)=O,BTCSSZJGUNDROE-UHFFFAOYSA-N,Hepatic encephalopathy,
+gamma-Aminobutyric acid,C4H9NO2,NCCCC(O)=O,BTCSSZJGUNDROE-UHFFFAOYSA-N,Gaba-transaminase deficiency,OMIM:613163
+gamma-Aminobutyric acid,C4H9NO2,NCCCC(O)=O,BTCSSZJGUNDROE-UHFFFAOYSA-N,Tuberculous meningitis,
+gamma-Aminobutyric acid,C4H9NO2,NCCCC(O)=O,BTCSSZJGUNDROE-UHFFFAOYSA-N,Meningitis,
+gamma-Aminobutyric acid,C4H9NO2,NCCCC(O)=O,BTCSSZJGUNDROE-UHFFFAOYSA-N,Epilepsy,
+gamma-Aminobutyric acid,C4H9NO2,NCCCC(O)=O,BTCSSZJGUNDROE-UHFFFAOYSA-N,Febrile seizures,OMIM:604352
+gamma-Aminobutyric acid,C4H9NO2,NCCCC(O)=O,BTCSSZJGUNDROE-UHFFFAOYSA-N,Pyridoxine-dependent epilepsy,OMIM:266100
+gamma-Aminobutyric acid,C4H9NO2,NCCCC(O)=O,BTCSSZJGUNDROE-UHFFFAOYSA-N,Hyperekplexia,OMIM:149400
+gamma-Aminobutyric acid,C4H9NO2,NCCCC(O)=O,BTCSSZJGUNDROE-UHFFFAOYSA-N,Irritable bowel syndrome,
+gamma-Aminobutyric acid,C4H9NO2,NCCCC(O)=O,BTCSSZJGUNDROE-UHFFFAOYSA-N,Colorectal cancer,OMIM:114500
+gamma-Aminobutyric acid,C4H9NO2,NCCCC(O)=O,BTCSSZJGUNDROE-UHFFFAOYSA-N,Crohn's disease,OMIM:266600
+gamma-Aminobutyric acid,C4H9NO2,NCCCC(O)=O,BTCSSZJGUNDROE-UHFFFAOYSA-N,Ulcerative colitis,
+gamma-Aminobutyric acid,C4H9NO2,NCCCC(O)=O,BTCSSZJGUNDROE-UHFFFAOYSA-N,Perillyl alcohol administration for cancer treatment,
+gamma-Aminobutyric acid,C4H9NO2,NCCCC(O)=O,BTCSSZJGUNDROE-UHFFFAOYSA-N,Pancreatic cancer,OMIM:260350
+gamma-Aminobutyric acid,C4H9NO2,NCCCC(O)=O,BTCSSZJGUNDROE-UHFFFAOYSA-N,Periodontal disease,OMIM:170650
+gamma-Aminobutyric acid,C4H9NO2,NCCCC(O)=O,BTCSSZJGUNDROE-UHFFFAOYSA-N,Frontotemporal dementia,OMIM:600274
+gamma-Aminobutyric acid,C4H9NO2,NCCCC(O)=O,BTCSSZJGUNDROE-UHFFFAOYSA-N,Lewy body disease,
+gamma-Aminobutyric acid,C4H9NO2,NCCCC(O)=O,BTCSSZJGUNDROE-UHFFFAOYSA-N,Hyper beta-alaninemia,OMIM:237400
+gamma-Aminobutyric acid,C4H9NO2,NCCCC(O)=O,BTCSSZJGUNDROE-UHFFFAOYSA-N,Diabetes mellitus type 1,OMIM:222100
+gamma-Aminobutyric acid,C4H9NO2,NCCCC(O)=O,BTCSSZJGUNDROE-UHFFFAOYSA-N,Eosinophilic esophagitis,OMIM:610247
+Glycolic acid,C2H4O3,OCC(O)=O,AEMRFAOFKBGASW-UHFFFAOYSA-N,Biliary atresia,OMIM:210500
+Glycolic acid,C2H4O3,OCC(O)=O,AEMRFAOFKBGASW-UHFFFAOYSA-N,Colorectal cancer,OMIM:114500
+Glycolic acid,C2H4O3,OCC(O)=O,AEMRFAOFKBGASW-UHFFFAOYSA-N,D-2-hydroxyglutaric aciduria,OMIM:600721
+Glycolic acid,C2H4O3,OCC(O)=O,AEMRFAOFKBGASW-UHFFFAOYSA-N,Ethylene glycol poisoning,
+Glycolic acid,C2H4O3,OCC(O)=O,AEMRFAOFKBGASW-UHFFFAOYSA-N,Schizophrenia,OMIM:181500
+Glycolic acid,C2H4O3,OCC(O)=O,AEMRFAOFKBGASW-UHFFFAOYSA-N,Fumarase deficiency,OMIM:606812
+Glycolic acid,C2H4O3,OCC(O)=O,AEMRFAOFKBGASW-UHFFFAOYSA-N,Glutaric acidemia type 2,OMIM:231680
+Glycolic acid,C2H4O3,OCC(O)=O,AEMRFAOFKBGASW-UHFFFAOYSA-N,Glycolic aciduria,OMIM:259900
+Glycolic acid,C2H4O3,OCC(O)=O,AEMRFAOFKBGASW-UHFFFAOYSA-N,Hemodialysis,
+Glycolic acid,C2H4O3,OCC(O)=O,AEMRFAOFKBGASW-UHFFFAOYSA-N,Lung Cancer,OMIM:211980
+Glycolic acid,C2H4O3,OCC(O)=O,AEMRFAOFKBGASW-UHFFFAOYSA-N,Transurethral resection of the prostate,
+Glycolic acid,C2H4O3,OCC(O)=O,AEMRFAOFKBGASW-UHFFFAOYSA-N,Primary hyperoxaluria I,
+Glycolic acid,C2H4O3,OCC(O)=O,AEMRFAOFKBGASW-UHFFFAOYSA-N,Eosinophilic esophagitis,OMIM:610247
+Glycolic acid,C2H4O3,OCC(O)=O,AEMRFAOFKBGASW-UHFFFAOYSA-N,Branched-chain Keto Acid Dehydrogenase Kinase Deficiency,OMIM:614923
+Homovanillic acid,C9H10O4,COC1=C(O)C=CC(CC(O)=O)=C1,QRMZSPFSDQBLIX-UHFFFAOYSA-N,Hypothyroidism,
+Homovanillic acid,C9H10O4,COC1=C(O)C=CC(CC(O)=O)=C1,QRMZSPFSDQBLIX-UHFFFAOYSA-N,Narcolepsy,OMIM:161400
+Homovanillic acid,C9H10O4,COC1=C(O)C=CC(CC(O)=O)=C1,QRMZSPFSDQBLIX-UHFFFAOYSA-N,Growth hormone deficiency,OMIM:139250
+Homovanillic acid,C9H10O4,COC1=C(O)C=CC(CC(O)=O)=C1,QRMZSPFSDQBLIX-UHFFFAOYSA-N,Schizophrenia,OMIM:181500
+Homovanillic acid,C9H10O4,COC1=C(O)C=CC(CC(O)=O)=C1,QRMZSPFSDQBLIX-UHFFFAOYSA-N,Epilepsy,
+Homovanillic acid,C9H10O4,COC1=C(O)C=CC(CC(O)=O)=C1,QRMZSPFSDQBLIX-UHFFFAOYSA-N,Panic disorder,OMIM:167870
+Homovanillic acid,C9H10O4,COC1=C(O)C=CC(CC(O)=O)=C1,QRMZSPFSDQBLIX-UHFFFAOYSA-N,Olivopontocerebral atrophy,
+Homovanillic acid,C9H10O4,COC1=C(O)C=CC(CC(O)=O)=C1,QRMZSPFSDQBLIX-UHFFFAOYSA-N,Hereditary spastic paraplegia,OMIM:182601
+Homovanillic acid,C9H10O4,COC1=C(O)C=CC(CC(O)=O)=C1,QRMZSPFSDQBLIX-UHFFFAOYSA-N,Autism,OMIM:209850
+Homovanillic acid,C9H10O4,COC1=C(O)C=CC(CC(O)=O)=C1,QRMZSPFSDQBLIX-UHFFFAOYSA-N,Parkinson's disease,OMIM:168600
+Homovanillic acid,C9H10O4,COC1=C(O)C=CC(CC(O)=O)=C1,QRMZSPFSDQBLIX-UHFFFAOYSA-N,Friedreich's ataxia,OMIM:229300
+Homovanillic acid,C9H10O4,COC1=C(O)C=CC(CC(O)=O)=C1,QRMZSPFSDQBLIX-UHFFFAOYSA-N,Major depressive disorder,OMIM:608516
+Homovanillic acid,C9H10O4,COC1=C(O)C=CC(CC(O)=O)=C1,QRMZSPFSDQBLIX-UHFFFAOYSA-N,Aromatic L-amino acid decarboxylase deficiency,OMIM:608643
+Homovanillic acid,C9H10O4,COC1=C(O)C=CC(CC(O)=O)=C1,QRMZSPFSDQBLIX-UHFFFAOYSA-N,Celiac disease,OMIM:212750
+Homovanillic acid,C9H10O4,COC1=C(O)C=CC(CC(O)=O)=C1,QRMZSPFSDQBLIX-UHFFFAOYSA-N,Sepiapterin reductase deficiency,OMIM:182125
+Homovanillic acid,C9H10O4,COC1=C(O)C=CC(CC(O)=O)=C1,QRMZSPFSDQBLIX-UHFFFAOYSA-N,Pyridoxamine 5-prime-phosphate oxidase deficiency,OMIM:610090
+Homovanillic acid,C9H10O4,COC1=C(O)C=CC(CC(O)=O)=C1,QRMZSPFSDQBLIX-UHFFFAOYSA-N,Parkinsonian syndrome,
+Homovanillic acid,C9H10O4,COC1=C(O)C=CC(CC(O)=O)=C1,QRMZSPFSDQBLIX-UHFFFAOYSA-N,Urocanase deficiency,OMIM:276880
+Homovanillic acid,C9H10O4,COC1=C(O)C=CC(CC(O)=O)=C1,QRMZSPFSDQBLIX-UHFFFAOYSA-N,Eosinophilic esophagitis,OMIM:610247
+Homovanillic acid,C9H10O4,COC1=C(O)C=CC(CC(O)=O)=C1,QRMZSPFSDQBLIX-UHFFFAOYSA-N,Perillyl alcohol administration for cancer treatment,
+Homovanillic acid,C9H10O4,COC1=C(O)C=CC(CC(O)=O)=C1,QRMZSPFSDQBLIX-UHFFFAOYSA-N,Phenylketonuria,OMIM:261600
+Homovanillic acid,C9H10O4,COC1=C(O)C=CC(CC(O)=O)=C1,QRMZSPFSDQBLIX-UHFFFAOYSA-N,Dopamine-serotonin Vesicular Transport Defect,
+Homovanillic acid,C9H10O4,COC1=C(O)C=CC(CC(O)=O)=C1,QRMZSPFSDQBLIX-UHFFFAOYSA-N,Brunner Syndrome,OMIM:300615
+Folic acid,C19H19N7O6,NC1=NC(=O)C2=NC(CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)=CN=C2N1,OVBPIULPVIDEAO-LBPRGKRZSA-N,Folate deficiency,
+Folic acid,C19H19N7O6,NC1=NC(=O)C2=NC(CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)=CN=C2N1,OVBPIULPVIDEAO-LBPRGKRZSA-N,Rheumatoid arthritis,OMIM:180300
+Folic acid,C19H19N7O6,NC1=NC(=O)C2=NC(CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)=CN=C2N1,OVBPIULPVIDEAO-LBPRGKRZSA-N,Hereditary folate malabsorption,OMIM:229050
+Folic acid,C19H19N7O6,NC1=NC(=O)C2=NC(CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)=CN=C2N1,OVBPIULPVIDEAO-LBPRGKRZSA-N,Dimethylglycine Dehydrogenase Deficiency,OMIM:605850
+Folic acid,C19H19N7O6,NC1=NC(=O)C2=NC(CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)=CN=C2N1,OVBPIULPVIDEAO-LBPRGKRZSA-N,Alzheimer's disease,OMIM:104300
+Folic acid,C19H19N7O6,NC1=NC(=O)C2=NC(CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)=CN=C2N1,OVBPIULPVIDEAO-LBPRGKRZSA-N,Fibromyalgia,
+Folic acid,C19H19N7O6,NC1=NC(=O)C2=NC(CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)=CN=C2N1,OVBPIULPVIDEAO-LBPRGKRZSA-N,Bladder infections,
+Glycocholic acid,C26H43NO6,C[C@H](CCC(O)=NCC(O)=O)[C@H]1CC[C@H]2[C@@H]3[C@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3C[C@H](O)[C@]12C,RFDAIACWWDREDC-FRVQLJSFSA-N,Hepatobiliary diseases,
+Glycocholic acid,C26H43NO6,C[C@H](CCC(O)=NCC(O)=O)[C@H]1CC[C@H]2[C@@H]3[C@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3C[C@H](O)[C@]12C,RFDAIACWWDREDC-FRVQLJSFSA-N,Celiac disease,OMIM:212750
+Glycocholic acid,C26H43NO6,C[C@H](CCC(O)=NCC(O)=O)[C@H]1CC[C@H]2[C@@H]3[C@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3C[C@H](O)[C@]12C,RFDAIACWWDREDC-FRVQLJSFSA-N,Biliary atresia,OMIM:210500
+Glycocholic acid,C26H43NO6,C[C@H](CCC(O)=NCC(O)=O)[C@H]1CC[C@H]2[C@@H]3[C@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3C[C@H](O)[C@]12C,RFDAIACWWDREDC-FRVQLJSFSA-N,Choledochal cysts,
+Glycocholic acid,C26H43NO6,C[C@H](CCC(O)=NCC(O)=O)[C@H]1CC[C@H]2[C@@H]3[C@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3C[C@H](O)[C@]12C,RFDAIACWWDREDC-FRVQLJSFSA-N,Intrahepatic biliary hypoplasia,
+Glycocholic acid,C26H43NO6,C[C@H](CCC(O)=NCC(O)=O)[C@H]1CC[C@H]2[C@@H]3[C@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3C[C@H](O)[C@]12C,RFDAIACWWDREDC-FRVQLJSFSA-N,Neonatal hepatitis,
+Glycocholic acid,C26H43NO6,C[C@H](CCC(O)=NCC(O)=O)[C@H]1CC[C@H]2[C@@H]3[C@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3C[C@H](O)[C@]12C,RFDAIACWWDREDC-FRVQLJSFSA-N,Alpha-1-antitrypsin deficiency,OMIM:107400
+Glycocholic acid,C26H43NO6,C[C@H](CCC(O)=NCC(O)=O)[C@H]1CC[C@H]2[C@@H]3[C@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3C[C@H](O)[C@]12C,RFDAIACWWDREDC-FRVQLJSFSA-N,Cystic fibrosis,OMIM:219700
+Glycocholic acid,C26H43NO6,C[C@H](CCC(O)=NCC(O)=O)[C@H]1CC[C@H]2[C@@H]3[C@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3C[C@H](O)[C@]12C,RFDAIACWWDREDC-FRVQLJSFSA-N,Galactosemia type 1,OMIM:230400
+Glycocholic acid,C26H43NO6,C[C@H](CCC(O)=NCC(O)=O)[C@H]1CC[C@H]2[C@@H]3[C@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3C[C@H](O)[C@]12C,RFDAIACWWDREDC-FRVQLJSFSA-N,Chronic active hepatitis,
+Glycocholic acid,C26H43NO6,C[C@H](CCC(O)=NCC(O)=O)[C@H]1CC[C@H]2[C@@H]3[C@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3C[C@H](O)[C@]12C,RFDAIACWWDREDC-FRVQLJSFSA-N,Glycogen storage disease,
+Glycocholic acid,C26H43NO6,C[C@H](CCC(O)=NCC(O)=O)[C@H]1CC[C@H]2[C@@H]3[C@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3C[C@H](O)[C@]12C,RFDAIACWWDREDC-FRVQLJSFSA-N,Acute liver failure,
+Glycocholic acid,C26H43NO6,C[C@H](CCC(O)=NCC(O)=O)[C@H]1CC[C@H]2[C@@H]3[C@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3C[C@H](O)[C@]12C,RFDAIACWWDREDC-FRVQLJSFSA-N,Portal vein obstruction,
+Glycocholic acid,C26H43NO6,C[C@H](CCC(O)=NCC(O)=O)[C@H]1CC[C@H]2[C@@H]3[C@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3C[C@H](O)[C@]12C,RFDAIACWWDREDC-FRVQLJSFSA-N,Wilson's disease,OMIM:277900
+Glycocholic acid,C26H43NO6,C[C@H](CCC(O)=NCC(O)=O)[C@H]1CC[C@H]2[C@@H]3[C@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3C[C@H](O)[C@]12C,RFDAIACWWDREDC-FRVQLJSFSA-N,Colorectal cancer,OMIM:114500
+Glycocholic acid,C26H43NO6,C[C@H](CCC(O)=NCC(O)=O)[C@H]1CC[C@H]2[C@@H]3[C@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3C[C@H](O)[C@]12C,RFDAIACWWDREDC-FRVQLJSFSA-N,Crohn's disease,OMIM:266600
+Glycocholic acid,C26H43NO6,C[C@H](CCC(O)=NCC(O)=O)[C@H]1CC[C@H]2[C@@H]3[C@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3C[C@H](O)[C@]12C,RFDAIACWWDREDC-FRVQLJSFSA-N,Ulcerative colitis,
+Formic acid,CH2O2,OC=O,BDAGIHXWWSANSR-UHFFFAOYSA-N,Pregnancy,
+Formic acid,CH2O2,OC=O,BDAGIHXWWSANSR-UHFFFAOYSA-N,Autosomal  dominant polycystic kidney disease,OMIM:601313
+Formic acid,CH2O2,OC=O,BDAGIHXWWSANSR-UHFFFAOYSA-N,Diabetes mellitus type 1,OMIM:222100
+Formic acid,CH2O2,OC=O,BDAGIHXWWSANSR-UHFFFAOYSA-N,Irritable bowel syndrome,
+Formic acid,CH2O2,OC=O,BDAGIHXWWSANSR-UHFFFAOYSA-N,Lung Cancer,OMIM:211980
+Formic acid,CH2O2,OC=O,BDAGIHXWWSANSR-UHFFFAOYSA-N,Methanol poisoning,
+Formic acid,CH2O2,OC=O,BDAGIHXWWSANSR-UHFFFAOYSA-N,Methyl formate exposure,
+Formic acid,CH2O2,OC=O,BDAGIHXWWSANSR-UHFFFAOYSA-N,Rheumatoid arthritis,OMIM:180300
+Formic acid,CH2O2,OC=O,BDAGIHXWWSANSR-UHFFFAOYSA-N,Formic acid intoxication,
+Formic acid,CH2O2,OC=O,BDAGIHXWWSANSR-UHFFFAOYSA-N,Diverticular disease,
+Formic acid,CH2O2,OC=O,BDAGIHXWWSANSR-UHFFFAOYSA-N,Chronic pancreatitis,OMIM:1678
+Formic acid,CH2O2,OC=O,BDAGIHXWWSANSR-UHFFFAOYSA-N,Eosinophilic esophagitis,OMIM:610247
+Formic acid,CH2O2,OC=O,BDAGIHXWWSANSR-UHFFFAOYSA-N,Early preeclampsia,
+Formic acid,CH2O2,OC=O,BDAGIHXWWSANSR-UHFFFAOYSA-N,Late-onset preeclampsia,
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,Hepatic and biliary malignancies,
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,Diabetes mellitus type 1,OMIM:222100
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,Ethanol intoxication,
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,Chronic progressive external ophthalmoplegia and Kearns-Sayre syndrome,OMIM:530000
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,Pancreatic cancer,OMIM:260350
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,Schizophrenia,OMIM:181500
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,Early preeclampsia,
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,Pregnancy,
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,Late-onset preeclampsia,
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,"Sulfite oxidase deficiency, ISOLATED",OMIM:272300
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,2-Ketoglutarate dehydrogenase complex deficiency,OMIM:203740
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,3-Hydroxy-3-methylglutaryl-CoA lyase deficiency,OMIM:246450
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,3-Hydroxy-3-Methylglutaryl-CoA Synthase Deficiency,OMIM:605911
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,2-Methyl-3-hydroxybutyryl-CoA dehydrogenase deficiency,OMIM:300438
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,Mitochondrial complex I deficiency due to ACAD9 deficiency,OMIM:611126
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,3-Hydroxyacyl-CoA dehydrogenase deficiency,OMIM:231530
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,3-Hydroxyisobutyryl-coa hydrolase deficiency,OMIM:250620
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,3-Methylglutaconic Aciduria type IX,OMIM:617698
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,"Leigh's syndrome, subacute necrotizing encephalopathy, SNE",OMIM:256000
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,Myoclonic epilepsy and ragged red fiber disease,OMIM:545000
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,"Myopathy with lactic acidosis, hereditary",OMIM:255125
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,GRACILE syndrome,OMIM:603358
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,"Fructose-1,6-diphosphatase deficiency",OMIM:229700
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,Coenzyme Q10 deficiency,
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,"Coenzyme Q10 deficiency, primary, 5",OMIM:614654
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,Combined oxidative phosphorylation deficiency 10,OMIM:614702
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,Combined oxidative phosphorylation deficiency 11,OMIM:614922
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,Combined oxidative phosphorylation deficiency 12,OMIM:614924
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,"Epileptic encephalopathy, early infantile, 39",OMIM:612949
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,"Hyperglycinemia, lactic acidosis, and seizures",OMIM:614462
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,"Metabolic encephalomyopathic crises, recurrent, with rhabdomyolysis, cardiac arrhythmias, and neurodegeneration",OMIM:616878
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,Methylmalonic aciduria mitochondrial encephelopathy Leigh-like,
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,Mitochondrial trifunctional protein deficiency,OMIM:609015
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,Mitochondrial-encephalopathy-lactic acidosis-stroke,OMIM:540000
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,"Myopathy, lactic acidosis, and sideroblastic anemia 1",OMIM:600462
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,Pyruvate dehydrogenase phosphatase deficiency,OMIM:608782
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,Sengers syndrome,OMIM:212350
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,Acute Infantile Liver Failure,OMIM:613070
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,Cerebral creatine deficiency syndrome 2,OMIM:612736
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,Combined oxidative phosphorylation deficiency 14,OMIM:614946
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,D-Lactic Acidosis,OMIM:245450
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,Mitochondrial phosphate carrier deficiency,OMIM:610773
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,Mitochondrial pyruvate carrier deficiency,OMIM:614741
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,Pyruvate carboxylase deficiency,OMIM:266150
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,Pyruvate dehydrogenase deficiency (E1),
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,Pyruvate dehydrogenase deficiency,OMIM:312170
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,Dihydrolipoamide Dehydrogenase Deficiency,OMIM:246900
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,Infantile Liver Failure Syndrome 2,OMIM:616483
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,Leber Optic Atrophy and Dystonia,OMIM:500001
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,"Leigh Syndrome, French Canadian Type",OMIM:220111
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,Lipoyltransferase 1 Deficiency,OMIM:616299
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,"Mitochondrial Myopathy, Infantile, Transient",OMIM:500009
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,Pearson Syndrome,OMIM:557000
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,"Phosphoenolpyruvate Carboxykinase Deficiency 1, Cytosolic",OMIM:261680
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,Anoxia,
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,Dementia,OMIM:167320
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,Cytochrome C oxidase deficiency,OMIM:220110
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,"2,4-dienoyl-CoA reductase deficiency",OMIM:616034
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,"Coenzyme Q10 deficiency, primary, 1",OMIM:607426
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,"Mitochondrial encephalomyopaththy with elevanted methylmalonic acid, SUCLA2",OMIM:612073
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,Colorectal cancer,OMIM:114500
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,Irritable bowel syndrome,
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,Ulcerative colitis,
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,Crohn's disease,OMIM:266600
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,Alzheimer's disease,OMIM:104300
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,Frontotemporal dementia,OMIM:600274
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,Lewy body disease,
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,Temporomandibular joint disorder,
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,Attachment loss,
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,Missing teeth,
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,Periodontal Probing Depth,
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,Paraquat poisoning,
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,Autosomal  dominant polycystic kidney disease,OMIM:601313
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,Eosinophilic esophagitis,OMIM:610247
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,Propionic acidemia,OMIM:606054
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,Amish lethal microcephaly,OMIM:607196
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,3-Methylglutaconic Aciduria type VI,OMIM:614739
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,3-Methylglutaconic Aciduria type V,OMIM:610198
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,"Fructose intolerance, hereditary",OMIM:229600
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,"Deafness, Onychodystrophy, Osteodystrophy, Mental Retardation, and Seizures Syndrome",OMIM:220500
+Indoleacetic acid,C10H9NO2,OC(=O)CC1=CNC2=C1C=CC=C2,SEOVTRFCIGRIMH-UHFFFAOYSA-N,Uremia,
+Indoleacetic acid,C10H9NO2,OC(=O)CC1=CNC2=C1C=CC=C2,SEOVTRFCIGRIMH-UHFFFAOYSA-N,Anorexia nervosa,OMIM:606788
+Indoleacetic acid,C10H9NO2,OC(=O)CC1=CNC2=C1C=CC=C2,SEOVTRFCIGRIMH-UHFFFAOYSA-N,Autism,OMIM:209850
+Indoleacetic acid,C10H9NO2,OC(=O)CC1=CNC2=C1C=CC=C2,SEOVTRFCIGRIMH-UHFFFAOYSA-N,Major depressive disorder,OMIM:608516
+Indoleacetic acid,C10H9NO2,OC(=O)CC1=CNC2=C1C=CC=C2,SEOVTRFCIGRIMH-UHFFFAOYSA-N,Colorectal cancer,OMIM:114500
+Indoleacetic acid,C10H9NO2,OC(=O)CC1=CNC2=C1C=CC=C2,SEOVTRFCIGRIMH-UHFFFAOYSA-N,Tooth Decay,
+Indoleacetic acid,C10H9NO2,OC(=O)CC1=CNC2=C1C=CC=C2,SEOVTRFCIGRIMH-UHFFFAOYSA-N,Appendicitis,
+Indoleacetic acid,C10H9NO2,OC(=O)CC1=CNC2=C1C=CC=C2,SEOVTRFCIGRIMH-UHFFFAOYSA-N,Irritable bowel syndrome,
+Indoleacetic acid,C10H9NO2,OC(=O)CC1=CNC2=C1C=CC=C2,SEOVTRFCIGRIMH-UHFFFAOYSA-N,Eosinophilic esophagitis,OMIM:610247
+Indoleacetic acid,C10H9NO2,OC(=O)CC1=CNC2=C1C=CC=C2,SEOVTRFCIGRIMH-UHFFFAOYSA-N,Tryptophanuria with dwarfism,OMIM:276100
+Phenylpyruvic acid,C9H8O3,OC(=O)C(=O)CC1=CC=CC=C1,BTNMPGBKDVTSJY-UHFFFAOYSA-N,Phenylketonuria,OMIM:261600
+Phenylpyruvic acid,C9H8O3,OC(=O)C(=O)CC1=CC=CC=C1,BTNMPGBKDVTSJY-UHFFFAOYSA-N,Primary biliary cirrhosis,OMIM:109720
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Schizophrenia,OMIM:181500
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Anoxia,
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Colorectal cancer,OMIM:114500
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,2-Ketoglutarate dehydrogenase complex deficiency,OMIM:203740
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Eosinophilic esophagitis,OMIM:610247
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,D-2-hydroxyglutaric aciduria,OMIM:600721
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Hyperinsulinism-hyperammonemia syndrome,OMIM:606762
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Fumarase deficiency,OMIM:606812
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Amish lethal microcephaly,OMIM:607196
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,"Deafness, Onychodystrophy, Osteodystrophy, Mental Retardation, and Seizures Syndrome",OMIM:220500
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Dihydrolipoamide Dehydrogenase Deficiency,OMIM:246900
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Lipoyltransferase 1 Deficiency,OMIM:616299
+Norepinephrine,C8H11NO3,NC[C@H](O)C1=CC(O)=C(O)C=C1,SFLSHLFXELFNJZ-QMMMGPOBSA-N,Subarachnoid hemorrhage,OMIM:105800
+Norepinephrine,C8H11NO3,NC[C@H](O)C1=CC(O)=C(O)C=C1,SFLSHLFXELFNJZ-QMMMGPOBSA-N,Heat stress,
+Norepinephrine,C8H11NO3,NC[C@H](O)C1=CC(O)=C(O)C=C1,SFLSHLFXELFNJZ-QMMMGPOBSA-N,Pheochromocytoma,OMIM:171300
+Norepinephrine,C8H11NO3,NC[C@H](O)C1=CC(O)=C(O)C=C1,SFLSHLFXELFNJZ-QMMMGPOBSA-N,Uremia,
+Norepinephrine,C8H11NO3,NC[C@H](O)C1=CC(O)=C(O)C=C1,SFLSHLFXELFNJZ-QMMMGPOBSA-N,Dopamine Beta-Hydroxylase Deficiency,OMIM:223360
+Norepinephrine,C8H11NO3,NC[C@H](O)C1=CC(O)=C(O)C=C1,SFLSHLFXELFNJZ-QMMMGPOBSA-N,Methamphetamine (MAP) psychosis,
+Norepinephrine,C8H11NO3,NC[C@H](O)C1=CC(O)=C(O)C=C1,SFLSHLFXELFNJZ-QMMMGPOBSA-N,Hypothyroidism,
+Norepinephrine,C8H11NO3,NC[C@H](O)C1=CC(O)=C(O)C=C1,SFLSHLFXELFNJZ-QMMMGPOBSA-N,Cerebral infarction,
+Norepinephrine,C8H11NO3,NC[C@H](O)C1=CC(O)=C(O)C=C1,SFLSHLFXELFNJZ-QMMMGPOBSA-N,Bacterial meningitis,
+Norepinephrine,C8H11NO3,NC[C@H](O)C1=CC(O)=C(O)C=C1,SFLSHLFXELFNJZ-QMMMGPOBSA-N,Encephalitis,
+Norepinephrine,C8H11NO3,NC[C@H](O)C1=CC(O)=C(O)C=C1,SFLSHLFXELFNJZ-QMMMGPOBSA-N,Schizophrenia,OMIM:181500
+Norepinephrine,C8H11NO3,NC[C@H](O)C1=CC(O)=C(O)C=C1,SFLSHLFXELFNJZ-QMMMGPOBSA-N,Dopamine-serotonin Vesicular Transport Defect,
+Phenol,C6H6O,OC1=CC=CC=C1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,Autism,OMIM:209850
+Phenol,C6H6O,OC1=CC=CC=C1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,Perillyl alcohol administration for cancer treatment,
+Phenol,C6H6O,OC1=CC=CC=C1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,Celiac disease,OMIM:212750
+Phenol,C6H6O,OC1=CC=CC=C1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,Colorectal cancer,OMIM:114500
+Phenol,C6H6O,OC1=CC=CC=C1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,Crohn's disease,OMIM:266600
+Phenol,C6H6O,OC1=CC=CC=C1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,Irritable bowel syndrome,
+Phenol,C6H6O,OC1=CC=CC=C1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,Uremia,
+Phenol,C6H6O,OC1=CC=CC=C1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,Eosinophilic esophagitis,OMIM:610247
+Phenol,C6H6O,OC1=CC=CC=C1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,Ulcerative colitis,
+Phenol,C6H6O,OC1=CC=CC=C1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,Pervasive developmental disorder not otherwise specified,
+Phenol,C6H6O,OC1=CC=CC=C1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,Nonalcoholic fatty liver disease,
+Propionic acid,C3H6O2,CCC(O)=O,XBDQKXXYIPTUBI-UHFFFAOYSA-N,Autism,OMIM:209850
+Propionic acid,C3H6O2,CCC(O)=O,XBDQKXXYIPTUBI-UHFFFAOYSA-N,Celiac disease,OMIM:212750
+Propionic acid,C3H6O2,CCC(O)=O,XBDQKXXYIPTUBI-UHFFFAOYSA-N,Colorectal cancer,OMIM:114500
+Propionic acid,C3H6O2,CCC(O)=O,XBDQKXXYIPTUBI-UHFFFAOYSA-N,Crohn's disease,OMIM:266600
+Propionic acid,C3H6O2,CCC(O)=O,XBDQKXXYIPTUBI-UHFFFAOYSA-N,Irritable bowel syndrome,
+Propionic acid,C3H6O2,CCC(O)=O,XBDQKXXYIPTUBI-UHFFFAOYSA-N,Methylmalonic acidemia,OMIM:251000
+Propionic acid,C3H6O2,CCC(O)=O,XBDQKXXYIPTUBI-UHFFFAOYSA-N,Propionic acidemia,OMIM:606054
+Propionic acid,C3H6O2,CCC(O)=O,XBDQKXXYIPTUBI-UHFFFAOYSA-N,Rheumatoid arthritis,OMIM:180300
+Propionic acid,C3H6O2,CCC(O)=O,XBDQKXXYIPTUBI-UHFFFAOYSA-N,Eosinophilic esophagitis,OMIM:610247
+Propionic acid,C3H6O2,CCC(O)=O,XBDQKXXYIPTUBI-UHFFFAOYSA-N,Ulcerative colitis,
+Propionic acid,C3H6O2,CCC(O)=O,XBDQKXXYIPTUBI-UHFFFAOYSA-N,Pervasive developmental disorder not otherwise specified,
+Propionic acid,C3H6O2,CCC(O)=O,XBDQKXXYIPTUBI-UHFFFAOYSA-N,Nonalcoholic fatty liver disease,
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,2-Ketoglutarate dehydrogenase complex deficiency,OMIM:203740
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,3-Hydroxy-3-methylglutaryl-CoA lyase deficiency,OMIM:246450
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,Alzheimer's disease,OMIM:104300
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,Pregnancy,
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,Anoxia,
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,3-Methyl-crotonyl-glycinuria,OMIM:210200
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,Colorectal cancer,OMIM:114500
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,Diabetes mellitus type 1,OMIM:222100
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,Schizophrenia,OMIM:181500
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,Frontotemporal dementia,OMIM:600274
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,"Fructose-1,6-diphosphatase deficiency",OMIM:229700
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,Fumarase deficiency,OMIM:606812
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,Stomach cancer,OMIM:137215
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,Irritable bowel syndrome,
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,Meningitis,
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,Pyruvate dehydrogenase deficiency,OMIM:312170
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,Glucagon deficiency,
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,"3-methylglutaconic aciduria type II, X-linked",OMIM:302060
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,"Leigh's syndrome, subacute necrotizing encephalopathy, SNE",OMIM:256000
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,Eosinophilic esophagitis,OMIM:610247
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,3-Hydroxy-3-Methylglutaryl-CoA Synthase Deficiency,OMIM:605911
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,Dihydrolipoamide Dehydrogenase Deficiency,OMIM:246900
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,GRACILE syndrome,OMIM:603358
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,Lipoyltransferase 1 Deficiency,OMIM:616299
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,Mitochondrial pyruvate carrier deficiency,OMIM:614741
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,"Myopathy with lactic acidosis, hereditary",OMIM:255125
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,Pearson Syndrome,OMIM:557000
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,Pyruvate dehydrogenase deficiency (E1),
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,Pyruvate dehydrogenase phosphatase deficiency,OMIM:608782
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,Early preeclampsia,
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,Late-onset preeclampsia,
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,Lewy body disease,
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Early preeclampsia,
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Pregnancy,
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Canavan disease,OMIM:271900
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Alzheimer's disease,OMIM:104300
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Irritable bowel syndrome,
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Ulcerative colitis,
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Crohn's disease,OMIM:266600
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Gout,OMIM:138900
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Attachment loss,
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Missing teeth,
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Periodontal Probing Depth,
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Lung Cancer,OMIM:211980
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Eosinophilic esophagitis,OMIM:610247
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Colorectal cancer,OMIM:114500
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,D-2-hydroxyglutaric aciduria,OMIM:600721
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Malonyl-Coa decarboxylase deficiency,OMIM:248360
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Fumarase deficiency,OMIM:606812
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,2-Ketoglutarate dehydrogenase complex deficiency,OMIM:203740
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Lipoyltransferase 1 Deficiency,OMIM:616299
+Serotonin,C10H12N2O,NCCC1=CNC2=C1C=C(O)C=C2,QZAYGJVTTNCVMB-UHFFFAOYSA-N,Schizophrenia,OMIM:181500
+Serotonin,C10H12N2O,NCCC1=CNC2=C1C=C(O)C=C2,QZAYGJVTTNCVMB-UHFFFAOYSA-N,Parkinson's disease,OMIM:168600
+Serotonin,C10H12N2O,NCCC1=CNC2=C1C=C(O)C=C2,QZAYGJVTTNCVMB-UHFFFAOYSA-N,Hypothyroidism,
+Serotonin,C10H12N2O,NCCC1=CNC2=C1C=C(O)C=C2,QZAYGJVTTNCVMB-UHFFFAOYSA-N,Sepiapterin reductase deficiency,OMIM:182125
+Serotonin,C10H12N2O,NCCC1=CNC2=C1C=C(O)C=C2,QZAYGJVTTNCVMB-UHFFFAOYSA-N,Colorectal cancer,OMIM:114500
+Serotonin,C10H12N2O,NCCC1=CNC2=C1C=C(O)C=C2,QZAYGJVTTNCVMB-UHFFFAOYSA-N,Eosinophilic esophagitis,OMIM:610247
+Serotonin,C10H12N2O,NCCC1=CNC2=C1C=C(O)C=C2,QZAYGJVTTNCVMB-UHFFFAOYSA-N,Aromatic L-amino acid decarboxylase deficiency,OMIM:608643
+Serotonin,C10H12N2O,NCCC1=CNC2=C1C=C(O)C=C2,QZAYGJVTTNCVMB-UHFFFAOYSA-N,Brunner Syndrome,OMIM:300615
+Tyramine,C8H11NO,NCCC1=CC=C(O)C=C1,DZGWFCGJZKJUFP-UHFFFAOYSA-N,Cirrhosis,
+Tyramine,C8H11NO,NCCC1=CC=C(O)C=C1,DZGWFCGJZKJUFP-UHFFFAOYSA-N,Celiac disease,OMIM:212750
+Tyramine,C8H11NO,NCCC1=CC=C(O)C=C1,DZGWFCGJZKJUFP-UHFFFAOYSA-N,Colorectal cancer,OMIM:114500
+Tyramine,C8H11NO,NCCC1=CC=C(O)C=C1,DZGWFCGJZKJUFP-UHFFFAOYSA-N,Ulcerative colitis,
+Tyramine,C8H11NO,NCCC1=CC=C(O)C=C1,DZGWFCGJZKJUFP-UHFFFAOYSA-N,Crohn's disease,OMIM:266600
+Tyramine,C8H11NO,NCCC1=CC=C(O)C=C1,DZGWFCGJZKJUFP-UHFFFAOYSA-N,Attachment loss,
+Tyramine,C8H11NO,NCCC1=CC=C(O)C=C1,DZGWFCGJZKJUFP-UHFFFAOYSA-N,Periodontal Probing Depth,
+Tyramine,C8H11NO,NCCC1=CC=C(O)C=C1,DZGWFCGJZKJUFP-UHFFFAOYSA-N,Eosinophilic esophagitis,OMIM:610247
+Tyramine,C8H11NO,NCCC1=CC=C(O)C=C1,DZGWFCGJZKJUFP-UHFFFAOYSA-N,Brunner Syndrome,OMIM:300615
+"(S)-3,4-Dihydroxybutyric acid",C4H8O4,OCC(O)CC(O)=O,DZAIOXUZHHTJKN-UHFFFAOYSA-N,Succinic semialdehyde dehydrogenase deficiency,OMIM:271980
+3-(3-Hydroxyphenyl)propanoic acid,C9H10O3,OC(=O)CCC1=CC(O)=CC=C1,QVWAEZJXDYOKEH-UHFFFAOYSA-N,Colorectal cancer,OMIM:114500
+3-(3-Hydroxyphenyl)propanoic acid,C9H10O3,OC(=O)CCC1=CC(O)=CC=C1,QVWAEZJXDYOKEH-UHFFFAOYSA-N,Irritable bowel syndrome,
+3-(3-Hydroxyphenyl)propanoic acid,C9H10O3,OC(=O)CCC1=CC(O)=CC=C1,QVWAEZJXDYOKEH-UHFFFAOYSA-N,Diverticular disease,
+3-(3-Hydroxyphenyl)propanoic acid,C9H10O3,OC(=O)CCC1=CC(O)=CC=C1,QVWAEZJXDYOKEH-UHFFFAOYSA-N,Eosinophilic esophagitis,OMIM:610247
+3-Hydroxydodecanoic acid,C12H24O3,CCCCCCCCC[C@H](O)CC(O)=O,MUCMKTPAZLSKTL-NSHDSACASA-N,Fatty Acid Oxidation disorder,
+3-Hydroxydodecanoic acid,C12H24O3,CCCCCCCCC[C@H](O)CC(O)=O,MUCMKTPAZLSKTL-NSHDSACASA-N,Nonalcoholic fatty liver disease,
+"3,4-Dihydroxyhydrocinnamic acid",C9H10O4,OC(=O)CCC1=CC(O)=C(O)C=C1,DZAUWHJDUNRCTF-UHFFFAOYSA-N,Colorectal cancer,OMIM:114500
+"3,4-Dihydroxyhydrocinnamic acid",C9H10O4,OC(=O)CCC1=CC(O)=C(O)C=C1,DZAUWHJDUNRCTF-UHFFFAOYSA-N,Eosinophilic esophagitis,OMIM:610247
+Citramalic acid,C5H8O5,CC(O)(CC(O)=O)C(O)=O,XFTRTWQBIOMVPK-UHFFFAOYSA-N,Colorectal cancer,OMIM:114500
+3-Hydroxyphenylacetic acid,C8H8O3,OC(=O)CC1=CC(O)=CC=C1,FVMDYYGIDFPZAX-UHFFFAOYSA-N,Colorectal cancer,OMIM:114500
+3-Hydroxyphenylacetic acid,C8H8O3,OC(=O)CC1=CC(O)=CC=C1,FVMDYYGIDFPZAX-UHFFFAOYSA-N,Phenylketonuria,OMIM:261600
+3-Hydroxyphenylacetic acid,C8H8O3,OC(=O)CC1=CC(O)=CC=C1,FVMDYYGIDFPZAX-UHFFFAOYSA-N,Eosinophilic esophagitis,OMIM:610247
+Adipic acid,C6H10O4,OC(=O)CCCCC(O)=O,WNLRTRBMVRJNCN-UHFFFAOYSA-N,Colorectal cancer,OMIM:114500
+Adipic acid,C6H10O4,OC(=O)CCCCC(O)=O,WNLRTRBMVRJNCN-UHFFFAOYSA-N,Lung Cancer,OMIM:211980
+Adipic acid,C6H10O4,OC(=O)CCCCC(O)=O,WNLRTRBMVRJNCN-UHFFFAOYSA-N,Anorexia nervosa,OMIM:606788
+Adipic acid,C6H10O4,OC(=O)CCCCC(O)=O,WNLRTRBMVRJNCN-UHFFFAOYSA-N,3-Hydroxy-3-methylglutaryl-CoA lyase deficiency,OMIM:246450
+Adipic acid,C6H10O4,OC(=O)CCCCC(O)=O,WNLRTRBMVRJNCN-UHFFFAOYSA-N,Eosinophilic esophagitis,OMIM:610247
+Adipic acid,C6H10O4,OC(=O)CCCCC(O)=O,WNLRTRBMVRJNCN-UHFFFAOYSA-N,Fumarase deficiency,OMIM:606812
+Adipic acid,C6H10O4,OC(=O)CCCCC(O)=O,WNLRTRBMVRJNCN-UHFFFAOYSA-N,Medium Chain Acyl-CoA Dehydrogenase Deficiency,OMIM:201450
+Adipic acid,C6H10O4,OC(=O)CCCCC(O)=O,WNLRTRBMVRJNCN-UHFFFAOYSA-N,Malonyl-Coa decarboxylase deficiency,OMIM:248360
+Adipic acid,C6H10O4,OC(=O)CCCCC(O)=O,WNLRTRBMVRJNCN-UHFFFAOYSA-N,Short Chain Acyl-Coa Dehydrogenase Deficiency,
+Adipic acid,C6H10O4,OC(=O)CCCCC(O)=O,WNLRTRBMVRJNCN-UHFFFAOYSA-N,Carnitine-acylcarnitine translocase deficiency,OMIM:212138
+Adipic acid,C6H10O4,OC(=O)CCCCC(O)=O,WNLRTRBMVRJNCN-UHFFFAOYSA-N,3-Hydroxydicarboxylic aciduria,
+Adipic acid,C6H10O4,OC(=O)CCCCC(O)=O,WNLRTRBMVRJNCN-UHFFFAOYSA-N,3-Hydroxy-3-Methylglutaryl-CoA Synthase Deficiency,OMIM:605911
+Allantoin,C4H6N4O3,NC(=O)NC1NC(=O)NC1=O,POJWUDADGALRAB-UHFFFAOYSA-N,Chronic renal failure,
+Allantoin,C4H6N4O3,NC(=O)NC1NC(=O)NC1=O,POJWUDADGALRAB-UHFFFAOYSA-N,Schizophrenia,OMIM:181500
+Allantoin,C4H6N4O3,NC(=O)NC1NC(=O)NC1=O,POJWUDADGALRAB-UHFFFAOYSA-N,Meningitis,
+Allantoin,C4H6N4O3,NC(=O)NC1NC(=O)NC1=O,POJWUDADGALRAB-UHFFFAOYSA-N,Crohn's disease,OMIM:266600
+Allantoin,C4H6N4O3,NC(=O)NC1NC(=O)NC1=O,POJWUDADGALRAB-UHFFFAOYSA-N,Ulcerative colitis,
+Allantoin,C4H6N4O3,NC(=O)NC1NC(=O)NC1=O,POJWUDADGALRAB-UHFFFAOYSA-N,Colorectal cancer,OMIM:114500
+Allantoin,C4H6N4O3,NC(=O)NC1NC(=O)NC1=O,POJWUDADGALRAB-UHFFFAOYSA-N,Eosinophilic esophagitis,OMIM:610247
+3-Methylindole,C9H9N,CC1=CNC2=C1C=CC=C2,ZFRKQXVRDFCRJG-UHFFFAOYSA-N,Autism,OMIM:209850
+3-Methylindole,C9H9N,CC1=CNC2=C1C=CC=C2,ZFRKQXVRDFCRJG-UHFFFAOYSA-N,Colorectal cancer,OMIM:114500
+3-Methylindole,C9H9N,CC1=CNC2=C1C=CC=C2,ZFRKQXVRDFCRJG-UHFFFAOYSA-N,Crohn's disease,OMIM:266600
+3-Methylindole,C9H9N,CC1=CNC2=C1C=CC=C2,ZFRKQXVRDFCRJG-UHFFFAOYSA-N,Ulcerative colitis,
+3-Methylindole,C9H9N,CC1=CNC2=C1C=CC=C2,ZFRKQXVRDFCRJG-UHFFFAOYSA-N,Pervasive developmental disorder not otherwise specified,
+3-Methylindole,C9H9N,CC1=CNC2=C1C=CC=C2,ZFRKQXVRDFCRJG-UHFFFAOYSA-N,Nonalcoholic fatty liver disease,
+Vanillic acid,C8H8O4,COC1=C(O)C=CC(=C1)C(O)=O,WKOLLVMJNQIZCI-UHFFFAOYSA-N,Colorectal cancer,OMIM:114500
+Vanillic acid,C8H8O4,COC1=C(O)C=CC(=C1)C(O)=O,WKOLLVMJNQIZCI-UHFFFAOYSA-N,Eosinophilic esophagitis,OMIM:610247
+4-Hydroxybenzoic acid,C7H6O3,OC(=O)C1=CC=C(O)C=C1,FJKROLUGYXJWQN-UHFFFAOYSA-N,Supradiaphragmatic malignancy,
+4-Hydroxybenzoic acid,C7H6O3,OC(=O)C1=CC=C(O)C=C1,FJKROLUGYXJWQN-UHFFFAOYSA-N,Colorectal cancer,OMIM:114500
+4-Hydroxybenzoic acid,C7H6O3,OC(=O)C1=CC=C(O)C=C1,FJKROLUGYXJWQN-UHFFFAOYSA-N,Eosinophilic esophagitis,OMIM:610247
+5beta-Coprostanol,C27H48O,[H][C@@]1(CC[C@@]2([H])[C@]3([H])CC[C@]4([H])C[C@@H](O)CC[C@]4(C)[C@@]3([H])CC[C@]12C)[C@H](C)CCCC(C)C,QYIXCDOBOSTCEI-NWKZBHTNSA-N,Colorectal cancer,OMIM:114500
+5beta-Coprostanol,C27H48O,[H][C@@]1(CC[C@@]2([H])[C@]3([H])CC[C@]4([H])C[C@@H](O)CC[C@]4(C)[C@@]3([H])CC[C@]12C)[C@H](C)CCCC(C)C,QYIXCDOBOSTCEI-NWKZBHTNSA-N,Crohn's disease,OMIM:266600
+5beta-Coprostanol,C27H48O,[H][C@@]1(CC[C@@]2([H])[C@]3([H])CC[C@]4([H])C[C@@H](O)CC[C@]4(C)[C@@]3([H])CC[C@]12C)[C@H](C)CCCC(C)C,QYIXCDOBOSTCEI-NWKZBHTNSA-N,Ulcerative colitis,
+D-Ribulose,C5H10O5,OC[C@@]1(O)OC[C@@H](O)[C@H]1O,LQXVFWRQNMEDEE-UOWFLXDJSA-N,Colorectal cancer,OMIM:114500
+L-Arabinose,C5H10O5,O[C@H]1CO[C@H](O)[C@H](O)[C@H]1O,SRBFZHDQGSBBOR-KLVWXMOXSA-N,Ribose-5-phosphate isomerase deficiency,OMIM:608611
+L-Arabinose,C5H10O5,O[C@H]1CO[C@H](O)[C@H](O)[C@H]1O,SRBFZHDQGSBBOR-KLVWXMOXSA-N,Colorectal cancer,OMIM:114500
+L-Arabinose,C5H10O5,O[C@H]1CO[C@H](O)[C@H](O)[C@H]1O,SRBFZHDQGSBBOR-KLVWXMOXSA-N,Eosinophilic esophagitis,OMIM:610247
+Glutaric acid,C5H8O4,OC(=O)CCCC(O)=O,JFCQEDHGNNZCLN-UHFFFAOYSA-N,Glutaric aciduria I,
+Glutaric acid,C5H8O4,OC(=O)CCCC(O)=O,JFCQEDHGNNZCLN-UHFFFAOYSA-N,Glutaryl-CoA dehydrogenase deficiency (GDHD),
+Glutaric acid,C5H8O4,OC(=O)CCCC(O)=O,JFCQEDHGNNZCLN-UHFFFAOYSA-N,Irritable bowel syndrome,
+Glutaric acid,C5H8O4,OC(=O)CCCC(O)=O,JFCQEDHGNNZCLN-UHFFFAOYSA-N,Ulcerative colitis,
+Glutaric acid,C5H8O4,OC(=O)CCCC(O)=O,JFCQEDHGNNZCLN-UHFFFAOYSA-N,Colorectal cancer,OMIM:114500
+Glutaric acid,C5H8O4,OC(=O)CCCC(O)=O,JFCQEDHGNNZCLN-UHFFFAOYSA-N,Anorexia nervosa,OMIM:606788
+Glutaric acid,C5H8O4,OC(=O)CCCC(O)=O,JFCQEDHGNNZCLN-UHFFFAOYSA-N,Eosinophilic esophagitis,OMIM:610247
+Glutaric acid,C5H8O4,OC(=O)CCCC(O)=O,JFCQEDHGNNZCLN-UHFFFAOYSA-N,Fumarase deficiency,OMIM:606812
+Glutaric acid,C5H8O4,OC(=O)CCCC(O)=O,JFCQEDHGNNZCLN-UHFFFAOYSA-N,Malonyl-Coa decarboxylase deficiency,OMIM:248360
+Glutaric acid,C5H8O4,OC(=O)CCCC(O)=O,JFCQEDHGNNZCLN-UHFFFAOYSA-N,3-Hydroxy-3-methylglutaryl-CoA lyase deficiency,OMIM:246450
+Glutaric acid,C5H8O4,OC(=O)CCCC(O)=O,JFCQEDHGNNZCLN-UHFFFAOYSA-N,Short Chain Acyl-Coa Dehydrogenase Deficiency,
+Glutaric acid,C5H8O4,OC(=O)CCCC(O)=O,JFCQEDHGNNZCLN-UHFFFAOYSA-N,3-Hydroxy-3-Methylglutaryl-CoA Synthase Deficiency,OMIM:605911
+Glutaric acid,C5H8O4,OC(=O)CCCC(O)=O,JFCQEDHGNNZCLN-UHFFFAOYSA-N,Glutaric aciduria type III,OMIM:231690
+Indolelactic acid,C11H11NO3,O[C@@H](CC1=CNC2=C1C=CC=C2)C(O)=O,XGILAAMKEQUXLS-JTQLQIEISA-N,Colorectal cancer,OMIM:114500
+Indoxyl sulfate,C8H7NO4S,OS(=O)(=O)OC1=CNC2=CC=CC=C12,BXFFHSIDQOFMLE-UHFFFAOYSA-N,Uremia,
+Indoxyl sulfate,C8H7NO4S,OS(=O)(=O)OC1=CNC2=CC=CC=C12,BXFFHSIDQOFMLE-UHFFFAOYSA-N,Colorectal cancer,OMIM:114500
+Indoxyl sulfate,C8H7NO4S,OS(=O)(=O)OC1=CNC2=CC=CC=C12,BXFFHSIDQOFMLE-UHFFFAOYSA-N,Eosinophilic esophagitis,OMIM:610247
+Hydroxypropionic acid,C3H6O3,OCCC(O)=O,ALRHLSYJTWAHJZ-UHFFFAOYSA-N,Biotinidase deficiency,OMIM:253260
+Hydroxypropionic acid,C3H6O3,OCCC(O)=O,ALRHLSYJTWAHJZ-UHFFFAOYSA-N,Colorectal cancer,OMIM:114500
+Hydroxypropionic acid,C3H6O3,OCCC(O)=O,ALRHLSYJTWAHJZ-UHFFFAOYSA-N,Stomach cancer,OMIM:137215
+Hydroxypropionic acid,C3H6O3,OCCC(O)=O,ALRHLSYJTWAHJZ-UHFFFAOYSA-N,Propionic acidemia,OMIM:606054
+Hydroxypropionic acid,C3H6O3,OCCC(O)=O,ALRHLSYJTWAHJZ-UHFFFAOYSA-N,Eosinophilic esophagitis,OMIM:610247
+Hydroxypropionic acid,C3H6O3,OCCC(O)=O,ALRHLSYJTWAHJZ-UHFFFAOYSA-N,Branched-chain Keto Acid Dehydrogenase Kinase Deficiency,OMIM:614923
+4-Hydroxyphenylpyruvic acid,C9H8O4,OC(=O)C(=O)CC1=CC=C(O)C=C1,KKADPXVIOXHVKN-UHFFFAOYSA-N,Colorectal cancer,OMIM:114500
+4-Hydroxyphenylpyruvic acid,C9H8O4,OC(=O)C(=O)CC1=CC=C(O)C=C1,KKADPXVIOXHVKN-UHFFFAOYSA-N,Attachment loss,
+4-Hydroxyphenylpyruvic acid,C9H8O4,OC(=O)C(=O)CC1=CC=C(O)C=C1,KKADPXVIOXHVKN-UHFFFAOYSA-N,Periodontal Probing Depth,
+4-Hydroxyphenylpyruvic acid,C9H8O4,OC(=O)C(=O)CC1=CC=C(O)C=C1,KKADPXVIOXHVKN-UHFFFAOYSA-N,Phenylketonuria,OMIM:261600
+4-Hydroxyphenylpyruvic acid,C9H8O4,OC(=O)C(=O)CC1=CC=C(O)C=C1,KKADPXVIOXHVKN-UHFFFAOYSA-N,Hawkinsinuria,OMIM:140350
+4-Hydroxyphenylpyruvic acid,C9H8O4,OC(=O)C(=O)CC1=CC=C(O)C=C1,KKADPXVIOXHVKN-UHFFFAOYSA-N,"Deafness, Onychodystrophy, Osteodystrophy, Mental Retardation, and Seizures Syndrome",OMIM:220500
+4-Hydroxybutyric acid,C4H8O3,OCCCC(O)=O,SJZRECIVHVDYJC-UHFFFAOYSA-N,Succinic semialdehyde dehydrogenase deficiency,OMIM:271980
+4-Hydroxybutyric acid,C4H8O3,OCCCC(O)=O,SJZRECIVHVDYJC-UHFFFAOYSA-N,Colorectal cancer,OMIM:114500
+4-Hydroxybutyric acid,C4H8O3,OCCCC(O)=O,SJZRECIVHVDYJC-UHFFFAOYSA-N,Glutaric aciduria II,OMIM:231680
+4-Hydroxybutyric acid,C4H8O3,OCCCC(O)=O,SJZRECIVHVDYJC-UHFFFAOYSA-N,Eosinophilic esophagitis,OMIM:610247
+4-Hydroxybutyric acid,C4H8O3,OCCCC(O)=O,SJZRECIVHVDYJC-UHFFFAOYSA-N,Attachment loss,
+4-Hydroxybutyric acid,C4H8O3,OCCCC(O)=O,SJZRECIVHVDYJC-UHFFFAOYSA-N,Missing teeth,
+4-Hydroxybutyric acid,C4H8O3,OCCCC(O)=O,SJZRECIVHVDYJC-UHFFFAOYSA-N,Periodontal Probing Depth,
+4-Hydroxybutyric acid,C4H8O3,OCCCC(O)=O,SJZRECIVHVDYJC-UHFFFAOYSA-N,Tooth Decay,
+Hippuric acid,C9H9NO3,OC(=O)CNC(=O)C1=CC=CC=C1,QIAFMBKCNZACKA-UHFFFAOYSA-N,Uremia,
+Hippuric acid,C9H9NO3,OC(=O)CNC(=O)C1=CC=CC=C1,QIAFMBKCNZACKA-UHFFFAOYSA-N,Crohn's disease,OMIM:266600
+Hippuric acid,C9H9NO3,OC(=O)CNC(=O)C1=CC=CC=C1,QIAFMBKCNZACKA-UHFFFAOYSA-N,Ulcerative colitis,
+Hippuric acid,C9H9NO3,OC(=O)CNC(=O)C1=CC=CC=C1,QIAFMBKCNZACKA-UHFFFAOYSA-N,Paraquat poisoning,
+Hippuric acid,C9H9NO3,OC(=O)CNC(=O)C1=CC=CC=C1,QIAFMBKCNZACKA-UHFFFAOYSA-N,Lung Cancer,OMIM:211980
+Hippuric acid,C9H9NO3,OC(=O)CNC(=O)C1=CC=CC=C1,QIAFMBKCNZACKA-UHFFFAOYSA-N,Diabetes mellitus type 1,OMIM:222100
+Hippuric acid,C9H9NO3,OC(=O)CNC(=O)C1=CC=CC=C1,QIAFMBKCNZACKA-UHFFFAOYSA-N,Argininosuccinic aciduria,OMIM:207900
+Hippuric acid,C9H9NO3,OC(=O)CNC(=O)C1=CC=CC=C1,QIAFMBKCNZACKA-UHFFFAOYSA-N,Propionic acidemia,OMIM:606054
+Hippuric acid,C9H9NO3,OC(=O)CNC(=O)C1=CC=CC=C1,QIAFMBKCNZACKA-UHFFFAOYSA-N,Tyrosinemia I,OMIM:276700
+Hippuric acid,C9H9NO3,OC(=O)CNC(=O)C1=CC=CC=C1,QIAFMBKCNZACKA-UHFFFAOYSA-N,Phenylketonuria,OMIM:261600
+Hippuric acid,C9H9NO3,OC(=O)CNC(=O)C1=CC=CC=C1,QIAFMBKCNZACKA-UHFFFAOYSA-N,Maple syrup urine disease,OMIM:248600
+Hippuric acid,C9H9NO3,OC(=O)CNC(=O)C1=CC=CC=C1,QIAFMBKCNZACKA-UHFFFAOYSA-N,Eosinophilic esophagitis,OMIM:610247
+Hippuric acid,C9H9NO3,OC(=O)CNC(=O)C1=CC=CC=C1,QIAFMBKCNZACKA-UHFFFAOYSA-N,Colorectal cancer,OMIM:114500
+Hippuric acid,C9H9NO3,OC(=O)CNC(=O)C1=CC=CC=C1,QIAFMBKCNZACKA-UHFFFAOYSA-N,Schizophrenia,OMIM:181500
+Hippuric acid,C9H9NO3,OC(=O)CNC(=O)C1=CC=CC=C1,QIAFMBKCNZACKA-UHFFFAOYSA-N,Obesity,OMIM:601665
+Indole,C8H7N,N1C=CC2=C1C=CC=C2,SIKJAQJRHWYJAI-UHFFFAOYSA-N,Ulcerative colitis,
+Indole,C8H7N,N1C=CC2=C1C=CC=C2,SIKJAQJRHWYJAI-UHFFFAOYSA-N,Nonalcoholic fatty liver disease,
+Indole,C8H7N,N1C=CC2=C1C=CC=C2,SIKJAQJRHWYJAI-UHFFFAOYSA-N,Celiac disease,OMIM:212750
+Indole,C8H7N,N1C=CC2=C1C=CC=C2,SIKJAQJRHWYJAI-UHFFFAOYSA-N,Crohn's disease,OMIM:266600
+Indole,C8H7N,N1C=CC2=C1C=CC=C2,SIKJAQJRHWYJAI-UHFFFAOYSA-N,Irritable bowel syndrome,
+Indole,C8H7N,N1C=CC2=C1C=CC=C2,SIKJAQJRHWYJAI-UHFFFAOYSA-N,Autism,OMIM:209850
+Indole,C8H7N,N1C=CC2=C1C=CC=C2,SIKJAQJRHWYJAI-UHFFFAOYSA-N,Pervasive developmental disorder not otherwise specified,
+Indole,C8H7N,N1C=CC2=C1C=CC=C2,SIKJAQJRHWYJAI-UHFFFAOYSA-N,Clostridium difficile infection,
+Indole,C8H7N,N1C=CC2=C1C=CC=C2,SIKJAQJRHWYJAI-UHFFFAOYSA-N,Perillyl alcohol administration for cancer treatment,
+Hydroxyisocaproic acid,C6H12O3,CC(C)C[C@H](O)C(O)=O,LVRFTAZAXQPQHI-YFKPBYRVSA-N,Colorectal cancer,OMIM:114500
+Hydroxyisocaproic acid,C6H12O3,CC(C)C[C@H](O)C(O)=O,LVRFTAZAXQPQHI-YFKPBYRVSA-N,Maple syrup urine disease,OMIM:248600
+Hydroxyisocaproic acid,C6H12O3,CC(C)C[C@H](O)C(O)=O,LVRFTAZAXQPQHI-YFKPBYRVSA-N,Eosinophilic esophagitis,OMIM:610247
+Hydroxyisocaproic acid,C6H12O3,CC(C)C[C@H](O)C(O)=O,LVRFTAZAXQPQHI-YFKPBYRVSA-N,Supragingival Plaque,
+Hydroxyisocaproic acid,C6H12O3,CC(C)C[C@H](O)C(O)=O,LVRFTAZAXQPQHI-YFKPBYRVSA-N,Tooth Decay,
+Hydroxyphenyllactic acid,C9H10O4,OC(CC1=CC=C(O)C=C1)C(O)=O,JVGVDSSUAVXRDY-UHFFFAOYSA-N,Colorectal cancer,OMIM:114500
+Hydroxyphenyllactic acid,C9H10O4,OC(CC1=CC=C(O)C=C1)C(O)=O,JVGVDSSUAVXRDY-UHFFFAOYSA-N,Supragingival Plaque,
+Hydroxyphenyllactic acid,C9H10O4,OC(CC1=CC=C(O)C=C1)C(O)=O,JVGVDSSUAVXRDY-UHFFFAOYSA-N,Phenylketonuria,OMIM:261600
+Hydroxyphenyllactic acid,C9H10O4,OC(CC1=CC=C(O)C=C1)C(O)=O,JVGVDSSUAVXRDY-UHFFFAOYSA-N,Eosinophilic esophagitis,OMIM:610247
+5-Hydroxyindoleacetic acid,C10H9NO3,OC(=O)CC1=CNC2=C1C=C(O)C=C2,DUUGKQCEGZLZNO-UHFFFAOYSA-N,Schizophrenia,OMIM:181500
+5-Hydroxyindoleacetic acid,C10H9NO3,OC(=O)CC1=CNC2=C1C=C(O)C=C2,DUUGKQCEGZLZNO-UHFFFAOYSA-N,Epilepsy,
+5-Hydroxyindoleacetic acid,C10H9NO3,OC(=O)CC1=CNC2=C1C=C(O)C=C2,DUUGKQCEGZLZNO-UHFFFAOYSA-N,Major depressive disorder,OMIM:608516
+5-Hydroxyindoleacetic acid,C10H9NO3,OC(=O)CC1=CNC2=C1C=C(O)C=C2,DUUGKQCEGZLZNO-UHFFFAOYSA-N,Friedreich's ataxia,OMIM:229300
+5-Hydroxyindoleacetic acid,C10H9NO3,OC(=O)CC1=CNC2=C1C=C(O)C=C2,DUUGKQCEGZLZNO-UHFFFAOYSA-N,Olivopontocerebral atrophy,
+5-Hydroxyindoleacetic acid,C10H9NO3,OC(=O)CC1=CNC2=C1C=C(O)C=C2,DUUGKQCEGZLZNO-UHFFFAOYSA-N,Hereditary spastic paraplegia,OMIM:182601
+5-Hydroxyindoleacetic acid,C10H9NO3,OC(=O)CC1=CNC2=C1C=C(O)C=C2,DUUGKQCEGZLZNO-UHFFFAOYSA-N,Aromatic L-amino acid decarboxylase deficiency,OMIM:608643
+5-Hydroxyindoleacetic acid,C10H9NO3,OC(=O)CC1=CNC2=C1C=C(O)C=C2,DUUGKQCEGZLZNO-UHFFFAOYSA-N,Celiac disease,OMIM:212750
+5-Hydroxyindoleacetic acid,C10H9NO3,OC(=O)CC1=CNC2=C1C=C(O)C=C2,DUUGKQCEGZLZNO-UHFFFAOYSA-N,Pyridoxamine 5-prime-phosphate oxidase deficiency,OMIM:610090
+5-Hydroxyindoleacetic acid,C10H9NO3,OC(=O)CC1=CNC2=C1C=C(O)C=C2,DUUGKQCEGZLZNO-UHFFFAOYSA-N,Sepiapterin reductase deficiency,OMIM:182125
+5-Hydroxyindoleacetic acid,C10H9NO3,OC(=O)CC1=CNC2=C1C=C(O)C=C2,DUUGKQCEGZLZNO-UHFFFAOYSA-N,Bipolar disorder,OMIM:125480
+5-Hydroxyindoleacetic acid,C10H9NO3,OC(=O)CC1=CNC2=C1C=C(O)C=C2,DUUGKQCEGZLZNO-UHFFFAOYSA-N,Crohn's disease,OMIM:266600
+5-Hydroxyindoleacetic acid,C10H9NO3,OC(=O)CC1=CNC2=C1C=C(O)C=C2,DUUGKQCEGZLZNO-UHFFFAOYSA-N,Ulcerative colitis,
+5-Hydroxyindoleacetic acid,C10H9NO3,OC(=O)CC1=CNC2=C1C=C(O)C=C2,DUUGKQCEGZLZNO-UHFFFAOYSA-N,Carbamoyl Phosphate Synthetase Deficiency,OMIM:237300
+5-Hydroxyindoleacetic acid,C10H9NO3,OC(=O)CC1=CNC2=C1C=C(O)C=C2,DUUGKQCEGZLZNO-UHFFFAOYSA-N,Eosinophilic esophagitis,OMIM:610247
+5-Hydroxyindoleacetic acid,C10H9NO3,OC(=O)CC1=CNC2=C1C=C(O)C=C2,DUUGKQCEGZLZNO-UHFFFAOYSA-N,Perillyl alcohol administration for cancer treatment,
+5-Hydroxyindoleacetic acid,C10H9NO3,OC(=O)CC1=CNC2=C1C=C(O)C=C2,DUUGKQCEGZLZNO-UHFFFAOYSA-N,Metabolic syndrome,OMIM:605552
+5-Hydroxyindoleacetic acid,C10H9NO3,OC(=O)CC1=CNC2=C1C=C(O)C=C2,DUUGKQCEGZLZNO-UHFFFAOYSA-N,Dopamine-serotonin Vesicular Transport Defect,
+5-Hydroxyindoleacetic acid,C10H9NO3,OC(=O)CC1=CNC2=C1C=C(O)C=C2,DUUGKQCEGZLZNO-UHFFFAOYSA-N,Brunner Syndrome,OMIM:300615
+Hydrocinnamic acid,C9H10O2,OC(=O)CCC1=CC=CC=C1,XMIIGOLPHOKFCH-UHFFFAOYSA-N,Colorectal cancer,OMIM:114500
+Hydrocinnamic acid,C9H10O2,OC(=O)CCC1=CC=CC=C1,XMIIGOLPHOKFCH-UHFFFAOYSA-N,Crohn's disease,OMIM:266600
+Hydrocinnamic acid,C9H10O2,OC(=O)CCC1=CC=CC=C1,XMIIGOLPHOKFCH-UHFFFAOYSA-N,Irritable bowel syndrome,
+Hydrocinnamic acid,C9H10O2,OC(=O)CCC1=CC=CC=C1,XMIIGOLPHOKFCH-UHFFFAOYSA-N,Prostate cancer,OMIM:176807
+Hydrocinnamic acid,C9H10O2,OC(=O)CCC1=CC=CC=C1,XMIIGOLPHOKFCH-UHFFFAOYSA-N,Ulcerative colitis,
+Hydrocinnamic acid,C9H10O2,OC(=O)CCC1=CC=CC=C1,XMIIGOLPHOKFCH-UHFFFAOYSA-N,Attachment loss,
+Hydrocinnamic acid,C9H10O2,OC(=O)CCC1=CC=CC=C1,XMIIGOLPHOKFCH-UHFFFAOYSA-N,Missing teeth,
+Hydrocinnamic acid,C9H10O2,OC(=O)CCC1=CC=CC=C1,XMIIGOLPHOKFCH-UHFFFAOYSA-N,Periodontal Probing Depth,
+Hydrocinnamic acid,C9H10O2,OC(=O)CCC1=CC=CC=C1,XMIIGOLPHOKFCH-UHFFFAOYSA-N,Prosthesis/Missing teeth,
+Hydrocinnamic acid,C9H10O2,OC(=O)CCC1=CC=CC=C1,XMIIGOLPHOKFCH-UHFFFAOYSA-N,Supragingival Plaque,
+Hydrocinnamic acid,C9H10O2,OC(=O)CCC1=CC=CC=C1,XMIIGOLPHOKFCH-UHFFFAOYSA-N,Tooth Decay,
+Mannitol,C6H14O6,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,FBPFZTCFMRRESA-KVTDHHQDSA-N,Cytochrome C oxidase deficiency,OMIM:220110
+Mannitol,C6H14O6,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,FBPFZTCFMRRESA-KVTDHHQDSA-N,Ribose-5-phosphate isomerase deficiency,OMIM:608611
+Mannitol,C6H14O6,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,FBPFZTCFMRRESA-KVTDHHQDSA-N,Uremia,
+Mannitol,C6H14O6,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,FBPFZTCFMRRESA-KVTDHHQDSA-N,AIDS,
+Mannitol,C6H14O6,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,FBPFZTCFMRRESA-KVTDHHQDSA-N,Alzheimer's disease,OMIM:104300
+Mannitol,C6H14O6,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,FBPFZTCFMRRESA-KVTDHHQDSA-N,Colorectal cancer,OMIM:114500
+Mannitol,C6H14O6,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,FBPFZTCFMRRESA-KVTDHHQDSA-N,Lung Cancer,OMIM:211980
+Mannitol,C6H14O6,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,FBPFZTCFMRRESA-KVTDHHQDSA-N,Eosinophilic esophagitis,OMIM:610247
+Nonadecanoic acid,C19H38O2,CCCCCCCCCCCCCCCCCCC(O)=O,ISYWECDDZWTKFF-UHFFFAOYSA-N,Colorectal cancer,OMIM:114500
+Phenyllactic acid,C9H10O3,OC(CC1=CC=CC=C1)C(O)=O,VOXXWSYKYCBWHO-UHFFFAOYSA-N,Colorectal cancer,OMIM:114500
+Phenyllactic acid,C9H10O3,OC(CC1=CC=CC=C1)C(O)=O,VOXXWSYKYCBWHO-UHFFFAOYSA-N,Phenylketonuria,OMIM:261600
+Phenyllactic acid,C9H10O3,OC(CC1=CC=CC=C1)C(O)=O,VOXXWSYKYCBWHO-UHFFFAOYSA-N,Attachment loss,
+Phenyllactic acid,C9H10O3,OC(CC1=CC=CC=C1)C(O)=O,VOXXWSYKYCBWHO-UHFFFAOYSA-N,Periodontal Probing Depth,
+Phenyllactic acid,C9H10O3,OC(CC1=CC=CC=C1)C(O)=O,VOXXWSYKYCBWHO-UHFFFAOYSA-N,Supragingival Plaque,
+Propyl alcohol,C3H8O,CCCO,BDERNNFJNOPAEC-UHFFFAOYSA-N,Celiac disease,OMIM:212750
+Propyl alcohol,C3H8O,CCCO,BDERNNFJNOPAEC-UHFFFAOYSA-N,Crohn's disease,OMIM:266600
+Propyl alcohol,C3H8O,CCCO,BDERNNFJNOPAEC-UHFFFAOYSA-N,Irritable bowel syndrome,
+Propyl alcohol,C3H8O,CCCO,BDERNNFJNOPAEC-UHFFFAOYSA-N,Ulcerative colitis,
+Propyl alcohol,C3H8O,CCCO,BDERNNFJNOPAEC-UHFFFAOYSA-N,Nonalcoholic fatty liver disease,
+Propyl alcohol,C3H8O,CCCO,BDERNNFJNOPAEC-UHFFFAOYSA-N,Clostridium difficile infection,
+Rhamnose,C6H12O5,C[C@@H]1OC(O)[C@H](O)[C@H](O)[C@H]1O,SHZGCJCMOBCMKK-JFNONXLTSA-N,Colorectal cancer,OMIM:114500
+Isopropyl alcohol,C3H8O,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Isopropyl alcohol poisoning,
+Isopropyl alcohol,C3H8O,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Alcoholism,
+Isopropyl alcohol,C3H8O,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Early preeclampsia,
+Isopropyl alcohol,C3H8O,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Pregnancy,
+Isopropyl alcohol,C3H8O,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Late-onset preeclampsia,
+Isopropyl alcohol,C3H8O,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Asthma,OMIM:600807
+Isopropyl alcohol,C3H8O,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Ulcerative colitis,
+Isopropyl alcohol,C3H8O,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Nonalcoholic fatty liver disease,
+Isopropyl alcohol,C3H8O,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Crohn's disease,OMIM:266600
+Isopropyl alcohol,C3H8O,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Eosinophilic esophagitis,OMIM:610247
+Histamine,C5H9N3,NCCC1=CNC=N1,NTYJJOPFIAHURM-UHFFFAOYSA-N,Nephrotic syndrome,
+Histamine,C5H9N3,NCCC1=CNC=N1,NTYJJOPFIAHURM-UHFFFAOYSA-N,Hemodialysis,
+Histamine,C5H9N3,NCCC1=CNC=N1,NTYJJOPFIAHURM-UHFFFAOYSA-N,Kidney disease,
+Histamine,C5H9N3,NCCC1=CNC=N1,NTYJJOPFIAHURM-UHFFFAOYSA-N,Continuous ambulatory peritoneal dialysis,
+Histamine,C5H9N3,NCCC1=CNC=N1,NTYJJOPFIAHURM-UHFFFAOYSA-N,Colorectal cancer,OMIM:114500
+Histamine,C5H9N3,NCCC1=CNC=N1,NTYJJOPFIAHURM-UHFFFAOYSA-N,Eosinophilic esophagitis,OMIM:610247
+Acetylcholine,C7H16NO2,CC(=O)OCC[N+](C)(C)C,OIPILFWXSMYKGL-UHFFFAOYSA-N,Alzheimer's disease,OMIM:104300
+Acetylcholine,C7H16NO2,CC(=O)OCC[N+](C)(C)C,OIPILFWXSMYKGL-UHFFFAOYSA-N,Multi-infarct dementia,
+Taurodeoxycholic acid,C26H45NO6S,[H][C@@]1(CC[C@@]2([H])[C@]3([H])CC[C@]4([H])C[C@H](O)CC[C@]4(C)[C@@]3([H])C[C@H](O)[C@]12C)[C@H](C)CCC(=O)NCCS(O)(=O)=O,AWDRATDZQPNJFN-VAYUFCLWSA-N,Hepatocellular carcinoma,OMIM:114550
+Taurodeoxycholic acid,C26H45NO6S,[H][C@@]1(CC[C@@]2([H])[C@]3([H])CC[C@]4([H])C[C@H](O)CC[C@]4(C)[C@@]3([H])C[C@H](O)[C@]12C)[C@H](C)CCC(=O)NCCS(O)(=O)=O,AWDRATDZQPNJFN-VAYUFCLWSA-N,Cirrhosis,
+Taurodeoxycholic acid,C26H45NO6S,[H][C@@]1(CC[C@@]2([H])[C@]3([H])CC[C@]4([H])C[C@H](O)CC[C@]4(C)[C@@]3([H])C[C@H](O)[C@]12C)[C@H](C)CCC(=O)NCCS(O)(=O)=O,AWDRATDZQPNJFN-VAYUFCLWSA-N,Colorectal cancer,OMIM:114500
+Taurodeoxycholic acid,C26H45NO6S,[H][C@@]1(CC[C@@]2([H])[C@]3([H])CC[C@]4([H])C[C@H](O)CC[C@]4(C)[C@@]3([H])C[C@H](O)[C@]12C)[C@H](C)CCC(=O)NCCS(O)(=O)=O,AWDRATDZQPNJFN-VAYUFCLWSA-N,Metastatic melanoma,
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,Pregnancy,
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,Perillyl alcohol administration for cancer treatment,
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,Crohn's disease,OMIM:266600
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,Dimethylglycine Dehydrogenase Deficiency,OMIM:605850
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,Trimethylaminuria,OMIM:602079
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,Irritable bowel syndrome,
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,Kidney disease,
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,Periodontal disease,OMIM:170650
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,Uremia,
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,Pancreatic cancer,OMIM:260350
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,Diverticular disease,
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,Eosinophilic esophagitis,OMIM:610247
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,Ulcerative colitis,
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,Early preeclampsia,
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,Late-onset preeclampsia,
+Trimethylamine N-oxide,C3H9NO,C[N+](C)(C)[O-],UYPYRKYUKCHHIB-UHFFFAOYSA-N,Kidney disease,
+Trimethylamine N-oxide,C3H9NO,C[N+](C)(C)[O-],UYPYRKYUKCHHIB-UHFFFAOYSA-N,Uremia,
+Trimethylamine N-oxide,C3H9NO,C[N+](C)(C)[O-],UYPYRKYUKCHHIB-UHFFFAOYSA-N,Pancreatic cancer,OMIM:260350
+Trimethylamine N-oxide,C3H9NO,C[N+](C)(C)[O-],UYPYRKYUKCHHIB-UHFFFAOYSA-N,Colorectal cancer,OMIM:114500
+Trimethylamine N-oxide,C3H9NO,C[N+](C)(C)[O-],UYPYRKYUKCHHIB-UHFFFAOYSA-N,Celiac disease,OMIM:212750
+Trimethylamine N-oxide,C3H9NO,C[N+](C)(C)[O-],UYPYRKYUKCHHIB-UHFFFAOYSA-N,Inflammatory bowel disease,
+Trimethylamine N-oxide,C3H9NO,C[N+](C)(C)[O-],UYPYRKYUKCHHIB-UHFFFAOYSA-N,Ulcerative colitis,
+Trimethylamine N-oxide,C3H9NO,C[N+](C)(C)[O-],UYPYRKYUKCHHIB-UHFFFAOYSA-N,Crohn's disease,OMIM:266600
+Trimethylamine N-oxide,C3H9NO,C[N+](C)(C)[O-],UYPYRKYUKCHHIB-UHFFFAOYSA-N,Trimethylaminuria,OMIM:602079
+Trimethylamine N-oxide,C3H9NO,C[N+](C)(C)[O-],UYPYRKYUKCHHIB-UHFFFAOYSA-N,Lung Cancer,OMIM:211980
+Trimethylamine N-oxide,C3H9NO,C[N+](C)(C)[O-],UYPYRKYUKCHHIB-UHFFFAOYSA-N,Rhabdomyolysis,
+Trimethylamine N-oxide,C3H9NO,C[N+](C)(C)[O-],UYPYRKYUKCHHIB-UHFFFAOYSA-N,Argininosuccinic aciduria,OMIM:207900
+Trimethylamine N-oxide,C3H9NO,C[N+](C)(C)[O-],UYPYRKYUKCHHIB-UHFFFAOYSA-N,Propionic acidemia,OMIM:606054
+Trimethylamine N-oxide,C3H9NO,C[N+](C)(C)[O-],UYPYRKYUKCHHIB-UHFFFAOYSA-N,Tyrosinemia I,OMIM:276700
+Trimethylamine N-oxide,C3H9NO,C[N+](C)(C)[O-],UYPYRKYUKCHHIB-UHFFFAOYSA-N,Maple syrup urine disease,OMIM:248600
+Trimethylamine N-oxide,C3H9NO,C[N+](C)(C)[O-],UYPYRKYUKCHHIB-UHFFFAOYSA-N,Eosinophilic esophagitis,OMIM:610247
+Trimethylamine N-oxide,C3H9NO,C[N+](C)(C)[O-],UYPYRKYUKCHHIB-UHFFFAOYSA-N,Schizophrenia,OMIM:181500
+Trimethylamine N-oxide,C3H9NO,C[N+](C)(C)[O-],UYPYRKYUKCHHIB-UHFFFAOYSA-N,Dimethylglycine Dehydrogenase Deficiency,OMIM:605850
+Ferulic acid,C10H10O4,COC1=C(O)C=CC(\C=C\C(O)=O)=C1,KSEBMYQBYZTDHS-HWKANZROSA-N,Colorectal cancer,OMIM:114500
+Ferulic acid,C10H10O4,COC1=C(O)C=CC(\C=C\C(O)=O)=C1,KSEBMYQBYZTDHS-HWKANZROSA-N,Eosinophilic esophagitis,OMIM:610247
+Tartaric acid,C4H6O6,O[C@H]([C@@H](O)C(O)=O)C(O)=O,FEWJPZIEWOKRBE-JCYAYHJZSA-N,Lung Cancer,OMIM:211980
+Pyrocatechol,C6H6O2,OC1=CC=CC=C1O,YCIMNLLNPGFGHC-UHFFFAOYSA-N,Autosomal  dominant polycystic kidney disease,OMIM:601313
+Pyrocatechol,C6H6O2,OC1=CC=CC=C1O,YCIMNLLNPGFGHC-UHFFFAOYSA-N,Schizophrenia,OMIM:181500
+Acetaldehyde,C2H4O,CC=O,IKHGUXGNUITLKF-UHFFFAOYSA-N,Alcoholism,
+Acetaldehyde,C2H4O,CC=O,IKHGUXGNUITLKF-UHFFFAOYSA-N,Aldehyde dehydrogenase deficiency,
+Acetaldehyde,C2H4O,CC=O,IKHGUXGNUITLKF-UHFFFAOYSA-N,Crohn's disease,OMIM:266600
+Acetaldehyde,C2H4O,CC=O,IKHGUXGNUITLKF-UHFFFAOYSA-N,Ulcerative colitis,
+Acetaldehyde,C2H4O,CC=O,IKHGUXGNUITLKF-UHFFFAOYSA-N,Nonalcoholic fatty liver disease,
+N-Formyl-L-methionine,C6H11NO3S,CSCC[C@H](NC=O)C(O)=O,PYUSHNKNPOHWEZ-YFKPBYRVSA-N,Colorectal cancer,OMIM:114500
+N-Formyl-L-methionine,C6H11NO3S,CSCC[C@H](NC=O)C(O)=O,PYUSHNKNPOHWEZ-YFKPBYRVSA-N,Prostate cancer,OMIM:176807
+N-Acetylmannosamine,C8H15NO6,CC(=O)N[C@@H]1[C@H](O)O[C@H](CO)[C@@H](O)[C@@H]1O,OVRNDRQMDRJTHS-OZRXBMAMSA-N,Colorectal cancer,OMIM:114500
+L-Sorbose,C6H12O6,OC[C@@]1(O)OC[C@H](O)[C@@H](O)[C@@H]1O,LKDRXBCSQODPBY-BGPJRJDNSA-N,Colorectal cancer,OMIM:114500
+L-Sorbose,C6H12O6,OC[C@@]1(O)OC[C@H](O)[C@@H](O)[C@@H]1O,LKDRXBCSQODPBY-BGPJRJDNSA-N,Prostate cancer,OMIM:176807
+D-Alanine,C3H7NO2,C[C@@H](N)C(O)=O,QNAYBMKLOCPYGJ-UWTATZPHSA-N,Early preeclampsia,
+D-Alanine,C3H7NO2,C[C@@H](N)C(O)=O,QNAYBMKLOCPYGJ-UWTATZPHSA-N,Pregnancy,
+D-Alanine,C3H7NO2,C[C@@H](N)C(O)=O,QNAYBMKLOCPYGJ-UWTATZPHSA-N,Late-onset preeclampsia,
+D-Alanine,C3H7NO2,C[C@@H](N)C(O)=O,QNAYBMKLOCPYGJ-UWTATZPHSA-N,Propionic acidemia,OMIM:606054
+D-Lactic acid,C3H6O3,C[C@@H](O)C(O)=O,JVTAAEKCZFNVCJ-UWTATZPHSA-N,Diabetes mellitus type 2,OMIM:125853
+D-Lactic acid,C3H6O3,C[C@@H](O)C(O)=O,JVTAAEKCZFNVCJ-UWTATZPHSA-N,Schizophrenia,OMIM:181500
+D-Lactic acid,C3H6O3,C[C@@H](O)C(O)=O,JVTAAEKCZFNVCJ-UWTATZPHSA-N,D-Lactic Acidosis,OMIM:245450
+D-Lactic acid,C3H6O3,C[C@@H](O)C(O)=O,JVTAAEKCZFNVCJ-UWTATZPHSA-N,D-Lactic Acidosis and Short Bowel Syndrome,
+"3,4-Dihydroxybenzeneacetic acid",C8H8O4,OC(=O)CC1=CC(O)=C(O)C=C1,CFFZDZCDUFSOFZ-UHFFFAOYSA-N,Encephalitis,
+"3,4-Dihydroxybenzeneacetic acid",C8H8O4,OC(=O)CC1=CC(O)=C(O)C=C1,CFFZDZCDUFSOFZ-UHFFFAOYSA-N,Hypothyroidism,
+"3,4-Dihydroxybenzeneacetic acid",C8H8O4,OC(=O)CC1=CC(O)=C(O)C=C1,CFFZDZCDUFSOFZ-UHFFFAOYSA-N,Alzheimer's disease,OMIM:104300
+"3,4-Dihydroxybenzeneacetic acid",C8H8O4,OC(=O)CC1=CC(O)=C(O)C=C1,CFFZDZCDUFSOFZ-UHFFFAOYSA-N,Colorectal cancer,OMIM:114500
+Diaminopimelic acid,C7H14N2O4,N[C@@H](CCC[C@H](N)C(O)=O)C(O)=O,GMKMEZVLHJARHF-WHFBIAKZSA-N,Colorectal cancer,OMIM:114500
+p-Aminobenzoic acid,C7H7NO2,NC1=CC=C(C=C1)C(O)=O,ALYNCZNDIQEVRV-UHFFFAOYSA-N,Colorectal cancer,OMIM:114500
+Putrescine,C4H12N2,NCCCCN,KIDHWZJUCRJVML-UHFFFAOYSA-N,Uremia,
+Putrescine,C4H12N2,NCCCCN,KIDHWZJUCRJVML-UHFFFAOYSA-N,Irritable bowel syndrome,
+Putrescine,C4H12N2,NCCCCN,KIDHWZJUCRJVML-UHFFFAOYSA-N,Ulcerative colitis,
+Putrescine,C4H12N2,NCCCCN,KIDHWZJUCRJVML-UHFFFAOYSA-N,Crohn's disease,OMIM:266600
+Putrescine,C4H12N2,NCCCCN,KIDHWZJUCRJVML-UHFFFAOYSA-N,Perillyl alcohol administration for cancer treatment,
+Putrescine,C4H12N2,NCCCCN,KIDHWZJUCRJVML-UHFFFAOYSA-N,Periodontal disease,OMIM:170650
+Putrescine,C4H12N2,NCCCCN,KIDHWZJUCRJVML-UHFFFAOYSA-N,Alzheimer's disease,OMIM:104300
+Putrescine,C4H12N2,NCCCCN,KIDHWZJUCRJVML-UHFFFAOYSA-N,Frontotemporal dementia,OMIM:600274
+Putrescine,C4H12N2,NCCCCN,KIDHWZJUCRJVML-UHFFFAOYSA-N,Lewy body disease,
+Putrescine,C4H12N2,NCCCCN,KIDHWZJUCRJVML-UHFFFAOYSA-N,Pancreatic cancer,OMIM:260350
+Putrescine,C4H12N2,NCCCCN,KIDHWZJUCRJVML-UHFFFAOYSA-N,Leukemia,
+Putrescine,C4H12N2,NCCCCN,KIDHWZJUCRJVML-UHFFFAOYSA-N,Eosinophilic esophagitis,OMIM:610247
+Putrescine,C4H12N2,NCCCCN,KIDHWZJUCRJVML-UHFFFAOYSA-N,Colorectal cancer,OMIM:114500
+Acetone,C3H6O,CC(C)=O,CSCPPACGZOOCGX-UHFFFAOYSA-N,Alcoholism,
+Acetone,C3H6O,CC(C)=O,CSCPPACGZOOCGX-UHFFFAOYSA-N,Pregnancy,
+Acetone,C3H6O,CC(C)=O,CSCPPACGZOOCGX-UHFFFAOYSA-N,Asthma,OMIM:600807
+Acetone,C3H6O,CC(C)=O,CSCPPACGZOOCGX-UHFFFAOYSA-N,Perillyl alcohol administration for cancer treatment,
+Acetone,C3H6O,CC(C)=O,CSCPPACGZOOCGX-UHFFFAOYSA-N,Celiac disease,OMIM:212750
+Acetone,C3H6O,CC(C)=O,CSCPPACGZOOCGX-UHFFFAOYSA-N,Crohn's disease,OMIM:266600
+Acetone,C3H6O,CC(C)=O,CSCPPACGZOOCGX-UHFFFAOYSA-N,Diabetes mellitus type 2,OMIM:125853
+Acetone,C3H6O,CC(C)=O,CSCPPACGZOOCGX-UHFFFAOYSA-N,Hepatic encephalopathy,
+Acetone,C3H6O,CC(C)=O,CSCPPACGZOOCGX-UHFFFAOYSA-N,Irritable bowel syndrome,
+Acetone,C3H6O,CC(C)=O,CSCPPACGZOOCGX-UHFFFAOYSA-N,Kidney disease,
+Acetone,C3H6O,CC(C)=O,CSCPPACGZOOCGX-UHFFFAOYSA-N,Lung Cancer,OMIM:211980
+Acetone,C3H6O,CC(C)=O,CSCPPACGZOOCGX-UHFFFAOYSA-N,Paraquat poisoning,
+Acetone,C3H6O,CC(C)=O,CSCPPACGZOOCGX-UHFFFAOYSA-N,Pancreatic cancer,OMIM:260350
+Acetone,C3H6O,CC(C)=O,CSCPPACGZOOCGX-UHFFFAOYSA-N,Eosinophilic esophagitis,OMIM:610247
+Acetone,C3H6O,CC(C)=O,CSCPPACGZOOCGX-UHFFFAOYSA-N,Ulcerative colitis,
+Acetone,C3H6O,CC(C)=O,CSCPPACGZOOCGX-UHFFFAOYSA-N,Early preeclampsia,
+Acetone,C3H6O,CC(C)=O,CSCPPACGZOOCGX-UHFFFAOYSA-N,Late-onset preeclampsia,
+Acetone,C3H6O,CC(C)=O,CSCPPACGZOOCGX-UHFFFAOYSA-N,Nonalcoholic fatty liver disease,
+Protocatechuic acid,C7H6O4,OC(=O)C1=CC(O)=C(O)C=C1,YQUVCSBJEUQKSH-UHFFFAOYSA-N,Colorectal cancer,OMIM:114500
+p-Cresol,C7H8O,CC1=CC=C(O)C=C1,IWDCLRJOBJJRNH-UHFFFAOYSA-N,Autism,OMIM:209850
+p-Cresol,C7H8O,CC1=CC=C(O)C=C1,IWDCLRJOBJJRNH-UHFFFAOYSA-N,Celiac disease,OMIM:212750
+p-Cresol,C7H8O,CC1=CC=C(O)C=C1,IWDCLRJOBJJRNH-UHFFFAOYSA-N,Colorectal cancer,OMIM:114500
+p-Cresol,C7H8O,CC1=CC=C(O)C=C1,IWDCLRJOBJJRNH-UHFFFAOYSA-N,Crohn's disease,OMIM:266600
+p-Cresol,C7H8O,CC1=CC=C(O)C=C1,IWDCLRJOBJJRNH-UHFFFAOYSA-N,Diarrhoea predominant irritable bowel syndrome,
+p-Cresol,C7H8O,CC1=CC=C(O)C=C1,IWDCLRJOBJJRNH-UHFFFAOYSA-N,Hemodialysis,
+p-Cresol,C7H8O,CC1=CC=C(O)C=C1,IWDCLRJOBJJRNH-UHFFFAOYSA-N,Irritable bowel syndrome,
+p-Cresol,C7H8O,CC1=CC=C(O)C=C1,IWDCLRJOBJJRNH-UHFFFAOYSA-N,Uremia,
+p-Cresol,C7H8O,CC1=CC=C(O)C=C1,IWDCLRJOBJJRNH-UHFFFAOYSA-N,Eosinophilic esophagitis,OMIM:610247
+p-Cresol,C7H8O,CC1=CC=C(O)C=C1,IWDCLRJOBJJRNH-UHFFFAOYSA-N,Ulcerative colitis,
+p-Cresol,C7H8O,CC1=CC=C(O)C=C1,IWDCLRJOBJJRNH-UHFFFAOYSA-N,Pervasive developmental disorder not otherwise specified,
+p-Cresol,C7H8O,CC1=CC=C(O)C=C1,IWDCLRJOBJJRNH-UHFFFAOYSA-N,Nonalcoholic fatty liver disease,
+p-Cresol,C7H8O,CC1=CC=C(O)C=C1,IWDCLRJOBJJRNH-UHFFFAOYSA-N,Enteritis,
+p-Cresol,C7H8O,CC1=CC=C(O)C=C1,IWDCLRJOBJJRNH-UHFFFAOYSA-N,Clostridium difficile infection,
+Benzoic acid,C7H6O2,OC(=O)C1=CC=CC=C1,WPYMKLBDIGXBTP-UHFFFAOYSA-N,Schizophrenia,OMIM:181500
+Benzoic acid,C7H6O2,OC(=O)C1=CC=CC=C1,WPYMKLBDIGXBTP-UHFFFAOYSA-N,Asthma,OMIM:600807
+Benzoic acid,C7H6O2,OC(=O)C1=CC=CC=C1,WPYMKLBDIGXBTP-UHFFFAOYSA-N,Colorectal cancer,OMIM:114500
+Benzoic acid,C7H6O2,OC(=O)C1=CC=CC=C1,WPYMKLBDIGXBTP-UHFFFAOYSA-N,Metastatic melanoma,
+Benzoic acid,C7H6O2,OC(=O)C1=CC=CC=C1,WPYMKLBDIGXBTP-UHFFFAOYSA-N,Perillyl alcohol administration for cancer treatment,
+Benzoic acid,C7H6O2,OC(=O)C1=CC=CC=C1,WPYMKLBDIGXBTP-UHFFFAOYSA-N,Eosinophilic esophagitis,OMIM:610247
+Caffeic acid,C9H8O4,OC(=O)\C=C\C1=CC(O)=C(O)C=C1,QAIPRVGONGVQAS-DUXPYHPUSA-N,Colorectal cancer,OMIM:114500
+4-Hydroxycyclohexylcarboxylic acid,C7H12O3,OC1CCC(CC1)C(O)=O,HCFRWBBJISAZNK-UHFFFAOYSA-N,Colorectal cancer,OMIM:114500
+m-Cresol,C7H8O,CC1=CC=CC(O)=C1,RLSSMJSEOOYNOY-UHFFFAOYSA-N,Cresol poisoning IBS,
+m-Cresol,C7H8O,CC1=CC=CC(O)=C1,RLSSMJSEOOYNOY-UHFFFAOYSA-N,Nonalcoholic fatty liver disease,
+o-Cresol,C7H8O,CC1=CC=CC=C1O,QWVGKYWNOKOFNN-UHFFFAOYSA-N,Celiac disease,OMIM:212750
+o-Cresol,C7H8O,CC1=CC=CC=C1O,QWVGKYWNOKOFNN-UHFFFAOYSA-N,Cresol poisoning IBS,
+N-Acetylputrescine,C6H14N2O,CC(=O)NCCCCN,KLZGKIDSEJWEDW-UHFFFAOYSA-N,Colorectal cancer,OMIM:114500
+N-Acetylputrescine,C6H14N2O,CC(=O)NCCCCN,KLZGKIDSEJWEDW-UHFFFAOYSA-N,Leukemia,
+Syringic acid,C9H10O5,COC1=CC(=CC(OC)=C1O)C(O)=O,JMSVCTWVEWCHDZ-UHFFFAOYSA-N,Colorectal cancer,OMIM:114500
+3-Indolebutyric acid,C12H13NO2,OC(=O)CCCC1=CNC2=C1C=CC=C2,JTEDVYBZBROSJT-UHFFFAOYSA-N,Schizophrenia,OMIM:181500
+Desaminotyrosine,C9H10O3,OC(=O)CCC1=CC=C(O)C=C1,NMHMNPHRMNGLLB-UHFFFAOYSA-N,Colorectal cancer,OMIM:114500
+Desaminotyrosine,C9H10O3,OC(=O)CCC1=CC=C(O)C=C1,NMHMNPHRMNGLLB-UHFFFAOYSA-N,Irritable bowel syndrome,
+Desaminotyrosine,C9H10O3,OC(=O)CCC1=CC=C(O)C=C1,NMHMNPHRMNGLLB-UHFFFAOYSA-N,Ulcerative colitis,
+Desaminotyrosine,C9H10O3,OC(=O)CCC1=CC=C(O)C=C1,NMHMNPHRMNGLLB-UHFFFAOYSA-N,Attachment loss,
+Desaminotyrosine,C9H10O3,OC(=O)CCC1=CC=C(O)C=C1,NMHMNPHRMNGLLB-UHFFFAOYSA-N,Missing teeth,
+Desaminotyrosine,C9H10O3,OC(=O)CCC1=CC=C(O)C=C1,NMHMNPHRMNGLLB-UHFFFAOYSA-N,Periodontal Probing Depth,
+Desaminotyrosine,C9H10O3,OC(=O)CCC1=CC=C(O)C=C1,NMHMNPHRMNGLLB-UHFFFAOYSA-N,Supragingival Plaque,
+Equol,C15H14O3,OC1=CC=C(C=C1)[C@H]1COC2=CC(O)=CC=C2C1,ADFCQWZHKCXPAJ-GFCCVEGCSA-N,Ileostomy,
+Indole-3-propionic acid,C11H11NO2,OC(=O)CCC1=CNC2=C1C=CC=C2,GOLXRNDWAUTYKT-UHFFFAOYSA-N,Colorectal cancer,OMIM:114500
+Dimethylsulfide,C2H6S,CSC,QMMFVYPAHWMCMS-UHFFFAOYSA-N,Crohn's disease,OMIM:266600
+Dimethylsulfide,C2H6S,CSC,QMMFVYPAHWMCMS-UHFFFAOYSA-N,Dimethyl sulfide poisoning,
+Dimethylsulfide,C2H6S,CSC,QMMFVYPAHWMCMS-UHFFFAOYSA-N,Ulcerative colitis,
+Dimethylsulfide,C2H6S,CSC,QMMFVYPAHWMCMS-UHFFFAOYSA-N,Nonalcoholic fatty liver disease,
+Cadaverine,C5H14N2,NCCCCCN,VHRGRCVQAFMJIZ-UHFFFAOYSA-N,Kidney disease,
+Cadaverine,C5H14N2,NCCCCCN,VHRGRCVQAFMJIZ-UHFFFAOYSA-N,Irritable bowel syndrome,
+Cadaverine,C5H14N2,NCCCCCN,VHRGRCVQAFMJIZ-UHFFFAOYSA-N,Ulcerative colitis,
+Cadaverine,C5H14N2,NCCCCCN,VHRGRCVQAFMJIZ-UHFFFAOYSA-N,Colorectal cancer,OMIM:114500
+Cadaverine,C5H14N2,NCCCCCN,VHRGRCVQAFMJIZ-UHFFFAOYSA-N,Crohn's disease,OMIM:266600
+Cadaverine,C5H14N2,NCCCCCN,VHRGRCVQAFMJIZ-UHFFFAOYSA-N,Perillyl alcohol administration for cancer treatment,
+Cadaverine,C5H14N2,NCCCCCN,VHRGRCVQAFMJIZ-UHFFFAOYSA-N,Pancreatic cancer,OMIM:260350
+Cadaverine,C5H14N2,NCCCCCN,VHRGRCVQAFMJIZ-UHFFFAOYSA-N,Periodontal disease,OMIM:170650
+Cadaverine,C5H14N2,NCCCCCN,VHRGRCVQAFMJIZ-UHFFFAOYSA-N,Thyroid cancer ,
+Cadaverine,C5H14N2,NCCCCCN,VHRGRCVQAFMJIZ-UHFFFAOYSA-N,Leukemia,
+trans-trans-Muconic acid,C6H6O4,OC(=O)\C=C\C=C\C(O)=O,TXXHDPDFNKHHGW-ZPUQHVIOSA-N,Benzene exposure,
+trans-trans-Muconic acid,C6H6O4,OC(=O)\C=C\C=C\C(O)=O,TXXHDPDFNKHHGW-ZPUQHVIOSA-N,Smoking,
+3-Hydroxybenzoic acid,C7H6O3,OC(=O)C1=CC(O)=CC=C1,IJFXRHURBJZNAO-UHFFFAOYSA-N,Colorectal cancer,OMIM:114500
+3-(3-Hydroxyphenyl)-3-hydroxypropanoic acid,C9H10O4,OC(CC(O)=O)C1=CC(O)=CC=C1,KHTAGVZHYUZYMF-UHFFFAOYSA-N,Autism,OMIM:209850
+3-(3-Hydroxyphenyl)-3-hydroxypropanoic acid,C9H10O4,OC(CC(O)=O)C1=CC(O)=CC=C1,KHTAGVZHYUZYMF-UHFFFAOYSA-N,Eosinophilic esophagitis,OMIM:610247
+6-Hydroxynicotinic acid,C6H5NO3,OC(=O)C1=CN=C(O)C=C1,BLHCMGRVFXRYRN-UHFFFAOYSA-N,Colorectal cancer,OMIM:114500
+6-Hydroxynicotinic acid,C6H5NO3,OC(=O)C1=CN=C(O)C=C1,BLHCMGRVFXRYRN-UHFFFAOYSA-N,Prostate cancer,OMIM:176807
+6-Hydroxynicotinic acid,C6H5NO3,OC(=O)C1=CN=C(O)C=C1,BLHCMGRVFXRYRN-UHFFFAOYSA-N,Autosomal  dominant polycystic kidney disease,OMIM:601313
+6-Hydroxynicotinic acid,C6H5NO3,OC(=O)C1=CN=C(O)C=C1,BLHCMGRVFXRYRN-UHFFFAOYSA-N,Diabetes mellitus type 2,OMIM:125853
+Methane,CH4,C,VNWKTOKETHGBQD-UHFFFAOYSA-N,Crohn's disease,OMIM:266600
+Methane,CH4,C,VNWKTOKETHGBQD-UHFFFAOYSA-N,Ulcerative colitis,
+Zeaxanthin,C40H56O2,C\C(\C=C\C=C(/C)\C=C\C1=C(C)C[C@@H](O)CC1(C)C)=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/C1=C(C)C[C@@H](O)CC1(C)C,JKQXZKUSFCKOGQ-QAYBQHTQSA-N,Diabetes mellitus type 1,OMIM:222100
+Zeaxanthin,C40H56O2,C\C(\C=C\C=C(/C)\C=C\C1=C(C)C[C@@H](O)CC1(C)C)=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/C1=C(C)C[C@@H](O)CC1(C)C,JKQXZKUSFCKOGQ-QAYBQHTQSA-N,Obesity,OMIM:601665
+"2,3-Butanediol",C4H10O2,CC(O)C(C)O,OWBTYPJTUOEWEK-UHFFFAOYSA-N,Cirrhosis,
+"2,3-Butanediol",C4H10O2,CC(O)C(C)O,OWBTYPJTUOEWEK-UHFFFAOYSA-N,Colorectal cancer,OMIM:114500
+Hydrogen sulfide,H2S,S,RWSOTUBLDIXVET-UHFFFAOYSA-N,Essential hypertension,
+Hydrogen sulfide,H2S,S,RWSOTUBLDIXVET-UHFFFAOYSA-N,Hydrogen sulfide poisoning,
+Hydrogen sulfide,H2S,S,RWSOTUBLDIXVET-UHFFFAOYSA-N,Osteoarthritis,OMIM:165720
+D-Glutamic acid,C5H9NO4,N[C@H](CCC(O)=O)C(O)=O,WHUUTDBJXJRKMK-GSVOUGTGSA-N,Alzheimer's disease,OMIM:104300
+D-Glutamic acid,C5H9NO4,N[C@H](CCC(O)=O)C(O)=O,WHUUTDBJXJRKMK-GSVOUGTGSA-N,Pregnancy,
+D-Glutamic acid,C5H9NO4,N[C@H](CCC(O)=O)C(O)=O,WHUUTDBJXJRKMK-GSVOUGTGSA-N,Autosomal  dominant polycystic kidney disease,OMIM:601313
+D-Glutamic acid,C5H9NO4,N[C@H](CCC(O)=O)C(O)=O,WHUUTDBJXJRKMK-GSVOUGTGSA-N,Colorectal cancer,OMIM:114500
+D-Glutamic acid,C5H9NO4,N[C@H](CCC(O)=O)C(O)=O,WHUUTDBJXJRKMK-GSVOUGTGSA-N,Crohn's disease,OMIM:266600
+D-Glutamic acid,C5H9NO4,N[C@H](CCC(O)=O)C(O)=O,WHUUTDBJXJRKMK-GSVOUGTGSA-N,Schizophrenia,OMIM:181500
+D-Glutamic acid,C5H9NO4,N[C@H](CCC(O)=O)C(O)=O,WHUUTDBJXJRKMK-GSVOUGTGSA-N,Frontotemporal dementia,OMIM:600274
+D-Glutamic acid,C5H9NO4,N[C@H](CCC(O)=O)C(O)=O,WHUUTDBJXJRKMK-GSVOUGTGSA-N,Gamma-glutamyltransferase deficiency,
+D-Glutamic acid,C5H9NO4,N[C@H](CCC(O)=O)C(O)=O,WHUUTDBJXJRKMK-GSVOUGTGSA-N,Irritable bowel syndrome,
+D-Glutamic acid,C5H9NO4,N[C@H](CCC(O)=O)C(O)=O,WHUUTDBJXJRKMK-GSVOUGTGSA-N,Ulcerative colitis,
+D-Glutamic acid,C5H9NO4,N[C@H](CCC(O)=O)C(O)=O,WHUUTDBJXJRKMK-GSVOUGTGSA-N,Lewy body disease,
+5-Aminopentanoic acid,C5H11NO2,NCCCCC(O)=O,JJMDCOVWQOJGCB-UHFFFAOYSA-N,Irritable bowel syndrome,
+5-Aminopentanoic acid,C5H11NO2,NCCCCC(O)=O,JJMDCOVWQOJGCB-UHFFFAOYSA-N,Ulcerative colitis,
+5-Aminopentanoic acid,C5H11NO2,NCCCCC(O)=O,JJMDCOVWQOJGCB-UHFFFAOYSA-N,Colorectal cancer,OMIM:114500
+5-Aminopentanoic acid,C5H11NO2,NCCCCC(O)=O,JJMDCOVWQOJGCB-UHFFFAOYSA-N,Periodontal Probing Depth,
+5-Aminopentanoic acid,C5H11NO2,NCCCCC(O)=O,JJMDCOVWQOJGCB-UHFFFAOYSA-N,Supragingival Calculus,
+5-Aminopentanoic acid,C5H11NO2,NCCCCC(O)=O,JJMDCOVWQOJGCB-UHFFFAOYSA-N,Supragingival Plaque,
+Tuberculostearic acid,C19H38O2,CCCCCCCCC(C)CCCCCCCCC(O)=O,BEOUGZFCUMNGOU-UHFFFAOYSA-N,Mycobacterium tuberculosis,
+Tuberculostearic acid,C19H38O2,CCCCCCCCC(C)CCCCCCCCC(O)=O,BEOUGZFCUMNGOU-UHFFFAOYSA-N,Tuberculous meningitis,
+Tyrosol,C8H10O2,OCCC1=CC=C(O)C=C1,YCCILVSKPBXVIP-UHFFFAOYSA-N,Colorectal cancer,OMIM:114500
+1-Butanol,C4H10O,CCCCO,LRHPLDYGYMQRHN-UHFFFAOYSA-N,Celiac disease,OMIM:212750
+1-Butanol,C4H10O,CCCCO,LRHPLDYGYMQRHN-UHFFFAOYSA-N,Crohn's disease,OMIM:266600
+1-Butanol,C4H10O,CCCCO,LRHPLDYGYMQRHN-UHFFFAOYSA-N,Diabetes mellitus type 2,OMIM:125853
+1-Butanol,C4H10O,CCCCO,LRHPLDYGYMQRHN-UHFFFAOYSA-N,Irritable bowel syndrome,
+1-Butanol,C4H10O,CCCCO,LRHPLDYGYMQRHN-UHFFFAOYSA-N,Ulcerative colitis,
+1-Butanol,C4H10O,CCCCO,LRHPLDYGYMQRHN-UHFFFAOYSA-N,Nonalcoholic fatty liver disease,
+Dimethyl sulfone,C2H6O2S,CS(C)(=O)=O,HHVIBTZHLRERCL-UHFFFAOYSA-N,Pregnancy,
+Dimethyl sulfone,C2H6O2S,CS(C)(=O)=O,HHVIBTZHLRERCL-UHFFFAOYSA-N,Methionine adenosyltransferase deficiency,OMIM:250850
+Dimethyl sulfone,C2H6O2S,CS(C)(=O)=O,HHVIBTZHLRERCL-UHFFFAOYSA-N,Eosinophilic esophagitis,OMIM:610247
+Isobutanol,C4H10O,CC(C)CO,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,Ulcerative colitis,
+Isobutanol,C4H10O,CC(C)CO,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,Nonalcoholic fatty liver disease,
+Isopentanol,C5H12O,CC(C)CCO,PHTQWCKDNZKARW-UHFFFAOYSA-N,Celiac disease,OMIM:212750
+Isopentanol,C5H12O,CC(C)CCO,PHTQWCKDNZKARW-UHFFFAOYSA-N,Ulcerative colitis,
+3-Hydroxyhippuric acid,C9H9NO4,OC(=O)CNC(=O)C1=CC=CC(O)=C1,XDOFWFNMYJRHEW-UHFFFAOYSA-N,Colorectal cancer,OMIM:114500
+3-Hydroxyhippuric acid,C9H9NO4,OC(=O)CNC(=O)C1=CC=CC(O)=C1,XDOFWFNMYJRHEW-UHFFFAOYSA-N,Eosinophilic esophagitis,OMIM:610247
+"cis,cis-Muconic acid",C6H6O4,OC(=O)\C=C/C=C\C(O)=O,TXXHDPDFNKHHGW-CCAGOZQPSA-N,Attachment loss,
+"cis,cis-Muconic acid",C6H6O4,OC(=O)\C=C/C=C\C(O)=O,TXXHDPDFNKHHGW-CCAGOZQPSA-N,Missing teeth,
+"cis,cis-Muconic acid",C6H6O4,OC(=O)\C=C/C=C\C(O)=O,TXXHDPDFNKHHGW-CCAGOZQPSA-N,Periodontal Probing Depth,
+Phenylacetylglutamine,C13H16N2O4,NC(=O)CC[C@H](NC(=O)CC1=CC=CC=C1)C(O)=O,JFLIEFSWGNOPJJ-JTQLQIEISA-N,Uremia,
+Phenylacetylglutamine,C13H16N2O4,NC(=O)CC[C@H](NC(=O)CC1=CC=CC=C1)C(O)=O,JFLIEFSWGNOPJJ-JTQLQIEISA-N,Colorectal cancer,OMIM:114500
+Phenylacetylglutamine,C13H16N2O4,NC(=O)CC[C@H](NC(=O)CC1=CC=CC=C1)C(O)=O,JFLIEFSWGNOPJJ-JTQLQIEISA-N,Eosinophilic esophagitis,OMIM:610247
+p-Cresol sulfate,C7H8O4S,CC1=CC=C(OS(O)(=O)=O)C=C1,WGNAKZGUSRVWRH-UHFFFAOYSA-N,Colorectal cancer,OMIM:114500
+p-Cresol sulfate,C7H8O4S,CC1=CC=C(OS(O)(=O)=O)C=C1,WGNAKZGUSRVWRH-UHFFFAOYSA-N,Crohn's disease,OMIM:266600
+p-Cresol sulfate,C7H8O4S,CC1=CC=C(OS(O)(=O)=O)C=C1,WGNAKZGUSRVWRH-UHFFFAOYSA-N,Hemodialysis,
+p-Cresol sulfate,C7H8O4S,CC1=CC=C(OS(O)(=O)=O)C=C1,WGNAKZGUSRVWRH-UHFFFAOYSA-N,Uremia,
+p-Cresol sulfate,C7H8O4S,CC1=CC=C(OS(O)(=O)=O)C=C1,WGNAKZGUSRVWRH-UHFFFAOYSA-N,Eosinophilic esophagitis,OMIM:610247
+5-Keto-D-gluconate,C6H10O7,OCC(=O)C(O)C(O)C(O)C(O)=O,IZSRJDGCGRAUAR-UHFFFAOYSA-N,Colorectal cancer,OMIM:114500
+2-Phenylpropionate,C9H10O2,CC(C(O)=O)C1=CC=CC=C1,YPGCWEMNNLXISK-UHFFFAOYSA-N,Eosinophilic esophagitis,OMIM:610247
+Phenylethylamine,C8H11N,NCCC1=CC=CC=C1,BHHGXPLMPWCGHP-UHFFFAOYSA-N,Bulimia nervosa,
+Phenylethylamine,C8H11N,NCCC1=CC=CC=C1,BHHGXPLMPWCGHP-UHFFFAOYSA-N,Crohn's disease,OMIM:266600
+Phenylethylamine,C8H11N,NCCC1=CC=CC=C1,BHHGXPLMPWCGHP-UHFFFAOYSA-N,Ulcerative colitis,
+Phenylethylamine,C8H11N,NCCC1=CC=CC=C1,BHHGXPLMPWCGHP-UHFFFAOYSA-N,Minimal brain dysfunction,OMIM:143465
+Phenylethylamine,C8H11N,NCCC1=CC=CC=C1,BHHGXPLMPWCGHP-UHFFFAOYSA-N,Autism,OMIM:209850
+D-Arabinose,C5H10O5,O[C@@H]1CO[C@@H](O)[C@@H](O)[C@@H]1O,SRBFZHDQGSBBOR-SQOUGZDYSA-N,Colorectal cancer,OMIM:114500
+"1,2,3-Propanetricarboxylic acid",C6H8O6,OC(=O)CC(CC(O)=O)C(O)=O,KQTIIICEAUMSDG-UHFFFAOYSA-N,Colorectal cancer,OMIM:114500

@@ -1,0 +1,626 @@
+metabolite_name,chemical_formula,smiles,inchikey,scientific_name,taxid,rank
+3-Hydroxybutyric acid,C4H8O3,C[C@@H](O)CC(O)=O,WHBMMWSBFZVSSR-GSVOUGTGSA-N,alcaligenes eutrophus,,
+p-Hydroxyphenylacetic acid,C8H8O3,OC(=O)CC1=CC=C(O)C=C1,XQXPVVBIMDBYFF-UHFFFAOYSA-N,pseudomonas aeruginosa,287,species
+p-Hydroxyphenylacetic acid,C8H8O3,OC(=O)CC1=CC=C(O)C=C1,XQXPVVBIMDBYFF-UHFFFAOYSA-N,klebsiella pneumoniae,573,species
+p-Hydroxyphenylacetic acid,C8H8O3,OC(=O)CC1=CC=C(O)C=C1,XQXPVVBIMDBYFF-UHFFFAOYSA-N,acinetobacter baumannii,470,species
+p-Hydroxyphenylacetic acid,C8H8O3,OC(=O)CC1=CC=C(O)C=C1,XQXPVVBIMDBYFF-UHFFFAOYSA-N,clostridium difficile,,
+p-Hydroxyphenylacetic acid,C8H8O3,OC(=O)CC1=CC=C(O)C=C1,XQXPVVBIMDBYFF-UHFFFAOYSA-N,clostridium lituseburense,,
+p-Hydroxyphenylacetic acid,C8H8O3,OC(=O)CC1=CC=C(O)C=C1,XQXPVVBIMDBYFF-UHFFFAOYSA-N,clostridium propionicum,,
+p-Hydroxyphenylacetic acid,C8H8O3,OC(=O)CC1=CC=C(O)C=C1,XQXPVVBIMDBYFF-UHFFFAOYSA-N,clostridium putrefaciens,99675,species
+p-Hydroxyphenylacetic acid,C8H8O3,OC(=O)CC1=CC=C(O)C=C1,XQXPVVBIMDBYFF-UHFFFAOYSA-N,clostridium stricklandii,,
+p-Hydroxyphenylacetic acid,C8H8O3,OC(=O)CC1=CC=C(O)C=C1,XQXPVVBIMDBYFF-UHFFFAOYSA-N,clostridium subterminale,1550,species
+Butyric acid,C4H8O2,CCCC(O)=O,FERIUCNNQQJTOY-UHFFFAOYSA-N,anaerostipes,207244,genus
+Butyric acid,C4H8O2,CCCC(O)=O,FERIUCNNQQJTOY-UHFFFAOYSA-N,eubacterium,1730,genus
+Butyric acid,C4H8O2,CCCC(O)=O,FERIUCNNQQJTOY-UHFFFAOYSA-N,roseburia,841,genus
+Butyric acid,C4H8O2,CCCC(O)=O,FERIUCNNQQJTOY-UHFFFAOYSA-N,faecalibacterium prausnitzii,853,species
+Butyric acid,C4H8O2,CCCC(O)=O,FERIUCNNQQJTOY-UHFFFAOYSA-N,coprococcus comes ,,
+Butyric acid,C4H8O2,CCCC(O)=O,FERIUCNNQQJTOY-UHFFFAOYSA-N,coprococcus eutactus ,,
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,acinetobacter,469,genus
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,bacteroidetes bacterium hgw-bacteroidetes-13,2013681,species
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,bifidobacterium,1678,genus
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,enterobacter,547,genus
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,prevotella,838,genus
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,ruminococcus,1263,genus
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,streptococcus sp. 'group b',1319,species
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,staphylococcus saprophyticus,29385,species
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,pseudomonas aeruginosa,287,species
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,proteus mirabilis,584,species
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,klebsiella pneumoniae,573,species
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,escherichia coli,562,species
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,enterococcus faecalis,1351,species
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,citrobacter frundii,,
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,akkermansia muciniphilia,,
+Ascorbic acid,C6H8O6,[H][C@@]1(OC(=O)C(O)=C1O)[C@@H](O)CO,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,ketogulonicigenium vulgare,92945,species
+Melibiose,C12H22O11,OC[C@H]1O[C@H](OC[C@H]2O[C@H](O)[C@H](O)[C@@H](O)[C@@H]2O)[C@H](O)[C@@H](O)[C@H]1O,DLRVVLDZNNYCBX-CQHUIXDMSA-N,leuconostoc mesenteroides,1245,species
+Melibiose,C12H22O11,OC[C@H]1O[C@H](OC[C@H]2O[C@H](O)[C@H](O)[C@@H](O)[C@@H]2O)[C@H](O)[C@@H](O)[C@H]1O,DLRVVLDZNNYCBX-CQHUIXDMSA-N,dickeya dadantii,204038,species
+Melibiose,C12H22O11,OC[C@H]1O[C@H](OC[C@H]2O[C@H](O)[C@H](O)[C@@H](O)[C@@H]2O)[C@H](O)[C@@H](O)[C@H]1O,DLRVVLDZNNYCBX-CQHUIXDMSA-N,erwinia chrysanthemi,,
+Melibiose,C12H22O11,OC[C@H]1O[C@H](OC[C@H]2O[C@H](O)[C@H](O)[C@@H](O)[C@@H]2O)[C@H](O)[C@@H](O)[C@H]1O,DLRVVLDZNNYCBX-CQHUIXDMSA-N,escherichia coli,562,species
+Epinephrine,C9H13NO3,CNC[C@H](O)C1=CC(O)=C(O)C=C1,UCTWMZQNUQWSLP-VIFPVBQESA-N,escherichia coli,562,species
+Epinephrine,C9H13NO3,CNC[C@H](O)C1=CC(O)=C(O)C=C1,UCTWMZQNUQWSLP-VIFPVBQESA-N,bacillus,1386,genus
+Dopamine,C8H11NO2,NCCC1=CC(O)=C(O)C=C1,VYFYYTLLBUKUHU-UHFFFAOYSA-N,bacillus,1386,genus
+Dopamine,C8H11NO2,NCCC1=CC(O)=C(O)C=C1,VYFYYTLLBUKUHU-UHFFFAOYSA-N,serratia,2985502,genus
+Dimethylamine,C2H7N,CNC,ROSDSFDQCJNGOL-UHFFFAOYSA-N,micrococcus,1269,genus
+Dimethylamine,C2H7N,CNC,ROSDSFDQCJNGOL-UHFFFAOYSA-N,arthrobacter globiformis,1665,species
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,hansenula polymorpha,,
+gamma-Aminobutyric acid,C4H9NO2,NCCCC(O)=O,BTCSSZJGUNDROE-UHFFFAOYSA-N,bifidobacterium,1678,genus
+gamma-Aminobutyric acid,C4H9NO2,NCCCC(O)=O,BTCSSZJGUNDROE-UHFFFAOYSA-N,lactobacillus,1578,genus
+Glycolic acid,C2H4O3,OCC(O)=O,AEMRFAOFKBGASW-UHFFFAOYSA-N,alcaligenes,507,genus
+Glycolic acid,C2H4O3,OCC(O)=O,AEMRFAOFKBGASW-UHFFFAOYSA-N,acetobacter,434,genus
+Glycolic acid,C2H4O3,OCC(O)=O,AEMRFAOFKBGASW-UHFFFAOYSA-N,rhodococcus rhodochrous,1829,species
+Glycolic acid,C2H4O3,OCC(O)=O,AEMRFAOFKBGASW-UHFFFAOYSA-N,pseudomonas putida,303,species
+Glycolic acid,C2H4O3,OCC(O)=O,AEMRFAOFKBGASW-UHFFFAOYSA-N,leptospirillum ferriphilum,178606,species
+Glycolic acid,C2H4O3,OCC(O)=O,AEMRFAOFKBGASW-UHFFFAOYSA-N,gluconobacter dioxyacetonicus,,
+Glycolic acid,C2H4O3,OCC(O)=O,AEMRFAOFKBGASW-UHFFFAOYSA-N,gluconobacter industrius,,
+Glycolic acid,C2H4O3,OCC(O)=O,AEMRFAOFKBGASW-UHFFFAOYSA-N,gluconobacter suboxydans,,
+Glycolic acid,C2H4O3,OCC(O)=O,AEMRFAOFKBGASW-UHFFFAOYSA-N,escherichia coli,562,species
+Glycolic acid,C2H4O3,OCC(O)=O,AEMRFAOFKBGASW-UHFFFAOYSA-N,acidithiobacillus caldus,33059,species
+Glycolic acid,C2H4O3,OCC(O)=O,AEMRFAOFKBGASW-UHFFFAOYSA-N,acidithiobacillus ferrooxidans,920,species
+Glycolic acid,C2H4O3,OCC(O)=O,AEMRFAOFKBGASW-UHFFFAOYSA-N,corynebacterium glutamicum,1718,species
+Homovanillic acid,C9H10O4,COC1=C(O)C=CC(CC(O)=O)=C1,QRMZSPFSDQBLIX-UHFFFAOYSA-N,bifidobacterium,1678,genus
+Folic acid,C19H19N7O6,NC1=NC(=O)C2=NC(CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)=CN=C2N1,OVBPIULPVIDEAO-LBPRGKRZSA-N,biﬁdobacterium,,
+Folic acid,C19H19N7O6,NC1=NC(=O)C2=NC(CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)=CN=C2N1,OVBPIULPVIDEAO-LBPRGKRZSA-N,lactobacillus,1578,genus
+Glycocholic acid,C26H43NO6,C[C@H](CCC(O)=NCC(O)=O)[C@H]1CC[C@H]2[C@@H]3[C@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3C[C@H](O)[C@]12C,RFDAIACWWDREDC-FRVQLJSFSA-N,bacteroides,816,genus
+Glycocholic acid,C26H43NO6,C[C@H](CCC(O)=NCC(O)=O)[C@H]1CC[C@H]2[C@@H]3[C@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3C[C@H](O)[C@]12C,RFDAIACWWDREDC-FRVQLJSFSA-N,bifidobacterium,1678,genus
+Glycocholic acid,C26H43NO6,C[C@H](CCC(O)=NCC(O)=O)[C@H]1CC[C@H]2[C@@H]3[C@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3C[C@H](O)[C@]12C,RFDAIACWWDREDC-FRVQLJSFSA-N,clostridium,1485,genus
+Glycocholic acid,C26H43NO6,C[C@H](CCC(O)=NCC(O)=O)[C@H]1CC[C@H]2[C@@H]3[C@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3C[C@H](O)[C@]12C,RFDAIACWWDREDC-FRVQLJSFSA-N,lactobacillus,1578,genus
+Formic acid,CH2O2,OC=O,BDAGIHXWWSANSR-UHFFFAOYSA-N,acinetobacter,469,genus
+Formic acid,CH2O2,OC=O,BDAGIHXWWSANSR-UHFFFAOYSA-N,enterobacter,547,genus
+Formic acid,CH2O2,OC=O,BDAGIHXWWSANSR-UHFFFAOYSA-N,streptococcus sp. 'group b',1319,species
+Formic acid,CH2O2,OC=O,BDAGIHXWWSANSR-UHFFFAOYSA-N,staphylococcus saprophyticus,29385,species
+Formic acid,CH2O2,OC=O,BDAGIHXWWSANSR-UHFFFAOYSA-N,pseudomonas aeruginosa,287,species
+Formic acid,CH2O2,OC=O,BDAGIHXWWSANSR-UHFFFAOYSA-N,proteus mirabilis,584,species
+Formic acid,CH2O2,OC=O,BDAGIHXWWSANSR-UHFFFAOYSA-N,klebsiella pneumoniae,573,species
+Formic acid,CH2O2,OC=O,BDAGIHXWWSANSR-UHFFFAOYSA-N,escherichia coli,562,species
+Formic acid,CH2O2,OC=O,BDAGIHXWWSANSR-UHFFFAOYSA-N,enterococcus faecalis,1351,species
+Formic acid,CH2O2,OC=O,BDAGIHXWWSANSR-UHFFFAOYSA-N,citrobacter frundii,,
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,acinetobacter,469,genus
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,enterobacter,547,genus
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,corynebacterium glutamicum,1718,species
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,bacillus coagulans,,
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,streptococcus sp. 'group b',1319,species
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,staphylococcus saprophyticus,29385,species
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,pseudomonas aeruginosa,287,species
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,proteus mirabilis,584,species
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,klebsiella pneumoniae,573,species
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,escherichia coli,562,species
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,enterococcus faecalis,1351,species
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,citrobacter frundii,,
+Indoleacetic acid,C10H9NO2,OC(=O)CC1=CNC2=C1C=CC=C2,SEOVTRFCIGRIMH-UHFFFAOYSA-N,bradyrhizobium,374,genus
+Indoleacetic acid,C10H9NO2,OC(=O)CC1=CNC2=C1C=CC=C2,SEOVTRFCIGRIMH-UHFFFAOYSA-N,rhizobium,379,genus
+Indoleacetic acid,C10H9NO2,OC(=O)CC1=CNC2=C1C=CC=C2,SEOVTRFCIGRIMH-UHFFFAOYSA-N,pseudomonas aeruginosa,287,species
+Indoleacetic acid,C10H9NO2,OC(=O)CC1=CNC2=C1C=CC=C2,SEOVTRFCIGRIMH-UHFFFAOYSA-N,pseudomonas fluorescens,294,species
+Indoleacetic acid,C10H9NO2,OC(=O)CC1=CNC2=C1C=CC=C2,SEOVTRFCIGRIMH-UHFFFAOYSA-N,pseudomonas savastanoi pv. savastanoi,360920,no rank
+Indoleacetic acid,C10H9NO2,OC(=O)CC1=CNC2=C1C=CC=C2,SEOVTRFCIGRIMH-UHFFFAOYSA-N,pseudomonas syringae,317,species
+Indoleacetic acid,C10H9NO2,OC(=O)CC1=CNC2=C1C=CC=C2,SEOVTRFCIGRIMH-UHFFFAOYSA-N,pantoea agglomerans,549,species
+Indoleacetic acid,C10H9NO2,OC(=O)CC1=CNC2=C1C=CC=C2,SEOVTRFCIGRIMH-UHFFFAOYSA-N,enterobacter cloacae,550,species
+Indoleacetic acid,C10H9NO2,OC(=O)CC1=CNC2=C1C=CC=C2,SEOVTRFCIGRIMH-UHFFFAOYSA-N,clostridium lituseburense,,
+Indoleacetic acid,C10H9NO2,OC(=O)CC1=CNC2=C1C=CC=C2,SEOVTRFCIGRIMH-UHFFFAOYSA-N,clostridium putrefaciens,99675,species
+Indoleacetic acid,C10H9NO2,OC(=O)CC1=CNC2=C1C=CC=C2,SEOVTRFCIGRIMH-UHFFFAOYSA-N,clostridium subterminale,1550,species
+Indoleacetic acid,C10H9NO2,OC(=O)CC1=CNC2=C1C=CC=C2,SEOVTRFCIGRIMH-UHFFFAOYSA-N,clostridium sticklandii,,
+Indoleacetic acid,C10H9NO2,OC(=O)CC1=CNC2=C1C=CC=C2,SEOVTRFCIGRIMH-UHFFFAOYSA-N,bacillus subtilis,1423,species
+Indoleacetic acid,C10H9NO2,OC(=O)CC1=CNC2=C1C=CC=C2,SEOVTRFCIGRIMH-UHFFFAOYSA-N,agrobacterium tumefaciens,358,species
+Indoleacetic acid,C10H9NO2,OC(=O)CC1=CNC2=C1C=CC=C2,SEOVTRFCIGRIMH-UHFFFAOYSA-N,azospirillum brasilense,192,species
+Phenylpyruvic acid,C9H8O3,OC(=O)C(=O)CC1=CC=CC=C1,BTNMPGBKDVTSJY-UHFFFAOYSA-N,lactobacillus,1578,genus
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,corynebacterium glutamicum,1718,species
+Norepinephrine,C8H11NO3,NC[C@H](O)C1=CC(O)=C(O)C=C1,SFLSHLFXELFNJZ-QMMMGPOBSA-N,bacillus,1386,genus
+Norepinephrine,C8H11NO3,NC[C@H](O)C1=CC(O)=C(O)C=C1,SFLSHLFXELFNJZ-QMMMGPOBSA-N,escherichia,561,genus
+Phenol,C6H6O,OC1=CC=CC=C1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,escherichia coli,562,species
+Phenol,C6H6O,OC1=CC=CC=C1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,pseudomonas putida,303,species
+Propionic acid,C3H6O2,CCC(O)=O,XBDQKXXYIPTUBI-UHFFFAOYSA-N,dialister,39948,genus
+Propionic acid,C3H6O2,CCC(O)=O,XBDQKXXYIPTUBI-UHFFFAOYSA-N,veillonella alcalescens,,
+Propionic acid,C3H6O2,CCC(O)=O,XBDQKXXYIPTUBI-UHFFFAOYSA-N,veillonella parvula,29466,species
+Propionic acid,C3H6O2,CCC(O)=O,XBDQKXXYIPTUBI-UHFFFAOYSA-N,selenomonas ruminantium,971,species
+Propionic acid,C3H6O2,CCC(O)=O,XBDQKXXYIPTUBI-UHFFFAOYSA-N,selenomonas sputigena,69823,species
+Propionic acid,C3H6O2,CCC(O)=O,XBDQKXXYIPTUBI-UHFFFAOYSA-N,salmonella enterica subsp. enterica serovar typhimurium,90371,no rank
+Propionic acid,C3H6O2,CCC(O)=O,XBDQKXXYIPTUBI-UHFFFAOYSA-N,propionigenum modestum,,
+Propionic acid,C3H6O2,CCC(O)=O,XBDQKXXYIPTUBI-UHFFFAOYSA-N,propionibacterium acidipropionici,,
+Propionic acid,C3H6O2,CCC(O)=O,XBDQKXXYIPTUBI-UHFFFAOYSA-N,propionibacterium freudenreichii,1744,species
+Propionic acid,C3H6O2,CCC(O)=O,XBDQKXXYIPTUBI-UHFFFAOYSA-N,propionibacterium freudenreichii subsp. shermanii,1752,subspecies
+Propionic acid,C3H6O2,CCC(O)=O,XBDQKXXYIPTUBI-UHFFFAOYSA-N,phascolarctobacterium succinatutens,626940,species
+Propionic acid,C3H6O2,CCC(O)=O,XBDQKXXYIPTUBI-UHFFFAOYSA-N,megasphaera elsdenii,907,species
+Propionic acid,C3H6O2,CCC(O)=O,XBDQKXXYIPTUBI-UHFFFAOYSA-N,bacteroides fragilis,817,species
+Propionic acid,C3H6O2,CCC(O)=O,XBDQKXXYIPTUBI-UHFFFAOYSA-N,bacteroides ruminicola,,
+Propionic acid,C3H6O2,CCC(O)=O,XBDQKXXYIPTUBI-UHFFFAOYSA-N,bacteroides spp. ,,
+Propionic acid,C3H6O2,CCC(O)=O,XBDQKXXYIPTUBI-UHFFFAOYSA-N,clostridium,1485,genus
+Propionic acid,C3H6O2,CCC(O)=O,XBDQKXXYIPTUBI-UHFFFAOYSA-N,clostridia propionicum,,
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,corynebacterium glutamicum,1718,species
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,escherichia coli,562,species
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,acinetobacter,469,genus
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,enterobacter,547,genus
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,corynebacterium glutamicum,1718,species
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,basfia succiniciproducens,653940,species
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,pseudomonas aeruginosa,287,species
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,proteus mirabilis,584,species
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,[mannheimia] succiniciproducens,157673,species
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,klebsiella pneumoniae,573,species
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,escherichia coli,562,species
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,enterococcus faecalis,1351,species
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,citrobacter frundii,,
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,anaerobiospirillum succiniciproducens,13335,species
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,actinobacillus succinogenes ,,
+Serotonin,C10H12N2O,NCCC1=CNC2=C1C=C(O)C=C2,QZAYGJVTTNCVMB-UHFFFAOYSA-N,enterococcus,1350,genus
+Serotonin,C10H12N2O,NCCC1=CNC2=C1C=C(O)C=C2,QZAYGJVTTNCVMB-UHFFFAOYSA-N,streptococcus,1301,genus
+Serotonin,C10H12N2O,NCCC1=CNC2=C1C=C(O)C=C2,QZAYGJVTTNCVMB-UHFFFAOYSA-N,escherichia coli,562,species
+Tyramine,C8H11NO,NCCC1=CC=C(O)C=C1,DZGWFCGJZKJUFP-UHFFFAOYSA-N,enterococcus,1350,genus
+Tyramine,C8H11NO,NCCC1=CC=C(O)C=C1,DZGWFCGJZKJUFP-UHFFFAOYSA-N,lactobacillus,1578,genus
+Tyramine,C8H11NO,NCCC1=CC=C(O)C=C1,DZGWFCGJZKJUFP-UHFFFAOYSA-N,tetragenococcus halophilus,51669,species
+Tyramine,C8H11NO,NCCC1=CC=C(O)C=C1,DZGWFCGJZKJUFP-UHFFFAOYSA-N,pseudomonas entomophila,312306,species
+Tyramine,C8H11NO,NCCC1=CC=C(O)C=C1,DZGWFCGJZKJUFP-UHFFFAOYSA-N,pseudomonas putida,303,species
+Tyramine,C8H11NO,NCCC1=CC=C(O)C=C1,DZGWFCGJZKJUFP-UHFFFAOYSA-N,granulibacter bethesdensis,364410,species
+Tyramine,C8H11NO,NCCC1=CC=C(O)C=C1,DZGWFCGJZKJUFP-UHFFFAOYSA-N,gluconacetobacter diazotrophicus,33996,species
+Tyramine,C8H11NO,NCCC1=CC=C(O)C=C1,DZGWFCGJZKJUFP-UHFFFAOYSA-N,bacillus thuringiensis,1428,species
+Tyramine,C8H11NO,NCCC1=CC=C(O)C=C1,DZGWFCGJZKJUFP-UHFFFAOYSA-N,carnobacterium divergens,2748,species
+"(S)-3,4-Dihydroxybutyric acid",C4H8O4,OCC(O)CC(O)=O,DZAIOXUZHHTJKN-UHFFFAOYSA-N,escherichia coli,562,species
+3-(3-Hydroxyphenyl)propanoic acid,C9H10O3,OC(=O)CCC1=CC(O)=CC=C1,QVWAEZJXDYOKEH-UHFFFAOYSA-N,escherichia coli,562,species
+3-(3-Hydroxyphenyl)propanoic acid,C9H10O3,OC(=O)CCC1=CC(O)=CC=C1,QVWAEZJXDYOKEH-UHFFFAOYSA-N,eubacterium oxidoreducens,1732,species
+3-Hydroxydodecanoic acid,C12H24O3,CCCCCCCCC[C@H](O)CC(O)=O,MUCMKTPAZLSKTL-NSHDSACASA-N,acinetobacter,469,genus
+3-Hydroxydodecanoic acid,C12H24O3,CCCCCCCCC[C@H](O)CC(O)=O,MUCMKTPAZLSKTL-NSHDSACASA-N,moraxella,475,genus
+3-Hydroxydodecanoic acid,C12H24O3,CCCCCCCCC[C@H](O)CC(O)=O,MUCMKTPAZLSKTL-NSHDSACASA-N,pseudomonas,286,genus
+2-Isopropylmalic acid,C7H12O5,CC(C)[C@@](O)(CC(O)=O)C(O)=O,BITYXLXUCSKTJS-ZETCQYMHSA-N,acetobacter suboxydans,,
+"3,4-Dihydroxyhydrocinnamic acid",C9H10O4,OC(=O)CCC1=CC(O)=C(O)C=C1,DZAUWHJDUNRCTF-UHFFFAOYSA-N,clostridium,1485,genus
+"3,4-Dihydroxyhydrocinnamic acid",C9H10O4,OC(=O)CCC1=CC(O)=C(O)C=C1,DZAUWHJDUNRCTF-UHFFFAOYSA-N,lactobacillus gasseri,1596,species
+"3,4-Dihydroxyhydrocinnamic acid",C9H10O4,OC(=O)CCC1=CC(O)=C(O)C=C1,DZAUWHJDUNRCTF-UHFFFAOYSA-N,bifidobacterium animalis subsp. lactis,302911,subspecies
+"3,4-Dihydroxyhydrocinnamic acid",C9H10O4,OC(=O)CCC1=CC(O)=C(O)C=C1,DZAUWHJDUNRCTF-UHFFFAOYSA-N,escherichia coli,562,species
+Citramalic acid,C5H8O5,CC(O)(CC(O)=O)C(O)=O,XFTRTWQBIOMVPK-UHFFFAOYSA-N,propionibacterium acnes,,
+3-Hydroxyphenylacetic acid,C8H8O3,OC(=O)CC1=CC(O)=CC=C1,FVMDYYGIDFPZAX-UHFFFAOYSA-N,klebsiella pneumoniae,573,species
+3-Hydroxyphenylacetic acid,C8H8O3,OC(=O)CC1=CC(O)=CC=C1,FVMDYYGIDFPZAX-UHFFFAOYSA-N,clostridium-like species,40725,species
+Adipic acid,C6H10O4,OC(=O)CCCCC(O)=O,WNLRTRBMVRJNCN-UHFFFAOYSA-N,escherichia coli,562,species
+Allantoin,C4H6N4O3,NC(=O)NC1NC(=O)NC1=O,POJWUDADGALRAB-UHFFFAOYSA-N,bacillus subtilis,1423,species
+Allantoin,C4H6N4O3,NC(=O)NC1NC(=O)NC1=O,POJWUDADGALRAB-UHFFFAOYSA-N,streptomyces coelicolor,1902,species
+3-Methylindole,C9H9N,CC1=CNC2=C1C=CC=C2,ZFRKQXVRDFCRJG-UHFFFAOYSA-N,[clostridium] aminophilum,1526,species
+3-Methylindole,C9H9N,CC1=CNC2=C1C=CC=C2,ZFRKQXVRDFCRJG-UHFFFAOYSA-N,clostridium disporicum,84024,species
+3-Methylindole,C9H9N,CC1=CNC2=C1C=CC=C2,ZFRKQXVRDFCRJG-UHFFFAOYSA-N,clostridium drakei,332101,species
+3-Methylindole,C9H9N,CC1=CNC2=C1C=CC=C2,ZFRKQXVRDFCRJG-UHFFFAOYSA-N,clostridium scatologenes,1548,species
+3-Methylindole,C9H9N,CC1=CNC2=C1C=CC=C2,ZFRKQXVRDFCRJG-UHFFFAOYSA-N,lactobacillus,1578,genus
+Vanillic acid,C8H8O4,COC1=C(O)C=CC(=C1)C(O)=O,WKOLLVMJNQIZCI-UHFFFAOYSA-N,amycolatopsis,1813,genus
+Vanillic acid,C8H8O4,COC1=C(O)C=CC(=C1)C(O)=O,WKOLLVMJNQIZCI-UHFFFAOYSA-N,pseudomonas putida,303,species
+Vanillic acid,C8H8O4,COC1=C(O)C=CC(=C1)C(O)=O,WKOLLVMJNQIZCI-UHFFFAOYSA-N,pseudomonas sp. az10 upm,1677868,species
+Vanillic acid,C8H8O4,COC1=C(O)C=CC(=C1)C(O)=O,WKOLLVMJNQIZCI-UHFFFAOYSA-N,delftia acidivorans,,
+4-Hydroxybenzoic acid,C7H6O3,OC(=O)C1=CC=C(O)C=C1,FJKROLUGYXJWQN-UHFFFAOYSA-N,arthrobacter,1663,genus
+4-Hydroxybenzoic acid,C7H6O3,OC(=O)C1=CC=C(O)C=C1,FJKROLUGYXJWQN-UHFFFAOYSA-N,bifidobacterium,1678,genus
+4-Hydroxybenzoic acid,C7H6O3,OC(=O)C1=CC=C(O)C=C1,FJKROLUGYXJWQN-UHFFFAOYSA-N,microbulbifer,48073,genus
+4-Hydroxybenzoic acid,C7H6O3,OC(=O)C1=CC=C(O)C=C1,FJKROLUGYXJWQN-UHFFFAOYSA-N,escherichia coli,562,species
+4-Hydroxybenzoic acid,C7H6O3,OC(=O)C1=CC=C(O)C=C1,FJKROLUGYXJWQN-UHFFFAOYSA-N,eubacterium ramulus,39490,species
+4-Hydroxybenzoic acid,C7H6O3,OC(=O)C1=CC=C(O)C=C1,FJKROLUGYXJWQN-UHFFFAOYSA-N,corynebacterium glutamicum,1718,species
+4-Hydroxybenzoic acid,C7H6O3,OC(=O)C1=CC=C(O)C=C1,FJKROLUGYXJWQN-UHFFFAOYSA-N,clostridium saccharogumia,,
+5beta-Coprostanol,C27H48O,[H][C@@]1(CC[C@@]2([H])[C@]3([H])CC[C@]4([H])C[C@@H](O)CC[C@]4(C)[C@@]3([H])CC[C@]12C)[C@H](C)CCCC(C)C,QYIXCDOBOSTCEI-NWKZBHTNSA-N,lactobacillus,1578,genus
+D-Ribulose,C5H10O5,OC[C@@]1(O)OC[C@@H](O)[C@H]1O,LQXVFWRQNMEDEE-UOWFLXDJSA-N,acetobacter aceti ,,
+D-Ribulose,C5H10O5,OC[C@@]1(O)OC[C@@H](O)[C@H]1O,LQXVFWRQNMEDEE-UOWFLXDJSA-N,gluconobacter frateurii,38308,species
+D-Ribulose,C5H10O5,OC[C@@]1(O)OC[C@@H](O)[C@H]1O,LQXVFWRQNMEDEE-UOWFLXDJSA-N,gluconobacter suboxydans,,
+L-Arabinose,C5H10O5,O[C@H]1CO[C@H](O)[C@H](O)[C@H]1O,SRBFZHDQGSBBOR-KLVWXMOXSA-N,mycobacterium smegmatis,,
+Glutaric acid,C5H8O4,OC(=O)CCCC(O)=O,JFCQEDHGNNZCLN-UHFFFAOYSA-N,escherichia coli,562,species
+Indolelactic acid,C11H11NO3,O[C@@H](CC1=CNC2=C1C=CC=C2)C(O)=O,XGILAAMKEQUXLS-JTQLQIEISA-N,clostridium sporogenes,1509,species
+Indoxyl sulfate,C8H7NO4S,OS(=O)(=O)OC1=CNC2=CC=CC=C12,BXFFHSIDQOFMLE-UHFFFAOYSA-N,escherichia coli,562,species
+Hydroxypropionic acid,C3H6O3,OCCC(O)=O,ALRHLSYJTWAHJZ-UHFFFAOYSA-N,escherichia coli,562,species
+Hydroxypropionic acid,C3H6O3,OCCC(O)=O,ALRHLSYJTWAHJZ-UHFFFAOYSA-N,klebsiella pneumoniae,573,species
+4-Hydroxyphenylpyruvic acid,C9H8O4,OC(=O)C(=O)CC1=CC=C(O)C=C1,KKADPXVIOXHVKN-UHFFFAOYSA-N,escherichia coli,562,species
+4-Hydroxybutyric acid,C4H8O3,OCCCC(O)=O,SJZRECIVHVDYJC-UHFFFAOYSA-N,pseudomonas putida,303,species
+4-Hydroxybutyric acid,C4H8O3,OCCCC(O)=O,SJZRECIVHVDYJC-UHFFFAOYSA-N,aeromonas hydrophila,644,species
+4-Hydroxybutyric acid,C4H8O3,OCCCC(O)=O,SJZRECIVHVDYJC-UHFFFAOYSA-N,escherichia coli,562,species
+Hippuric acid,C9H9NO3,OC(=O)CNC(=O)C1=CC=CC=C1,QIAFMBKCNZACKA-UHFFFAOYSA-N,actinomycetaceae,2049,family
+Hippuric acid,C9H9NO3,OC(=O)CNC(=O)C1=CC=CC=C1,QIAFMBKCNZACKA-UHFFFAOYSA-N,clostridium,1485,genus
+Hippuric acid,C9H9NO3,OC(=O)CNC(=O)C1=CC=CC=C1,QIAFMBKCNZACKA-UHFFFAOYSA-N,eubacterium,1730,genus
+Hippuric acid,C9H9NO3,OC(=O)CNC(=O)C1=CC=CC=C1,QIAFMBKCNZACKA-UHFFFAOYSA-N,ruminococcus,1263,genus
+Hippuric acid,C9H9NO3,OC(=O)CNC(=O)C1=CC=CC=C1,QIAFMBKCNZACKA-UHFFFAOYSA-N,faecalibacterium prausnitzii,853,species
+Indoleacrylic acid,C11H9NO2,OC(=O)\C=C\C1=CNC2=C1C=CC=C2,PLVPPLCLBIEYEA-AATRIKPKSA-N,clostridium sporogenes,1509,species
+Indoleacrylic acid,C11H9NO2,OC(=O)\C=C\C1=CNC2=C1C=CC=C2,PLVPPLCLBIEYEA-AATRIKPKSA-N,peptostreptococcus russellii,215200,species
+Indole,C8H7N,N1C=CC2=C1C=CC=C2,SIKJAQJRHWYJAI-UHFFFAOYSA-N,alcaligenes,507,genus
+Indole,C8H7N,N1C=CC2=C1C=CC=C2,SIKJAQJRHWYJAI-UHFFFAOYSA-N,pseudomonas sp. st-200,,
+Hydroxyisocaproic acid,C6H12O3,CC(C)C[C@H](O)C(O)=O,LVRFTAZAXQPQHI-YFKPBYRVSA-N,lactobacillus,1578,genus
+Hydroxyphenyllactic acid,C9H10O4,OC(CC1=CC=C(O)C=C1)C(O)=O,JVGVDSSUAVXRDY-UHFFFAOYSA-N,bifidobacteria,,
+Hydroxyphenyllactic acid,C9H10O4,OC(CC1=CC=C(O)C=C1)C(O)=O,JVGVDSSUAVXRDY-UHFFFAOYSA-N,clostridium,1485,genus
+Hydroxyphenyllactic acid,C9H10O4,OC(CC1=CC=C(O)C=C1)C(O)=O,JVGVDSSUAVXRDY-UHFFFAOYSA-N,staphylococcus aureus,1280,species
+Hydroxyphenyllactic acid,C9H10O4,OC(CC1=CC=C(O)C=C1)C(O)=O,JVGVDSSUAVXRDY-UHFFFAOYSA-N,pseudomonas aeruginosa,287,species
+Hydroxyphenyllactic acid,C9H10O4,OC(CC1=CC=C(O)C=C1)C(O)=O,JVGVDSSUAVXRDY-UHFFFAOYSA-N,lactobacillus fermentum,,
+Hydroxyphenyllactic acid,C9H10O4,OC(CC1=CC=C(O)C=C1)C(O)=O,JVGVDSSUAVXRDY-UHFFFAOYSA-N,klebsiella pneumoniae,573,species
+Hydroxyphenyllactic acid,C9H10O4,OC(CC1=CC=C(O)C=C1)C(O)=O,JVGVDSSUAVXRDY-UHFFFAOYSA-N,eubacterium lentum,,
+Hydroxyphenyllactic acid,C9H10O4,OC(CC1=CC=C(O)C=C1)C(O)=O,JVGVDSSUAVXRDY-UHFFFAOYSA-N,escherichia coli,562,species
+Hydroxyphenyllactic acid,C9H10O4,OC(CC1=CC=C(O)C=C1)C(O)=O,JVGVDSSUAVXRDY-UHFFFAOYSA-N,enterococcus faecalis,1351,species
+Hydroxyphenyllactic acid,C9H10O4,OC(CC1=CC=C(O)C=C1)C(O)=O,JVGVDSSUAVXRDY-UHFFFAOYSA-N,enterococcus faecium,1352,species
+Hydroxyphenyllactic acid,C9H10O4,OC(CC1=CC=C(O)C=C1)C(O)=O,JVGVDSSUAVXRDY-UHFFFAOYSA-N,bifidobacterium bifidum,1681,species
+Hydroxyphenyllactic acid,C9H10O4,OC(CC1=CC=C(O)C=C1)C(O)=O,JVGVDSSUAVXRDY-UHFFFAOYSA-N,acinetobacter baumannii,470,species
+Hydroxyphenyllactic acid,C9H10O4,OC(CC1=CC=C(O)C=C1)C(O)=O,JVGVDSSUAVXRDY-UHFFFAOYSA-N,bacteroides fragilis,817,species
+Hydroxyphenyllactic acid,C9H10O4,OC(CC1=CC=C(O)C=C1)C(O)=O,JVGVDSSUAVXRDY-UHFFFAOYSA-N,bacteroides thetaiotaomicron,818,species
+5-Hydroxyindoleacetic acid,C10H9NO3,OC(=O)CC1=CNC2=C1C=C(O)C=C2,DUUGKQCEGZLZNO-UHFFFAOYSA-N,human gut microbiota,,
+Hydrocinnamic acid,C9H10O2,OC(=O)CCC1=CC=CC=C1,XMIIGOLPHOKFCH-UHFFFAOYSA-N,clostridium bifermentans,,
+Hydrocinnamic acid,C9H10O2,OC(=O)CCC1=CC=CC=C1,XMIIGOLPHOKFCH-UHFFFAOYSA-N,clostridium botulinum,1491,species
+Hydrocinnamic acid,C9H10O2,OC(=O)CCC1=CC=CC=C1,XMIIGOLPHOKFCH-UHFFFAOYSA-N,clostridium caproicum,2933746,species
+Hydrocinnamic acid,C9H10O2,OC(=O)CCC1=CC=CC=C1,XMIIGOLPHOKFCH-UHFFFAOYSA-N,clostridium sordellii,,
+Hydrocinnamic acid,C9H10O2,OC(=O)CCC1=CC=CC=C1,XMIIGOLPHOKFCH-UHFFFAOYSA-N,clostridium sporogenes,1509,species
+Hydrocinnamic acid,C9H10O2,OC(=O)CCC1=CC=CC=C1,XMIIGOLPHOKFCH-UHFFFAOYSA-N,clostridium difficile,,
+Hydrocinnamic acid,C9H10O2,OC(=O)CCC1=CC=CC=C1,XMIIGOLPHOKFCH-UHFFFAOYSA-N,eubacterium ramulus,39490,species
+Mannitol,C6H14O6,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,FBPFZTCFMRRESA-KVTDHHQDSA-N,clostridium,1485,genus
+Mannitol,C6H14O6,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,FBPFZTCFMRRESA-KVTDHHQDSA-N,streptococcus,1301,genus
+Mannitol,C6H14O6,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,FBPFZTCFMRRESA-KVTDHHQDSA-N,leuconostoc mesenteroides,1245,species
+Mannitol,C6H14O6,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,FBPFZTCFMRRESA-KVTDHHQDSA-N,zymomonas mobilis,542,species
+Mannitol,C6H14O6,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,FBPFZTCFMRRESA-KVTDHHQDSA-N,torulaspora delbrueckii,,
+Mannitol,C6H14O6,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,FBPFZTCFMRRESA-KVTDHHQDSA-N,rhodobacteraceae bacterium caa105,476842,species
+Mannitol,C6H14O6,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,FBPFZTCFMRRESA-KVTDHHQDSA-N,rhodobacter spaeroides,,
+Mannitol,C6H14O6,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,FBPFZTCFMRRESA-KVTDHHQDSA-N,pseudomonas uorescens,,
+Mannitol,C6H14O6,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,FBPFZTCFMRRESA-KVTDHHQDSA-N,lactococcus lactis,1358,species
+Mannitol,C6H14O6,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,FBPFZTCFMRRESA-KVTDHHQDSA-N,gluconobacter suboxydans,,
+Mannitol,C6H14O6,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,FBPFZTCFMRRESA-KVTDHHQDSA-N,lactobacillus brevis,,
+Nonadecanoic acid,C19H38O2,CCCCCCCCCCCCCCCCCCC(O)=O,ISYWECDDZWTKFF-UHFFFAOYSA-N,staphylococcus,1279,genus
+Phenyllactic acid,C9H10O3,OC(CC1=CC=CC=C1)C(O)=O,VOXXWSYKYCBWHO-UHFFFAOYSA-N,clostridium,1485,genus
+Phenyllactic acid,C9H10O3,OC(CC1=CC=CC=C1)C(O)=O,VOXXWSYKYCBWHO-UHFFFAOYSA-N,klebsiella,570,genus
+Phenyllactic acid,C9H10O3,OC(CC1=CC=CC=C1)C(O)=O,VOXXWSYKYCBWHO-UHFFFAOYSA-N,staphylococcus,1279,genus
+Phenyllactic acid,C9H10O3,OC(CC1=CC=CC=C1)C(O)=O,VOXXWSYKYCBWHO-UHFFFAOYSA-N,pseudomonas aeruginosa,287,species
+Phenyllactic acid,C9H10O3,OC(CC1=CC=CC=C1)C(O)=O,VOXXWSYKYCBWHO-UHFFFAOYSA-N,lactobacillus fermentum,,
+Phenyllactic acid,C9H10O3,OC(CC1=CC=CC=C1)C(O)=O,VOXXWSYKYCBWHO-UHFFFAOYSA-N,eubacterium lentum,,
+Phenyllactic acid,C9H10O3,OC(CC1=CC=CC=C1)C(O)=O,VOXXWSYKYCBWHO-UHFFFAOYSA-N,escherichia coli,562,species
+Phenyllactic acid,C9H10O3,OC(CC1=CC=CC=C1)C(O)=O,VOXXWSYKYCBWHO-UHFFFAOYSA-N,enterococcus faecalis,1351,species
+Phenyllactic acid,C9H10O3,OC(CC1=CC=CC=C1)C(O)=O,VOXXWSYKYCBWHO-UHFFFAOYSA-N,enterococcus faecium,1352,species
+Phenyllactic acid,C9H10O3,OC(CC1=CC=CC=C1)C(O)=O,VOXXWSYKYCBWHO-UHFFFAOYSA-N,bifidobacterium bifidum,1681,species
+Phenyllactic acid,C9H10O3,OC(CC1=CC=CC=C1)C(O)=O,VOXXWSYKYCBWHO-UHFFFAOYSA-N,acinetobacter baumannii,470,species
+Phenyllactic acid,C9H10O3,OC(CC1=CC=CC=C1)C(O)=O,VOXXWSYKYCBWHO-UHFFFAOYSA-N,bacteroides fragilis,817,species
+Phenyllactic acid,C9H10O3,OC(CC1=CC=CC=C1)C(O)=O,VOXXWSYKYCBWHO-UHFFFAOYSA-N,bacteroides thetaiotaomicron,818,species
+Propyl alcohol,C3H8O,CCCO,BDERNNFJNOPAEC-UHFFFAOYSA-N,thermobifida fusca,2021,species
+Propyl alcohol,C3H8O,CCCO,BDERNNFJNOPAEC-UHFFFAOYSA-N,synechococcus elongatus,32046,species
+Propyl alcohol,C3H8O,CCCO,BDERNNFJNOPAEC-UHFFFAOYSA-N,propionibacterium acidipropionici,,
+Propyl alcohol,C3H8O,CCCO,BDERNNFJNOPAEC-UHFFFAOYSA-N,propionibacterium freudenreichii,1744,species
+Propyl alcohol,C3H8O,CCCO,BDERNNFJNOPAEC-UHFFFAOYSA-N,escherichia coli,562,species
+Propyl alcohol,C3H8O,CCCO,BDERNNFJNOPAEC-UHFFFAOYSA-N,clostridium acetobutylicum,1488,species
+Propyl alcohol,C3H8O,CCCO,BDERNNFJNOPAEC-UHFFFAOYSA-N,clostridium beijerinckii,1520,species
+Propyl alcohol,C3H8O,CCCO,BDERNNFJNOPAEC-UHFFFAOYSA-N,clostridium neopropionicum,,
+Propyl alcohol,C3H8O,CCCO,BDERNNFJNOPAEC-UHFFFAOYSA-N,alkalibaculum bacchi,645887,species
+Rhamnose,C6H12O5,C[C@@H]1OC(O)[C@H](O)[C@H](O)[C@H]1O,SHZGCJCMOBCMKK-JFNONXLTSA-N,klebsiella,570,genus
+Rhamnose,C6H12O5,C[C@@H]1OC(O)[C@H](O)[C@H](O)[C@H]1O,SHZGCJCMOBCMKK-JFNONXLTSA-N,pseudomonas sp. dsm 2874,,
+Isopropyl alcohol,C3H8O,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,clostridium aurantibutyricum,,
+Isopropyl alcohol,C3H8O,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,clostridium beijerinckii,1520,species
+Histamine,C5H9N3,NCCC1=CNC=N1,NTYJJOPFIAHURM-UHFFFAOYSA-N,lactobacillus,1578,genus
+Histamine,C5H9N3,NCCC1=CNC=N1,NTYJJOPFIAHURM-UHFFFAOYSA-N,photobacterium phosphoreum ,,
+Acetylcholine,C7H16NO2,CC(=O)OCC[N+](C)(C)C,OIPILFWXSMYKGL-UHFFFAOYSA-N,lactobacillus,1578,genus
+Taurodeoxycholic acid,C26H45NO6S,[H][C@@]1(CC[C@@]2([H])[C@]3([H])CC[C@]4([H])C[C@H](O)CC[C@]4(C)[C@@]3([H])C[C@H](O)[C@]12C)[C@H](C)CCC(=O)NCCS(O)(=O)=O,AWDRATDZQPNJFN-VAYUFCLWSA-N,escherichia coli,562,species
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,achromobacter,222,genus
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,acinetobacter,469,genus
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,actinobacteria bacterium hgw-actinobacteria-4,2013649,species
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,aeromonas,642,genus
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,alcaligenes,507,genus
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,alteromonas,226,genus
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,anaerococcus,165779,genus
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,bacillus,1386,genus
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,bacteroides,816,genus
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,bacteroidetes bacterium hgw-bacteroidetes-13,2013681,species
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,burkholderia,32008,genus
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,campylobacter,194,genus
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,citrobacter,544,genus
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,desulfitobacterium,36853,genus
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,desulfovibrio,872,genus
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,desulfuromonas,890,genus
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,edwardsiella,132406,genus
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,enterococcus,1350,genus
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,eubacterium,1730,genus
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,firmicutes bacterium hgw-firmicutes-15,2013776,species
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,flavobacterium,237,genus
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,gammaproteobacteria,1236,class
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,haloanaerobacter,,
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,klebsiella,570,genus
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,micrococcus,1269,genus
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,mobiluncus,2050,genus
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,olsenella,133925,genus
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,photobacterium,657,genus
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,proteobacteria bacterium bvirr177,1397201,species
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,providencia,586,genus
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,pseudomonas,286,genus
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,rhodopseudomonas,1073,genus
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,ruminococcus,1263,genus
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,salmonella,590,genus
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,sarcina,1266,genus
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,serratia,2985502,genus
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,shewanella,22,genus
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,shigella,620,genus
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,sinorhizobium,28105,genus
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,sporomusa,2375,genus
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,staphylococcus,1279,genus
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,stigmatella,40,genus
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,streptococcus,1301,genus
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,vibrio ,,
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,yokenella,158876,genus
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,proteus mirabilis,584,species
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,escherichia coli,562,species
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,enterobacter cloacae,550,species
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,clostridium xiva,,
+Trimethylamine N-oxide,C3H9NO,C[N+](C)(C)[O-],UYPYRKYUKCHHIB-UHFFFAOYSA-N,bacteroidetes bacterium hgw-bacteroidetes-13,2013681,species
+Trimethylamine N-oxide,C3H9NO,C[N+](C)(C)[O-],UYPYRKYUKCHHIB-UHFFFAOYSA-N,ruminococcus,1263,genus
+trans-Cinnamic acid,C9H8O2,OC(=O)\C=C\C1=CC=CC=C1,WBYWAXJHAXSJNI-VOTSOKGWSA-N,alcaligenes,507,genus
+trans-Cinnamic acid,C9H8O2,OC(=O)\C=C\C1=CC=CC=C1,WBYWAXJHAXSJNI-VOTSOKGWSA-N,pseudomonas ligustri,,
+trans-Cinnamic acid,C9H8O2,OC(=O)\C=C\C1=CC=CC=C1,WBYWAXJHAXSJNI-VOTSOKGWSA-N,pseudomonas orvilla,,
+trans-Cinnamic acid,C9H8O2,OC(=O)\C=C\C1=CC=CC=C1,WBYWAXJHAXSJNI-VOTSOKGWSA-N,pseudomonas pseudomaleii,,
+trans-Cinnamic acid,C9H8O2,OC(=O)\C=C\C1=CC=CC=C1,WBYWAXJHAXSJNI-VOTSOKGWSA-N,cellulomonas galba,,
+trans-Cinnamic acid,C9H8O2,OC(=O)\C=C\C1=CC=CC=C1,WBYWAXJHAXSJNI-VOTSOKGWSA-N,brevibacterium healii,,
+Ferulic acid,C10H10O4,COC1=C(O)C=CC(\C=C\C(O)=O)=C1,KSEBMYQBYZTDHS-HWKANZROSA-N,pseudomonas acidovorans,,
+Ferulic acid,C10H10O4,COC1=C(O)C=CC(\C=C\C(O)=O)=C1,KSEBMYQBYZTDHS-HWKANZROSA-N,pseudomonas fluorescens,294,species
+Tartaric acid,C4H6O6,O[C@H]([C@@H](O)C(O)=O)C(O)=O,FEWJPZIEWOKRBE-JCYAYHJZSA-N,agrobacterium,357,genus
+Tartaric acid,C4H6O6,O[C@H]([C@@H](O)C(O)=O)C(O)=O,FEWJPZIEWOKRBE-JCYAYHJZSA-N,nocardia,1817,genus
+Tartaric acid,C4H6O6,O[C@H]([C@@H](O)C(O)=O)C(O)=O,FEWJPZIEWOKRBE-JCYAYHJZSA-N,rhizobium,379,genus
+Pyrocatechol,C6H6O2,OC1=CC=CC=C1O,YCIMNLLNPGFGHC-UHFFFAOYSA-N,pseudomonas aeruginosa,287,species
+Pyrocatechol,C6H6O2,OC1=CC=CC=C1O,YCIMNLLNPGFGHC-UHFFFAOYSA-N,escherichia coli,562,species
+Pyrocatechol,C6H6O2,OC1=CC=CC=C1O,YCIMNLLNPGFGHC-UHFFFAOYSA-N,mycobacterium tuberculosis,1773,species
+Trehalose,C12H22O11,OC[C@H]1O[C@H](O[C@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)[C@H](O)[C@@H](O)[C@@H]1O,HDTRYLNUVZCQOY-LIZSDCNHSA-N,propionibacterium,1743,genus
+Trehalose,C12H22O11,OC[C@H]1O[C@H](O[C@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)[C@H](O)[C@@H](O)[C@@H]1O,HDTRYLNUVZCQOY-LIZSDCNHSA-N,burkholderia stabilis,95485,species
+Trehalose,C12H22O11,OC[C@H]1O[C@H](O[C@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)[C@H](O)[C@@H](O)[C@@H]1O,HDTRYLNUVZCQOY-LIZSDCNHSA-N,escherichia coli,562,species
+Acetaldehyde,C2H4O,CC=O,IKHGUXGNUITLKF-UHFFFAOYSA-N,bifidobacterium,1678,genus
+Acetaldehyde,C2H4O,CC=O,IKHGUXGNUITLKF-UHFFFAOYSA-N,lactobacillus,1578,genus
+Acetaldehyde,C2H4O,CC=O,IKHGUXGNUITLKF-UHFFFAOYSA-N,helicobacter pylori,210,species
+N-Formyl-L-methionine,C6H11NO3S,CSCC[C@H](NC=O)C(O)=O,PYUSHNKNPOHWEZ-YFKPBYRVSA-N,escherichia coli,562,species
+5-Methylthioribose,C6H12O4S,CSC[C@H]1O[C@@H](O)[C@H](O)[C@@H]1O,OLVVOVIFTBSBBH-KVTDHHQDSA-N,escherichia coli,562,species
+Trehalose 6-phosphate,C12H23O14P,OC[C@H]1O[C@H](O[C@H]2O[C@H](COP(O)(O)=O)[C@@H](O)[C@H](O)[C@H]2O)[C@H](O)[C@@H](O)[C@@H]1O,LABSPYBHMPDTEL-LIZSDCNHSA-N,escherichia coli,562,species
+Trehalose 6-phosphate,C12H23O14P,OC[C@H]1O[C@H](O[C@H]2O[C@H](COP(O)(O)=O)[C@@H](O)[C@H](O)[C@H]2O)[C@H](O)[C@@H](O)[C@@H]1O,LABSPYBHMPDTEL-LIZSDCNHSA-N,mycobacterium tuberculosis,1773,species
+N-Acetylmannosamine,C8H15NO6,CC(=O)N[C@@H]1[C@H](O)O[C@H](CO)[C@@H](O)[C@@H]1O,OVRNDRQMDRJTHS-OZRXBMAMSA-N,escherichia coli,562,species
+N2-Succinyl-L-glutamic acid 5-semialdehyde,C9H13NO6,OC(=O)CCC(=O)N[C@@H](CCC=O)C(O)=O,XTOKIEIBKARFSZ-LURJTMIESA-N,escherichia coli,562,species
+N2-Succinyl-L-ornithine,C9H16N2O5,NCCC[C@H](NC(=O)CCC(O)=O)C(O)=O,VWXQFHJBQHTHMK-LURJTMIESA-N,escherichia coli,562,species
+1-Deoxy-D-xylulose 5-phosphate,C5H11O7P,CC(=O)[C@@H](O)[C@H](O)COP(O)(O)=O,AJPADPZSRRUGHI-RFZPGFLSSA-N,escherichia coli,562,species
+1-Deoxy-D-xylulose 5-phosphate,C5H11O7P,CC(=O)[C@@H](O)[C@H](O)COP(O)(O)=O,AJPADPZSRRUGHI-RFZPGFLSSA-N,streptomyces,1883,genus
+L-Sorbose,C6H12O6,OC[C@@]1(O)OC[C@H](O)[C@@H](O)[C@@H]1O,LKDRXBCSQODPBY-BGPJRJDNSA-N,ketogulonicigenium vulgare,92945,species
+D-Alanine,C3H7NO2,C[C@@H](N)C(O)=O,QNAYBMKLOCPYGJ-UWTATZPHSA-N,unclassified gram-positive bacteria,53420,no rank
+D-Lactic acid,C3H6O3,C[C@@H](O)C(O)=O,JVTAAEKCZFNVCJ-UWTATZPHSA-N,aerococcus,1375,genus
+D-Lactic acid,C3H6O3,C[C@@H](O)C(O)=O,JVTAAEKCZFNVCJ-UWTATZPHSA-N,carnobacterium,2747,genus
+D-Lactic acid,C3H6O3,C[C@@H](O)C(O)=O,JVTAAEKCZFNVCJ-UWTATZPHSA-N,enterococcus,1350,genus
+D-Lactic acid,C3H6O3,C[C@@H](O)C(O)=O,JVTAAEKCZFNVCJ-UWTATZPHSA-N,lactococcus,1357,genus
+D-Lactic acid,C3H6O3,C[C@@H](O)C(O)=O,JVTAAEKCZFNVCJ-UWTATZPHSA-N,leuconostoc,1243,genus
+D-Lactic acid,C3H6O3,C[C@@H](O)C(O)=O,JVTAAEKCZFNVCJ-UWTATZPHSA-N,oenococcus,46254,genus
+D-Lactic acid,C3H6O3,C[C@@H](O)C(O)=O,JVTAAEKCZFNVCJ-UWTATZPHSA-N,pediococcus,1253,genus
+D-Lactic acid,C3H6O3,C[C@@H](O)C(O)=O,JVTAAEKCZFNVCJ-UWTATZPHSA-N,streptococcus,1301,genus
+D-Lactic acid,C3H6O3,C[C@@H](O)C(O)=O,JVTAAEKCZFNVCJ-UWTATZPHSA-N,tetragenococcus,51668,genus
+D-Lactic acid,C3H6O3,C[C@@H](O)C(O)=O,JVTAAEKCZFNVCJ-UWTATZPHSA-N,vagococcus,2737,genus
+D-Lactic acid,C3H6O3,C[C@@H](O)C(O)=O,JVTAAEKCZFNVCJ-UWTATZPHSA-N,weissella,46255,genus
+D-Lactic acid,C3H6O3,C[C@@H](O)C(O)=O,JVTAAEKCZFNVCJ-UWTATZPHSA-N,lactobacillus delbruekii,,
+D-Lactic acid,C3H6O3,C[C@@H](O)C(O)=O,JVTAAEKCZFNVCJ-UWTATZPHSA-N,lactobacillus jensenii,109790,species
+D-Lactic acid,C3H6O3,C[C@@H](O)C(O)=O,JVTAAEKCZFNVCJ-UWTATZPHSA-N,escherichia coli,562,species
+D-Lactic acid,C3H6O3,C[C@@H](O)C(O)=O,JVTAAEKCZFNVCJ-UWTATZPHSA-N,corynebacterium glutamicum,1718,species
+D-Lactic acid,C3H6O3,C[C@@H](O)C(O)=O,JVTAAEKCZFNVCJ-UWTATZPHSA-N,bacillus coagulans,,
+"3,4-Dihydroxybenzeneacetic acid",C8H8O4,OC(=O)CC1=CC(O)=C(O)C=C1,CFFZDZCDUFSOFZ-UHFFFAOYSA-N,unclassified gram-positive bacteria,53420,no rank
+Hydrogen,H2,[H][H],UFHFLCQGNIYNRP-UHFFFAOYSA-N,cyanobacteria bacterium m_surface_7_m2_040,2775522,species
+Hydrogen,H2,[H][H],UFHFLCQGNIYNRP-UHFFFAOYSA-N,rhodobacteraceae bacterium caa105,476842,species
+Hydrogen,H2,[H][H],UFHFLCQGNIYNRP-UHFFFAOYSA-N,rhodobacter sphaeroides,,
+Hydrogen,H2,[H][H],UFHFLCQGNIYNRP-UHFFFAOYSA-N,halobacterium salinarum,,
+Hydrogen,H2,[H][H],UFHFLCQGNIYNRP-UHFFFAOYSA-N,citrobacter intermediuns,,
+Hydrogen,H2,[H][H],UFHFLCQGNIYNRP-UHFFFAOYSA-N,enterobacter aerogenes,,
+Diaminopimelic acid,C7H14N2O4,N[C@@H](CCC[C@H](N)C(O)=O)C(O)=O,GMKMEZVLHJARHF-WHFBIAKZSA-N,gram-negative bacteria,,
+2-Keto-3-deoxy-6-phosphogluconic acid,C6H11O9P,O[C@H](COP(O)(O)=O)[C@@H](O)CC(=O)C(O)=O,OVPRPPOVAXRCED-WVZVXSGGSA-N,achromobacter,222,genus
+2-Keto-3-deoxy-6-phosphogluconic acid,C6H11O9P,O[C@H](COP(O)(O)=O)[C@@H](O)CC(=O)C(O)=O,OVPRPPOVAXRCED-WVZVXSGGSA-N,alcaligenes,507,genus
+2-Keto-3-deoxy-6-phosphogluconic acid,C6H11O9P,O[C@H](COP(O)(O)=O)[C@@H](O)CC(=O)C(O)=O,OVPRPPOVAXRCED-WVZVXSGGSA-N,clostridium,1485,genus
+2-Keto-3-deoxy-6-phosphogluconic acid,C6H11O9P,O[C@H](COP(O)(O)=O)[C@@H](O)CC(=O)C(O)=O,OVPRPPOVAXRCED-WVZVXSGGSA-N,rhodobacteraceae bacterium caa105,476842,species
+2-Keto-3-deoxy-6-phosphogluconic acid,C6H11O9P,O[C@H](COP(O)(O)=O)[C@@H](O)CC(=O)C(O)=O,OVPRPPOVAXRCED-WVZVXSGGSA-N,rlzodopseudomonas spheroides,,
+p-Aminobenzoic acid,C7H7NO2,NC1=CC=C(C=C1)C(O)=O,ALYNCZNDIQEVRV-UHFFFAOYSA-N,acetobacter suboxydans,,
+Putrescine,C4H12N2,NCCCCN,KIDHWZJUCRJVML-UHFFFAOYSA-N,enterobacter aerogenes,,
+Putrescine,C4H12N2,NCCCCN,KIDHWZJUCRJVML-UHFFFAOYSA-N,cronobacter sakazakii,28141,species
+Putrescine,C4H12N2,NCCCCN,KIDHWZJUCRJVML-UHFFFAOYSA-N,citrobacter braakii,57706,species
+Putrescine,C4H12N2,NCCCCN,KIDHWZJUCRJVML-UHFFFAOYSA-N,citrobacter freundii,546,species
+Putrescine,C4H12N2,NCCCCN,KIDHWZJUCRJVML-UHFFFAOYSA-N,citrobacter youngae,133448,species
+Putrescine,C4H12N2,NCCCCN,KIDHWZJUCRJVML-UHFFFAOYSA-N,corynebacterium glutamicum,1718,species
+Mannitol 1-phosphate,C6H15O9P,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)COP(O)(O)=O,GACTWZZMVMUKNG-KVTDHHQDSA-N,escherichia coli,562,species
+Acetone,C3H6O,CC(C)=O,CSCPPACGZOOCGX-UHFFFAOYSA-N,clostridium acetobutylicum,1488,species
+Acetone,C3H6O,CC(C)=O,CSCPPACGZOOCGX-UHFFFAOYSA-N,clostridium beijerinckii,1520,species
+Acetone,C3H6O,CC(C)=O,CSCPPACGZOOCGX-UHFFFAOYSA-N,clostridium butylicum,,
+Acetone,C3H6O,CC(C)=O,CSCPPACGZOOCGX-UHFFFAOYSA-N,clostridium felsenium,,
+Acetone,C3H6O,CC(C)=O,CSCPPACGZOOCGX-UHFFFAOYSA-N,clostridium glycolycum,,
+Acetone,C3H6O,CC(C)=O,CSCPPACGZOOCGX-UHFFFAOYSA-N,clostridium pasteurianum ,,
+Acetone,C3H6O,CC(C)=O,CSCPPACGZOOCGX-UHFFFAOYSA-N,clostridium propylbutyricum ,,
+Acetone,C3H6O,CC(C)=O,CSCPPACGZOOCGX-UHFFFAOYSA-N,clostridium saccharoperbutylacetonicum ,,
+Acetone,C3H6O,CC(C)=O,CSCPPACGZOOCGX-UHFFFAOYSA-N,clostridium thermosaccharolyticum,,
+Protocatechuic acid,C7H6O4,OC(=O)C1=CC(O)=C(O)C=C1,YQUVCSBJEUQKSH-UHFFFAOYSA-N,azomonas macrocytogenes,69962,species
+p-Cresol,C7H8O,CC1=CC=C(O)C=C1,IWDCLRJOBJJRNH-UHFFFAOYSA-N,bacteroides,816,genus
+p-Cresol,C7H8O,CC1=CC=C(O)C=C1,IWDCLRJOBJJRNH-UHFFFAOYSA-N,bifidobacterium,1678,genus
+p-Cresol,C7H8O,CC1=CC=C(O)C=C1,IWDCLRJOBJJRNH-UHFFFAOYSA-N,enterobacter,547,genus
+p-Cresol,C7H8O,CC1=CC=C(O)C=C1,IWDCLRJOBJJRNH-UHFFFAOYSA-N,lactobacillus,1578,genus
+p-Cresol,C7H8O,CC1=CC=C(O)C=C1,IWDCLRJOBJJRNH-UHFFFAOYSA-N,clostridium difficile,,
+Benzoic acid,C7H6O2,OC(=O)C1=CC=CC=C1,WPYMKLBDIGXBTP-UHFFFAOYSA-N,serratia marcescens,615,species
+Caffeic acid,C9H8O4,OC(=O)\C=C\C1=CC(O)=C(O)C=C1,QAIPRVGONGVQAS-DUXPYHPUSA-N,escherichia coli,562,species
+4-Hydroxycyclohexylcarboxylic acid,C7H12O3,OC1CCC(CC1)C(O)=O,HCFRWBBJISAZNK-UHFFFAOYSA-N,arthrobacter,1663,genus
+m-Cresol,C7H8O,CC1=CC=CC(O)=C1,RLSSMJSEOOYNOY-UHFFFAOYSA-N,lysinibacillus cresolivorans,479077,species
+o-Cresol,C7H8O,CC1=CC=CC=C1O,QWVGKYWNOKOFNN-UHFFFAOYSA-N,pseudomonas sp. cp4,,
+N-Acetylputrescine,C6H14N2O,CC(=O)NCCCCN,KLZGKIDSEJWEDW-UHFFFAOYSA-N,corynebacterium glutamicum,1718,species
+Syringic acid,C9H10O5,COC1=CC(=CC(OC)=C1O)C(O)=O,JMSVCTWVEWCHDZ-UHFFFAOYSA-N,bifidobacterium,1678,genus
+Itaconic acid,C5H6O4,OC(=O)CC(=C)C(O)=O,LVHBHZANLOWSRM-UHFFFAOYSA-N,escherichia coli,562,species
+3-Indolebutyric acid,C12H13NO2,OC(=O)CCCC1=CNC2=C1C=CC=C2,JTEDVYBZBROSJT-UHFFFAOYSA-N,clostridium,1485,genus
+Desaminotyrosine,C9H10O3,OC(=O)CCC1=CC=C(O)C=C1,NMHMNPHRMNGLLB-UHFFFAOYSA-N,klebsiella,570,genus
+Desaminotyrosine,C9H10O3,OC(=O)CCC1=CC=C(O)C=C1,NMHMNPHRMNGLLB-UHFFFAOYSA-N,staphylococcus,1279,genus
+Desaminotyrosine,C9H10O3,OC(=O)CCC1=CC=C(O)C=C1,NMHMNPHRMNGLLB-UHFFFAOYSA-N,pseudomonas aeruginosa,287,species
+Desaminotyrosine,C9H10O3,OC(=O)CCC1=CC=C(O)C=C1,NMHMNPHRMNGLLB-UHFFFAOYSA-N,lactobacillus fermentum,,
+Desaminotyrosine,C9H10O3,OC(=O)CCC1=CC=C(O)C=C1,NMHMNPHRMNGLLB-UHFFFAOYSA-N,eubacterium lentum,,
+Desaminotyrosine,C9H10O3,OC(=O)CCC1=CC=C(O)C=C1,NMHMNPHRMNGLLB-UHFFFAOYSA-N,enterococcus faecalis,1351,species
+Desaminotyrosine,C9H10O3,OC(=O)CCC1=CC=C(O)C=C1,NMHMNPHRMNGLLB-UHFFFAOYSA-N,enterococcus faecium,1352,species
+Desaminotyrosine,C9H10O3,OC(=O)CCC1=CC=C(O)C=C1,NMHMNPHRMNGLLB-UHFFFAOYSA-N,clostridium orbiscindens,,
+Desaminotyrosine,C9H10O3,OC(=O)CCC1=CC=C(O)C=C1,NMHMNPHRMNGLLB-UHFFFAOYSA-N,clostridium sporogenes,1509,species
+Desaminotyrosine,C9H10O3,OC(=O)CCC1=CC=C(O)C=C1,NMHMNPHRMNGLLB-UHFFFAOYSA-N,clostridium botulinium,,
+Desaminotyrosine,C9H10O3,OC(=O)CCC1=CC=C(O)C=C1,NMHMNPHRMNGLLB-UHFFFAOYSA-N,bifidobacterium bifidum,1681,species
+Desaminotyrosine,C9H10O3,OC(=O)CCC1=CC=C(O)C=C1,NMHMNPHRMNGLLB-UHFFFAOYSA-N,acinetobacter baumannii,470,species
+Desaminotyrosine,C9H10O3,OC(=O)CCC1=CC=C(O)C=C1,NMHMNPHRMNGLLB-UHFFFAOYSA-N,bacteroides fragilis,817,species
+Desaminotyrosine,C9H10O3,OC(=O)CCC1=CC=C(O)C=C1,NMHMNPHRMNGLLB-UHFFFAOYSA-N,bacteroides thetaiotaomicron,818,species
+Equol,C15H14O3,OC1=CC=C(C=C1)[C@H]1COC2=CC(O)=CC=C2C1,ADFCQWZHKCXPAJ-GFCCVEGCSA-N,bifidobacterium,1678,genus
+Equol,C15H14O3,OC1=CC=C(C=C1)[C@H]1COC2=CC(O)=CC=C2C1,ADFCQWZHKCXPAJ-GFCCVEGCSA-N,eggerthella,84111,genus
+Equol,C15H14O3,OC1=CC=C(C=C1)[C@H]1COC2=CC(O)=CC=C2C1,ADFCQWZHKCXPAJ-GFCCVEGCSA-N,lactobacillus mucosae,,
+Equol,C15H14O3,OC1=CC=C(C=C1)[C@H]1COC2=CC(O)=CC=C2C1,ADFCQWZHKCXPAJ-GFCCVEGCSA-N,enterococcus faecalis,1351,species
+Equol,C15H14O3,OC1=CC=C(C=C1)[C@H]1COC2=CC(O)=CC=C2C1,ADFCQWZHKCXPAJ-GFCCVEGCSA-N,bacteroides ovatus,28116,species
+Benzoyl-CoA,C28H40N7O17P3S,CC(C)(COP(O)(=O)OP(O)(=O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1OP(O)(O)=O)N1C=NC2=C1N=CN=C2N)[C@@H](O)C(=O)NCCC(=O)NCCSC(=O)C1=CC=CC=C1,VEVJTUNLALKRNO-TYHXJLICSA-N,streptomyces maritimus,115828,species
+Indole-3-propionic acid,C11H11NO2,OC(=O)CCC1=CNC2=C1C=CC=C2,GOLXRNDWAUTYKT-UHFFFAOYSA-N,clostridium sporogenes,1509,species
+Dimethylsulfide,C2H6S,CSC,QMMFVYPAHWMCMS-UHFFFAOYSA-N,cyanothece,43988,genus
+Dimethylsulfide,C2H6S,CSC,QMMFVYPAHWMCMS-UHFFFAOYSA-N,rhizobiaceae,82115,family
+Dimethylsulfide,C2H6S,CSC,QMMFVYPAHWMCMS-UHFFFAOYSA-N,rhizobium leguminosarum,384,species
+Dimethylsulfide,C2H6S,CSC,QMMFVYPAHWMCMS-UHFFFAOYSA-N,pseudomonas deceptionensis,882211,species
+Dimethylsulfide,C2H6S,CSC,QMMFVYPAHWMCMS-UHFFFAOYSA-N,bradyrhizobium diazoefficiens,1355477,species
+Dimethylsulfide,C2H6S,CSC,QMMFVYPAHWMCMS-UHFFFAOYSA-N,escherichia coli,562,species
+Cadaverine,C5H14N2,NCCCCCN,VHRGRCVQAFMJIZ-UHFFFAOYSA-N,corynebacterium glutamicum,1718,species
+trans-trans-Muconic acid,C6H6O4,OC(=O)\C=C\C=C\C(O)=O,TXXHDPDFNKHHGW-ZPUQHVIOSA-N,escherichia coli,562,species
+trans-trans-Muconic acid,C6H6O4,OC(=O)\C=C\C=C\C(O)=O,TXXHDPDFNKHHGW-ZPUQHVIOSA-N,pseudomonas putida,303,species
+3-Hydroxybenzoic acid,C7H6O3,OC(=O)C1=CC(O)=CC=C1,IJFXRHURBJZNAO-UHFFFAOYSA-N,pseudomonas,286,genus
+3-(3-Hydroxyphenyl)-3-hydroxypropanoic acid,C9H10O4,OC(CC(O)=O)C1=CC(O)=CC=C1,KHTAGVZHYUZYMF-UHFFFAOYSA-N,clostridium bifermentans,,
+3-(3-Hydroxyphenyl)-3-hydroxypropanoic acid,C9H10O4,OC(CC(O)=O)C1=CC(O)=CC=C1,KHTAGVZHYUZYMF-UHFFFAOYSA-N,clostridium calortolerans,,
+3-(3-Hydroxyphenyl)-3-hydroxypropanoic acid,C9H10O4,OC(CC(O)=O)C1=CC(O)=CC=C1,KHTAGVZHYUZYMF-UHFFFAOYSA-N,clostridium difficile,,
+3-(3-Hydroxyphenyl)-3-hydroxypropanoic acid,C9H10O4,OC(CC(O)=O)C1=CC(O)=CC=C1,KHTAGVZHYUZYMF-UHFFFAOYSA-N,clostridium ghoni,,
+3-(3-Hydroxyphenyl)-3-hydroxypropanoic acid,C9H10O4,OC(CC(O)=O)C1=CC(O)=CC=C1,KHTAGVZHYUZYMF-UHFFFAOYSA-N,clostridium mangenoyi,,
+3-(3-Hydroxyphenyl)-3-hydroxypropanoic acid,C9H10O4,OC(CC(O)=O)C1=CC(O)=CC=C1,KHTAGVZHYUZYMF-UHFFFAOYSA-N,clostridium sporogenes,1509,species
+3-(3-Hydroxyphenyl)-3-hydroxypropanoic acid,C9H10O4,OC(CC(O)=O)C1=CC(O)=CC=C1,KHTAGVZHYUZYMF-UHFFFAOYSA-N,clostridium botulinium,,
+6-Hydroxynicotinic acid,C6H5NO3,OC(=O)C1=CN=C(O)C=C1,BLHCMGRVFXRYRN-UHFFFAOYSA-N,serratia marcescens,615,species
+6-Hydroxynicotinic acid,C6H5NO3,OC(=O)C1=CN=C(O)C=C1,BLHCMGRVFXRYRN-UHFFFAOYSA-N,achromobacter xylosoxydans,,
+6-Hydroxynicotinic acid,C6H5NO3,OC(=O)C1=CN=C(O)C=C1,BLHCMGRVFXRYRN-UHFFFAOYSA-N,pseudomonas acidovorans,,
+6-Hydroxynicotinic acid,C6H5NO3,OC(=O)C1=CN=C(O)C=C1,BLHCMGRVFXRYRN-UHFFFAOYSA-N,pseudomonas fluorescens,294,species
+Methane,CH4,C,VNWKTOKETHGBQD-UHFFFAOYSA-N,methanobrevibacter,,
+Methane,CH4,C,VNWKTOKETHGBQD-UHFFFAOYSA-N,methanococcus,,
+Methane,CH4,C,VNWKTOKETHGBQD-UHFFFAOYSA-N,methanocorpusculum,,
+Methane,CH4,C,VNWKTOKETHGBQD-UHFFFAOYSA-N,methanoculleus,,
+Methane,CH4,C,VNWKTOKETHGBQD-UHFFFAOYSA-N,methanoflorens,,
+Methane,CH4,C,VNWKTOKETHGBQD-UHFFFAOYSA-N,methanofollis,,
+Methane,CH4,C,VNWKTOKETHGBQD-UHFFFAOYSA-N,methanogenium,,
+Methane,CH4,C,VNWKTOKETHGBQD-UHFFFAOYSA-N,methanomicrobium,,
+Methane,CH4,C,VNWKTOKETHGBQD-UHFFFAOYSA-N,methanopyrus,,
+Methane,CH4,C,VNWKTOKETHGBQD-UHFFFAOYSA-N,methanoregula,,
+Methane,CH4,C,VNWKTOKETHGBQD-UHFFFAOYSA-N,methanosarcina,,
+Methane,CH4,C,VNWKTOKETHGBQD-UHFFFAOYSA-N,methanothermobacter,,
+Methane,CH4,C,VNWKTOKETHGBQD-UHFFFAOYSA-N,methanosaeta,,
+Methane,CH4,C,VNWKTOKETHGBQD-UHFFFAOYSA-N,methanothrix sochngenii,,
+Methane,CH4,C,VNWKTOKETHGBQD-UHFFFAOYSA-N,methanospirillium hungatei,,
+Methane,CH4,C,VNWKTOKETHGBQD-UHFFFAOYSA-N,methanosphaera stadtmanae,,
+Methane,CH4,C,VNWKTOKETHGBQD-UHFFFAOYSA-N,desulfovibrio vulgaris,881,species
+Methane,CH4,C,VNWKTOKETHGBQD-UHFFFAOYSA-N,methanobacterium bryantii,,
+Methane,CH4,C,VNWKTOKETHGBQD-UHFFFAOYSA-N,methanobacterium espanolae,,
+Zeaxanthin,C40H56O2,C\C(\C=C\C=C(/C)\C=C\C1=C(C)C[C@@H](O)CC1(C)C)=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/C1=C(C)C[C@@H](O)CC1(C)C,JKQXZKUSFCKOGQ-QAYBQHTQSA-N,formosa,225842,genus
+Zeaxanthin,C40H56O2,C\C(\C=C\C=C(/C)\C=C\C1=C(C)C[C@@H](O)CC1(C)C)=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/C1=C(C)C[C@@H](O)CC1(C)C,JKQXZKUSFCKOGQ-QAYBQHTQSA-N,pseudomonas aeruginosa,287,species
+Zeaxanthin,C40H56O2,C\C(\C=C\C=C(/C)\C=C\C1=C(C)C[C@@H](O)CC1(C)C)=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/C1=C(C)C[C@@H](O)CC1(C)C,JKQXZKUSFCKOGQ-QAYBQHTQSA-N,bacillus subtilis,1423,species
+Zeaxanthin,C40H56O2,C\C(\C=C\C=C(/C)\C=C\C1=C(C)C[C@@H](O)CC1(C)C)=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/C1=C(C)C[C@@H](O)CC1(C)C,JKQXZKUSFCKOGQ-QAYBQHTQSA-N,zeaxanthinibacter enoshimensi,,
+Zeaxanthin,C40H56O2,C\C(\C=C\C=C(/C)\C=C\C1=C(C)C[C@@H](O)CC1(C)C)=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/C1=C(C)C[C@@H](O)CC1(C)C,JKQXZKUSFCKOGQ-QAYBQHTQSA-N,sphingomonas jaspsi,392409,species
+Zeaxanthin,C40H56O2,C\C(\C=C\C=C(/C)\C=C\C1=C(C)C[C@@H](O)CC1(C)C)=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/C1=C(C)C[C@@H](O)CC1(C)C,JKQXZKUSFCKOGQ-QAYBQHTQSA-N,sphingomonas natatoria,,
+Zeaxanthin,C40H56O2,C\C(\C=C\C=C(/C)\C=C\C1=C(C)C[C@@H](O)CC1(C)C)=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/C1=C(C)C[C@@H](O)CC1(C)C,JKQXZKUSFCKOGQ-QAYBQHTQSA-N,siansivirga zeaxanthinifaciens,762954,species
+Zeaxanthin,C40H56O2,C\C(\C=C\C=C(/C)\C=C\C1=C(C)C[C@@H](O)CC1(C)C)=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/C1=C(C)C[C@@H](O)CC1(C)C,JKQXZKUSFCKOGQ-QAYBQHTQSA-N,paracoccus zeaxanthinifaciens,187400,species
+Zeaxanthin,C40H56O2,C\C(\C=C\C=C(/C)\C=C\C1=C(C)C[C@@H](O)CC1(C)C)=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/C1=C(C)C[C@@H](O)CC1(C)C,JKQXZKUSFCKOGQ-QAYBQHTQSA-N,nubsella zeaxanthinifaciens,392412,species
+Zeaxanthin,C40H56O2,C\C(\C=C\C=C(/C)\C=C\C1=C(C)C[C@@H](O)CC1(C)C)=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/C1=C(C)C[C@@H](O)CC1(C)C,JKQXZKUSFCKOGQ-QAYBQHTQSA-N,muricauda aquimarina,,
+Zeaxanthin,C40H56O2,C\C(\C=C\C=C(/C)\C=C\C1=C(C)C[C@@H](O)CC1(C)C)=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/C1=C(C)C[C@@H](O)CC1(C)C,JKQXZKUSFCKOGQ-QAYBQHTQSA-N,muricauda flavescens,,
+Zeaxanthin,C40H56O2,C\C(\C=C\C=C(/C)\C=C\C1=C(C)C[C@@H](O)CC1(C)C)=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/C1=C(C)C[C@@H](O)CC1(C)C,JKQXZKUSFCKOGQ-QAYBQHTQSA-N,muricauda lutaonensis,,
+Zeaxanthin,C40H56O2,C\C(\C=C\C=C(/C)\C=C\C1=C(C)C[C@@H](O)CC1(C)C)=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/C1=C(C)C[C@@H](O)CC1(C)C,JKQXZKUSFCKOGQ-QAYBQHTQSA-N,muricauda olearia,,
+Zeaxanthin,C40H56O2,C\C(\C=C\C=C(/C)\C=C\C1=C(C)C[C@@H](O)CC1(C)C)=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/C1=C(C)C[C@@H](O)CC1(C)C,JKQXZKUSFCKOGQ-QAYBQHTQSA-N,mesoflavibacter aestuarii,,
+Zeaxanthin,C40H56O2,C\C(\C=C\C=C(/C)\C=C\C1=C(C)C[C@@H](O)CC1(C)C)=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/C1=C(C)C[C@@H](O)CC1(C)C,JKQXZKUSFCKOGQ-QAYBQHTQSA-N,mesoflavibacter zeaxanthinifaciens,393060,species
+Zeaxanthin,C40H56O2,C\C(\C=C\C=C(/C)\C=C\C1=C(C)C[C@@H](O)CC1(C)C)=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/C1=C(C)C[C@@H](O)CC1(C)C,JKQXZKUSFCKOGQ-QAYBQHTQSA-N,kordia aquimaris,1227947,species
+Zeaxanthin,C40H56O2,C\C(\C=C\C=C(/C)\C=C\C1=C(C)C[C@@H](O)CC1(C)C)=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/C1=C(C)C[C@@H](O)CC1(C)C,JKQXZKUSFCKOGQ-QAYBQHTQSA-N,hyunsoonleella jejuensis,419940,species
+Zeaxanthin,C40H56O2,C\C(\C=C\C=C(/C)\C=C\C1=C(C)C[C@@H](O)CC1(C)C)=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/C1=C(C)C[C@@H](O)CC1(C)C,JKQXZKUSFCKOGQ-QAYBQHTQSA-N,gramella oceani,,
+Zeaxanthin,C40H56O2,C\C(\C=C\C=C(/C)\C=C\C1=C(C)C[C@@H](O)CC1(C)C)=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/C1=C(C)C[C@@H](O)CC1(C)C,JKQXZKUSFCKOGQ-QAYBQHTQSA-N,gramella planctonica,,
+Zeaxanthin,C40H56O2,C\C(\C=C\C=C(/C)\C=C\C1=C(C)C[C@@H](O)CC1(C)C)=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/C1=C(C)C[C@@H](O)CC1(C)C,JKQXZKUSFCKOGQ-QAYBQHTQSA-N,flavobacterium multivorum,,
+Zeaxanthin,C40H56O2,C\C(\C=C\C=C(/C)\C=C\C1=C(C)C[C@@H](O)CC1(C)C)=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/C1=C(C)C[C@@H](O)CC1(C)C,JKQXZKUSFCKOGQ-QAYBQHTQSA-N,escherichia coli,562,species
+Zeaxanthin,C40H56O2,C\C(\C=C\C=C(/C)\C=C\C1=C(C)C[C@@H](O)CC1(C)C)=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/C1=C(C)C[C@@H](O)CC1(C)C,JKQXZKUSFCKOGQ-QAYBQHTQSA-N,algibacter sp. aqp096,,
+Zeaxanthin,C40H56O2,C\C(\C=C\C=C(/C)\C=C\C1=C(C)C[C@@H](O)CC1(C)C)=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/C1=C(C)C[C@@H](O)CC1(C)C,JKQXZKUSFCKOGQ-QAYBQHTQSA-N,aquibacter zeaxanthinifacien,,
+"2,3-Butanediol",C4H10O2,CC(O)C(C)O,OWBTYPJTUOEWEK-UHFFFAOYSA-N,serratia marcescens,615,species
+"2,3-Butanediol",C4H10O2,CC(O)C(C)O,OWBTYPJTUOEWEK-UHFFFAOYSA-N,klebsiella oxytoca,571,species
+"2,3-Butanediol",C4H10O2,CC(O)C(C)O,OWBTYPJTUOEWEK-UHFFFAOYSA-N,klebsiella pneumoniae,573,species
+"2,3-Butanediol",C4H10O2,CC(O)C(C)O,OWBTYPJTUOEWEK-UHFFFAOYSA-N,bacillus polymyxa,,
+"2,3-Butanediol",C4H10O2,CC(O)C(C)O,OWBTYPJTUOEWEK-UHFFFAOYSA-N,enterobacter aerogenes,,
+Hydrogen sulfide,H2S,S,RWSOTUBLDIXVET-UHFFFAOYSA-N,alcaligenes,507,genus
+Hydrogen sulfide,H2S,S,RWSOTUBLDIXVET-UHFFFAOYSA-N,pseudomonas aeruginosa,287,species
+Hydrogen sulfide,H2S,S,RWSOTUBLDIXVET-UHFFFAOYSA-N,proteus vulgaris,585,species
+Hydrogen sulfide,H2S,S,RWSOTUBLDIXVET-UHFFFAOYSA-N,klebsiella pneumoniae subsp. rhinoscleromatis,39831,subspecies
+Hydrogen sulfide,H2S,S,RWSOTUBLDIXVET-UHFFFAOYSA-N,chromobacterium prodigiosum,,
+Phloretin,C15H14O5,OC1=CC=C(CCC(=O)C2=C(O)C=C(O)C=C2O)C=C1,VGEREEWJJVICBM-UHFFFAOYSA-N,escherichia coli,562,species
+D-Glutamic acid,C5H9NO4,N[C@H](CCC(O)=O)C(O)=O,WHUUTDBJXJRKMK-GSVOUGTGSA-N,lactobacillus paracasei,,
+D-Glutamic acid,C5H9NO4,N[C@H](CCC(O)=O)C(O)=O,WHUUTDBJXJRKMK-GSVOUGTGSA-N,lactobacillus plantarum,,
+5-Aminopentanoic acid,C5H11NO2,NCCCCC(O)=O,JJMDCOVWQOJGCB-UHFFFAOYSA-N,corynebacterium glutamicum,1718,species
+Tryptophol,C10H11NO,OCCC1=CNC2=C1C=CC=C2,MBBOMCVGYCRMEA-UHFFFAOYSA-N,clostridium,1485,genus
+Etiocholanedione,C19H28O2,[H][C@@]12CCC(=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC[C@]2([H])CC(=O)CC[C@]12C,RAJWOBJTTGJROA-QJISAEMRSA-N,corynebacterium jekeium,,
+"6,7-Dimethyl-8-(1-D-ribityl)lumazine",C13H18N4O6,CC1=C(C)N(C[C@H](O)[C@H](O)[C@H](O)CO)C2=NC(=O)NC(=O)C2=N1,SXDXRJZUAJBNFL-XKSSXDPKSA-N,escherichia coli,562,species
+5-Amino-6-(5'-phosphoribitylamino)uracil,C9H17N4O9P,NC1=C(NC[C@H](O)[C@H](O)[C@H](O)COP(O)(O)=O)NC(=O)NC1=O,RQRINYISXYAZKL-RPDRRWSUSA-N,escherichia coli,562,species
+Tuberculostearic acid,C19H38O2,CCCCCCCCC(C)CCCCCCCCC(O)=O,BEOUGZFCUMNGOU-UHFFFAOYSA-N,actinomycetales,2037,order
+Tuberculostearic acid,C19H38O2,CCCCCCCCC(C)CCCCCCCCC(O)=O,BEOUGZFCUMNGOU-UHFFFAOYSA-N,mycobacterium tuberculosis,1773,species
+Galactan,(C12H20O11)nC2H6,CO[C@@H]1O[C@H](CO)[C@H](O[C@@H]2O[C@H](CO)[C@H](OC)[C@H](O)[C@H]2O)[C@H](O)[C@H]1O,PTHCMJGKKRQCBF-ICIGWGHZSA-N,methylobacterium,407,genus
+Galactan,(C12H20O11)nC2H6,CO[C@@H]1O[C@H](CO)[C@H](O[C@@H]2O[C@H](CO)[C@H](OC)[C@H](O)[C@H]2O)[C@H](O)[C@H]1O,PTHCMJGKKRQCBF-ICIGWGHZSA-N,bifidobacteria catenulatum,,
+Galactan,(C12H20O11)nC2H6,CO[C@@H]1O[C@H](CO)[C@H](O[C@@H]2O[C@H](CO)[C@H](OC)[C@H](O)[C@H]2O)[C@H](O)[C@H]1O,PTHCMJGKKRQCBF-ICIGWGHZSA-N,lactococcus lactis,1358,species
+Tyrosol,C8H10O2,OCCC1=CC=C(O)C=C1,YCCILVSKPBXVIP-UHFFFAOYSA-N,lactobacillus gasseri,1596,species
+Tyrosol,C8H10O2,OCCC1=CC=C(O)C=C1,YCCILVSKPBXVIP-UHFFFAOYSA-N,bifidobacterium animalis subsp. lactis,302911,subspecies
+Tyrosol,C8H10O2,OCCC1=CC=C(O)C=C1,YCCILVSKPBXVIP-UHFFFAOYSA-N,escherichia coli,562,species
+1-Butanol,C4H10O,CCCCO,LRHPLDYGYMQRHN-UHFFFAOYSA-N,thermoanaerobacterium saccharolyticum,28896,species
+1-Butanol,C4H10O,CCCCO,LRHPLDYGYMQRHN-UHFFFAOYSA-N,synechococcus elongatus,32046,species
+1-Butanol,C4H10O,CCCCO,LRHPLDYGYMQRHN-UHFFFAOYSA-N,pseudomonas putida,303,species
+1-Butanol,C4H10O,CCCCO,LRHPLDYGYMQRHN-UHFFFAOYSA-N,lactobacillus brevis,,
+1-Butanol,C4H10O,CCCCO,LRHPLDYGYMQRHN-UHFFFAOYSA-N,escherichia coli,562,species
+1-Butanol,C4H10O,CCCCO,LRHPLDYGYMQRHN-UHFFFAOYSA-N,bacillus cereus ,,
+1-Butanol,C4H10O,CCCCO,LRHPLDYGYMQRHN-UHFFFAOYSA-N,bacillus subtilis,1423,species
+1-Butanol,C4H10O,CCCCO,LRHPLDYGYMQRHN-UHFFFAOYSA-N,clostridium acetobutylicum,1488,species
+1-Butanol,C4H10O,CCCCO,LRHPLDYGYMQRHN-UHFFFAOYSA-N,clostridium beijerinckii,1520,species
+1-Butanol,C4H10O,CCCCO,LRHPLDYGYMQRHN-UHFFFAOYSA-N,clostridium butylicum,,
+1-Butanol,C4H10O,CCCCO,LRHPLDYGYMQRHN-UHFFFAOYSA-N,clostridium carboxidivorans,217159,species
+1-Butanol,C4H10O,CCCCO,LRHPLDYGYMQRHN-UHFFFAOYSA-N,clostridium cellulovorans,1493,species
+1-Butanol,C4H10O,CCCCO,LRHPLDYGYMQRHN-UHFFFAOYSA-N,clostridium pasteurianum ,,
+1-Butanol,C4H10O,CCCCO,LRHPLDYGYMQRHN-UHFFFAOYSA-N,clostridium tyrobutyricum,1519,species
+"2,5-Furandicarboxylic acid",C6H4O5,OC(=O)C1=CC=C(O1)C(O)=O,CHTHALBTIRVDBM-UHFFFAOYSA-N,cupriavidus basilensis,68895,species
+Dimethyl sulfone,C2H6O2S,CS(C)(=O)=O,HHVIBTZHLRERCL-UHFFFAOYSA-N,afipia,1033,genus
+Hydroxytyrosol,C8H10O3,OCCC1=CC=C(O)C(O)=C1,JUUBCHWRXWPFFH-UHFFFAOYSA-N,escherichia coli,562,species
+Isobutanol,C4H10O,CC(C)CO,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,synechococcus elongatus,32046,species
+Isobutanol,C4H10O,CC(C)CO,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,geobacillus thermoglucosidasius,,
+Isobutanol,C4H10O,CC(C)CO,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,escherichia coli,562,species
+Isobutanol,C4H10O,CC(C)CO,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,clostridium cellulolyticum,,
+Isobutanol,C4H10O,CC(C)CO,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,clostridium thermocellum,,
+Isobutanol,C4H10O,CC(C)CO,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,cupriavidus necator,106590,species
+Isopentanol,C5H12O,CC(C)CCO,PHTQWCKDNZKARW-UHFFFAOYSA-N,escherichia coli,562,species
+3-Hydroxyhippuric acid,C9H9NO4,OC(=O)CNC(=O)C1=CC=CC(O)=C1,XDOFWFNMYJRHEW-UHFFFAOYSA-N,clostridium-like species,40725,species
+"cis,cis-Muconic acid",C6H6O4,OC(=O)\C=C/C=C\C(O)=O,TXXHDPDFNKHHGW-CCAGOZQPSA-N,arthrobacter,1663,genus
+"cis,cis-Muconic acid",C6H6O4,OC(=O)\C=C/C=C\C(O)=O,TXXHDPDFNKHHGW-CCAGOZQPSA-N,escherichia coli,562,species
+"cis,cis-Muconic acid",C6H6O4,OC(=O)\C=C/C=C\C(O)=O,TXXHDPDFNKHHGW-CCAGOZQPSA-N,pseudomonas putida,303,species
+Phenylacetylglutamine,C13H16N2O4,NC(=O)CC[C@H](NC(=O)CC1=CC=CC=C1)C(O)=O,JFLIEFSWGNOPJJ-JTQLQIEISA-N,christensenellaceae,990719,family
+Phenylacetylglutamine,C13H16N2O4,NC(=O)CC[C@H](NC(=O)CC1=CC=CC=C1)C(O)=O,JFLIEFSWGNOPJJ-JTQLQIEISA-N,lachnospiraceae,186803,family
+Phenylacetylglutamine,C13H16N2O4,NC(=O)CC[C@H](NC(=O)CC1=CC=CC=C1)C(O)=O,JFLIEFSWGNOPJJ-JTQLQIEISA-N,ruminococcaceae bacterium uba5295,1952376,species
+Deoxythymidine diphosphate-L-rhamnose,C16H26N2O15P2,C[C@@H]1O[C@H](OP(O)(=O)OP(O)(=O)OC[C@H]2O[C@H](C[C@@H]2O)N2C=C(C)C(=O)NC2=O)[C@H](O)[C@H](O)[C@H]1O,ZOSQFDVXNQFKBY-CGAXJHMRSA-N,escherichia coli,562,species
+cis-2-Methylaconitate,C7H8O6,C\C(C(O)=O)=C(/CC(O)=O)C(O)=O,NUZLRKBHOBPTQV-ARJAWSKDSA-N,escherichia coli,562,species
+ADP-glucose,C16H25N5O15P2,NC1=C2N=CN([C@@H]3O[C@H](COP(O)(=O)OP(O)(=O)O[C@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@H]4O)[C@@H](O)[C@H]3O)C2=NC=N1,WFPZSXYXPSUOPY-ROYWQJLOSA-N,escherichia coli,562,species
+Sorbose 1-phosphate,C6H13O9P,OC[C@H](O)[C@@H](O)[C@H](O)C(=O)COP(O)(O)=O,ZKLLSNQJRLJIGT-OTWZMJIISA-N,klebsiella pneumoniae,573,species
+Sorbose 1-phosphate,C6H13O9P,OC[C@H](O)[C@@H](O)[C@H](O)C(=O)COP(O)(O)=O,ZKLLSNQJRLJIGT-OTWZMJIISA-N,lactobacillus casei group,655183,species group
+L-Rhamnulose,C6H12O5,C[C@H]1O[C@](O)(CO)[C@@H](O)[C@@H]1O,CJJCPDZKQKUXSS-ARQDHWQXSA-N,escherichia coli,562,species
+p-Cresol sulfate,C7H8O4S,CC1=CC=C(OS(O)(=O)=O)C=C1,WGNAKZGUSRVWRH-UHFFFAOYSA-N,lactobacillus,1578,genus
+p-Cresol sulfate,C7H8O4S,CC1=CC=C(OS(O)(=O)=O)C=C1,WGNAKZGUSRVWRH-UHFFFAOYSA-N,enterobacter,547,genus
+p-Cresol sulfate,C7H8O4S,CC1=CC=C(OS(O)(=O)=O)C=C1,WGNAKZGUSRVWRH-UHFFFAOYSA-N,bifidobacterium,1678,genus
+p-Cresol sulfate,C7H8O4S,CC1=CC=C(OS(O)(=O)=O)C=C1,WGNAKZGUSRVWRH-UHFFFAOYSA-N,clostridium difficile,,
+5-Keto-D-gluconate,C6H10O7,OCC(=O)C(O)C(O)C(O)C(O)=O,IZSRJDGCGRAUAR-UHFFFAOYSA-N,gluconobacter suboxydans,,
+2-Phenylpropionate,C9H10O2,CC(C(O)=O)C1=CC=CC=C1,YPGCWEMNNLXISK-UHFFFAOYSA-N,clostridium,1485,genus
+2-Phenylpropionate,C9H10O2,CC(C(O)=O)C1=CC=CC=C1,YPGCWEMNNLXISK-UHFFFAOYSA-N,klebsiella,570,genus
+2-Phenylpropionate,C9H10O2,CC(C(O)=O)C1=CC=CC=C1,YPGCWEMNNLXISK-UHFFFAOYSA-N,staphylococcus,1279,genus
+2-Phenylpropionate,C9H10O2,CC(C(O)=O)C1=CC=CC=C1,YPGCWEMNNLXISK-UHFFFAOYSA-N,pseudomonas aeruginosa,287,species
+2-Phenylpropionate,C9H10O2,CC(C(O)=O)C1=CC=CC=C1,YPGCWEMNNLXISK-UHFFFAOYSA-N,lactobacillus fermentum,,
+2-Phenylpropionate,C9H10O2,CC(C(O)=O)C1=CC=CC=C1,YPGCWEMNNLXISK-UHFFFAOYSA-N,eubacterium lentum,,
+2-Phenylpropionate,C9H10O2,CC(C(O)=O)C1=CC=CC=C1,YPGCWEMNNLXISK-UHFFFAOYSA-N,escherichia coli,562,species
+2-Phenylpropionate,C9H10O2,CC(C(O)=O)C1=CC=CC=C1,YPGCWEMNNLXISK-UHFFFAOYSA-N,enterococcus faecalis,1351,species
+2-Phenylpropionate,C9H10O2,CC(C(O)=O)C1=CC=CC=C1,YPGCWEMNNLXISK-UHFFFAOYSA-N,enterococcus faecium,1352,species
+2-Phenylpropionate,C9H10O2,CC(C(O)=O)C1=CC=CC=C1,YPGCWEMNNLXISK-UHFFFAOYSA-N,bifidobacterium bifidum,1681,species
+2-Phenylpropionate,C9H10O2,CC(C(O)=O)C1=CC=CC=C1,YPGCWEMNNLXISK-UHFFFAOYSA-N,acinetobacter baumannii,470,species
+2-Phenylpropionate,C9H10O2,CC(C(O)=O)C1=CC=CC=C1,YPGCWEMNNLXISK-UHFFFAOYSA-N,bacteroides fragilis,817,species
+2-Phenylpropionate,C9H10O2,CC(C(O)=O)C1=CC=CC=C1,YPGCWEMNNLXISK-UHFFFAOYSA-N,bacteroides thetaiotaomicron,818,species
+Phenylethylamine,C8H11N,NCCC1=CC=CC=C1,BHHGXPLMPWCGHP-UHFFFAOYSA-N,lactobacillus brevis,,
+Phenylethylamine,C8H11N,NCCC1=CC=CC=C1,BHHGXPLMPWCGHP-UHFFFAOYSA-N,lactobacillus hilgardii,,
+Phenylethylamine,C8H11N,NCCC1=CC=CC=C1,BHHGXPLMPWCGHP-UHFFFAOYSA-N,bacillus subtilis,1423,species
+Phenylethylamine,C8H11N,NCCC1=CC=CC=C1,BHHGXPLMPWCGHP-UHFFFAOYSA-N,enterococcus faecium,1352,species
+L-Gulose,C6H12O6,OC[C@@H]1OC(O)[C@@H](O)[C@@H](O)[C@@H]1O,WQZGKKKJIJFFOK-QRXFDPRISA-N,ketogulonicigenium vulgare,92945,species
+Lipid A,C94H178N2O25P2,CCCCCCCCCCCCCC(=O)O[C@H](CCCCCCCCCCC)CC(=O)O[C@@H]1[C@@H](NC(=O)C[C@@H](CCCCCCCCCCC)OC(=O)CCCCCCCCCCC)[C@H](OC[C@H]2O[C@H](OP(O)(O)=O)[C@H](NC(=O)C[C@H](O)CCCCCCCCCCC)[C@@H](OC(=O)C[C@H](O)CCCCCCCCCCC)[C@@H]2O)O[C@H](CO)[C@H]1OP(O)(O)=O,GZQKNULLWNGMCW-PWQABINMSA-N,meningococcus,,
+Lipid A,C94H178N2O25P2,CCCCCCCCCCCCCC(=O)O[C@H](CCCCCCCCCCC)CC(=O)O[C@@H]1[C@@H](NC(=O)C[C@@H](CCCCCCCCCCC)OC(=O)CCCCCCCCCCC)[C@H](OC[C@H]2O[C@H](OP(O)(O)=O)[C@H](NC(=O)C[C@H](O)CCCCCCCCCCC)[C@@H](OC(=O)C[C@H](O)CCCCCCCCCCC)[C@@H]2O)O[C@H](CO)[C@H]1OP(O)(O)=O,GZQKNULLWNGMCW-PWQABINMSA-N,salmonella enterica subsp. enterica serovar typhimurium,90371,no rank
+Lipid A,C94H178N2O25P2,CCCCCCCCCCCCCC(=O)O[C@H](CCCCCCCCCCC)CC(=O)O[C@@H]1[C@@H](NC(=O)C[C@@H](CCCCCCCCCCC)OC(=O)CCCCCCCCCCC)[C@H](OC[C@H]2O[C@H](OP(O)(O)=O)[C@H](NC(=O)C[C@H](O)CCCCCCCCCCC)[C@@H](OC(=O)C[C@H](O)CCCCCCCCCCC)[C@@H]2O)O[C@H](CO)[C@H]1OP(O)(O)=O,GZQKNULLWNGMCW-PWQABINMSA-N,escherichia coli,562,species
+Lipid A,C94H178N2O25P2,CCCCCCCCCCCCCC(=O)O[C@H](CCCCCCCCCCC)CC(=O)O[C@@H]1[C@@H](NC(=O)C[C@@H](CCCCCCCCCCC)OC(=O)CCCCCCCCCCC)[C@H](OC[C@H]2O[C@H](OP(O)(O)=O)[C@H](NC(=O)C[C@H](O)CCCCCCCCCCC)[C@@H](OC(=O)C[C@H](O)CCCCCCCCCCC)[C@@H]2O)O[C@H](CO)[C@H]1OP(O)(O)=O,GZQKNULLWNGMCW-PWQABINMSA-N,pseudomonas aeruginosa,287,species
+LPS with O-antigen,C211H376N8O126P6,CCCCCCCCCCCCCC(=O)O[C@H](CCCCCCCCCCC)CC(=O)O[C@@H]1[C@@H](NC(=O)C[C@@H](CCCCCCCCCCC)OC(=O)CCCCCCCCCCC)[C@H](OC[C@H]2O[C@H](OP(O)(O)=O)[C@H](NC(=O)C[C@H](O)CCCCCCCCCCC)[C@@H](OC(=O)C[C@H](O)CCCCCCCCCCC)[C@@H]2O)O[C@H](CO[C@@]2(C[C@@H](O[C@@]3(C[C@@H](O[C@@]4(C[C@@H](OP(O)(=O)OCCN)[C@H](O)[C@H](O4)[C@@H](O)CO)C(O)=O)[C@H](O)[C@H](O3)[C@@H](O)CO)C(O)=O)[C@H](OC3O[C@H]([C@@H](O)CO)[C@@H](OP(O)(=O)OP(O)(=O)OCCN)[C@H](OC4O[C@H]([C@@H](O)COC5O[C@H]([C@@H](O)CO)[C@@H](OP(O)(O)=O)[C@H](O)[C@@H]5O)[C@@H](O)[C@H](OC5O[C@H](CO[C@H]6O[C@H](CO)[C@H](O)[C@H](O)[C@H]6O)[C@@H](O)[C@H](O[C@H]6O[C@H](CO)[C@H](O)[C@H](O)[C@H]6OC6O[C@H](CO)[C@@H](O)[C@H](O[C@@H]7O[C@H](CO[C@@H]8O[C@H](CO)[C@@H](O)[C@H](O)[C@H]8NC(C)=O)[C@H](O)[C@H](O[C@@H]8O[C@H](CO)[C@H](O)[C@H](O[C@H]9O[C@H](CO[C@H]%10O[C@H](CO)[C@H](O)[C@H](O)[C@H]%10O)[C@H](O)[C@H](O)[C@H]9O)[C@H]8NC(C)=O)[C@H]7NC(C)=O)[C@H]6O[C@@H]6O[C@H](CO)[C@@H](O)[C@H](O)[C@H]6NC(C)=O)[C@H]5O)[C@@H]4O)[C@@H]3O)[C@H](O2)[C@@H](O)CO)C(O)=O)[C@H]1OP(O)(O)=O,BFVQTKQTUCQRPI-YYEZTRBPSA-N,salmonella enterica,28901,species
+LPS with O-antigen,C211H376N8O126P6,CCCCCCCCCCCCCC(=O)O[C@H](CCCCCCCCCCC)CC(=O)O[C@@H]1[C@@H](NC(=O)C[C@@H](CCCCCCCCCCC)OC(=O)CCCCCCCCCCC)[C@H](OC[C@H]2O[C@H](OP(O)(O)=O)[C@H](NC(=O)C[C@H](O)CCCCCCCCCCC)[C@@H](OC(=O)C[C@H](O)CCCCCCCCCCC)[C@@H]2O)O[C@H](CO[C@@]2(C[C@@H](O[C@@]3(C[C@@H](O[C@@]4(C[C@@H](OP(O)(=O)OCCN)[C@H](O)[C@H](O4)[C@@H](O)CO)C(O)=O)[C@H](O)[C@H](O3)[C@@H](O)CO)C(O)=O)[C@H](OC3O[C@H]([C@@H](O)CO)[C@@H](OP(O)(=O)OP(O)(=O)OCCN)[C@H](OC4O[C@H]([C@@H](O)COC5O[C@H]([C@@H](O)CO)[C@@H](OP(O)(O)=O)[C@H](O)[C@@H]5O)[C@@H](O)[C@H](OC5O[C@H](CO[C@H]6O[C@H](CO)[C@H](O)[C@H](O)[C@H]6O)[C@@H](O)[C@H](O[C@H]6O[C@H](CO)[C@H](O)[C@H](O)[C@H]6OC6O[C@H](CO)[C@@H](O)[C@H](O[C@@H]7O[C@H](CO[C@@H]8O[C@H](CO)[C@@H](O)[C@H](O)[C@H]8NC(C)=O)[C@H](O)[C@H](O[C@@H]8O[C@H](CO)[C@H](O)[C@H](O[C@H]9O[C@H](CO[C@H]%10O[C@H](CO)[C@H](O)[C@H](O)[C@H]%10O)[C@H](O)[C@H](O)[C@H]9O)[C@H]8NC(C)=O)[C@H]7NC(C)=O)[C@H]6O[C@@H]6O[C@H](CO)[C@@H](O)[C@H](O)[C@H]6NC(C)=O)[C@H]5O)[C@@H]4O)[C@@H]3O)[C@H](O2)[C@@H](O)CO)C(O)=O)[C@H]1OP(O)(O)=O,BFVQTKQTUCQRPI-YYEZTRBPSA-N,escherichia coli,562,species
+LPS with O-antigen,C211H376N8O126P6,CCCCCCCCCCCCCC(=O)O[C@H](CCCCCCCCCCC)CC(=O)O[C@@H]1[C@@H](NC(=O)C[C@@H](CCCCCCCCCCC)OC(=O)CCCCCCCCCCC)[C@H](OC[C@H]2O[C@H](OP(O)(O)=O)[C@H](NC(=O)C[C@H](O)CCCCCCCCCCC)[C@@H](OC(=O)C[C@H](O)CCCCCCCCCCC)[C@@H]2O)O[C@H](CO[C@@]2(C[C@@H](O[C@@]3(C[C@@H](O[C@@]4(C[C@@H](OP(O)(=O)OCCN)[C@H](O)[C@H](O4)[C@@H](O)CO)C(O)=O)[C@H](O)[C@H](O3)[C@@H](O)CO)C(O)=O)[C@H](OC3O[C@H]([C@@H](O)CO)[C@@H](OP(O)(=O)OP(O)(=O)OCCN)[C@H](OC4O[C@H]([C@@H](O)COC5O[C@H]([C@@H](O)CO)[C@@H](OP(O)(O)=O)[C@H](O)[C@@H]5O)[C@@H](O)[C@H](OC5O[C@H](CO[C@H]6O[C@H](CO)[C@H](O)[C@H](O)[C@H]6O)[C@@H](O)[C@H](O[C@H]6O[C@H](CO)[C@H](O)[C@H](O)[C@H]6OC6O[C@H](CO)[C@@H](O)[C@H](O[C@@H]7O[C@H](CO[C@@H]8O[C@H](CO)[C@@H](O)[C@H](O)[C@H]8NC(C)=O)[C@H](O)[C@H](O[C@@H]8O[C@H](CO)[C@H](O)[C@H](O[C@H]9O[C@H](CO[C@H]%10O[C@H](CO)[C@H](O)[C@H](O)[C@H]%10O)[C@H](O)[C@H](O)[C@H]9O)[C@H]8NC(C)=O)[C@H]7NC(C)=O)[C@H]6O[C@@H]6O[C@H](CO)[C@@H](O)[C@H](O)[C@H]6NC(C)=O)[C@H]5O)[C@@H]4O)[C@@H]3O)[C@H](O2)[C@@H](O)CO)C(O)=O)[C@H]1OP(O)(O)=O,BFVQTKQTUCQRPI-YYEZTRBPSA-N,pseudomonas aeruginosa,287,species
+LPS core,C175H317N5O101P6,CCCCCCCCCCCCCC(=O)O[C@H](CCCCCCCCCCC)CC(=O)O[C@@H]1[C@@H](NC(=O)C[C@@H](CCCCCCCCCCC)OC(=O)CCCCCCCCCCC)[C@H](OC[C@H]2O[C@H](OP(O)(O)=O)[C@H](NC(=O)C[C@H](O)CCCCCCCCCCC)[C@@H](OC(=O)C[C@H](O)CCCCCCCCCCC)[C@@H]2O)O[C@H](CO[C@@]2(C[C@@H](O[C@@]3(C[C@@H](O[C@@]4(C[C@@H](OP(O)(=O)OCCN)[C@H](O)[C@H](O4)[C@@H](O)CO)C(O)=O)[C@H](O)[C@H](O3)[C@@H](O)CO)C(O)=O)[C@H](OC3O[C@H]([C@@H](O)CO)[C@@H](OP(O)(=O)OP(O)(=O)OCCN)[C@H](OC4O[C@H]([C@@H](O)COC5O[C@H]([C@@H](O)CO)[C@@H](OP(O)(O)=O)[C@H](O)[C@@H]5O)[C@@H](O)[C@H](OC5O[C@H](CO[C@H]6O[C@H](CO)[C@H](O)[C@H](O)[C@H]6O)[C@@H](O)[C@H](O[C@H]6O[C@H](CO)[C@H](O)[C@H](O)[C@H]6OC6O[C@H](CO)[C@@H](O)[C@H](O)[C@H]6O[C@@H]6O[C@H](CO)[C@@H](O)[C@H](O)[C@H]6NC(C)=O)[C@H]5O)[C@@H]4O)[C@@H]3O)[C@H](O2)[C@@H](O)CO)C(O)=O)[C@H]1OP(O)(O)=O,AAXCQFOXUJMCCW-PETQGJDISA-N,escherichia coli,562,species
+LPS core,C175H317N5O101P6,CCCCCCCCCCCCCC(=O)O[C@H](CCCCCCCCCCC)CC(=O)O[C@@H]1[C@@H](NC(=O)C[C@@H](CCCCCCCCCCC)OC(=O)CCCCCCCCCCC)[C@H](OC[C@H]2O[C@H](OP(O)(O)=O)[C@H](NC(=O)C[C@H](O)CCCCCCCCCCC)[C@@H](OC(=O)C[C@H](O)CCCCCCCCCCC)[C@@H]2O)O[C@H](CO[C@@]2(C[C@@H](O[C@@]3(C[C@@H](O[C@@]4(C[C@@H](OP(O)(=O)OCCN)[C@H](O)[C@H](O4)[C@@H](O)CO)C(O)=O)[C@H](O)[C@H](O3)[C@@H](O)CO)C(O)=O)[C@H](OC3O[C@H]([C@@H](O)CO)[C@@H](OP(O)(=O)OP(O)(=O)OCCN)[C@H](OC4O[C@H]([C@@H](O)COC5O[C@H]([C@@H](O)CO)[C@@H](OP(O)(O)=O)[C@H](O)[C@@H]5O)[C@@H](O)[C@H](OC5O[C@H](CO[C@H]6O[C@H](CO)[C@H](O)[C@H](O)[C@H]6O)[C@@H](O)[C@H](O[C@H]6O[C@H](CO)[C@H](O)[C@H](O)[C@H]6OC6O[C@H](CO)[C@@H](O)[C@H](O)[C@H]6O[C@@H]6O[C@H](CO)[C@@H](O)[C@H](O)[C@H]6NC(C)=O)[C@H]5O)[C@@H]4O)[C@@H]3O)[C@H](O2)[C@@H](O)CO)C(O)=O)[C@H]1OP(O)(O)=O,AAXCQFOXUJMCCW-PETQGJDISA-N,pseudomonas,286,genus
+LPS core,C175H317N5O101P6,CCCCCCCCCCCCCC(=O)O[C@H](CCCCCCCCCCC)CC(=O)O[C@@H]1[C@@H](NC(=O)C[C@@H](CCCCCCCCCCC)OC(=O)CCCCCCCCCCC)[C@H](OC[C@H]2O[C@H](OP(O)(O)=O)[C@H](NC(=O)C[C@H](O)CCCCCCCCCCC)[C@@H](OC(=O)C[C@H](O)CCCCCCCCCCC)[C@@H]2O)O[C@H](CO[C@@]2(C[C@@H](O[C@@]3(C[C@@H](O[C@@]4(C[C@@H](OP(O)(=O)OCCN)[C@H](O)[C@H](O4)[C@@H](O)CO)C(O)=O)[C@H](O)[C@H](O3)[C@@H](O)CO)C(O)=O)[C@H](OC3O[C@H]([C@@H](O)CO)[C@@H](OP(O)(=O)OP(O)(=O)OCCN)[C@H](OC4O[C@H]([C@@H](O)COC5O[C@H]([C@@H](O)CO)[C@@H](OP(O)(O)=O)[C@H](O)[C@@H]5O)[C@@H](O)[C@H](OC5O[C@H](CO[C@H]6O[C@H](CO)[C@H](O)[C@H](O)[C@H]6O)[C@@H](O)[C@H](O[C@H]6O[C@H](CO)[C@H](O)[C@H](O)[C@H]6OC6O[C@H](CO)[C@@H](O)[C@H](O)[C@H]6O[C@@H]6O[C@H](CO)[C@@H](O)[C@H](O)[C@H]6NC(C)=O)[C@H]5O)[C@@H]4O)[C@@H]3O)[C@H](O2)[C@@H](O)CO)C(O)=O)[C@H]1OP(O)(O)=O,AAXCQFOXUJMCCW-PETQGJDISA-N,salmonella,590,genus
+"1,3,5-Trihydroxybenzene",C6H6O3,OC1=CC(O)=CC(O)=C1,QCDYQQDYXPDABM-UHFFFAOYSA-N,pseudomonas fluorescens,294,species
+"5-(3',4'-Dihydroxyphenyl)-gamma-valerolactone",C11H12O4,OC1=C(O)C=C(C[C@H]2CCC(=O)O2)C=C1,ZNXXWTPQHVLMQT-MRVPVSSYSA-N,human gut microbiota,,
+Indole-3-carboxaldehyde,C9H7NO,O=CC1=CNC2=C1C=CC=C2,OLNJUISKUQQNIM-UHFFFAOYSA-N,clostridium,1485,genus
+Indole-3-carboxaldehyde,C9H7NO,O=CC1=CNC2=C1C=CC=C2,OLNJUISKUQQNIM-UHFFFAOYSA-N,lactobacillus,1578,genus
+Indole-3-methyl acetate,C11H11NO2,COC(=O)CC1=CNC2=C1C=CC=C2,KTHADMDGDNYQRX-UHFFFAOYSA-N,clostridium sporogenes,1509,species
+D-Arabinose,C5H10O5,O[C@@H]1CO[C@@H](O)[C@@H](O)[C@@H]1O,SRBFZHDQGSBBOR-SQOUGZDYSA-N,streptococcus thermophilus,1308,species
+D-Arabinose,C5H10O5,O[C@@H]1CO[C@@H](O)[C@@H](O)[C@@H]1O,SRBFZHDQGSBBOR-SQOUGZDYSA-N,pediococcus acidilactici,1254,species
+D-Arabinose,C5H10O5,O[C@@H]1CO[C@@H](O)[C@@H](O)[C@@H]1O,SRBFZHDQGSBBOR-SQOUGZDYSA-N,pediococcus pentosaceus,1255,species
+D-Arabinose,C5H10O5,O[C@@H]1CO[C@@H](O)[C@@H](O)[C@@H]1O,SRBFZHDQGSBBOR-SQOUGZDYSA-N,lactococcus lactis,1358,species
+D-Arabinose,C5H10O5,O[C@@H]1CO[C@@H](O)[C@@H](O)[C@@H]1O,SRBFZHDQGSBBOR-SQOUGZDYSA-N,lactobacillus delbrueckii,1584,species
+D-Arabinose,C5H10O5,O[C@@H]1CO[C@@H](O)[C@@H](O)[C@@H]1O,SRBFZHDQGSBBOR-SQOUGZDYSA-N,lactobacillus helveticus,1587,species
+D-Arabinose,C5H10O5,O[C@@H]1CO[C@@H](O)[C@@H](O)[C@@H]1O,SRBFZHDQGSBBOR-SQOUGZDYSA-N,lactobacillus plantarum,,
+D-Arabinose,C5H10O5,O[C@@H]1CO[C@@H](O)[C@@H](O)[C@@H]1O,SRBFZHDQGSBBOR-SQOUGZDYSA-N,geobacillus stearothermophilus,1422,species
+D-Arabinose,C5H10O5,O[C@@H]1CO[C@@H](O)[C@@H](O)[C@@H]1O,SRBFZHDQGSBBOR-SQOUGZDYSA-N,escherichia coli,562,species
+D-Arabinose,C5H10O5,O[C@@H]1CO[C@@H](O)[C@@H](O)[C@@H]1O,SRBFZHDQGSBBOR-SQOUGZDYSA-N,enterococcus faecalis,1351,species
+D-Arabinose,C5H10O5,O[C@@H]1CO[C@@H](O)[C@@H](O)[C@@H]1O,SRBFZHDQGSBBOR-SQOUGZDYSA-N,enterococcus faecium,1352,species
+D-Arabinose,C5H10O5,O[C@@H]1CO[C@@H](O)[C@@H](O)[C@@H]1O,SRBFZHDQGSBBOR-SQOUGZDYSA-N,enterobacter aerogenes,,
+D-Arabinose,C5H10O5,O[C@@H]1CO[C@@H](O)[C@@H](O)[C@@H]1O,SRBFZHDQGSBBOR-SQOUGZDYSA-N,clostridium acetobutylicum,1488,species
+D-Arabinose,C5H10O5,O[C@@H]1CO[C@@H](O)[C@@H](O)[C@@H]1O,SRBFZHDQGSBBOR-SQOUGZDYSA-N,clostridium sporogenes,1509,species
+D-Arabinose,C5H10O5,O[C@@H]1CO[C@@H](O)[C@@H](O)[C@@H]1O,SRBFZHDQGSBBOR-SQOUGZDYSA-N,alicyclobacillus acidocaldarius,405212,species
+D-Arabinose,C5H10O5,O[C@@H]1CO[C@@H](O)[C@@H](O)[C@@H]1O,SRBFZHDQGSBBOR-SQOUGZDYSA-N,bifidobacterium longum,216816,species
+"1,2,3-Propanetricarboxylic acid",C6H8O6,OC(=O)CC(CC(O)=O)C(O)=O,KQTIIICEAUMSDG-UHFFFAOYSA-N,wolinella succinogenes,844,species
+"1,2,3-Propanetricarboxylic acid",C6H8O6,OC(=O)CC(CC(O)=O)C(O)=O,KQTIIICEAUMSDG-UHFFFAOYSA-N,megasphaera elsdenii,907,species
+"1,2,3-Propanetricarboxylic acid",C6H8O6,OC(=O)CC(CC(O)=O)C(O)=O,KQTIIICEAUMSDG-UHFFFAOYSA-N,bacteroides ruminicola,,
+"1,2,3-Propanetricarboxylic acid",C6H8O6,OC(=O)CC(CC(O)=O)C(O)=O,KQTIIICEAUMSDG-UHFFFAOYSA-N,butyrivibrio fibrisolvens,831,species
+Pyrrolidine,C4H9N,C1CCNC1,RWRDLPDLKQPQOW-UHFFFAOYSA-N,xenorhabdus nematophila,628,species
+Indolepyruvate,C11H9NO3,OC(=O)C(=O)CC1=CNC2=C1C=CC=C2,RSTKLPZEZYGQPY-UHFFFAOYSA-N,clostridium sporogenes,1509,species
+Indican,C14H17NO6,OC[C@H]1O[C@@H](OC2=CNC3=C2C=CC=C3)[C@H](O)[C@@H](O)[C@@H]1O,XVARCVCWNFACQC-RKQHYHRCSA-N,lactobacillus,1578,genus
+"Cis,trans-muconate",C6H6O4,OC(=O)C=CC=CC(O)=O,TXXHDPDFNKHHGW-UHFFFAOYSA-N,escherichia coli,562,species
+"Cis,trans-muconate",C6H6O4,OC(=O)C=CC=CC(O)=O,TXXHDPDFNKHHGW-UHFFFAOYSA-N,pseudomonas putida,303,species

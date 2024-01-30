@@ -1,0 +1,1011 @@
+metabolite_name,chemical_formula,smiles,inchikey,name,uniprotkb
+3-Hydroxybutyric acid,C4H8O3,C[C@@H](O)CC(O)=O,WHBMMWSBFZVSSR-GSVOUGTGSA-N,Sulfotransferase family cytosolic 2B member 1,O00204
+3-Hydroxybutyric acid,C4H8O3,C[C@@H](O)CC(O)=O,WHBMMWSBFZVSSR-GSVOUGTGSA-N,UDP-glucuronosyltransferase 1-1,P22309
+3-Hydroxybutyric acid,C4H8O3,C[C@@H](O)CC(O)=O,WHBMMWSBFZVSSR-GSVOUGTGSA-N,"D-beta-hydroxybutyrate dehydrogenase, mitochondrial",Q02338
+3-Hydroxybutyric acid,C4H8O3,C[C@@H](O)CC(O)=O,WHBMMWSBFZVSSR-GSVOUGTGSA-N,3-hydroxybutyrate dehydrogenase type 2,Q9BUT1
+3-Hydroxybutyric acid,C4H8O3,C[C@@H](O)CC(O)=O,WHBMMWSBFZVSSR-GSVOUGTGSA-N,Novel protein similar to 3-hydroxymethyl-3-methylglutaryl-Coenzyme A lyase (Hydroxymethylglutaricaciduria),Q9NT06
+p-Hydroxyphenylacetic acid,C8H8O3,OC(=O)CC1=CC=C(O)C=C1,XQXPVVBIMDBYFF-UHFFFAOYSA-N,"Aldehyde dehydrogenase, dimeric NADP-preferring",P30838
+p-Hydroxyphenylacetic acid,C8H8O3,OC(=O)CC1=CC=C(O)C=C1,XQXPVVBIMDBYFF-UHFFFAOYSA-N,Aldehyde dehydrogenase family 1 member A3,P47895
+p-Hydroxyphenylacetic acid,C8H8O3,OC(=O)CC1=CC=C(O)C=C1,XQXPVVBIMDBYFF-UHFFFAOYSA-N,UDP-glucuronosyltransferase 1-1,P22309
+p-Hydroxyphenylacetic acid,C8H8O3,OC(=O)CC1=CC=C(O)C=C1,XQXPVVBIMDBYFF-UHFFFAOYSA-N,Aldehyde dehydrogenase family 3 member B2,P48448
+p-Hydroxyphenylacetic acid,C8H8O3,OC(=O)CC1=CC=C(O)C=C1,XQXPVVBIMDBYFF-UHFFFAOYSA-N,Aldehyde dehydrogenase family 3 member B1,P43353
+p-Hydroxyphenylacetic acid,C8H8O3,OC(=O)CC1=CC=C(O)C=C1,XQXPVVBIMDBYFF-UHFFFAOYSA-N,Sulfotransferase 1A3,P0DMM9
+Butyric acid,C4H8O2,CCCC(O)=O,FERIUCNNQQJTOY-UHFFFAOYSA-N,UDP-glucuronosyltransferase 1-1,P22309
+Butyric acid,C4H8O2,CCCC(O)=O,FERIUCNNQQJTOY-UHFFFAOYSA-N,Cholinesterase,P06276
+Butyric acid,C4H8O2,CCCC(O)=O,FERIUCNNQQJTOY-UHFFFAOYSA-N,Monocarboxylate transporter 1,P53985
+Butyric acid,C4H8O2,CCCC(O)=O,FERIUCNNQQJTOY-UHFFFAOYSA-N,Tumor necrosis factor,P01375
+Butyric acid,C4H8O2,CCCC(O)=O,FERIUCNNQQJTOY-UHFFFAOYSA-N,Peroxisome proliferator-activated receptor gamma,P37231
+Butyric acid,C4H8O2,CCCC(O)=O,FERIUCNNQQJTOY-UHFFFAOYSA-N,Histone deacetylase 4,P56524
+Butyric acid,C4H8O2,CCCC(O)=O,FERIUCNNQQJTOY-UHFFFAOYSA-N,Histone deacetylase 9,Q9UKV0
+Butyric acid,C4H8O2,CCCC(O)=O,FERIUCNNQQJTOY-UHFFFAOYSA-N,"Acyl-coenzyme A synthetase ACSM1, mitochondrial",Q08AH1
+Butyric acid,C4H8O2,CCCC(O)=O,FERIUCNNQQJTOY-UHFFFAOYSA-N,"Acyl-coenzyme A synthetase ACSM6, mitochondrial",Q6P461
+Butyric acid,C4H8O2,CCCC(O)=O,FERIUCNNQQJTOY-UHFFFAOYSA-N,"Acyl-coenzyme A synthetase ACSM2A, mitochondrial",Q08AH3
+Butyric acid,C4H8O2,CCCC(O)=O,FERIUCNNQQJTOY-UHFFFAOYSA-N,"Acyl-coenzyme A synthetase ACSM2B, mitochondrial",Q68CK6
+Butyric acid,C4H8O2,CCCC(O)=O,FERIUCNNQQJTOY-UHFFFAOYSA-N,"Acyl-coenzyme A synthetase ACSM3, mitochondrial",Q53FZ2
+Butyric acid,C4H8O2,CCCC(O)=O,FERIUCNNQQJTOY-UHFFFAOYSA-N,"Acyl-coenzyme A synthetase ACSM5, mitochondrial",Q6NUN0
+Butyric acid,C4H8O2,CCCC(O)=O,FERIUCNNQQJTOY-UHFFFAOYSA-N,Histone deacetylase 2,Q92769
+Butyric acid,C4H8O2,CCCC(O)=O,FERIUCNNQQJTOY-UHFFFAOYSA-N,Histone deacetylase 3,O15379
+Butyric acid,C4H8O2,CCCC(O)=O,FERIUCNNQQJTOY-UHFFFAOYSA-N,Histone deacetylase 5,Q9UQL6
+Butyric acid,C4H8O2,CCCC(O)=O,FERIUCNNQQJTOY-UHFFFAOYSA-N,"Acyl-coenzyme A synthetase ACSM4, mitochondrial",P0C7M7
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,"Hydroxymethylglutaryl-CoA lyase, mitochondrial",P35914
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Acyl-coenzyme A thioesterase 12,Q8WYK0
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,"Acetyl-coenzyme A synthetase, cytoplasmic",Q9NR19
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,"Acetyl-coenzyme A synthetase 2-like, mitochondrial",Q9NUB1
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Serum paraoxonase/lactonase 3,Q15166
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Serum paraoxonase/arylesterase 1,P27169
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Serum paraoxonase/arylesterase 2,Q15165
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,4-trimethylaminobutyraldehyde dehydrogenase,P49189
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,"Aldehyde dehydrogenase, dimeric NADP-preferring",P30838
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Alpha-aminoadipic semialdehyde dehydrogenase,P49419
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Aldehyde dehydrogenase family 1 member A3,P47895
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,"Aldehyde dehydrogenase, mitochondrial",P05091
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Fatty aldehyde dehydrogenase,P51648
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,"Aldehyde dehydrogenase X, mitochondrial",P30837
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,UDP-glucuronosyltransferase 1-1,P22309
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Liver carboxylesterase 1,P23141
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Cocaine esterase,O00748
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,S-formylglutathione hydrolase,P10768
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Platelet-activating factor acetylhydrolase,Q13093
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Acetylcholinesterase,P22303
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Platelet-activating factor acetylhydrolase IB subunit gamma,Q15102
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Platelet-activating factor acetylhydrolase IB subunit beta,P68402
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,"Platelet-activating factor acetylhydrolase 2, cytoplasmic",Q99487
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Sialate O-acetylesterase,Q9HAT2
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Aldehyde dehydrogenase family 3 member B2,P48448
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Aldehyde dehydrogenase family 3 member B1,P43353
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Acylphosphatase-2,P14621
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Acylphosphatase-1,P07311
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Aminoacylase-1,Q03154
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Aspartoacylase,P45381
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Platelet-activating factor acetylhydrolase IB subunit alpha,P43034
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,N-acetylglucosaminyl-phosphatidylinositol de-N-acetylase,Q9Y2B2
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Aspartoacylase-2,Q96HD9
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,"Steroid 17-alpha-hydroxylase/17,20 lyase",P05093
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Monocarboxylate transporter 1,P53985
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Solute carrier organic anion transporter family member 2B1,O94956
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,Putative N-acetylglucosamine-6-phosphate deacetylase,Q9Y303
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,"Citrate lyase subunit beta-like protein, mitochondrial",Q8N0X4
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,60 kDa lysophospholipase,Q86U10
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,ACSS2 protein,Q96FY7
+Acetic acid,C2H4O2,CC(O)=O,QTBSBXVTEAMEQO-UHFFFAOYSA-N,"Acyl-CoA synthetase short-chain family member 3, mitochondrial",Q9H6R3
+Ascorbic acid,C6H8O6,[H][C@@]1(OC(=O)C(O)=C1O)[C@@H](O)CO,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,Peptidyl-glycine alpha-amidating monooxygenase,P19021
+Ascorbic acid,C6H8O6,[H][C@@]1(OC(=O)C(O)=C1O)[C@@H](O)CO,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,Dopamine beta-hydroxylase,P09172
+Ascorbic acid,C6H8O6,[H][C@@]1(OC(=O)C(O)=C1O)[C@@H](O)CO,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,"Phytanoyl-CoA dioxygenase, peroxisomal",O14832
+Ascorbic acid,C6H8O6,[H][C@@]1(OC(=O)C(O)=C1O)[C@@H](O)CO,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,Prolyl 4-hydroxylase subunit alpha-2,O15460
+Ascorbic acid,C6H8O6,[H][C@@]1(OC(=O)C(O)=C1O)[C@@H](O)CO,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,Prolyl 4-hydroxylase subunit alpha-1,P13674
+Ascorbic acid,C6H8O6,[H][C@@]1(OC(=O)C(O)=C1O)[C@@H](O)CO,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,Lactase-phlorizin hydrolase,P09848
+Ascorbic acid,C6H8O6,[H][C@@]1(OC(=O)C(O)=C1O)[C@@H](O)CO,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,Gamma-butyrobetaine dioxygenase,O75936
+Ascorbic acid,C6H8O6,[H][C@@]1(OC(=O)C(O)=C1O)[C@@H](O)CO,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,"Procollagen-lysine,2-oxoglutarate 5-dioxygenase 1",Q02809
+Ascorbic acid,C6H8O6,[H][C@@]1(OC(=O)C(O)=C1O)[C@@H](O)CO,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,"Procollagen-lysine,2-oxoglutarate 5-dioxygenase 2",O00469
+Ascorbic acid,C6H8O6,[H][C@@]1(OC(=O)C(O)=C1O)[C@@H](O)CO,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,"Procollagen-lysine,2-oxoglutarate 5-dioxygenase 3",O60568
+Ascorbic acid,C6H8O6,[H][C@@]1(OC(=O)C(O)=C1O)[C@@H](O)CO,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,Glutathione S-transferase omega-1,P78417
+Ascorbic acid,C6H8O6,[H][C@@]1(OC(=O)C(O)=C1O)[C@@H](O)CO,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,Glutathione S-transferase omega-2,Q9H4Y5
+Ascorbic acid,C6H8O6,[H][C@@]1(OC(=O)C(O)=C1O)[C@@H](O)CO,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,Protein disulfide-isomerase,P07237
+Ascorbic acid,C6H8O6,[H][C@@]1(OC(=O)C(O)=C1O)[C@@H](O)CO,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,Solute carrier family 23 member 1,Q9UHI7
+Ascorbic acid,C6H8O6,[H][C@@]1(OC(=O)C(O)=C1O)[C@@H](O)CO,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,Solute carrier family 23 member 2,Q9UGH3
+Ascorbic acid,C6H8O6,[H][C@@]1(OC(=O)C(O)=C1O)[C@@H](O)CO,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,"Trimethyllysine dioxygenase, mitochondrial",Q9NVH6
+Ascorbic acid,C6H8O6,[H][C@@]1(OC(=O)C(O)=C1O)[C@@H](O)CO,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,Alpha-ketoglutarate-dependent dioxygenase alkB homolog 2,Q6NS38
+Ascorbic acid,C6H8O6,[H][C@@]1(OC(=O)C(O)=C1O)[C@@H](O)CO,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,Alpha-ketoglutarate-dependent dioxygenase alkB homolog 3,Q96Q83
+Ascorbic acid,C6H8O6,[H][C@@]1(OC(=O)C(O)=C1O)[C@@H](O)CO,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,Prolyl 3-hydroxylase 1,Q32P28
+Ascorbic acid,C6H8O6,[H][C@@]1(OC(=O)C(O)=C1O)[C@@H](O)CO,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,Prolyl 3-hydroxylase 2,Q8IVL5
+Ascorbic acid,C6H8O6,[H][C@@]1(OC(=O)C(O)=C1O)[C@@H](O)CO,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,Prolyl 3-hydroxylase 3,Q8IVL6
+Ascorbic acid,C6H8O6,[H][C@@]1(OC(=O)C(O)=C1O)[C@@H](O)CO,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,Solute carrier family 23 member 3,Q6PIS1
+Ascorbic acid,C6H8O6,[H][C@@]1(OC(=O)C(O)=C1O)[C@@H](O)CO,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,Prolyl 4-hydroxylase subunit alpha-3,Q7Z4N8
+Ascorbic acid,C6H8O6,[H][C@@]1(OC(=O)C(O)=C1O)[C@@H](O)CO,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,Egl nine homolog 1,Q9GZT9
+Ascorbic acid,C6H8O6,[H][C@@]1(OC(=O)C(O)=C1O)[C@@H](O)CO,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,Egl nine homolog 2,Q96KS0
+Ascorbic acid,C6H8O6,[H][C@@]1(OC(=O)C(O)=C1O)[C@@H](O)CO,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,Egl nine homolog 3,Q9H6Z9
+Ascorbic acid,C6H8O6,[H][C@@]1(OC(=O)C(O)=C1O)[C@@H](O)CO,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,Transmembrane prolyl 4-hydroxylase,Q9NXG6
+Ascorbic acid,C6H8O6,[H][C@@]1(OC(=O)C(O)=C1O)[C@@H](O)CO,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,2-oxoglutarate and iron-dependent oxygenase domain-containing protein 1,Q8N543
+Ascorbic acid,C6H8O6,[H][C@@]1(OC(=O)C(O)=C1O)[C@@H](O)CO,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,2-oxoglutarate and iron-dependent oxygenase domain-containing protein 2,Q6N063
+Melibiose,C12H22O11,OC[C@H]1O[C@H](OC[C@H]2O[C@H](O)[C@H](O)[C@@H](O)[C@@H]2O)[C@H](O)[C@@H](O)[C@H]1O,DLRVVLDZNNYCBX-CQHUIXDMSA-N,Alpha-galactosidase A,P06280
+Melibiose,C12H22O11,OC[C@H]1O[C@H](OC[C@H]2O[C@H](O)[C@H](O)[C@@H](O)[C@@H]2O)[C@H](O)[C@@H](O)[C@H]1O,DLRVVLDZNNYCBX-CQHUIXDMSA-N,"Maltase-glucoamylase, intestinal",O43451
+Melibiose,C12H22O11,OC[C@H]1O[C@H](OC[C@H]2O[C@H](O)[C@H](O)[C@@H](O)[C@@H]2O)[C@H](O)[C@@H](O)[C@H]1O,DLRVVLDZNNYCBX-CQHUIXDMSA-N,Neutral alpha-glucosidase C,Q8TET4
+Epinephrine,C9H13NO3,CNC[C@H](O)C1=CC(O)=C(O)C=C1,UCTWMZQNUQWSLP-VIFPVBQESA-N,Amine oxidase [flavin-containing] B,P27338
+Epinephrine,C9H13NO3,CNC[C@H](O)C1=CC(O)=C(O)C=C1,UCTWMZQNUQWSLP-VIFPVBQESA-N,Amine oxidase [flavin-containing] A,P21397
+Epinephrine,C9H13NO3,CNC[C@H](O)C1=CC(O)=C(O)C=C1,UCTWMZQNUQWSLP-VIFPVBQESA-N,Catechol O-methyltransferase,P21964
+Epinephrine,C9H13NO3,CNC[C@H](O)C1=CC(O)=C(O)C=C1,UCTWMZQNUQWSLP-VIFPVBQESA-N,Phenylalanine-4-hydroxylase,P00439
+Epinephrine,C9H13NO3,CNC[C@H](O)C1=CC(O)=C(O)C=C1,UCTWMZQNUQWSLP-VIFPVBQESA-N,Phenylethanolamine N-methyltransferase,P11086
+Epinephrine,C9H13NO3,CNC[C@H](O)C1=CC(O)=C(O)C=C1,UCTWMZQNUQWSLP-VIFPVBQESA-N,Alpha-2A adrenergic receptor,P08913
+Epinephrine,C9H13NO3,CNC[C@H](O)C1=CC(O)=C(O)C=C1,UCTWMZQNUQWSLP-VIFPVBQESA-N,Alpha-2B adrenergic receptor,P18089
+Epinephrine,C9H13NO3,CNC[C@H](O)C1=CC(O)=C(O)C=C1,UCTWMZQNUQWSLP-VIFPVBQESA-N,Beta-1 adrenergic receptor,P08588
+Epinephrine,C9H13NO3,CNC[C@H](O)C1=CC(O)=C(O)C=C1,UCTWMZQNUQWSLP-VIFPVBQESA-N,Beta-2 adrenergic receptor,P07550
+Epinephrine,C9H13NO3,CNC[C@H](O)C1=CC(O)=C(O)C=C1,UCTWMZQNUQWSLP-VIFPVBQESA-N,Alpha-1A adrenergic receptor,P35348
+Epinephrine,C9H13NO3,CNC[C@H](O)C1=CC(O)=C(O)C=C1,UCTWMZQNUQWSLP-VIFPVBQESA-N,Trace amine-associated receptor 1,Q96RJ0
+Dopamine,C8H11NO2,NCCC1=CC(O)=C(O)C=C1,VYFYYTLLBUKUHU-UHFFFAOYSA-N,Tyrosinase,P14679
+Dopamine,C8H11NO2,NCCC1=CC(O)=C(O)C=C1,VYFYYTLLBUKUHU-UHFFFAOYSA-N,Amine oxidase [flavin-containing] B,P27338
+Dopamine,C8H11NO2,NCCC1=CC(O)=C(O)C=C1,VYFYYTLLBUKUHU-UHFFFAOYSA-N,Amine oxidase [flavin-containing] A,P21397
+Dopamine,C8H11NO2,NCCC1=CC(O)=C(O)C=C1,VYFYYTLLBUKUHU-UHFFFAOYSA-N,Dopamine beta-hydroxylase,P09172
+Dopamine,C8H11NO2,NCCC1=CC(O)=C(O)C=C1,VYFYYTLLBUKUHU-UHFFFAOYSA-N,Catechol O-methyltransferase,P21964
+Dopamine,C8H11NO2,NCCC1=CC(O)=C(O)C=C1,VYFYYTLLBUKUHU-UHFFFAOYSA-N,Aromatic-L-amino-acid decarboxylase,P20711
+Dopamine,C8H11NO2,NCCC1=CC(O)=C(O)C=C1,VYFYYTLLBUKUHU-UHFFFAOYSA-N,Amiloride-sensitive amine oxidase [copper-containing],P19801
+Dopamine,C8H11NO2,NCCC1=CC(O)=C(O)C=C1,VYFYYTLLBUKUHU-UHFFFAOYSA-N,Membrane primary amine oxidase,Q16853
+Dopamine,C8H11NO2,NCCC1=CC(O)=C(O)C=C1,VYFYYTLLBUKUHU-UHFFFAOYSA-N,Retina-specific copper amine oxidase,O75106
+Dopamine,C8H11NO2,NCCC1=CC(O)=C(O)C=C1,VYFYYTLLBUKUHU-UHFFFAOYSA-N,Cytochrome P450 2C9,P11712
+Dopamine,C8H11NO2,NCCC1=CC(O)=C(O)C=C1,VYFYYTLLBUKUHU-UHFFFAOYSA-N,Cytochrome P450 2C19,P33261
+Dopamine,C8H11NO2,NCCC1=CC(O)=C(O)C=C1,VYFYYTLLBUKUHU-UHFFFAOYSA-N,Cytochrome P450 2D6,P10635
+Dopamine,C8H11NO2,NCCC1=CC(O)=C(O)C=C1,VYFYYTLLBUKUHU-UHFFFAOYSA-N,Cytochrome P450 1A2,P05177
+Dopamine,C8H11NO2,NCCC1=CC(O)=C(O)C=C1,VYFYYTLLBUKUHU-UHFFFAOYSA-N,Solute carrier family 22 member 5,O76082
+Dopamine,C8H11NO2,NCCC1=CC(O)=C(O)C=C1,VYFYYTLLBUKUHU-UHFFFAOYSA-N,D(2) dopamine receptor,P14416
+Dopamine,C8H11NO2,NCCC1=CC(O)=C(O)C=C1,VYFYYTLLBUKUHU-UHFFFAOYSA-N,D(4) dopamine receptor,P21917
+Dopamine,C8H11NO2,NCCC1=CC(O)=C(O)C=C1,VYFYYTLLBUKUHU-UHFFFAOYSA-N,Sodium-dependent dopamine transporter,Q01959
+Dopamine,C8H11NO2,NCCC1=CC(O)=C(O)C=C1,VYFYYTLLBUKUHU-UHFFFAOYSA-N,Solute carrier family 22 member 1,O15245
+Dopamine,C8H11NO2,NCCC1=CC(O)=C(O)C=C1,VYFYYTLLBUKUHU-UHFFFAOYSA-N,Solute carrier family 22 member 2,O15244
+Dopamine,C8H11NO2,NCCC1=CC(O)=C(O)C=C1,VYFYYTLLBUKUHU-UHFFFAOYSA-N,Solute carrier family 22 member 3,O75751
+Dopamine,C8H11NO2,NCCC1=CC(O)=C(O)C=C1,VYFYYTLLBUKUHU-UHFFFAOYSA-N,Neuron-specific vesicular protein calcyon,Q9NYX4
+Dopamine,C8H11NO2,NCCC1=CC(O)=C(O)C=C1,VYFYYTLLBUKUHU-UHFFFAOYSA-N,Calcium-dependent secretion activator 1,Q9ULU8
+Dopamine,C8H11NO2,NCCC1=CC(O)=C(O)C=C1,VYFYYTLLBUKUHU-UHFFFAOYSA-N,Calcium-dependent secretion activator 2,Q86UW7
+Dopamine,C8H11NO2,NCCC1=CC(O)=C(O)C=C1,VYFYYTLLBUKUHU-UHFFFAOYSA-N,D(3) dopamine receptor,P35462
+Dopamine,C8H11NO2,NCCC1=CC(O)=C(O)C=C1,VYFYYTLLBUKUHU-UHFFFAOYSA-N,D(1A) dopamine receptor,P21728
+Dopamine,C8H11NO2,NCCC1=CC(O)=C(O)C=C1,VYFYYTLLBUKUHU-UHFFFAOYSA-N,D(1B) dopamine receptor,P21918
+Dopamine,C8H11NO2,NCCC1=CC(O)=C(O)C=C1,VYFYYTLLBUKUHU-UHFFFAOYSA-N,Dopamine D4 receptor,Q99586
+Dopamine,C8H11NO2,NCCC1=CC(O)=C(O)C=C1,VYFYYTLLBUKUHU-UHFFFAOYSA-N,Dopamine D4 receptor,Q99587
+Dimethylamine,C2H7N,CNC,ROSDSFDQCJNGOL-UHFFFAOYSA-N,Amine oxidase [flavin-containing] B,P27338
+Dimethylamine,C2H7N,CNC,ROSDSFDQCJNGOL-UHFFFAOYSA-N,Amine oxidase [flavin-containing] A,P21397
+Dimethylamine,C2H7N,CNC,ROSDSFDQCJNGOL-UHFFFAOYSA-N,"N(G),N(G)-dimethylarginine dimethylaminohydrolase 1",O94760
+Dimethylamine,C2H7N,CNC,ROSDSFDQCJNGOL-UHFFFAOYSA-N,"N(G),N(G)-dimethylarginine dimethylaminohydrolase 2",O95865
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Sulfotransferase family cytosolic 2B member 1,O00204
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Cytochrome P450 4A11,Q02928
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,UDP-glucuronosyltransferase 1-1,P22309
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Alcohol dehydrogenase [NADP(+)],P14550
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Alcohol dehydrogenase 4,P08319
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Alcohol dehydrogenase class-3,P11766
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Alcohol dehydrogenase 1B,P00325
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Alcohol dehydrogenase class 4 mu/sigma chain,P40394
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Alcohol dehydrogenase 1A,P07327
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Alcohol dehydrogenase 6,P28332
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Alcohol dehydrogenase 1C,P00326
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Cytochrome P450 3A4,P08684
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Cytochrome P450 2C9,P11712
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Cytochrome P450 2C19,P33261
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Cytochrome P450 2E1,P05181
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Cytochrome P450 2B6,P20813
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Cytochrome P450 1A1,P04798
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Cytochrome P450 1A2,P05177
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Voltage-dependent L-type calcium channel subunit alpha-1D,Q01668
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Voltage-dependent L-type calcium channel subunit alpha-1C,Q13936
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Equilibrative nucleoside transporter 1,Q99808
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Vascular cell adhesion protein 1,P19320
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Glutamate receptor 1,P42261
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,5-hydroxytryptamine receptor 3A,P46098
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Equilibrative nucleoside transporter 2,Q14542
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Neuronal acetylcholine receptor subunit alpha-10,Q9GZZ6
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Neuronal acetylcholine receptor subunit alpha-9,Q9UGM1
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Voltage-dependent L-type calcium channel subunit alpha-1S,Q13698
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Voltage-dependent L-type calcium channel subunit beta-1,Q02641
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Voltage-dependent calcium channel gamma-1 subunit,Q06432
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Voltage-dependent calcium channel gamma-2 subunit,Q9Y698
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Glutamate receptor 2,P42262
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Glutamate [NMDA] receptor subunit 3A,Q8TCU5
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Gamma-aminobutyric acid receptor subunit alpha-1,P14867
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Gamma-aminobutyric acid receptor subunit alpha-2,P47869
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Gamma-aminobutyric acid receptor subunit alpha-3,P34903
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Gamma-aminobutyric acid receptor subunit alpha-4,P48169
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Gamma-aminobutyric acid receptor subunit alpha-5,P31644
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Gamma-aminobutyric acid receptor subunit alpha-6,Q16445
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Gamma-aminobutyric acid receptor subunit beta-1,P18505
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Gamma-aminobutyric acid receptor subunit beta-2,P47870
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Gamma-aminobutyric acid receptor subunit beta-3,P28472
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Gamma-aminobutyric acid receptor subunit delta,O14764
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Gamma-aminobutyric acid receptor subunit epsilon,P78334
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Gamma-aminobutyric acid receptor subunit gamma-1,Q8N1C3
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Gamma-aminobutyric acid receptor subunit gamma-3,Q99928
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Gamma-aminobutyric acid receptor subunit pi,O00591
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Gamma-aminobutyric acid receptor subunit theta,Q9UN88
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Glycine receptor subunit alpha-1,P23415
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Glycine receptor subunit alpha-2,P23416
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,G protein-activated inward rectifier potassium channel 1,P48549
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,G protein-activated inward rectifier potassium channel 4,P48544
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,G protein-activated inward rectifier potassium channel 2,P48051
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,G protein-activated inward rectifier potassium channel 3,Q92806
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Neuronal acetylcholine receptor subunit alpha-2,Q15822
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,5-hydroxytryptamine receptor 3B,O95264
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Neuronal acetylcholine receptor subunit beta-2,P17787
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Neuronal acetylcholine receptor subunit alpha-5,P30532
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Neuronal acetylcholine receptor subunit beta-4,P30926
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Neuronal acetylcholine receptor subunit alpha-3,P32297
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Neuronal acetylcholine receptor subunit alpha-7,P36544
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Glutamate receptor 3,P42263
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Neuronal acetylcholine receptor subunit alpha-4,P43681
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Glutamate receptor 4,P48058
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Neuronal acetylcholine receptor subunit beta-3,Q05901
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,Neuronal acetylcholine receptor subunit alpha-6,Q15825
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,5-hydroxytryptamine receptor 3D,Q70Z44
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,5-hydroxytryptamine receptor 3C,Q8WXA8
+Ethanol,C2H6O,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,5-Hydroxytryptamine receptor 3E,A5X5Y0
+gamma-Aminobutyric acid,C4H9NO2,NCCCC(O)=O,BTCSSZJGUNDROE-UHFFFAOYSA-N,"4-aminobutyrate aminotransferase, mitochondrial",P80404
+gamma-Aminobutyric acid,C4H9NO2,NCCCC(O)=O,BTCSSZJGUNDROE-UHFFFAOYSA-N,4-trimethylaminobutyraldehyde dehydrogenase,P49189
+gamma-Aminobutyric acid,C4H9NO2,NCCCC(O)=O,BTCSSZJGUNDROE-UHFFFAOYSA-N,Alpha-aminoadipic semialdehyde dehydrogenase,P49419
+gamma-Aminobutyric acid,C4H9NO2,NCCCC(O)=O,BTCSSZJGUNDROE-UHFFFAOYSA-N,Aldehyde dehydrogenase family 1 member A3,P47895
+gamma-Aminobutyric acid,C4H9NO2,NCCCC(O)=O,BTCSSZJGUNDROE-UHFFFAOYSA-N,"Aldehyde dehydrogenase, mitochondrial",P05091
+gamma-Aminobutyric acid,C4H9NO2,NCCCC(O)=O,BTCSSZJGUNDROE-UHFFFAOYSA-N,Fatty aldehyde dehydrogenase,P51648
+gamma-Aminobutyric acid,C4H9NO2,NCCCC(O)=O,BTCSSZJGUNDROE-UHFFFAOYSA-N,"Aldehyde dehydrogenase X, mitochondrial",P30837
+gamma-Aminobutyric acid,C4H9NO2,NCCCC(O)=O,BTCSSZJGUNDROE-UHFFFAOYSA-N,"Glycine amidinotransferase, mitochondrial",P50440
+gamma-Aminobutyric acid,C4H9NO2,NCCCC(O)=O,BTCSSZJGUNDROE-UHFFFAOYSA-N,Glutamine synthetase,P15104
+gamma-Aminobutyric acid,C4H9NO2,NCCCC(O)=O,BTCSSZJGUNDROE-UHFFFAOYSA-N,Glutamate decarboxylase 2,Q05329
+gamma-Aminobutyric acid,C4H9NO2,NCCCC(O)=O,BTCSSZJGUNDROE-UHFFFAOYSA-N,Glutamate decarboxylase 1,Q99259
+gamma-Aminobutyric acid,C4H9NO2,NCCCC(O)=O,BTCSSZJGUNDROE-UHFFFAOYSA-N,Arginine decarboxylase,Q96A70
+gamma-Aminobutyric acid,C4H9NO2,NCCCC(O)=O,BTCSSZJGUNDROE-UHFFFAOYSA-N,Gamma-aminobutyric acid receptor subunit gamma-2,P18507
+gamma-Aminobutyric acid,C4H9NO2,NCCCC(O)=O,BTCSSZJGUNDROE-UHFFFAOYSA-N,Gamma-aminobutyric acid type B receptor subunit 1,Q9UBS5
+gamma-Aminobutyric acid,C4H9NO2,NCCCC(O)=O,BTCSSZJGUNDROE-UHFFFAOYSA-N,"Probable glutamate--tRNA ligase, mitochondrial",Q5JPH6
+gamma-Aminobutyric acid,C4H9NO2,NCCCC(O)=O,BTCSSZJGUNDROE-UHFFFAOYSA-N,Gamma-aminobutyric acid type B receptor subunit 2,O75899
+gamma-Aminobutyric acid,C4H9NO2,NCCCC(O)=O,BTCSSZJGUNDROE-UHFFFAOYSA-N,Gamma-aminobutyric acid receptor subunit alpha-1,P14867
+gamma-Aminobutyric acid,C4H9NO2,NCCCC(O)=O,BTCSSZJGUNDROE-UHFFFAOYSA-N,Gamma-aminobutyric acid receptor subunit alpha-2,P47869
+gamma-Aminobutyric acid,C4H9NO2,NCCCC(O)=O,BTCSSZJGUNDROE-UHFFFAOYSA-N,Gamma-aminobutyric acid receptor subunit alpha-3,P34903
+gamma-Aminobutyric acid,C4H9NO2,NCCCC(O)=O,BTCSSZJGUNDROE-UHFFFAOYSA-N,Gamma-aminobutyric acid receptor subunit alpha-4,P48169
+gamma-Aminobutyric acid,C4H9NO2,NCCCC(O)=O,BTCSSZJGUNDROE-UHFFFAOYSA-N,Gamma-aminobutyric acid receptor subunit alpha-5,P31644
+gamma-Aminobutyric acid,C4H9NO2,NCCCC(O)=O,BTCSSZJGUNDROE-UHFFFAOYSA-N,Gamma-aminobutyric acid receptor subunit alpha-6,Q16445
+gamma-Aminobutyric acid,C4H9NO2,NCCCC(O)=O,BTCSSZJGUNDROE-UHFFFAOYSA-N,Gamma-aminobutyric acid receptor subunit beta-1,P18505
+gamma-Aminobutyric acid,C4H9NO2,NCCCC(O)=O,BTCSSZJGUNDROE-UHFFFAOYSA-N,Gamma-aminobutyric acid receptor subunit beta-2,P47870
+gamma-Aminobutyric acid,C4H9NO2,NCCCC(O)=O,BTCSSZJGUNDROE-UHFFFAOYSA-N,Gamma-aminobutyric acid receptor subunit beta-3,P28472
+gamma-Aminobutyric acid,C4H9NO2,NCCCC(O)=O,BTCSSZJGUNDROE-UHFFFAOYSA-N,Gamma-aminobutyric acid receptor subunit delta,O14764
+gamma-Aminobutyric acid,C4H9NO2,NCCCC(O)=O,BTCSSZJGUNDROE-UHFFFAOYSA-N,Gamma-aminobutyric acid receptor subunit epsilon,P78334
+gamma-Aminobutyric acid,C4H9NO2,NCCCC(O)=O,BTCSSZJGUNDROE-UHFFFAOYSA-N,Gamma-aminobutyric acid receptor subunit gamma-1,Q8N1C3
+gamma-Aminobutyric acid,C4H9NO2,NCCCC(O)=O,BTCSSZJGUNDROE-UHFFFAOYSA-N,Gamma-aminobutyric acid receptor subunit gamma-3,Q99928
+gamma-Aminobutyric acid,C4H9NO2,NCCCC(O)=O,BTCSSZJGUNDROE-UHFFFAOYSA-N,Gamma-aminobutyric acid receptor subunit pi,O00591
+gamma-Aminobutyric acid,C4H9NO2,NCCCC(O)=O,BTCSSZJGUNDROE-UHFFFAOYSA-N,Gamma-aminobutyric acid receptor subunit rho-1,P24046
+gamma-Aminobutyric acid,C4H9NO2,NCCCC(O)=O,BTCSSZJGUNDROE-UHFFFAOYSA-N,Gamma-aminobutyric acid receptor subunit rho-2,P28476
+gamma-Aminobutyric acid,C4H9NO2,NCCCC(O)=O,BTCSSZJGUNDROE-UHFFFAOYSA-N,Gamma-aminobutyric acid receptor subunit rho-3,A8MPY1
+gamma-Aminobutyric acid,C4H9NO2,NCCCC(O)=O,BTCSSZJGUNDROE-UHFFFAOYSA-N,Gamma-aminobutyric acid receptor subunit theta,Q9UN88
+gamma-Aminobutyric acid,C4H9NO2,NCCCC(O)=O,BTCSSZJGUNDROE-UHFFFAOYSA-N,Carnosine synthase 1,A5YM72
+gamma-Aminobutyric acid,C4H9NO2,NCCCC(O)=O,BTCSSZJGUNDROE-UHFFFAOYSA-N,Gamma-aminobutyric acid receptor-associated protein-like 2,P60520
+gamma-Aminobutyric acid,C4H9NO2,NCCCC(O)=O,BTCSSZJGUNDROE-UHFFFAOYSA-N,Gamma-aminobutyric acid receptor-associated protein,O95166
+gamma-Aminobutyric acid,C4H9NO2,NCCCC(O)=O,BTCSSZJGUNDROE-UHFFFAOYSA-N,Gamma-aminobutyric acid receptor-associated protein-like 1,Q9H0R8
+Glycolic acid,C2H4O3,OCC(O)=O,AEMRFAOFKBGASW-UHFFFAOYSA-N,Glucose-6-phosphate 1-dehydrogenase,P11413
+Glycolic acid,C2H4O3,OCC(O)=O,AEMRFAOFKBGASW-UHFFFAOYSA-N,Sulfotransferase family cytosolic 2B member 1,O00204
+Glycolic acid,C2H4O3,OCC(O)=O,AEMRFAOFKBGASW-UHFFFAOYSA-N,Glyoxylate reductase/hydroxypyruvate reductase,Q9UBQ7
+Glycolic acid,C2H4O3,OCC(O)=O,AEMRFAOFKBGASW-UHFFFAOYSA-N,Cytochrome P450 4A11,Q02928
+Glycolic acid,C2H4O3,OCC(O)=O,AEMRFAOFKBGASW-UHFFFAOYSA-N,UDP-glucuronosyltransferase 1-1,P22309
+Glycolic acid,C2H4O3,OCC(O)=O,AEMRFAOFKBGASW-UHFFFAOYSA-N,Hydroxyacid oxidase 1,Q9UJM8
+Glycolic acid,C2H4O3,OCC(O)=O,AEMRFAOFKBGASW-UHFFFAOYSA-N,Hydroxyacid oxidase 2,Q9NYQ3
+Glycolic acid,C2H4O3,OCC(O)=O,AEMRFAOFKBGASW-UHFFFAOYSA-N,Phosphoglycolate phosphatase,A6NDG6
+Glycolic acid,C2H4O3,OCC(O)=O,AEMRFAOFKBGASW-UHFFFAOYSA-N,Cytochrome P450 4A22,Q5TCH4
+Homovanillic acid,C9H10O4,COC1=C(O)C=CC(CC(O)=O)=C1,QRMZSPFSDQBLIX-UHFFFAOYSA-N,Catechol O-methyltransferase,P21964
+Homovanillic acid,C9H10O4,COC1=C(O)C=CC(CC(O)=O)=C1,QRMZSPFSDQBLIX-UHFFFAOYSA-N,"Aldehyde dehydrogenase, dimeric NADP-preferring",P30838
+Homovanillic acid,C9H10O4,COC1=C(O)C=CC(CC(O)=O)=C1,QRMZSPFSDQBLIX-UHFFFAOYSA-N,Aldehyde dehydrogenase family 1 member A3,P47895
+Homovanillic acid,C9H10O4,COC1=C(O)C=CC(CC(O)=O)=C1,QRMZSPFSDQBLIX-UHFFFAOYSA-N,Aldehyde dehydrogenase family 3 member B2,P48448
+Homovanillic acid,C9H10O4,COC1=C(O)C=CC(CC(O)=O)=C1,QRMZSPFSDQBLIX-UHFFFAOYSA-N,Aldehyde dehydrogenase family 3 member B1,P43353
+Homovanillic acid,C9H10O4,COC1=C(O)C=CC(CC(O)=O)=C1,QRMZSPFSDQBLIX-UHFFFAOYSA-N,Sulfotransferase 1A3,P0DMM9
+Folic acid,C19H19N7O6,NC1=NC(=O)C2=NC(CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)=CN=C2N1,OVBPIULPVIDEAO-LBPRGKRZSA-N,Methylenetetrahydrofolate reductase,P42898
+Folic acid,C19H19N7O6,NC1=NC(=O)C2=NC(CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)=CN=C2N1,OVBPIULPVIDEAO-LBPRGKRZSA-N,Glycine N-methyltransferase,Q14749
+Folic acid,C19H19N7O6,NC1=NC(=O)C2=NC(CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)=CN=C2N1,OVBPIULPVIDEAO-LBPRGKRZSA-N,Formimidoyltransferase-cyclodeaminase,O95954
+Folic acid,C19H19N7O6,NC1=NC(=O)C2=NC(CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)=CN=C2N1,OVBPIULPVIDEAO-LBPRGKRZSA-N,Dihydrofolate reductase,P00374
+Folic acid,C19H19N7O6,NC1=NC(=O)C2=NC(CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)=CN=C2N1,OVBPIULPVIDEAO-LBPRGKRZSA-N,5-formyltetrahydrofolate cyclo-ligase,P49914
+Folic acid,C19H19N7O6,NC1=NC(=O)C2=NC(CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)=CN=C2N1,OVBPIULPVIDEAO-LBPRGKRZSA-N,Cytochrome P450 2E1,P05181
+Folic acid,C19H19N7O6,NC1=NC(=O)C2=NC(CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)=CN=C2N1,OVBPIULPVIDEAO-LBPRGKRZSA-N,Canalicular multispecific organic anion transporter 2,O15438
+Folic acid,C19H19N7O6,NC1=NC(=O)C2=NC(CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)=CN=C2N1,OVBPIULPVIDEAO-LBPRGKRZSA-N,ATP-binding cassette sub-family G member 2,Q9UNQ0
+Folic acid,C19H19N7O6,NC1=NC(=O)C2=NC(CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)=CN=C2N1,OVBPIULPVIDEAO-LBPRGKRZSA-N,Folate receptor alpha,P15328
+Folic acid,C19H19N7O6,NC1=NC(=O)C2=NC(CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)=CN=C2N1,OVBPIULPVIDEAO-LBPRGKRZSA-N,Folate transporter 1,P41440
+Folic acid,C19H19N7O6,NC1=NC(=O)C2=NC(CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)=CN=C2N1,OVBPIULPVIDEAO-LBPRGKRZSA-N,Thiamine transporter 1,O60779
+Folic acid,C19H19N7O6,NC1=NC(=O)C2=NC(CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)=CN=C2N1,OVBPIULPVIDEAO-LBPRGKRZSA-N,Proton-coupled folate transporter,Q96NT5
+Folic acid,C19H19N7O6,NC1=NC(=O)C2=NC(CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)=CN=C2N1,OVBPIULPVIDEAO-LBPRGKRZSA-N,Folate receptor gamma,P41439
+Folic acid,C19H19N7O6,NC1=NC(=O)C2=NC(CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)=CN=C2N1,OVBPIULPVIDEAO-LBPRGKRZSA-N,Gamma-glutamyl hydrolase,Q92820
+Folic acid,C19H19N7O6,NC1=NC(=O)C2=NC(CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)=CN=C2N1,OVBPIULPVIDEAO-LBPRGKRZSA-N,Multidrug resistance-associated protein 4,O15439
+Folic acid,C19H19N7O6,NC1=NC(=O)C2=NC(CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)=CN=C2N1,OVBPIULPVIDEAO-LBPRGKRZSA-N,Dihydrofolate reductase,B0YJ76
+Folic acid,C19H19N7O6,NC1=NC(=O)C2=NC(CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)=CN=C2N1,OVBPIULPVIDEAO-LBPRGKRZSA-N,Solute carrier family 22 member 6,Q4U2R8
+Folic acid,C19H19N7O6,NC1=NC(=O)C2=NC(CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)=CN=C2N1,OVBPIULPVIDEAO-LBPRGKRZSA-N,ATP-binding cassette sub-family C member 11,Q96J66
+Folic acid,C19H19N7O6,NC1=NC(=O)C2=NC(CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)=CN=C2N1,OVBPIULPVIDEAO-LBPRGKRZSA-N,Folate receptor beta,P14207
+Folic acid,C19H19N7O6,NC1=NC(=O)C2=NC(CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)=CN=C2N1,OVBPIULPVIDEAO-LBPRGKRZSA-N,Mitochondrial folate transporter/carrier,Q9H2D1
+Folic acid,C19H19N7O6,NC1=NC(=O)C2=NC(CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)=CN=C2N1,OVBPIULPVIDEAO-LBPRGKRZSA-N,Folate transporter-like protein C2orf83,Q53S99
+Folic acid,C19H19N7O6,NC1=NC(=O)C2=NC(CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)=CN=C2N1,OVBPIULPVIDEAO-LBPRGKRZSA-N,Probable folate receptor delta,A6ND01
+Folic acid,C19H19N7O6,NC1=NC(=O)C2=NC(CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)=CN=C2N1,OVBPIULPVIDEAO-LBPRGKRZSA-N,"Dihydrofolate reductase, mitochondrial",Q86XF0
+Glycocholic acid,C26H43NO6,C[C@H](CCC(O)=NCC(O)=O)[C@H]1CC[C@H]2[C@@H]3[C@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3C[C@H](O)[C@]12C,RFDAIACWWDREDC-FRVQLJSFSA-N,Bile acid-CoA:amino acid N-acyltransferase,Q14032
+Glycocholic acid,C26H43NO6,C[C@H](CCC(O)=NCC(O)=O)[C@H]1CC[C@H]2[C@@H]3[C@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3C[C@H](O)[C@]12C,RFDAIACWWDREDC-FRVQLJSFSA-N,Glycine N-acyltransferase,Q6IB77
+Glycocholic acid,C26H43NO6,C[C@H](CCC(O)=NCC(O)=O)[C@H]1CC[C@H]2[C@@H]3[C@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3C[C@H](O)[C@]12C,RFDAIACWWDREDC-FRVQLJSFSA-N,Glycine N-acyltransferase-like protein 1,Q969I3
+Glycocholic acid,C26H43NO6,C[C@H](CCC(O)=NCC(O)=O)[C@H]1CC[C@H]2[C@@H]3[C@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3C[C@H](O)[C@]12C,RFDAIACWWDREDC-FRVQLJSFSA-N,Glycine N-acyltransferase-like protein 2,Q8WU03
+Glycocholic acid,C26H43NO6,C[C@H](CCC(O)=NCC(O)=O)[C@H]1CC[C@H]2[C@@H]3[C@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3C[C@H](O)[C@]12C,RFDAIACWWDREDC-FRVQLJSFSA-N,Glycine N-acyltransferase-like protein 3,Q5SZD4
+Formic acid,CH2O2,OC=O,BDAGIHXWWSANSR-UHFFFAOYSA-N,Lanosterol 14-alpha demethylase,Q16850
+Formic acid,CH2O2,OC=O,BDAGIHXWWSANSR-UHFFFAOYSA-N,S-formylglutathione hydrolase,P10768
+Formic acid,CH2O2,OC=O,BDAGIHXWWSANSR-UHFFFAOYSA-N,Aspartoacylase,P45381
+Formic acid,CH2O2,OC=O,BDAGIHXWWSANSR-UHFFFAOYSA-N,Aspartoacylase-2,Q96HD9
+Formic acid,CH2O2,OC=O,BDAGIHXWWSANSR-UHFFFAOYSA-N,"C-1-tetrahydrofolate synthase, cytoplasmic",P11586
+Formic acid,CH2O2,OC=O,BDAGIHXWWSANSR-UHFFFAOYSA-N,GTP cyclohydrolase 1,P30793
+Formic acid,CH2O2,OC=O,BDAGIHXWWSANSR-UHFFFAOYSA-N,Cytochrome P450 3A4,P08684
+Formic acid,CH2O2,OC=O,BDAGIHXWWSANSR-UHFFFAOYSA-N,Cytochrome P450 2C9,P11712
+Formic acid,CH2O2,OC=O,BDAGIHXWWSANSR-UHFFFAOYSA-N,Cytochrome P450 2C19,P33261
+Formic acid,CH2O2,OC=O,BDAGIHXWWSANSR-UHFFFAOYSA-N,"Peptide deformylase, mitochondrial",Q9HBH1
+Formic acid,CH2O2,OC=O,BDAGIHXWWSANSR-UHFFFAOYSA-N,Cytochrome P450 2E1,P05181
+Formic acid,CH2O2,OC=O,BDAGIHXWWSANSR-UHFFFAOYSA-N,Cytochrome P450 3A43,Q9HB55
+Formic acid,CH2O2,OC=O,BDAGIHXWWSANSR-UHFFFAOYSA-N,Cytochrome P450 1B1,Q16678
+Formic acid,CH2O2,OC=O,BDAGIHXWWSANSR-UHFFFAOYSA-N,Cytochrome P450 2C18,P33260
+Formic acid,CH2O2,OC=O,BDAGIHXWWSANSR-UHFFFAOYSA-N,Cytochrome P450 2F1,P24903
+Formic acid,CH2O2,OC=O,BDAGIHXWWSANSR-UHFFFAOYSA-N,Cytochrome P450 4X1,Q8N118
+Formic acid,CH2O2,OC=O,BDAGIHXWWSANSR-UHFFFAOYSA-N,Cytochrome P450 2B6,P20813
+Formic acid,CH2O2,OC=O,BDAGIHXWWSANSR-UHFFFAOYSA-N,Cytochrome P450 3A5,P20815
+Formic acid,CH2O2,OC=O,BDAGIHXWWSANSR-UHFFFAOYSA-N,Cytochrome P450 2A13,Q16696
+Formic acid,CH2O2,OC=O,BDAGIHXWWSANSR-UHFFFAOYSA-N,Cytochrome P450 3A7,P24462
+Formic acid,CH2O2,OC=O,BDAGIHXWWSANSR-UHFFFAOYSA-N,Cytochrome P450 4B1,P13584
+Formic acid,CH2O2,OC=O,BDAGIHXWWSANSR-UHFFFAOYSA-N,Cytochrome P450 4Z1,Q86W10
+Formic acid,CH2O2,OC=O,BDAGIHXWWSANSR-UHFFFAOYSA-N,Cytochrome P450 1A2,P05177
+Formic acid,CH2O2,OC=O,BDAGIHXWWSANSR-UHFFFAOYSA-N,Cytochrome P450 19A1,P11511
+Formic acid,CH2O2,OC=O,BDAGIHXWWSANSR-UHFFFAOYSA-N,Cytochrome P450 2C8,P10632
+Formic acid,CH2O2,OC=O,BDAGIHXWWSANSR-UHFFFAOYSA-N,Cytochrome P450 2S1,Q96SQ9
+Formic acid,CH2O2,OC=O,BDAGIHXWWSANSR-UHFFFAOYSA-N,Cytochrome P450 2J2,P51589
+Formic acid,CH2O2,OC=O,BDAGIHXWWSANSR-UHFFFAOYSA-N,Cytochrome P450 2A7,P20853
+Formic acid,CH2O2,OC=O,BDAGIHXWWSANSR-UHFFFAOYSA-N,Cytochrome P450 2A6,P11509
+Formic acid,CH2O2,OC=O,BDAGIHXWWSANSR-UHFFFAOYSA-N,"Monofunctional C1-tetrahydrofolate synthase, mitochondrial",Q6UB35
+Formic acid,CH2O2,OC=O,BDAGIHXWWSANSR-UHFFFAOYSA-N,"Methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 2, methenyltetrahydrofolate cyclohydrolase",Q7Z650
+Formic acid,CH2O2,OC=O,BDAGIHXWWSANSR-UHFFFAOYSA-N,Kynurenine formamidase,Q63HM1
+Formic acid,CH2O2,OC=O,BDAGIHXWWSANSR-UHFFFAOYSA-N,"Cytochrome P450, family 1, subfamily A, polypeptide 1",A0N0X8
+Formic acid,CH2O2,OC=O,BDAGIHXWWSANSR-UHFFFAOYSA-N,Cytochrome P450 2D6,Q6NWU0
+Formic acid,CH2O2,OC=O,BDAGIHXWWSANSR-UHFFFAOYSA-N,"1,2-dihydroxy-3-keto-5-methylthiopentene dioxygenase",Q9BV57
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,L-lactate dehydrogenase A-like 6A,Q6ZMR3
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,L-lactate dehydrogenase B chain,P07195
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,L-lactate dehydrogenase C chain,P07864
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,L-lactate dehydrogenase A chain,P00338
+L-Lactic acid,C3H6O3,C[C@H](O)C(O)=O,JVTAAEKCZFNVCJ-REOHCLBHSA-N,L-lactate dehydrogenase A-like 6B,Q9BYZ2
+Indoleacetic acid,C10H9NO2,OC(=O)CC1=CNC2=C1C=CC=C2,SEOVTRFCIGRIMH-UHFFFAOYSA-N,4-trimethylaminobutyraldehyde dehydrogenase,P49189
+Indoleacetic acid,C10H9NO2,OC(=O)CC1=CNC2=C1C=CC=C2,SEOVTRFCIGRIMH-UHFFFAOYSA-N,Alpha-aminoadipic semialdehyde dehydrogenase,P49419
+Indoleacetic acid,C10H9NO2,OC(=O)CC1=CNC2=C1C=CC=C2,SEOVTRFCIGRIMH-UHFFFAOYSA-N,Aldehyde dehydrogenase family 1 member A3,P47895
+Indoleacetic acid,C10H9NO2,OC(=O)CC1=CNC2=C1C=CC=C2,SEOVTRFCIGRIMH-UHFFFAOYSA-N,"Aldehyde dehydrogenase, mitochondrial",P05091
+Indoleacetic acid,C10H9NO2,OC(=O)CC1=CNC2=C1C=CC=C2,SEOVTRFCIGRIMH-UHFFFAOYSA-N,Fatty aldehyde dehydrogenase,P51648
+Indoleacetic acid,C10H9NO2,OC(=O)CC1=CNC2=C1C=CC=C2,SEOVTRFCIGRIMH-UHFFFAOYSA-N,"Aldehyde dehydrogenase X, mitochondrial",P30837
+Phenylpyruvic acid,C9H8O3,OC(=O)C(=O)CC1=CC=CC=C1,BTNMPGBKDVTSJY-UHFFFAOYSA-N,Macrophage migration inhibitory factor,P14174
+Phenylpyruvic acid,C9H8O3,OC(=O)C(=O)CC1=CC=CC=C1,BTNMPGBKDVTSJY-UHFFFAOYSA-N,Tyrosine aminotransferase,P17735
+Phenylpyruvic acid,C9H8O3,OC(=O)C(=O)CC1=CC=CC=C1,BTNMPGBKDVTSJY-UHFFFAOYSA-N,"Aspartate aminotransferase, cytoplasmic",P17174
+Phenylpyruvic acid,C9H8O3,OC(=O)C(=O)CC1=CC=CC=C1,BTNMPGBKDVTSJY-UHFFFAOYSA-N,"Aspartate aminotransferase, mitochondrial",P00505
+Phenylpyruvic acid,C9H8O3,OC(=O)C(=O)CC1=CC=CC=C1,BTNMPGBKDVTSJY-UHFFFAOYSA-N,Kynurenine--oxoglutarate transaminase 1,Q16773
+Phenylpyruvic acid,C9H8O3,OC(=O)C(=O)CC1=CC=CC=C1,BTNMPGBKDVTSJY-UHFFFAOYSA-N,UDP-glucuronosyltransferase 1-1,P22309
+Phenylpyruvic acid,C9H8O3,OC(=O)C(=O)CC1=CC=CC=C1,BTNMPGBKDVTSJY-UHFFFAOYSA-N,4-hydroxyphenylpyruvate dioxygenase,P32754
+Phenylpyruvic acid,C9H8O3,OC(=O)C(=O)CC1=CC=CC=C1,BTNMPGBKDVTSJY-UHFFFAOYSA-N,L-amino-acid oxidase,Q96RQ9
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,"Dihydrolipoyl dehydrogenase, mitochondrial",P09622
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,"4-aminobutyrate aminotransferase, mitochondrial",P80404
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,"Phytanoyl-CoA dioxygenase, peroxisomal",O14832
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Tyrosine aminotransferase,P17735
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,"Aspartate aminotransferase, cytoplasmic",P17174
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,"Aspartate aminotransferase, mitochondrial",P00505
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,"Aldehyde dehydrogenase, mitochondrial",P05091
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Fatty aldehyde dehydrogenase,P51648
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,"Aldehyde dehydrogenase X, mitochondrial",P30837
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,"Branched-chain-amino-acid aminotransferase, cytosolic",P54687
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Prolyl 4-hydroxylase subunit alpha-2,O15460
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Prolyl 4-hydroxylase subunit alpha-1,P13674
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,"Kynurenine/alpha-aminoadipate aminotransferase, mitochondrial",Q8N5Z0
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Gamma-butyrobetaine dioxygenase,O75936
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,"Alanine--glyoxylate aminotransferase 2, mitochondrial",Q9BYV1
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,"Ornithine aminotransferase, mitochondrial",P04181
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,"2-oxoglutarate dehydrogenase, mitochondrial",Q02218
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,"Procollagen-lysine,2-oxoglutarate 5-dioxygenase 1",Q02809
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,"Procollagen-lysine,2-oxoglutarate 5-dioxygenase 2",O00469
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,"Procollagen-lysine,2-oxoglutarate 5-dioxygenase 3",O60568
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Kynurenine--oxoglutarate transaminase 1,Q16773
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,"Branched-chain-amino-acid aminotransferase, mitochondrial",O15382
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,"Glutamate dehydrogenase 2, mitochondrial",P49448
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,"Glutamate dehydrogenase 1, mitochondrial",P00367
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Serine--pyruvate aminotransferase,P21549
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Alanine aminotransferase 1,P24298
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Phosphoserine aminotransferase,Q9Y617
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,"Alpha-aminoadipic semialdehyde synthase, mitochondrial",Q9UDR5
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,"Isocitrate dehydrogenase [NADP], mitochondrial",P48735
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,"Isocitrate dehydrogenase [NAD] subunit beta, mitochondrial",O43837
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Isocitrate dehydrogenase [NADP] cytoplasmic,O75874
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,"Isocitrate dehydrogenase [NAD] subunit alpha, mitochondrial",P50213
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,"Isocitrate dehydrogenase [NAD] subunit gamma, mitochondrial",P51553
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,D-3-phosphoglycerate dehydrogenase,O43175
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Aspartyl/asparaginyl beta-hydroxylase,Q12797
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Hypoxia-inducible factor 1-alpha inhibitor,Q9NWT6
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Mitochondrial 2-oxoglutarate/malate carrier protein,Q02978
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,"D-2-hydroxyglutarate dehydrogenase, mitochondrial",Q8N465
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,"L-2-hydroxyglutarate dehydrogenase, mitochondrial",Q9H9P8
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,"Aminoadipate aminotransferase, isoform CRA_b",Q4W5N8
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,"Trimethyllysine dioxygenase, mitochondrial",Q9NVH6
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Alanine aminotransferase 2,Q8TD30
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,"Hydroxyacid-oxoacid transhydrogenase, mitochondrial",Q8IWW8
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Aminoadipate-semialdehyde synthase,A4D0W4
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Alpha-ketoglutarate-dependent dioxygenase alkB homolog 2,Q6NS38
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Prolyl 3-hydroxylase 1,Q32P28
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Prolyl 3-hydroxylase 2,Q8IVL5
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Prolyl 3-hydroxylase 3,Q8IVL6
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,"Putative aspartate aminotransferase, cytoplasmic 2",Q8NHS2
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Kynurenine--oxoglutarate transaminase 3,Q6YP21
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,"Probable 2-oxoglutarate dehydrogenase E1 component DHKTD1, mitochondrial",Q96HY7
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,"2-oxoglutarate dehydrogenase-like, mitochondrial",Q9ULD0
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Prolyl 4-hydroxylase subunit alpha-3,Q7Z4N8
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Lysine-specific demethylase 2A,Q9Y2K7
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Lysine-specific demethylase 2B,Q8NHM5
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Egl nine homolog 1,Q9GZT9
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Egl nine homolog 2,Q96KS0
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Egl nine homolog 3,Q9H6Z9
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Transmembrane prolyl 4-hydroxylase,Q9NXG6
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Alkylated DNA repair protein alkB homolog 1,Q13686
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Lysine-specific demethylase 8,Q8N371
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Bifunctional lysine-specific demethylase and histidyl-hydroxylase MINA,Q8IUF8
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Omega-amidase NIT2,Q9NQR4
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Bifunctional lysine-specific demethylase and histidyl-hydroxylase NO66,Q9H6W3
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Histone lysine demethylase PHF8,Q9UPP1
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Methylcytosine dioxygenase TET1,Q8NFU7
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Methylcytosine dioxygenase TET2,Q6N021
+Oxoglutaric acid,C5H6O5,OC(=O)CCC(=O)C(O)=O,KPGXRSRHYNQIFN-UHFFFAOYSA-N,Methylcytosine dioxygenase TET3,O43151
+Norepinephrine,C8H11NO3,NC[C@H](O)C1=CC(O)=C(O)C=C1,SFLSHLFXELFNJZ-QMMMGPOBSA-N,Amine oxidase [flavin-containing] B,P27338
+Norepinephrine,C8H11NO3,NC[C@H](O)C1=CC(O)=C(O)C=C1,SFLSHLFXELFNJZ-QMMMGPOBSA-N,Amine oxidase [flavin-containing] A,P21397
+Norepinephrine,C8H11NO3,NC[C@H](O)C1=CC(O)=C(O)C=C1,SFLSHLFXELFNJZ-QMMMGPOBSA-N,Dopamine beta-hydroxylase,P09172
+Norepinephrine,C8H11NO3,NC[C@H](O)C1=CC(O)=C(O)C=C1,SFLSHLFXELFNJZ-QMMMGPOBSA-N,Catechol O-methyltransferase,P21964
+Norepinephrine,C8H11NO3,NC[C@H](O)C1=CC(O)=C(O)C=C1,SFLSHLFXELFNJZ-QMMMGPOBSA-N,Phenylalanine-4-hydroxylase,P00439
+Norepinephrine,C8H11NO3,NC[C@H](O)C1=CC(O)=C(O)C=C1,SFLSHLFXELFNJZ-QMMMGPOBSA-N,Phenylethanolamine N-methyltransferase,P11086
+Norepinephrine,C8H11NO3,NC[C@H](O)C1=CC(O)=C(O)C=C1,SFLSHLFXELFNJZ-QMMMGPOBSA-N,Glycerol kinase,P32189
+Norepinephrine,C8H11NO3,NC[C@H](O)C1=CC(O)=C(O)C=C1,SFLSHLFXELFNJZ-QMMMGPOBSA-N,Cytochrome P450 1A2,P05177
+Norepinephrine,C8H11NO3,NC[C@H](O)C1=CC(O)=C(O)C=C1,SFLSHLFXELFNJZ-QMMMGPOBSA-N,Alpha-2A adrenergic receptor,P08913
+Norepinephrine,C8H11NO3,NC[C@H](O)C1=CC(O)=C(O)C=C1,SFLSHLFXELFNJZ-QMMMGPOBSA-N,Alpha-2B adrenergic receptor,P18089
+Norepinephrine,C8H11NO3,NC[C@H](O)C1=CC(O)=C(O)C=C1,SFLSHLFXELFNJZ-QMMMGPOBSA-N,Solute carrier family 22 member 5,O76082
+Norepinephrine,C8H11NO3,NC[C@H](O)C1=CC(O)=C(O)C=C1,SFLSHLFXELFNJZ-QMMMGPOBSA-N,Beta-1 adrenergic receptor,P08588
+Norepinephrine,C8H11NO3,NC[C@H](O)C1=CC(O)=C(O)C=C1,SFLSHLFXELFNJZ-QMMMGPOBSA-N,Beta-2 adrenergic receptor,P07550
+Norepinephrine,C8H11NO3,NC[C@H](O)C1=CC(O)=C(O)C=C1,SFLSHLFXELFNJZ-QMMMGPOBSA-N,Sodium-dependent noradrenaline transporter,P23975
+Norepinephrine,C8H11NO3,NC[C@H](O)C1=CC(O)=C(O)C=C1,SFLSHLFXELFNJZ-QMMMGPOBSA-N,Solute carrier family 22 member 1,O15245
+Norepinephrine,C8H11NO3,NC[C@H](O)C1=CC(O)=C(O)C=C1,SFLSHLFXELFNJZ-QMMMGPOBSA-N,Solute carrier family 22 member 2,O15244
+Norepinephrine,C8H11NO3,NC[C@H](O)C1=CC(O)=C(O)C=C1,SFLSHLFXELFNJZ-QMMMGPOBSA-N,Solute carrier family 22 member 3,O75751
+Norepinephrine,C8H11NO3,NC[C@H](O)C1=CC(O)=C(O)C=C1,SFLSHLFXELFNJZ-QMMMGPOBSA-N,Alpha-1A adrenergic receptor,P35348
+Norepinephrine,C8H11NO3,NC[C@H](O)C1=CC(O)=C(O)C=C1,SFLSHLFXELFNJZ-QMMMGPOBSA-N,Alpha-1B adrenergic receptor,P35368
+Norepinephrine,C8H11NO3,NC[C@H](O)C1=CC(O)=C(O)C=C1,SFLSHLFXELFNJZ-QMMMGPOBSA-N,Alpha-1D adrenergic receptor,P25100
+Norepinephrine,C8H11NO3,NC[C@H](O)C1=CC(O)=C(O)C=C1,SFLSHLFXELFNJZ-QMMMGPOBSA-N,Synaptotagmin-5,O00445
+Norepinephrine,C8H11NO3,NC[C@H](O)C1=CC(O)=C(O)C=C1,SFLSHLFXELFNJZ-QMMMGPOBSA-N,Beta-3 adrenergic receptor,P13945
+Norepinephrine,C8H11NO3,NC[C@H](O)C1=CC(O)=C(O)C=C1,SFLSHLFXELFNJZ-QMMMGPOBSA-N,Norepinephrine transporter isoform 2,Q9Y6W9
+Norepinephrine,C8H11NO3,NC[C@H](O)C1=CC(O)=C(O)C=C1,SFLSHLFXELFNJZ-QMMMGPOBSA-N,Alpha-2C adrenergic receptor,P18825
+Norepinephrine,C8H11NO3,NC[C@H](O)C1=CC(O)=C(O)C=C1,SFLSHLFXELFNJZ-QMMMGPOBSA-N,Norepinephrine transporter isoform 1,Q9UQ04
+Norepinephrine,C8H11NO3,NC[C@H](O)C1=CC(O)=C(O)C=C1,SFLSHLFXELFNJZ-QMMMGPOBSA-N,Norepinephrine transporter,Q71UR5
+Phenol,C6H6O,OC1=CC=CC=C1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,Serum paraoxonase/lactonase 3,Q15166
+Phenol,C6H6O,OC1=CC=CC=C1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,Serum paraoxonase/arylesterase 1,P27169
+Phenol,C6H6O,OC1=CC=CC=C1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,Serum paraoxonase/arylesterase 2,Q15165
+Phenol,C6H6O,OC1=CC=CC=C1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,6-phosphogluconolactonase,O95336
+Phenol,C6H6O,OC1=CC=CC=C1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,Glucose-6-phosphate 1-dehydrogenase,P11413
+Phenol,C6H6O,OC1=CC=CC=C1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,Sulfotransferase 1A1,P50225
+Phenol,C6H6O,OC1=CC=CC=C1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,Sulfotransferase 1A2,P50226
+Phenol,C6H6O,OC1=CC=CC=C1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,Sulfotransferase 1A3/1A4,P50224
+Phenol,C6H6O,OC1=CC=CC=C1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,UDP-glucuronosyltransferase 1-1,P22309
+Phenol,C6H6O,OC1=CC=CC=C1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,"6-phosphogluconate dehydrogenase, decarboxylating",P52209
+Phenol,C6H6O,OC1=CC=CC=C1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,Solute carrier family 13 member 4,Q9UKG4
+Phenol,C6H6O,OC1=CC=CC=C1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,Putative uncharacterized protein PGD,A9Z1X1
+Propionic acid,C3H6O2,CCC(O)=O,XBDQKXXYIPTUBI-UHFFFAOYSA-N,"Acetyl-coenzyme A synthetase, cytoplasmic",Q9NR19
+Propionic acid,C3H6O2,CCC(O)=O,XBDQKXXYIPTUBI-UHFFFAOYSA-N,"Acetyl-coenzyme A synthetase 2-like, mitochondrial",Q9NUB1
+Propionic acid,C3H6O2,CCC(O)=O,XBDQKXXYIPTUBI-UHFFFAOYSA-N,Gephyrin,Q9NQX3
+Propionic acid,C3H6O2,CCC(O)=O,XBDQKXXYIPTUBI-UHFFFAOYSA-N,ACSS2 protein,Q96FY7
+Propionic acid,C3H6O2,CCC(O)=O,XBDQKXXYIPTUBI-UHFFFAOYSA-N,"Acyl-CoA synthetase short-chain family member 3, mitochondrial",Q9H6R3
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,"Pyruvate dehydrogenase E1 component subunit beta, mitochondrial",P11177
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,"Pyruvate carboxylase, mitochondrial",P11498
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,"Pyruvate dehydrogenase E1 component subunit alpha, somatic form, mitochondrial",P08559
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,"Pyruvate dehydrogenase E1 component subunit alpha, testis-specific form, mitochondrial",P29803
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,"Dihydrolipoyl dehydrogenase, mitochondrial",P09622
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,"Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex, mitochondrial",P10515
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,D-amino-acid oxidase,P14920
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,"4-aminobutyrate aminotransferase, mitochondrial",P80404
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,"Alanine--glyoxylate aminotransferase 2, mitochondrial",Q9BYV1
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,S-adenosylmethionine decarboxylase proenzyme,P17707
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,Kynurenine--oxoglutarate transaminase 1,Q16773
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,Cystathionine gamma-lyase,P32929
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,L-serine dehydratase/L-threonine deaminase,P20132
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,Adenylate cyclase type 7,P51828
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,Adenylate cyclase type 4,Q8NFM4
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,Adenylate cyclase type 6,O43306
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,Adenylate cyclase type 5,O95622
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,Adenylate cyclase type 8,P40145
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,Adenylate cyclase type 9,O60503
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,Adenylate cyclase type 3,O60266
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,Adenylate cyclase type 1,Q08828
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,Pyruvate kinase isozymes M1/M2,P14618
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,Pyruvate kinase isozymes R/L,P30613
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,3-mercaptopyruvate sulfurtransferase,P25325
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,Serine--pyruvate aminotransferase,P21549
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,Alanine aminotransferase 1,P24298
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,NADP-dependent malic enzyme,P48163
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,"NADP-dependent malic enzyme, mitochondrial",Q16798
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,"NAD-dependent malic enzyme, mitochondrial",P23368
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,Histidine decarboxylase,P19113
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,L-lactate dehydrogenase A-like 6A,Q6ZMR3
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,Adenylate cyclase type 2,Q08462
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,Thiosulfate sulfurtransferase,Q16762
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,Monocarboxylate transporter 3,O95907
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,Monocarboxylate transporter 4,O15427
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,Monocarboxylate transporter 7,O15403
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,Monocarboxylate transporter 1,P53985
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,Monocarboxylate transporter 8,P36021
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,Monocarboxylate transporter 6,O15375
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,Monocarboxylate transporter 5,O15374
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,Monocarboxylate transporter 2,O60669
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,Phosphatidylserine decarboxylase proenzyme,Q9UG56
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,L-lactate dehydrogenase B chain,P07195
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,L-lactate dehydrogenase C chain,P07864
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,L-lactate dehydrogenase A chain,P00338
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,L-lactate dehydrogenase A-like 6B,Q9BYZ2
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,"Probable D-lactate dehydrogenase, mitochondrial",Q86WU2
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,Alanine aminotransferase 2,Q8TD30
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,Selenocysteine lyase,Q96I15
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,Monocarboxylate transporter 10,Q8TF71
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,Solute carrier organic anion transporter family member 2A1,Q92959
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,N-acetylneuraminate lyase,Q9BXD5
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,Acetolactate synthase-like protein,A1L0T0
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,Malic enzyme,Q8TBJ0
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,"Acylpyruvase FAHD1, mitochondrial",Q6P587
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,Kynurenine--oxoglutarate transaminase 3,Q6YP21
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,Serine dehydratase-like,Q96GA7
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,Serine racemase,Q9GZT4
+Pyruvic acid,C3H4O3,CC(=O)C(O)=O,LCTONWCANYUPML-UHFFFAOYSA-N,"Probable 4-hydroxy-2-oxoglutarate aldolase, mitochondrial",Q86XE5
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,"Succinate dehydrogenase cytochrome b560 subunit, mitochondrial",Q99643
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,"Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial",P31040
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,"Succinate dehydrogenase [ubiquinone] cytochrome b small subunit, mitochondrial",O14521
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,"Succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial",P21912
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,"Succinate-semialdehyde dehydrogenase, mitochondrial",P51649
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,"Phytanoyl-CoA dioxygenase, peroxisomal",O14832
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Prolyl 4-hydroxylase subunit alpha-2,O15460
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Prolyl 4-hydroxylase subunit alpha-1,P13674
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Gamma-butyrobetaine dioxygenase,O75936
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,"Procollagen-lysine,2-oxoglutarate 5-dioxygenase 1",Q02809
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,"Procollagen-lysine,2-oxoglutarate 5-dioxygenase 2",O00469
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,"Procollagen-lysine,2-oxoglutarate 5-dioxygenase 3",O60568
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,"Succinyl-CoA:3-ketoacid coenzyme A transferase 1, mitochondrial",P55809
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,"Succinyl-CoA:3-ketoacid coenzyme A transferase 2, mitochondrial",Q9BYC2
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,"Succinyl-CoA ligase [ADP/GDP-forming] subunit alpha, mitochondrial",P53597
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,"Succinyl-CoA ligase [GDP-forming] subunit beta, mitochondrial",Q96I99
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,"Succinyl-CoA ligase [ADP-forming] subunit beta, mitochondrial",Q9P2R7
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Aspartyl/asparaginyl beta-hydroxylase,Q12797
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Hypoxia-inducible factor 1-alpha inhibitor,Q9NWT6
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Mitochondrial dicarboxylate carrier,Q9UBX3
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Solute carrier family 13 member 3,Q8WWT9
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,17-beta-hydroxysteroid dehydrogenase type 6,O14756
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Solute carrier family 13 member 1,Q9BZW2
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Solute carrier family 13 member 2,Q13183
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,"Trimethyllysine dioxygenase, mitochondrial",Q9NVH6
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Alpha-ketoglutarate-dependent dioxygenase alkB homolog 2,Q6NS38
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Prolyl 3-hydroxylase 1,Q32P28
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Prolyl 3-hydroxylase 2,Q8IVL5
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Prolyl 3-hydroxylase 3,Q8IVL6
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Prolyl 4-hydroxylase subunit alpha-3,Q7Z4N8
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Lysine-specific demethylase 2A,Q9Y2K7
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Lysine-specific demethylase 2B,Q8NHM5
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Egl nine homolog 1,Q9GZT9
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Egl nine homolog 2,Q96KS0
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Egl nine homolog 3,Q9H6Z9
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Transmembrane prolyl 4-hydroxylase,Q9NXG6
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Alkylated DNA repair protein alkB homolog 1,Q13686
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Lysine-specific demethylase 8,Q8N371
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Bifunctional lysine-specific demethylase and histidyl-hydroxylase MINA,Q8IUF8
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Bifunctional lysine-specific demethylase and histidyl-hydroxylase NO66,Q9H6W3
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Histone lysine demethylase PHF8,Q9UPP1
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Methylcytosine dioxygenase TET1,Q8NFU7
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Methylcytosine dioxygenase TET2,Q6N021
+Succinic acid,C4H6O4,OC(=O)CCC(O)=O,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Methylcytosine dioxygenase TET3,O43151
+Serotonin,C10H12N2O,NCCC1=CNC2=C1C=C(O)C=C2,QZAYGJVTTNCVMB-UHFFFAOYSA-N,Serotonin N-acetyltransferase,Q16613
+Serotonin,C10H12N2O,NCCC1=CNC2=C1C=C(O)C=C2,QZAYGJVTTNCVMB-UHFFFAOYSA-N,Amine oxidase [flavin-containing] B,P27338
+Serotonin,C10H12N2O,NCCC1=CNC2=C1C=C(O)C=C2,QZAYGJVTTNCVMB-UHFFFAOYSA-N,Amine oxidase [flavin-containing] A,P21397
+Serotonin,C10H12N2O,NCCC1=CNC2=C1C=C(O)C=C2,QZAYGJVTTNCVMB-UHFFFAOYSA-N,Aromatic-L-amino-acid decarboxylase,P20711
+Serotonin,C10H12N2O,NCCC1=CNC2=C1C=C(O)C=C2,QZAYGJVTTNCVMB-UHFFFAOYSA-N,Aldo-keto reductase family 1 member C3,P42330
+Serotonin,C10H12N2O,NCCC1=CNC2=C1C=C(O)C=C2,QZAYGJVTTNCVMB-UHFFFAOYSA-N,Indolethylamine N-methyltransferase,O95050
+Serotonin,C10H12N2O,NCCC1=CNC2=C1C=C(O)C=C2,QZAYGJVTTNCVMB-UHFFFAOYSA-N,"Indoleamine 2,3-dioxygenase 1",P14902
+Serotonin,C10H12N2O,NCCC1=CNC2=C1C=C(O)C=C2,QZAYGJVTTNCVMB-UHFFFAOYSA-N,Protein arginine N-methyltransferase 3,O60678
+Serotonin,C10H12N2O,NCCC1=CNC2=C1C=C(O)C=C2,QZAYGJVTTNCVMB-UHFFFAOYSA-N,Sodium-dependent serotonin transporter,P31645
+Serotonin,C10H12N2O,NCCC1=CNC2=C1C=C(O)C=C2,QZAYGJVTTNCVMB-UHFFFAOYSA-N,5-hydroxytryptamine receptor 4,Q13639
+Serotonin,C10H12N2O,NCCC1=CNC2=C1C=C(O)C=C2,QZAYGJVTTNCVMB-UHFFFAOYSA-N,5-hydroxytryptamine receptor 7,P34969
+Serotonin,C10H12N2O,NCCC1=CNC2=C1C=C(O)C=C2,QZAYGJVTTNCVMB-UHFFFAOYSA-N,Transcription factor Sp1,P08047
+Serotonin,C10H12N2O,NCCC1=CNC2=C1C=C(O)C=C2,QZAYGJVTTNCVMB-UHFFFAOYSA-N,5-hydroxytryptamine receptor 2B,P41595
+Serotonin,C10H12N2O,NCCC1=CNC2=C1C=C(O)C=C2,QZAYGJVTTNCVMB-UHFFFAOYSA-N,5-hydroxytryptamine receptor 1B,P28222
+Serotonin,C10H12N2O,NCCC1=CNC2=C1C=C(O)C=C2,QZAYGJVTTNCVMB-UHFFFAOYSA-N,5-hydroxytryptamine receptor 1F,P30939
+Serotonin,C10H12N2O,NCCC1=CNC2=C1C=C(O)C=C2,QZAYGJVTTNCVMB-UHFFFAOYSA-N,5-hydroxytryptamine receptor 1A,P08908
+Serotonin,C10H12N2O,NCCC1=CNC2=C1C=C(O)C=C2,QZAYGJVTTNCVMB-UHFFFAOYSA-N,5-hydroxytryptamine receptor 2A,P28223
+Serotonin,C10H12N2O,NCCC1=CNC2=C1C=C(O)C=C2,QZAYGJVTTNCVMB-UHFFFAOYSA-N,5-hydroxytryptamine receptor 3A,P46098
+Serotonin,C10H12N2O,NCCC1=CNC2=C1C=C(O)C=C2,QZAYGJVTTNCVMB-UHFFFAOYSA-N,5-hydroxytryptamine receptor 1D,P28221
+Serotonin,C10H12N2O,NCCC1=CNC2=C1C=C(O)C=C2,QZAYGJVTTNCVMB-UHFFFAOYSA-N,"Indoleamine 2,3-dioxygenase 2",Q6ZQW0
+Serotonin,C10H12N2O,NCCC1=CNC2=C1C=C(O)C=C2,QZAYGJVTTNCVMB-UHFFFAOYSA-N,5-hydroxytryptamine receptor 3B,O95264
+Serotonin,C10H12N2O,NCCC1=CNC2=C1C=C(O)C=C2,QZAYGJVTTNCVMB-UHFFFAOYSA-N,5-hydroxytryptamine receptor 1E,P28566
+Serotonin,C10H12N2O,NCCC1=CNC2=C1C=C(O)C=C2,QZAYGJVTTNCVMB-UHFFFAOYSA-N,5-hydroxytryptamine receptor 5A,P47898
+Serotonin,C10H12N2O,NCCC1=CNC2=C1C=C(O)C=C2,QZAYGJVTTNCVMB-UHFFFAOYSA-N,HemK methyltransferase family member 1,Q9Y5R4
+Serotonin,C10H12N2O,NCCC1=CNC2=C1C=C(O)C=C2,QZAYGJVTTNCVMB-UHFFFAOYSA-N,Methyltransferase-like protein 2B,Q6P1Q9
+Serotonin,C10H12N2O,NCCC1=CNC2=C1C=C(O)C=C2,QZAYGJVTTNCVMB-UHFFFAOYSA-N,Methyltransferase-like protein 6,Q8TCB7
+Serotonin,C10H12N2O,NCCC1=CNC2=C1C=C(O)C=C2,QZAYGJVTTNCVMB-UHFFFAOYSA-N,Uncharacterized methyltransferase WBSCR22,O43709
+Tyramine,C8H11NO,NCCC1=CC=C(O)C=C1,DZGWFCGJZKJUFP-UHFFFAOYSA-N,Tyrosinase,P14679
+Tyramine,C8H11NO,NCCC1=CC=C(O)C=C1,DZGWFCGJZKJUFP-UHFFFAOYSA-N,Amine oxidase [flavin-containing] B,P27338
+Tyramine,C8H11NO,NCCC1=CC=C(O)C=C1,DZGWFCGJZKJUFP-UHFFFAOYSA-N,Amine oxidase [flavin-containing] A,P21397
+Tyramine,C8H11NO,NCCC1=CC=C(O)C=C1,DZGWFCGJZKJUFP-UHFFFAOYSA-N,Aromatic-L-amino-acid decarboxylase,P20711
+Tyramine,C8H11NO,NCCC1=CC=C(O)C=C1,DZGWFCGJZKJUFP-UHFFFAOYSA-N,Amiloride-sensitive amine oxidase [copper-containing],P19801
+Tyramine,C8H11NO,NCCC1=CC=C(O)C=C1,DZGWFCGJZKJUFP-UHFFFAOYSA-N,Membrane primary amine oxidase,Q16853
+Tyramine,C8H11NO,NCCC1=CC=C(O)C=C1,DZGWFCGJZKJUFP-UHFFFAOYSA-N,Retina-specific copper amine oxidase,O75106
+Tyramine,C8H11NO,NCCC1=CC=C(O)C=C1,DZGWFCGJZKJUFP-UHFFFAOYSA-N,Alpha-2A adrenergic receptor,P08913
+Tyramine,C8H11NO,NCCC1=CC=C(O)C=C1,DZGWFCGJZKJUFP-UHFFFAOYSA-N,Alpha-2B adrenergic receptor,P18089
+Tyramine,C8H11NO,NCCC1=CC=C(O)C=C1,DZGWFCGJZKJUFP-UHFFFAOYSA-N,Trace amine-associated receptor 1,Q96RJ0
+3-(3-Hydroxyphenyl)propanoic acid,C9H10O3,OC(=O)CCC1=CC(O)=CC=C1,QVWAEZJXDYOKEH-UHFFFAOYSA-N,UDP-glucuronosyltransferase 1-1,P22309
+3-(3-Hydroxyphenyl)propanoic acid,C9H10O3,OC(=O)CCC1=CC(O)=CC=C1,QVWAEZJXDYOKEH-UHFFFAOYSA-N,Sulfotransferase 1A3,P0DMM9
+"3,4-Dihydroxyhydrocinnamic acid",C9H10O4,OC(=O)CCC1=CC(O)=C(O)C=C1,DZAUWHJDUNRCTF-UHFFFAOYSA-N,Catechol O-methyltransferase,P21964
+"3,4-Dihydroxyhydrocinnamic acid",C9H10O4,OC(=O)CCC1=CC(O)=C(O)C=C1,DZAUWHJDUNRCTF-UHFFFAOYSA-N,UDP-glucuronosyltransferase 1-1,P22309
+"3,4-Dihydroxyhydrocinnamic acid",C9H10O4,OC(=O)CCC1=CC(O)=C(O)C=C1,DZAUWHJDUNRCTF-UHFFFAOYSA-N,Sulfotransferase 1A3,P0DMM9
+3-Hydroxyphenylacetic acid,C8H8O3,OC(=O)CC1=CC(O)=CC=C1,FVMDYYGIDFPZAX-UHFFFAOYSA-N,UDP-glucuronosyltransferase 1-1,P22309
+3-Hydroxyphenylacetic acid,C8H8O3,OC(=O)CC1=CC(O)=CC=C1,FVMDYYGIDFPZAX-UHFFFAOYSA-N,Sulfotransferase 1A3,P0DMM9
+Allantoin,C4H6N4O3,NC(=O)NC1NC(=O)NC1=O,POJWUDADGALRAB-UHFFFAOYSA-N,Putative 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase,A6NGE7
+3-Methylindole,C9H9N,CC1=CNC2=C1C=CC=C2,ZFRKQXVRDFCRJG-UHFFFAOYSA-N,Cytochrome P450 2F1,P24903
+Vanillic acid,C8H8O4,COC1=C(O)C=CC(=C1)C(O)=O,WKOLLVMJNQIZCI-UHFFFAOYSA-N,UDP-glucuronosyltransferase 1-1,P22309
+Vanillic acid,C8H8O4,COC1=C(O)C=CC(=C1)C(O)=O,WKOLLVMJNQIZCI-UHFFFAOYSA-N,Glycine N-acyltransferase,Q6IB77
+Vanillic acid,C8H8O4,COC1=C(O)C=CC(=C1)C(O)=O,WKOLLVMJNQIZCI-UHFFFAOYSA-N,Sulfotransferase 1A3,P0DMM9
+4-Hydroxybenzoic acid,C7H6O3,OC(=O)C1=CC=C(O)C=C1,FJKROLUGYXJWQN-UHFFFAOYSA-N,UDP-glucuronosyltransferase 1-1,P22309
+4-Hydroxybenzoic acid,C7H6O3,OC(=O)C1=CC=C(O)C=C1,FJKROLUGYXJWQN-UHFFFAOYSA-N,"4-hydroxybenzoate polyprenyltransferase, mitochondrial",Q96H96
+4-Hydroxybenzoic acid,C7H6O3,OC(=O)C1=CC=C(O)C=C1,FJKROLUGYXJWQN-UHFFFAOYSA-N,Glycine N-acyltransferase,Q6IB77
+4-Hydroxybenzoic acid,C7H6O3,OC(=O)C1=CC=C(O)C=C1,FJKROLUGYXJWQN-UHFFFAOYSA-N,Sulfotransferase 1A3,P0DMM9
+L-Arabinose,C5H10O5,O[C@H]1CO[C@H](O)[C@H](O)[C@H]1O,SRBFZHDQGSBBOR-KLVWXMOXSA-N,Aldose reductase,P15121
+L-Arabinose,C5H10O5,O[C@H]1CO[C@H](O)[C@H](O)[C@H]1O,SRBFZHDQGSBBOR-KLVWXMOXSA-N,Aldo-keto reductase family 1 member B10,O60218
+Glutaric acid,C5H8O4,OC(=O)CCCC(O)=O,JFCQEDHGNNZCLN-UHFFFAOYSA-N,Solute carrier family 22 member 11,Q9NSA0
+Glutaric acid,C5H8O4,OC(=O)CCCC(O)=O,JFCQEDHGNNZCLN-UHFFFAOYSA-N,Solute carrier family 22 member 6,Q4U2R8
+Glutaric acid,C5H8O4,OC(=O)CCCC(O)=O,JFCQEDHGNNZCLN-UHFFFAOYSA-N,Solute carrier family 22 member 7,Q9Y694
+Hydroxypropionic acid,C3H6O3,OCCC(O)=O,ALRHLSYJTWAHJZ-UHFFFAOYSA-N,"3-hydroxyisobutyryl-CoA hydrolase, mitochondrial",Q6NVY1
+4-Hydroxyphenylpyruvic acid,C9H8O4,OC(=O)C(=O)CC1=CC=C(O)C=C1,KKADPXVIOXHVKN-UHFFFAOYSA-N,Macrophage migration inhibitory factor,P14174
+4-Hydroxyphenylpyruvic acid,C9H8O4,OC(=O)C(=O)CC1=CC=C(O)C=C1,KKADPXVIOXHVKN-UHFFFAOYSA-N,Tyrosine aminotransferase,P17735
+4-Hydroxyphenylpyruvic acid,C9H8O4,OC(=O)C(=O)CC1=CC=C(O)C=C1,KKADPXVIOXHVKN-UHFFFAOYSA-N,"Aspartate aminotransferase, cytoplasmic",P17174
+4-Hydroxyphenylpyruvic acid,C9H8O4,OC(=O)C(=O)CC1=CC=C(O)C=C1,KKADPXVIOXHVKN-UHFFFAOYSA-N,"Aspartate aminotransferase, mitochondrial",P00505
+4-Hydroxyphenylpyruvic acid,C9H8O4,OC(=O)C(=O)CC1=CC=C(O)C=C1,KKADPXVIOXHVKN-UHFFFAOYSA-N,UDP-glucuronosyltransferase 1-1,P22309
+4-Hydroxyphenylpyruvic acid,C9H8O4,OC(=O)C(=O)CC1=CC=C(O)C=C1,KKADPXVIOXHVKN-UHFFFAOYSA-N,4-hydroxyphenylpyruvate dioxygenase,P32754
+4-Hydroxyphenylpyruvic acid,C9H8O4,OC(=O)C(=O)CC1=CC=C(O)C=C1,KKADPXVIOXHVKN-UHFFFAOYSA-N,L-amino-acid oxidase,Q96RQ9
+4-Hydroxyphenylpyruvic acid,C9H8O4,OC(=O)C(=O)CC1=CC=C(O)C=C1,KKADPXVIOXHVKN-UHFFFAOYSA-N,Sulfotransferase 1A3,P0DMM9
+4-Hydroxybutyric acid,C4H8O3,OCCCC(O)=O,SJZRECIVHVDYJC-UHFFFAOYSA-N,Sulfotransferase family cytosolic 2B member 1,O00204
+4-Hydroxybutyric acid,C4H8O3,OCCCC(O)=O,SJZRECIVHVDYJC-UHFFFAOYSA-N,UDP-glucuronosyltransferase 1-1,P22309
+4-Hydroxybutyric acid,C4H8O3,OCCCC(O)=O,SJZRECIVHVDYJC-UHFFFAOYSA-N,Monocarboxylate transporter 4,O15427
+4-Hydroxybutyric acid,C4H8O3,OCCCC(O)=O,SJZRECIVHVDYJC-UHFFFAOYSA-N,Monocarboxylate transporter 1,P53985
+4-Hydroxybutyric acid,C4H8O3,OCCCC(O)=O,SJZRECIVHVDYJC-UHFFFAOYSA-N,Monocarboxylate transporter 2,O60669
+4-Hydroxybutyric acid,C4H8O3,OCCCC(O)=O,SJZRECIVHVDYJC-UHFFFAOYSA-N,Aflatoxin B1 aldehyde reductase member 2,O43488
+4-Hydroxybutyric acid,C4H8O3,OCCCC(O)=O,SJZRECIVHVDYJC-UHFFFAOYSA-N,"Hydroxyacid-oxoacid transhydrogenase, mitochondrial",Q8IWW8
+4-Hydroxybutyric acid,C4H8O3,OCCCC(O)=O,SJZRECIVHVDYJC-UHFFFAOYSA-N,Gamma-aminobutyric acid receptor subunit beta-1,P18505
+Hippuric acid,C9H9NO3,OC(=O)CNC(=O)C1=CC=CC=C1,QIAFMBKCNZACKA-UHFFFAOYSA-N,Glycine N-acyltransferase,Q6IB77
+Hippuric acid,C9H9NO3,OC(=O)CNC(=O)C1=CC=CC=C1,QIAFMBKCNZACKA-UHFFFAOYSA-N,Glycine N-acyltransferase-like protein 1,Q969I3
+Hippuric acid,C9H9NO3,OC(=O)CNC(=O)C1=CC=CC=C1,QIAFMBKCNZACKA-UHFFFAOYSA-N,Glycine N-acyltransferase-like protein 2,Q8WU03
+Hippuric acid,C9H9NO3,OC(=O)CNC(=O)C1=CC=CC=C1,QIAFMBKCNZACKA-UHFFFAOYSA-N,Glycine N-acyltransferase-like protein 3,Q5SZD4
+Hydroxyphenyllactic acid,C9H10O4,OC(CC1=CC=C(O)C=C1)C(O)=O,JVGVDSSUAVXRDY-UHFFFAOYSA-N,Sulfotransferase family cytosolic 2B member 1,O00204
+Hydroxyphenyllactic acid,C9H10O4,OC(CC1=CC=C(O)C=C1)C(O)=O,JVGVDSSUAVXRDY-UHFFFAOYSA-N,UDP-glucuronosyltransferase 1-1,P22309
+Hydroxyphenyllactic acid,C9H10O4,OC(CC1=CC=C(O)C=C1)C(O)=O,JVGVDSSUAVXRDY-UHFFFAOYSA-N,Sulfotransferase 1A3,P0DMM9
+5-Hydroxyindoleacetic acid,C10H9NO3,OC(=O)CC1=CNC2=C1C=C(O)C=C2,DUUGKQCEGZLZNO-UHFFFAOYSA-N,Acetylserotonin O-methyltransferase,P46597
+5-Hydroxyindoleacetic acid,C10H9NO3,OC(=O)CC1=CNC2=C1C=C(O)C=C2,DUUGKQCEGZLZNO-UHFFFAOYSA-N,Aldehyde oxidase,Q06278
+5-Hydroxyindoleacetic acid,C10H9NO3,OC(=O)CC1=CNC2=C1C=C(O)C=C2,DUUGKQCEGZLZNO-UHFFFAOYSA-N,4-trimethylaminobutyraldehyde dehydrogenase,P49189
+5-Hydroxyindoleacetic acid,C10H9NO3,OC(=O)CC1=CNC2=C1C=C(O)C=C2,DUUGKQCEGZLZNO-UHFFFAOYSA-N,Alpha-aminoadipic semialdehyde dehydrogenase,P49419
+5-Hydroxyindoleacetic acid,C10H9NO3,OC(=O)CC1=CNC2=C1C=C(O)C=C2,DUUGKQCEGZLZNO-UHFFFAOYSA-N,Aldehyde dehydrogenase family 1 member A3,P47895
+5-Hydroxyindoleacetic acid,C10H9NO3,OC(=O)CC1=CNC2=C1C=C(O)C=C2,DUUGKQCEGZLZNO-UHFFFAOYSA-N,"Aldehyde dehydrogenase, mitochondrial",P05091
+5-Hydroxyindoleacetic acid,C10H9NO3,OC(=O)CC1=CNC2=C1C=C(O)C=C2,DUUGKQCEGZLZNO-UHFFFAOYSA-N,Fatty aldehyde dehydrogenase,P51648
+5-Hydroxyindoleacetic acid,C10H9NO3,OC(=O)CC1=CNC2=C1C=C(O)C=C2,DUUGKQCEGZLZNO-UHFFFAOYSA-N,"Aldehyde dehydrogenase X, mitochondrial",P30837
+Hydrocinnamic acid,C9H10O2,OC(=O)CCC1=CC=CC=C1,XMIIGOLPHOKFCH-UHFFFAOYSA-N,UDP-glucuronosyltransferase 1-1,P22309
+Mannitol,C6H14O6,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,FBPFZTCFMRRESA-KVTDHHQDSA-N,Multidrug resistance protein 1,P08183
+Phenyllactic acid,C9H10O3,OC(CC1=CC=CC=C1)C(O)=O,VOXXWSYKYCBWHO-UHFFFAOYSA-N,Sulfotransferase family cytosolic 2B member 1,O00204
+Phenyllactic acid,C9H10O3,OC(CC1=CC=CC=C1)C(O)=O,VOXXWSYKYCBWHO-UHFFFAOYSA-N,UDP-glucuronosyltransferase 1-1,P22309
+Propyl alcohol,C3H8O,CCCO,BDERNNFJNOPAEC-UHFFFAOYSA-N,Serum paraoxonase/lactonase 3,Q15166
+Propyl alcohol,C3H8O,CCCO,BDERNNFJNOPAEC-UHFFFAOYSA-N,Serum paraoxonase/arylesterase 1,P27169
+Propyl alcohol,C3H8O,CCCO,BDERNNFJNOPAEC-UHFFFAOYSA-N,Serum paraoxonase/arylesterase 2,Q15165
+Propyl alcohol,C3H8O,CCCO,BDERNNFJNOPAEC-UHFFFAOYSA-N,Intestinal-type alkaline phosphatase,P09923
+Propyl alcohol,C3H8O,CCCO,BDERNNFJNOPAEC-UHFFFAOYSA-N,Lysosomal acid phosphatase,P11117
+Propyl alcohol,C3H8O,CCCO,BDERNNFJNOPAEC-UHFFFAOYSA-N,"Alkaline phosphatase, tissue-nonspecific isozyme",P05186
+Propyl alcohol,C3H8O,CCCO,BDERNNFJNOPAEC-UHFFFAOYSA-N,Tartrate-resistant acid phosphatase type 5,P13686
+Propyl alcohol,C3H8O,CCCO,BDERNNFJNOPAEC-UHFFFAOYSA-N,"Alkaline phosphatase, placental-like",P10696
+Propyl alcohol,C3H8O,CCCO,BDERNNFJNOPAEC-UHFFFAOYSA-N,"Aldehyde dehydrogenase X, mitochondrial",P30837
+Propyl alcohol,C3H8O,CCCO,BDERNNFJNOPAEC-UHFFFAOYSA-N,Sulfotransferase family cytosolic 2B member 1,O00204
+Propyl alcohol,C3H8O,CCCO,BDERNNFJNOPAEC-UHFFFAOYSA-N,Sorbitol dehydrogenase,Q00796
+Propyl alcohol,C3H8O,CCCO,BDERNNFJNOPAEC-UHFFFAOYSA-N,Alcohol dehydrogenase [NADP(+)],P14550
+Propyl alcohol,C3H8O,CCCO,BDERNNFJNOPAEC-UHFFFAOYSA-N,Alcohol dehydrogenase 4,P08319
+Propyl alcohol,C3H8O,CCCO,BDERNNFJNOPAEC-UHFFFAOYSA-N,Alcohol dehydrogenase 1B,P00325
+Propyl alcohol,C3H8O,CCCO,BDERNNFJNOPAEC-UHFFFAOYSA-N,Alcohol dehydrogenase 1A,P07327
+Propyl alcohol,C3H8O,CCCO,BDERNNFJNOPAEC-UHFFFAOYSA-N,Alcohol dehydrogenase 6,P28332
+Propyl alcohol,C3H8O,CCCO,BDERNNFJNOPAEC-UHFFFAOYSA-N,Beta-glucuronidase,P08236
+Propyl alcohol,C3H8O,CCCO,BDERNNFJNOPAEC-UHFFFAOYSA-N,Plasma alpha-L-fucosidase,Q9BTY2
+Propyl alcohol,C3H8O,CCCO,BDERNNFJNOPAEC-UHFFFAOYSA-N,"Trans-2-enoyl-CoA reductase, mitochondrial",Q9BV79
+Propyl alcohol,C3H8O,CCCO,BDERNNFJNOPAEC-UHFFFAOYSA-N,Lysozyme C,P61626
+Propyl alcohol,C3H8O,CCCO,BDERNNFJNOPAEC-UHFFFAOYSA-N,Lecithin retinol acyltransferase,O95237
+Propyl alcohol,C3H8O,CCCO,BDERNNFJNOPAEC-UHFFFAOYSA-N,Nuclear receptor subfamily 1 group I member 3,Q14994
+Propyl alcohol,C3H8O,CCCO,BDERNNFJNOPAEC-UHFFFAOYSA-N,Zinc-binding alcohol dehydrogenase domain-containing protein 2,Q8N4Q0
+Propyl alcohol,C3H8O,CCCO,BDERNNFJNOPAEC-UHFFFAOYSA-N,"Hydroxyacid-oxoacid transhydrogenase, mitochondrial",Q8IWW8
+Propyl alcohol,C3H8O,CCCO,BDERNNFJNOPAEC-UHFFFAOYSA-N,Fatty acyl-CoA reductase 2,Q96K12
+Propyl alcohol,C3H8O,CCCO,BDERNNFJNOPAEC-UHFFFAOYSA-N,Acyl-CoA wax alcohol acyltransferase 2,Q6E213
+Propyl alcohol,C3H8O,CCCO,BDERNNFJNOPAEC-UHFFFAOYSA-N,Klotho,Q9UEF7
+Propyl alcohol,C3H8O,CCCO,BDERNNFJNOPAEC-UHFFFAOYSA-N,Testicular acid phosphatase,Q9BZG2
+Propyl alcohol,C3H8O,CCCO,BDERNNFJNOPAEC-UHFFFAOYSA-N,Carboxylesterase 5A,Q6NT32
+Propyl alcohol,C3H8O,CCCO,BDERNNFJNOPAEC-UHFFFAOYSA-N,Acid phosphatase-like protein 2,Q8TE99
+Propyl alcohol,C3H8O,CCCO,BDERNNFJNOPAEC-UHFFFAOYSA-N,Synaptic vesicle membrane protein VAT-1 homolog-like,Q9HCJ6
+Propyl alcohol,C3H8O,CCCO,BDERNNFJNOPAEC-UHFFFAOYSA-N,Quinone oxidoreductase PIG3,Q53FA7
+Propyl alcohol,C3H8O,CCCO,BDERNNFJNOPAEC-UHFFFAOYSA-N,Synaptic vesicle membrane protein VAT-1 homolog,Q99536
+Propyl alcohol,C3H8O,CCCO,BDERNNFJNOPAEC-UHFFFAOYSA-N,"Reticulon-4-interacting protein 1, mitochondrial",Q8WWV3
+Isopropyl alcohol,C3H8O,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,"Phospholipase A2, membrane associated",P14555
+Isopropyl alcohol,C3H8O,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Serum paraoxonase/lactonase 3,Q15166
+Isopropyl alcohol,C3H8O,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Serum paraoxonase/arylesterase 1,P27169
+Isopropyl alcohol,C3H8O,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Serum paraoxonase/arylesterase 2,Q15165
+Isopropyl alcohol,C3H8O,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Intestinal-type alkaline phosphatase,P09923
+Isopropyl alcohol,C3H8O,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Lysosomal acid phosphatase,P11117
+Isopropyl alcohol,C3H8O,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,"Alkaline phosphatase, tissue-nonspecific isozyme",P05186
+Isopropyl alcohol,C3H8O,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Tartrate-resistant acid phosphatase type 5,P13686
+Isopropyl alcohol,C3H8O,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,"Alkaline phosphatase, placental-like",P10696
+Isopropyl alcohol,C3H8O,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Peroxiredoxin-6,P30041
+Isopropyl alcohol,C3H8O,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,"Aldehyde dehydrogenase X, mitochondrial",P30837
+Isopropyl alcohol,C3H8O,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,L-xylulose reductase,Q7Z4W1
+Isopropyl alcohol,C3H8O,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Sulfotransferase family cytosolic 2B member 1,O00204
+Isopropyl alcohol,C3H8O,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Ribonuclease pancreatic,P07998
+Isopropyl alcohol,C3H8O,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Sorbitol dehydrogenase,Q00796
+Isopropyl alcohol,C3H8O,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Alcohol dehydrogenase [NADP(+)],P14550
+Isopropyl alcohol,C3H8O,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Alcohol dehydrogenase 4,P08319
+Isopropyl alcohol,C3H8O,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Adenosylhomocysteinase,P23526
+Isopropyl alcohol,C3H8O,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Alcohol dehydrogenase 1B,P00325
+Isopropyl alcohol,C3H8O,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Alcohol dehydrogenase 1A,P07327
+Isopropyl alcohol,C3H8O,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Alcohol dehydrogenase 6,P28332
+Isopropyl alcohol,C3H8O,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Beta-glucuronidase,P08236
+Isopropyl alcohol,C3H8O,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Plasma alpha-L-fucosidase,Q9BTY2
+Isopropyl alcohol,C3H8O,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,GTP cyclohydrolase 1,P30793
+Isopropyl alcohol,C3H8O,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,"Trans-2-enoyl-CoA reductase, mitochondrial",Q9BV79
+Isopropyl alcohol,C3H8O,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Chitotriosidase-1,Q13231
+Isopropyl alcohol,C3H8O,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,mRNA-capping enzyme,O60942
+Isopropyl alcohol,C3H8O,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Ganglioside GM2 activator,P17900
+Isopropyl alcohol,C3H8O,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Lecithin retinol acyltransferase,O95237
+Isopropyl alcohol,C3H8O,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Tumor necrosis factor,P01375
+Isopropyl alcohol,C3H8O,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Nuclear receptor subfamily 1 group I member 3,Q14994
+Isopropyl alcohol,C3H8O,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Zinc-binding alcohol dehydrogenase domain-containing protein 2,Q8N4Q0
+Isopropyl alcohol,C3H8O,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,"Hydroxyacid-oxoacid transhydrogenase, mitochondrial",Q8IWW8
+Isopropyl alcohol,C3H8O,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Fatty acyl-CoA reductase 2,Q96K12
+Isopropyl alcohol,C3H8O,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Acyl-CoA wax alcohol acyltransferase 2,Q6E213
+Isopropyl alcohol,C3H8O,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Klotho,Q9UEF7
+Isopropyl alcohol,C3H8O,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Trypsin-2,P07478
+Isopropyl alcohol,C3H8O,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Testicular acid phosphatase,Q9BZG2
+Isopropyl alcohol,C3H8O,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Carboxylesterase 5A,Q6NT32
+Isopropyl alcohol,C3H8O,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Spliceosome RNA helicase DDX39B,Q13838
+Isopropyl alcohol,C3H8O,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,"1,2-dihydroxy-3-keto-5-methylthiopentene dioxygenase",Q9BV57
+Isopropyl alcohol,C3H8O,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Acid phosphatase-like protein 2,Q8TE99
+Isopropyl alcohol,C3H8O,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Synaptic vesicle membrane protein VAT-1 homolog-like,Q9HCJ6
+Isopropyl alcohol,C3H8O,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Quinone oxidoreductase PIG3,Q53FA7
+Isopropyl alcohol,C3H8O,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,Synaptic vesicle membrane protein VAT-1 homolog,Q99536
+Isopropyl alcohol,C3H8O,CC(C)O,KFZMGEQAYNKOFK-UHFFFAOYSA-N,"Reticulon-4-interacting protein 1, mitochondrial",Q8WWV3
+Histamine,C5H9N3,NCCC1=CNC=N1,NTYJJOPFIAHURM-UHFFFAOYSA-N,Aromatic-L-amino-acid decarboxylase,P20711
+Histamine,C5H9N3,NCCC1=CNC=N1,NTYJJOPFIAHURM-UHFFFAOYSA-N,Amiloride-sensitive amine oxidase [copper-containing],P19801
+Histamine,C5H9N3,NCCC1=CNC=N1,NTYJJOPFIAHURM-UHFFFAOYSA-N,Retina-specific copper amine oxidase,O75106
+Histamine,C5H9N3,NCCC1=CNC=N1,NTYJJOPFIAHURM-UHFFFAOYSA-N,Histamine N-methyltransferase,P50135
+Histamine,C5H9N3,NCCC1=CNC=N1,NTYJJOPFIAHURM-UHFFFAOYSA-N,Histidine decarboxylase,P19113
+Histamine,C5H9N3,NCCC1=CNC=N1,NTYJJOPFIAHURM-UHFFFAOYSA-N,Histamine H2 receptor,P25021
+Histamine,C5H9N3,NCCC1=CNC=N1,NTYJJOPFIAHURM-UHFFFAOYSA-N,Synaptic vesicular amine transporter,Q05940
+Histamine,C5H9N3,NCCC1=CNC=N1,NTYJJOPFIAHURM-UHFFFAOYSA-N,Histamine H3 receptor,Q9Y5N1
+Histamine,C5H9N3,NCCC1=CNC=N1,NTYJJOPFIAHURM-UHFFFAOYSA-N,Histamine H1 receptor,P35367
+Histamine,C5H9N3,NCCC1=CNC=N1,NTYJJOPFIAHURM-UHFFFAOYSA-N,Histamine H4 receptor,Q9H3N8
+Histamine,C5H9N3,NCCC1=CNC=N1,NTYJJOPFIAHURM-UHFFFAOYSA-N,Zinc finger protein 219,Q9P2Y4
+Acetylcholine,C7H16NO2,CC(=O)OCC[N+](C)(C)C,OIPILFWXSMYKGL-UHFFFAOYSA-N,Choline O-acetyltransferase,P28329
+Acetylcholine,C7H16NO2,CC(=O)OCC[N+](C)(C)C,OIPILFWXSMYKGL-UHFFFAOYSA-N,Acetylcholinesterase,P22303
+Acetylcholine,C7H16NO2,CC(=O)OCC[N+](C)(C)C,OIPILFWXSMYKGL-UHFFFAOYSA-N,Cholinesterase,P06276
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,Dimethylaniline monooxygenase [N-oxide-forming] 5,P49326
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,Dimethylaniline monooxygenase [N-oxide-forming] 2,Q99518
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,Dimethylaniline monooxygenase [N-oxide-forming] 4,P31512
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,Dimethylaniline monooxygenase [N-oxide-forming] 3,P31513
+Trimethylamine,C3H9N,CN(C)C,GETQZCLCWQTVFV-UHFFFAOYSA-N,Dimethylaniline monooxygenase [N-oxide-forming] 1,Q01740
+Trimethylamine N-oxide,C3H9NO,C[N+](C)(C)[O-],UYPYRKYUKCHHIB-UHFFFAOYSA-N,Dimethylaniline monooxygenase [N-oxide-forming] 5,P49326
+Trimethylamine N-oxide,C3H9NO,C[N+](C)(C)[O-],UYPYRKYUKCHHIB-UHFFFAOYSA-N,Dimethylaniline monooxygenase [N-oxide-forming] 2,Q99518
+Trimethylamine N-oxide,C3H9NO,C[N+](C)(C)[O-],UYPYRKYUKCHHIB-UHFFFAOYSA-N,Dimethylaniline monooxygenase [N-oxide-forming] 4,P31512
+Trimethylamine N-oxide,C3H9NO,C[N+](C)(C)[O-],UYPYRKYUKCHHIB-UHFFFAOYSA-N,Dimethylaniline monooxygenase [N-oxide-forming] 3,P31513
+Trimethylamine N-oxide,C3H9NO,C[N+](C)(C)[O-],UYPYRKYUKCHHIB-UHFFFAOYSA-N,Dimethylaniline monooxygenase [N-oxide-forming] 1,Q01740
+trans-Cinnamic acid,C9H8O2,OC(=O)\C=C\C1=CC=CC=C1,WBYWAXJHAXSJNI-VOTSOKGWSA-N,UDP-glucuronosyltransferase 1-1,P22309
+Ferulic acid,C10H10O4,COC1=C(O)C=CC(\C=C\C(O)=O)=C1,KSEBMYQBYZTDHS-HWKANZROSA-N,UDP-glucuronosyltransferase 1-1,P22309
+Ferulic acid,C10H10O4,COC1=C(O)C=CC(\C=C\C(O)=O)=C1,KSEBMYQBYZTDHS-HWKANZROSA-N,Sulfotransferase 1A3,P0DMM9
+Tartaric acid,C4H6O6,O[C@H]([C@@H](O)C(O)=O)C(O)=O,FEWJPZIEWOKRBE-JCYAYHJZSA-N,Tartrate-resistant acid phosphatase type 5,P13686
+Tartaric acid,C4H6O6,O[C@H]([C@@H](O)C(O)=O)C(O)=O,FEWJPZIEWOKRBE-JCYAYHJZSA-N,Prostatic acid phosphatase,P15309
+Tartaric acid,C4H6O6,O[C@H]([C@@H](O)C(O)=O)C(O)=O,FEWJPZIEWOKRBE-JCYAYHJZSA-N,Lysophosphatidic acid phosphatase type 6,Q9NPH0
+Tartaric acid,C4H6O6,O[C@H]([C@@H](O)C(O)=O)C(O)=O,FEWJPZIEWOKRBE-JCYAYHJZSA-N,Testicular acid phosphatase,Q9BZG2
+Tartaric acid,C4H6O6,O[C@H]([C@@H](O)C(O)=O)C(O)=O,FEWJPZIEWOKRBE-JCYAYHJZSA-N,Putative uncharacterized protein ACP1,B5MCC7
+Pyrocatechol,C6H6O2,OC1=CC=CC=C1O,YCIMNLLNPGFGHC-UHFFFAOYSA-N,Aldo-keto reductase family 1 member C4,P17516
+Pyrocatechol,C6H6O2,OC1=CC=CC=C1O,YCIMNLLNPGFGHC-UHFFFAOYSA-N,Catechol O-methyltransferase,P21964
+Pyrocatechol,C6H6O2,OC1=CC=CC=C1O,YCIMNLLNPGFGHC-UHFFFAOYSA-N,Sulfotransferase 1A3/1A4,P50224
+Pyrocatechol,C6H6O2,OC1=CC=CC=C1O,YCIMNLLNPGFGHC-UHFFFAOYSA-N,Aldo-keto reductase family 1 member C3,P42330
+Pyrocatechol,C6H6O2,OC1=CC=CC=C1O,YCIMNLLNPGFGHC-UHFFFAOYSA-N,Aldo-keto reductase family 1 member C1,Q04828
+Pyrocatechol,C6H6O2,OC1=CC=CC=C1O,YCIMNLLNPGFGHC-UHFFFAOYSA-N,Aldo-keto reductase family 1 member C2,P52895
+Pyrocatechol,C6H6O2,OC1=CC=CC=C1O,YCIMNLLNPGFGHC-UHFFFAOYSA-N,UDP-glucuronosyltransferase 1-1,P22309
+Pyrocatechol,C6H6O2,OC1=CC=CC=C1O,YCIMNLLNPGFGHC-UHFFFAOYSA-N,"Trans-1,2-dihydrobenzene-1,2-diol dehydrogenase",Q9UQ10
+Pyrocatechol,C6H6O2,OC1=CC=CC=C1O,YCIMNLLNPGFGHC-UHFFFAOYSA-N,Transmembrane O-methyltransferase,Q8WZ04
+Trehalose,C12H22O11,OC[C@H]1O[C@H](O[C@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)[C@H](O)[C@@H](O)[C@@H]1O,HDTRYLNUVZCQOY-LIZSDCNHSA-N,Trehalase,O43280
+Acetaldehyde,C2H4O,CC=O,IKHGUXGNUITLKF-UHFFFAOYSA-N,4-trimethylaminobutyraldehyde dehydrogenase,P49189
+Acetaldehyde,C2H4O,CC=O,IKHGUXGNUITLKF-UHFFFAOYSA-N,"Aldehyde dehydrogenase, dimeric NADP-preferring",P30838
+Acetaldehyde,C2H4O,CC=O,IKHGUXGNUITLKF-UHFFFAOYSA-N,Alpha-aminoadipic semialdehyde dehydrogenase,P49419
+Acetaldehyde,C2H4O,CC=O,IKHGUXGNUITLKF-UHFFFAOYSA-N,Aldehyde dehydrogenase family 1 member A3,P47895
+Acetaldehyde,C2H4O,CC=O,IKHGUXGNUITLKF-UHFFFAOYSA-N,"Aldehyde dehydrogenase, mitochondrial",P05091
+Acetaldehyde,C2H4O,CC=O,IKHGUXGNUITLKF-UHFFFAOYSA-N,Fatty aldehyde dehydrogenase,P51648
+Acetaldehyde,C2H4O,CC=O,IKHGUXGNUITLKF-UHFFFAOYSA-N,"Aldehyde dehydrogenase X, mitochondrial",P30837
+Acetaldehyde,C2H4O,CC=O,IKHGUXGNUITLKF-UHFFFAOYSA-N,6-pyruvoyl tetrahydrobiopterin synthase,Q03393
+Acetaldehyde,C2H4O,CC=O,IKHGUXGNUITLKF-UHFFFAOYSA-N,Alcohol dehydrogenase [NADP(+)],P14550
+Acetaldehyde,C2H4O,CC=O,IKHGUXGNUITLKF-UHFFFAOYSA-N,Alcohol dehydrogenase 4,P08319
+Acetaldehyde,C2H4O,CC=O,IKHGUXGNUITLKF-UHFFFAOYSA-N,Aldehyde dehydrogenase family 3 member B2,P48448
+Acetaldehyde,C2H4O,CC=O,IKHGUXGNUITLKF-UHFFFAOYSA-N,Aldehyde dehydrogenase family 3 member B1,P43353
+Acetaldehyde,C2H4O,CC=O,IKHGUXGNUITLKF-UHFFFAOYSA-N,Alcohol dehydrogenase class-3,P11766
+Acetaldehyde,C2H4O,CC=O,IKHGUXGNUITLKF-UHFFFAOYSA-N,Alcohol dehydrogenase 1B,P00325
+Acetaldehyde,C2H4O,CC=O,IKHGUXGNUITLKF-UHFFFAOYSA-N,Alcohol dehydrogenase class 4 mu/sigma chain,P40394
+Acetaldehyde,C2H4O,CC=O,IKHGUXGNUITLKF-UHFFFAOYSA-N,Alcohol dehydrogenase 1A,P07327
+Acetaldehyde,C2H4O,CC=O,IKHGUXGNUITLKF-UHFFFAOYSA-N,Alcohol dehydrogenase 6,P28332
+Acetaldehyde,C2H4O,CC=O,IKHGUXGNUITLKF-UHFFFAOYSA-N,Alcohol dehydrogenase 1C,P00326
+Acetaldehyde,C2H4O,CC=O,IKHGUXGNUITLKF-UHFFFAOYSA-N,Putative deoxyribose-phosphate aldolase,Q9Y315
+Acetaldehyde,C2H4O,CC=O,IKHGUXGNUITLKF-UHFFFAOYSA-N,Ethanolamine-phosphate phospho-lyase,Q8TBG4
+N-Acetylmannosamine,C8H15NO6,CC(=O)N[C@@H]1[C@H](O)O[C@H](CO)[C@@H](O)[C@@H]1O,OVRNDRQMDRJTHS-OZRXBMAMSA-N,Bifunctional UDP-N-acetylglucosamine 2-epimerase/N-acetylmannosamine kinase,Q9Y223
+N-Acetylmannosamine,C8H15NO6,CC(=O)N[C@@H]1[C@H](O)O[C@H](CO)[C@@H](O)[C@@H]1O,OVRNDRQMDRJTHS-OZRXBMAMSA-N,Sialic acid synthase,Q9NR45
+N-Acetylmannosamine,C8H15NO6,CC(=O)N[C@@H]1[C@H](O)O[C@H](CO)[C@@H](O)[C@@H]1O,OVRNDRQMDRJTHS-OZRXBMAMSA-N,N-acylglucosamine 2-epimerase,P51606
+N-Acetylmannosamine,C8H15NO6,CC(=O)N[C@@H]1[C@H](O)O[C@H](CO)[C@@H](O)[C@@H]1O,OVRNDRQMDRJTHS-OZRXBMAMSA-N,N-acetylneuraminate lyase,Q9BXD5
+N-Acetylmannosamine,C8H15NO6,CC(=O)N[C@@H]1[C@H](O)O[C@H](CO)[C@@H](O)[C@@H]1O,OVRNDRQMDRJTHS-OZRXBMAMSA-N,14 kDa phosphohistidine phosphatase,Q9NRX4
+N-Acetylmannosamine,C8H15NO6,CC(=O)N[C@@H]1[C@H](O)O[C@H](CO)[C@@H](O)[C@@H]1O,OVRNDRQMDRJTHS-OZRXBMAMSA-N,Myotubularin-related protein 1,Q13613
+N-Acetylmannosamine,C8H15NO6,CC(=O)N[C@@H]1[C@H](O)O[C@H](CO)[C@@H](O)[C@@H]1O,OVRNDRQMDRJTHS-OZRXBMAMSA-N,Myotubularin-related protein 2,Q13614
+N-Acetylmannosamine,C8H15NO6,CC(=O)N[C@@H]1[C@H](O)O[C@H](CO)[C@@H](O)[C@@H]1O,OVRNDRQMDRJTHS-OZRXBMAMSA-N,Myotubularin-related protein 6,Q9Y217
+N-Acetylmannosamine,C8H15NO6,CC(=O)N[C@@H]1[C@H](O)O[C@H](CO)[C@@H](O)[C@@H]1O,OVRNDRQMDRJTHS-OZRXBMAMSA-N,Myotubularin-related protein 7,Q9Y216
+L-Sorbose,C6H12O6,OC[C@@]1(O)OC[C@H](O)[C@@H](O)[C@@H]1O,LKDRXBCSQODPBY-BGPJRJDNSA-N,Sorbitol dehydrogenase,Q00796
+D-Alanine,C3H7NO2,C[C@@H](N)C(O)=O,QNAYBMKLOCPYGJ-UWTATZPHSA-N,D-amino-acid oxidase,P14920
+D-Lactic acid,C3H6O3,C[C@@H](O)C(O)=O,JVTAAEKCZFNVCJ-UWTATZPHSA-N,"Hydroxyacylglutathione hydrolase, mitochondrial",Q16775
+D-Lactic acid,C3H6O3,C[C@@H](O)C(O)=O,JVTAAEKCZFNVCJ-UWTATZPHSA-N,Monocarboxylate transporter 4,O15427
+D-Lactic acid,C3H6O3,C[C@@H](O)C(O)=O,JVTAAEKCZFNVCJ-UWTATZPHSA-N,Monocarboxylate transporter 1,P53985
+D-Lactic acid,C3H6O3,C[C@@H](O)C(O)=O,JVTAAEKCZFNVCJ-UWTATZPHSA-N,Monocarboxylate transporter 2,O60669
+D-Lactic acid,C3H6O3,C[C@@H](O)C(O)=O,JVTAAEKCZFNVCJ-UWTATZPHSA-N,"Probable D-lactate dehydrogenase, mitochondrial",Q86WU2
+D-Lactic acid,C3H6O3,C[C@@H](O)C(O)=O,JVTAAEKCZFNVCJ-UWTATZPHSA-N,Hydroxyacylglutathione hydrolase-like protein,Q6PII5
+"3,4-Dihydroxybenzeneacetic acid",C8H8O4,OC(=O)CC1=CC(O)=C(O)C=C1,CFFZDZCDUFSOFZ-UHFFFAOYSA-N,Catechol O-methyltransferase,P21964
+"3,4-Dihydroxybenzeneacetic acid",C8H8O4,OC(=O)CC1=CC(O)=C(O)C=C1,CFFZDZCDUFSOFZ-UHFFFAOYSA-N,"Aldehyde dehydrogenase, dimeric NADP-preferring",P30838
+"3,4-Dihydroxybenzeneacetic acid",C8H8O4,OC(=O)CC1=CC(O)=C(O)C=C1,CFFZDZCDUFSOFZ-UHFFFAOYSA-N,Aldehyde dehydrogenase family 1 member A3,P47895
+"3,4-Dihydroxybenzeneacetic acid",C8H8O4,OC(=O)CC1=CC(O)=C(O)C=C1,CFFZDZCDUFSOFZ-UHFFFAOYSA-N,UDP-glucuronosyltransferase 1-1,P22309
+"3,4-Dihydroxybenzeneacetic acid",C8H8O4,OC(=O)CC1=CC(O)=C(O)C=C1,CFFZDZCDUFSOFZ-UHFFFAOYSA-N,Aldehyde dehydrogenase family 3 member B2,P48448
+"3,4-Dihydroxybenzeneacetic acid",C8H8O4,OC(=O)CC1=CC(O)=C(O)C=C1,CFFZDZCDUFSOFZ-UHFFFAOYSA-N,Aldehyde dehydrogenase family 3 member B1,P43353
+"3,4-Dihydroxybenzeneacetic acid",C8H8O4,OC(=O)CC1=CC(O)=C(O)C=C1,CFFZDZCDUFSOFZ-UHFFFAOYSA-N,Sulfotransferase 1A3,P0DMM9
+Hydrogen,H2,[H][H],UFHFLCQGNIYNRP-UHFFFAOYSA-N,Voltage-gated hydrogen channel 1,Q96D96
+Putrescine,C4H12N2,NCCCCN,KIDHWZJUCRJVML-UHFFFAOYSA-N,Diamine acetyltransferase 2,Q96F10
+Putrescine,C4H12N2,NCCCCN,KIDHWZJUCRJVML-UHFFFAOYSA-N,Diamine acetyltransferase 1,P21673
+Putrescine,C4H12N2,NCCCCN,KIDHWZJUCRJVML-UHFFFAOYSA-N,Peroxisomal N(1)-acetyl-spermine/spermidine oxidase,Q6QHF9
+Putrescine,C4H12N2,NCCCCN,KIDHWZJUCRJVML-UHFFFAOYSA-N,"Choline dehydrogenase, mitochondrial",Q8NE62
+Putrescine,C4H12N2,NCCCCN,KIDHWZJUCRJVML-UHFFFAOYSA-N,"Dimethylglycine dehydrogenase, mitochondrial",Q9UI17
+Putrescine,C4H12N2,NCCCCN,KIDHWZJUCRJVML-UHFFFAOYSA-N,Spermine synthase,P52788
+Putrescine,C4H12N2,NCCCCN,KIDHWZJUCRJVML-UHFFFAOYSA-N,Spermidine synthase,P19623
+Putrescine,C4H12N2,NCCCCN,KIDHWZJUCRJVML-UHFFFAOYSA-N,4-trimethylaminobutyraldehyde dehydrogenase,P49189
+Putrescine,C4H12N2,NCCCCN,KIDHWZJUCRJVML-UHFFFAOYSA-N,Gamma-butyrobetaine dioxygenase,O75936
+Putrescine,C4H12N2,NCCCCN,KIDHWZJUCRJVML-UHFFFAOYSA-N,Amiloride-sensitive amine oxidase [copper-containing],P19801
+Putrescine,C4H12N2,NCCCCN,KIDHWZJUCRJVML-UHFFFAOYSA-N,S-methyl-5'-thioadenosine phosphorylase,Q13126
+Putrescine,C4H12N2,NCCCCN,KIDHWZJUCRJVML-UHFFFAOYSA-N,S-adenosylmethionine decarboxylase proenzyme,P17707
+Putrescine,C4H12N2,NCCCCN,KIDHWZJUCRJVML-UHFFFAOYSA-N,"Glycine amidinotransferase, mitochondrial",P50440
+Putrescine,C4H12N2,NCCCCN,KIDHWZJUCRJVML-UHFFFAOYSA-N,Betaine--homocysteine S-methyltransferase 1,Q93088
+Putrescine,C4H12N2,NCCCCN,KIDHWZJUCRJVML-UHFFFAOYSA-N,"Sarcosine dehydrogenase, mitochondrial",Q9UL12
+Putrescine,C4H12N2,NCCCCN,KIDHWZJUCRJVML-UHFFFAOYSA-N,Histidine decarboxylase,P19113
+Putrescine,C4H12N2,NCCCCN,KIDHWZJUCRJVML-UHFFFAOYSA-N,Ornithine decarboxylase,P11926
+Putrescine,C4H12N2,NCCCCN,KIDHWZJUCRJVML-UHFFFAOYSA-N,Solute carrier family 22 member 4,Q9H015
+Putrescine,C4H12N2,NCCCCN,KIDHWZJUCRJVML-UHFFFAOYSA-N,Spermine oxidase,Q9NWM0
+Putrescine,C4H12N2,NCCCCN,KIDHWZJUCRJVML-UHFFFAOYSA-N,"Agmatinase, mitochondrial",Q9BSE5
+Putrescine,C4H12N2,NCCCCN,KIDHWZJUCRJVML-UHFFFAOYSA-N,"Trimethyllysine dioxygenase, mitochondrial",Q9NVH6
+Putrescine,C4H12N2,NCCCCN,KIDHWZJUCRJVML-UHFFFAOYSA-N,S-methylmethionine--homocysteine S-methyltransferase BHMT2,Q9H2M3
+Putrescine,C4H12N2,NCCCCN,KIDHWZJUCRJVML-UHFFFAOYSA-N,"Pyruvate dehydrogenase phosphatase regulatory subunit, mitochondrial",Q8NCN5
+Putrescine,C4H12N2,NCCCCN,KIDHWZJUCRJVML-UHFFFAOYSA-N,Ornithine decarboxylase antizyme 1,P54368
+Putrescine,C4H12N2,NCCCCN,KIDHWZJUCRJVML-UHFFFAOYSA-N,Polyamine-modulated factor 1,Q6P1K2
+Protocatechuic acid,C7H6O4,OC(=O)C1=CC(O)=C(O)C=C1,YQUVCSBJEUQKSH-UHFFFAOYSA-N,Catechol O-methyltransferase,P21964
+Protocatechuic acid,C7H6O4,OC(=O)C1=CC(O)=C(O)C=C1,YQUVCSBJEUQKSH-UHFFFAOYSA-N,UDP-glucuronosyltransferase 1-1,P22309
+Protocatechuic acid,C7H6O4,OC(=O)C1=CC(O)=C(O)C=C1,YQUVCSBJEUQKSH-UHFFFAOYSA-N,Glycine N-acyltransferase,Q6IB77
+Protocatechuic acid,C7H6O4,OC(=O)C1=CC(O)=C(O)C=C1,YQUVCSBJEUQKSH-UHFFFAOYSA-N,Sulfotransferase 1A3,P0DMM9
+Benzoic acid,C7H6O2,OC(=O)C1=CC=CC=C1,WPYMKLBDIGXBTP-UHFFFAOYSA-N,Lysosomal acid lipase/cholesteryl ester hydrolase,P38571
+Benzoic acid,C7H6O2,OC(=O)C1=CC=CC=C1,WPYMKLBDIGXBTP-UHFFFAOYSA-N,UDP-glucuronosyltransferase 1-1,P22309
+Benzoic acid,C7H6O2,OC(=O)C1=CC=CC=C1,WPYMKLBDIGXBTP-UHFFFAOYSA-N,Liver carboxylesterase 1,P23141
+Benzoic acid,C7H6O2,OC(=O)C1=CC=CC=C1,WPYMKLBDIGXBTP-UHFFFAOYSA-N,Cocaine esterase,O00748
+Benzoic acid,C7H6O2,OC(=O)C1=CC=CC=C1,WPYMKLBDIGXBTP-UHFFFAOYSA-N,Acylphosphatase-2,P14621
+Benzoic acid,C7H6O2,OC(=O)C1=CC=CC=C1,WPYMKLBDIGXBTP-UHFFFAOYSA-N,Acylphosphatase-1,P07311
+Benzoic acid,C7H6O2,OC(=O)C1=CC=CC=C1,WPYMKLBDIGXBTP-UHFFFAOYSA-N,Glycine N-acyltransferase,Q6IB77
+Benzoic acid,C7H6O2,OC(=O)C1=CC=CC=C1,WPYMKLBDIGXBTP-UHFFFAOYSA-N,Carboxylesterase 5A,Q6NT32
+Caffeic acid,C9H8O4,OC(=O)\C=C\C1=CC(O)=C(O)C=C1,QAIPRVGONGVQAS-DUXPYHPUSA-N,Arachidonate 5-lipoxygenase,P09917
+N-Acetylputrescine,C6H14N2O,CC(=O)NCCCCN,KLZGKIDSEJWEDW-UHFFFAOYSA-N,Diamine acetyltransferase 2,Q96F10
+N-Acetylputrescine,C6H14N2O,CC(=O)NCCCCN,KLZGKIDSEJWEDW-UHFFFAOYSA-N,Diamine acetyltransferase 1,P21673
+N-Acetylputrescine,C6H14N2O,CC(=O)NCCCCN,KLZGKIDSEJWEDW-UHFFFAOYSA-N,Amine oxidase [flavin-containing] B,P27338
+N-Acetylputrescine,C6H14N2O,CC(=O)NCCCCN,KLZGKIDSEJWEDW-UHFFFAOYSA-N,Amine oxidase [flavin-containing] A,P21397
+Syringic acid,C9H10O5,COC1=CC(=CC(OC)=C1O)C(O)=O,JMSVCTWVEWCHDZ-UHFFFAOYSA-N,UDP-glucuronosyltransferase 1-1,P22309
+Syringic acid,C9H10O5,COC1=CC(=CC(OC)=C1O)C(O)=O,JMSVCTWVEWCHDZ-UHFFFAOYSA-N,Glycine N-acyltransferase,Q6IB77
+Syringic acid,C9H10O5,COC1=CC(=CC(OC)=C1O)C(O)=O,JMSVCTWVEWCHDZ-UHFFFAOYSA-N,Sulfotransferase 1A3,P0DMM9
+Itaconic acid,C5H6O4,OC(=O)CC(=C)C(O)=O,LVHBHZANLOWSRM-UHFFFAOYSA-N,"Succinyl-CoA ligase [ADP/GDP-forming] subunit alpha, mitochondrial",P53597
+Itaconic acid,C5H6O4,OC(=O)CC(=C)C(O)=O,LVHBHZANLOWSRM-UHFFFAOYSA-N,"Succinyl-CoA ligase [GDP-forming] subunit beta, mitochondrial",Q96I99
+Itaconic acid,C5H6O4,OC(=O)CC(=C)C(O)=O,LVHBHZANLOWSRM-UHFFFAOYSA-N,"Succinyl-CoA ligase [ADP-forming] subunit beta, mitochondrial",Q9P2R7
+3-Indolebutyric acid,C12H13NO2,OC(=O)CCCC1=CNC2=C1C=CC=C2,JTEDVYBZBROSJT-UHFFFAOYSA-N,Beta-2-microglobulin precursor [Contains: Beta-2-microglobulin variant pI 5.3],P61769
+Desaminotyrosine,C9H10O3,OC(=O)CCC1=CC=C(O)C=C1,NMHMNPHRMNGLLB-UHFFFAOYSA-N,UDP-glucuronosyltransferase 1-1,P22309
+Desaminotyrosine,C9H10O3,OC(=O)CCC1=CC=C(O)C=C1,NMHMNPHRMNGLLB-UHFFFAOYSA-N,Sulfotransferase 1A3,P0DMM9
+Benzoyl-CoA,C28H40N7O17P3S,CC(C)(COP(O)(=O)OP(O)(=O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1OP(O)(O)=O)N1C=NC2=C1N=CN=C2N)[C@@H](O)C(=O)NCCC(=O)NCCSC(=O)C1=CC=CC=C1,VEVJTUNLALKRNO-TYHXJLICSA-N,"3-ketoacyl-CoA thiolase, peroxisomal",P09110
+Benzoyl-CoA,C28H40N7O17P3S,CC(C)(COP(O)(=O)OP(O)(=O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1OP(O)(O)=O)N1C=NC2=C1N=CN=C2N)[C@@H](O)C(=O)NCCC(=O)NCCSC(=O)C1=CC=CC=C1,VEVJTUNLALKRNO-TYHXJLICSA-N,"Trifunctional enzyme subunit beta, mitochondrial",P55084
+Benzoyl-CoA,C28H40N7O17P3S,CC(C)(COP(O)(=O)OP(O)(=O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1OP(O)(O)=O)N1C=NC2=C1N=CN=C2N)[C@@H](O)C(=O)NCCC(=O)NCCSC(=O)C1=CC=CC=C1,VEVJTUNLALKRNO-TYHXJLICSA-N,Glycine N-acyltransferase,Q6IB77
+Dimethylsulfide,C2H6S,CSC,QMMFVYPAHWMCMS-UHFFFAOYSA-N,Indolethylamine N-methyltransferase,O95050
+Cadaverine,C5H14N2,NCCCCCN,VHRGRCVQAFMJIZ-UHFFFAOYSA-N,Spermidine synthase,P19623
+Cadaverine,C5H14N2,NCCCCCN,VHRGRCVQAFMJIZ-UHFFFAOYSA-N,Membrane primary amine oxidase,Q16853
+Cadaverine,C5H14N2,NCCCCCN,VHRGRCVQAFMJIZ-UHFFFAOYSA-N,Retina-specific copper amine oxidase,O75106
+3-Hydroxybenzoic acid,C7H6O3,OC(=O)C1=CC(O)=CC=C1,IJFXRHURBJZNAO-UHFFFAOYSA-N,UDP-glucuronosyltransferase 1-1,P22309
+3-Hydroxybenzoic acid,C7H6O3,OC(=O)C1=CC(O)=CC=C1,IJFXRHURBJZNAO-UHFFFAOYSA-N,Glycine N-acyltransferase,Q6IB77
+3-Hydroxybenzoic acid,C7H6O3,OC(=O)C1=CC(O)=CC=C1,IJFXRHURBJZNAO-UHFFFAOYSA-N,Sulfotransferase 1A3,P0DMM9
+3-(3-Hydroxyphenyl)-3-hydroxypropanoic acid,C9H10O4,OC(CC(O)=O)C1=CC(O)=CC=C1,KHTAGVZHYUZYMF-UHFFFAOYSA-N,Sulfotransferase family cytosolic 2B member 1,O00204
+3-(3-Hydroxyphenyl)-3-hydroxypropanoic acid,C9H10O4,OC(CC(O)=O)C1=CC(O)=CC=C1,KHTAGVZHYUZYMF-UHFFFAOYSA-N,UDP-glucuronosyltransferase 1-1,P22309
+3-(3-Hydroxyphenyl)-3-hydroxypropanoic acid,C9H10O4,OC(CC(O)=O)C1=CC(O)=CC=C1,KHTAGVZHYUZYMF-UHFFFAOYSA-N,Sulfotransferase 1A3,P0DMM9
+"2,3-Butanediol",C4H10O2,CC(O)C(C)O,OWBTYPJTUOEWEK-UHFFFAOYSA-N,Vitamin K epoxide reductase complex subunit 1,Q9BQB6
+Hydrogen sulfide,H2S,S,RWSOTUBLDIXVET-UHFFFAOYSA-N,Cystathionine gamma-lyase,P32929
+Hydrogen sulfide,H2S,S,RWSOTUBLDIXVET-UHFFFAOYSA-N,Cystathionine beta-synthase,P35520
+Hydrogen sulfide,H2S,S,RWSOTUBLDIXVET-UHFFFAOYSA-N,Cytochrome P450 3A4,P08684
+Hydrogen sulfide,H2S,S,RWSOTUBLDIXVET-UHFFFAOYSA-N,Cytochrome P450 2C9,P11712
+Hydrogen sulfide,H2S,S,RWSOTUBLDIXVET-UHFFFAOYSA-N,Cytochrome P450 2C19,P33261
+Hydrogen sulfide,H2S,S,RWSOTUBLDIXVET-UHFFFAOYSA-N,Cytochrome P450 2E1,P05181
+Hydrogen sulfide,H2S,S,RWSOTUBLDIXVET-UHFFFAOYSA-N,Cytochrome P450 3A43,Q9HB55
+Hydrogen sulfide,H2S,S,RWSOTUBLDIXVET-UHFFFAOYSA-N,Cytochrome P450 1B1,Q16678
+Hydrogen sulfide,H2S,S,RWSOTUBLDIXVET-UHFFFAOYSA-N,Cytochrome P450 2C18,P33260
+Hydrogen sulfide,H2S,S,RWSOTUBLDIXVET-UHFFFAOYSA-N,Cytochrome P450 2F1,P24903
+Hydrogen sulfide,H2S,S,RWSOTUBLDIXVET-UHFFFAOYSA-N,Cytochrome P450 4X1,Q8N118
+Hydrogen sulfide,H2S,S,RWSOTUBLDIXVET-UHFFFAOYSA-N,Cytochrome P450 2B6,P20813
+Hydrogen sulfide,H2S,S,RWSOTUBLDIXVET-UHFFFAOYSA-N,Cytochrome P450 3A5,P20815
+Hydrogen sulfide,H2S,S,RWSOTUBLDIXVET-UHFFFAOYSA-N,Cytochrome P450 2A13,Q16696
+Hydrogen sulfide,H2S,S,RWSOTUBLDIXVET-UHFFFAOYSA-N,Cytochrome P450 3A7,P24462
+Hydrogen sulfide,H2S,S,RWSOTUBLDIXVET-UHFFFAOYSA-N,Cytochrome P450 4B1,P13584
+Hydrogen sulfide,H2S,S,RWSOTUBLDIXVET-UHFFFAOYSA-N,Cytochrome P450 4Z1,Q86W10
+Hydrogen sulfide,H2S,S,RWSOTUBLDIXVET-UHFFFAOYSA-N,Cytochrome P450 1A2,P05177
+Hydrogen sulfide,H2S,S,RWSOTUBLDIXVET-UHFFFAOYSA-N,Cytochrome P450 19A1,P11511
+Hydrogen sulfide,H2S,S,RWSOTUBLDIXVET-UHFFFAOYSA-N,Cytochrome P450 2C8,P10632
+Hydrogen sulfide,H2S,S,RWSOTUBLDIXVET-UHFFFAOYSA-N,Cytochrome P450 2S1,Q96SQ9
+Hydrogen sulfide,H2S,S,RWSOTUBLDIXVET-UHFFFAOYSA-N,Cytochrome P450 2J2,P51589
+Hydrogen sulfide,H2S,S,RWSOTUBLDIXVET-UHFFFAOYSA-N,Cytochrome P450 2A7,P20853
+Hydrogen sulfide,H2S,S,RWSOTUBLDIXVET-UHFFFAOYSA-N,Cytochrome P450 2A6,P11509
+Hydrogen sulfide,H2S,S,RWSOTUBLDIXVET-UHFFFAOYSA-N,"Lipoyl synthase, mitochondrial",O43766
+Hydrogen sulfide,H2S,S,RWSOTUBLDIXVET-UHFFFAOYSA-N,"Cytochrome P450, family 1, subfamily A, polypeptide 1",A0N0X8
+Hydrogen sulfide,H2S,S,RWSOTUBLDIXVET-UHFFFAOYSA-N,Cytochrome P450 2D6,Q6NWU0
+Phloretin,C15H14O5,OC1=CC=C(CCC(=O)C2=C(O)C=C(O)C=C2O)C=C1,VGEREEWJJVICBM-UHFFFAOYSA-N,UDP-glucuronosyltransferase 1-1,P22309
+Phloretin,C15H14O5,OC1=CC=C(CCC(=O)C2=C(O)C=C(O)C=C2O)C=C1,VGEREEWJJVICBM-UHFFFAOYSA-N,Sulfotransferase 1A3,P0DMM9
+D-Glutamic acid,C5H9NO4,N[C@H](CCC(O)=O)C(O)=O,WHUUTDBJXJRKMK-GSVOUGTGSA-N,"Glutaminase liver isoform, mitochondrial",Q9UI32
+D-Glutamic acid,C5H9NO4,N[C@H](CCC(O)=O)C(O)=O,WHUUTDBJXJRKMK-GSVOUGTGSA-N,"Glutaminase kidney isoform, mitochondrial",O94925
+Etiocholanedione,C19H28O2,[H][C@@]12CCC(=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC[C@]2([H])CC(=O)CC[C@]12C,RAJWOBJTTGJROA-QJISAEMRSA-N,Aldo-keto reductase family 1 member C4,P17516
+Etiocholanedione,C19H28O2,[H][C@@]12CCC(=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC[C@]2([H])CC(=O)CC[C@]12C,RAJWOBJTTGJROA-QJISAEMRSA-N,3-oxo-5-beta-steroid 4-dehydrogenase,P51857
+5-Amino-6-(5'-phosphoribitylamino)uracil,C9H17N4O9P,NC1=C(NC[C@H](O)[C@H](O)[C@H](O)COP(O)(O)=O)NC(=O)NC1=O,RQRINYISXYAZKL-RPDRRWSUSA-N,14 kDa phosphohistidine phosphatase,Q9NRX4
+Galactan,(C12H20O11)nC2H6,CO[C@@H]1O[C@H](CO)[C@H](O[C@@H]2O[C@H](CO)[C@H](OC)[C@H](O)[C@H]2O)[C@H](O)[C@H]1O,PTHCMJGKKRQCBF-ICIGWGHZSA-N,Lactase-phlorizin hydrolase,P09848
+Galactan,(C12H20O11)nC2H6,CO[C@@H]1O[C@H](CO)[C@H](O[C@@H]2O[C@H](CO)[C@H](OC)[C@H](O)[C@H]2O)[C@H](O)[C@H]1O,PTHCMJGKKRQCBF-ICIGWGHZSA-N,Beta-galactosidase,P16278
+Tyrosol,C8H10O2,OCCC1=CC=C(O)C=C1,YCCILVSKPBXVIP-UHFFFAOYSA-N,Sulfotransferase 1A3,P0DMM9
+1-Butanol,C4H10O,CCCCO,LRHPLDYGYMQRHN-UHFFFAOYSA-N,Serum paraoxonase/lactonase 3,Q15166
+1-Butanol,C4H10O,CCCCO,LRHPLDYGYMQRHN-UHFFFAOYSA-N,Serum paraoxonase/arylesterase 1,P27169
+1-Butanol,C4H10O,CCCCO,LRHPLDYGYMQRHN-UHFFFAOYSA-N,Serum paraoxonase/arylesterase 2,Q15165
+1-Butanol,C4H10O,CCCCO,LRHPLDYGYMQRHN-UHFFFAOYSA-N,Intestinal-type alkaline phosphatase,P09923
+1-Butanol,C4H10O,CCCCO,LRHPLDYGYMQRHN-UHFFFAOYSA-N,Lysosomal acid phosphatase,P11117
+1-Butanol,C4H10O,CCCCO,LRHPLDYGYMQRHN-UHFFFAOYSA-N,"Alkaline phosphatase, tissue-nonspecific isozyme",P05186
+1-Butanol,C4H10O,CCCCO,LRHPLDYGYMQRHN-UHFFFAOYSA-N,Tartrate-resistant acid phosphatase type 5,P13686
+1-Butanol,C4H10O,CCCCO,LRHPLDYGYMQRHN-UHFFFAOYSA-N,"Alkaline phosphatase, placental-like",P10696
+1-Butanol,C4H10O,CCCCO,LRHPLDYGYMQRHN-UHFFFAOYSA-N,"Aldehyde dehydrogenase X, mitochondrial",P30837
+1-Butanol,C4H10O,CCCCO,LRHPLDYGYMQRHN-UHFFFAOYSA-N,Sulfotransferase family cytosolic 2B member 1,O00204
+1-Butanol,C4H10O,CCCCO,LRHPLDYGYMQRHN-UHFFFAOYSA-N,Sorbitol dehydrogenase,Q00796
+1-Butanol,C4H10O,CCCCO,LRHPLDYGYMQRHN-UHFFFAOYSA-N,Alcohol dehydrogenase [NADP(+)],P14550
+1-Butanol,C4H10O,CCCCO,LRHPLDYGYMQRHN-UHFFFAOYSA-N,Alcohol dehydrogenase 4,P08319
+1-Butanol,C4H10O,CCCCO,LRHPLDYGYMQRHN-UHFFFAOYSA-N,Alcohol dehydrogenase 1B,P00325
+1-Butanol,C4H10O,CCCCO,LRHPLDYGYMQRHN-UHFFFAOYSA-N,Alcohol dehydrogenase 1A,P07327
+1-Butanol,C4H10O,CCCCO,LRHPLDYGYMQRHN-UHFFFAOYSA-N,Alcohol dehydrogenase 6,P28332
+1-Butanol,C4H10O,CCCCO,LRHPLDYGYMQRHN-UHFFFAOYSA-N,Beta-glucuronidase,P08236
+1-Butanol,C4H10O,CCCCO,LRHPLDYGYMQRHN-UHFFFAOYSA-N,Plasma alpha-L-fucosidase,Q9BTY2
+1-Butanol,C4H10O,CCCCO,LRHPLDYGYMQRHN-UHFFFAOYSA-N,"Trans-2-enoyl-CoA reductase, mitochondrial",Q9BV79
+1-Butanol,C4H10O,CCCCO,LRHPLDYGYMQRHN-UHFFFAOYSA-N,Lecithin retinol acyltransferase,O95237
+1-Butanol,C4H10O,CCCCO,LRHPLDYGYMQRHN-UHFFFAOYSA-N,Nuclear receptor subfamily 1 group I member 3,Q14994
+1-Butanol,C4H10O,CCCCO,LRHPLDYGYMQRHN-UHFFFAOYSA-N,Zinc-binding alcohol dehydrogenase domain-containing protein 2,Q8N4Q0
+1-Butanol,C4H10O,CCCCO,LRHPLDYGYMQRHN-UHFFFAOYSA-N,Retinol dehydrogenase 13,Q8NBN7
+1-Butanol,C4H10O,CCCCO,LRHPLDYGYMQRHN-UHFFFAOYSA-N,"Hydroxyacid-oxoacid transhydrogenase, mitochondrial",Q8IWW8
+1-Butanol,C4H10O,CCCCO,LRHPLDYGYMQRHN-UHFFFAOYSA-N,Fatty acyl-CoA reductase 2,Q96K12
+1-Butanol,C4H10O,CCCCO,LRHPLDYGYMQRHN-UHFFFAOYSA-N,Acyl-CoA wax alcohol acyltransferase 2,Q6E213
+1-Butanol,C4H10O,CCCCO,LRHPLDYGYMQRHN-UHFFFAOYSA-N,Klotho,Q9UEF7
+1-Butanol,C4H10O,CCCCO,LRHPLDYGYMQRHN-UHFFFAOYSA-N,Testicular acid phosphatase,Q9BZG2
+1-Butanol,C4H10O,CCCCO,LRHPLDYGYMQRHN-UHFFFAOYSA-N,Carboxylesterase 5A,Q6NT32
+1-Butanol,C4H10O,CCCCO,LRHPLDYGYMQRHN-UHFFFAOYSA-N,Acid phosphatase-like protein 2,Q8TE99
+1-Butanol,C4H10O,CCCCO,LRHPLDYGYMQRHN-UHFFFAOYSA-N,Synaptic vesicle membrane protein VAT-1 homolog-like,Q9HCJ6
+1-Butanol,C4H10O,CCCCO,LRHPLDYGYMQRHN-UHFFFAOYSA-N,Quinone oxidoreductase PIG3,Q53FA7
+1-Butanol,C4H10O,CCCCO,LRHPLDYGYMQRHN-UHFFFAOYSA-N,Synaptic vesicle membrane protein VAT-1 homolog,Q99536
+1-Butanol,C4H10O,CCCCO,LRHPLDYGYMQRHN-UHFFFAOYSA-N,"Reticulon-4-interacting protein 1, mitochondrial",Q8WWV3
+Isobutanol,C4H10O,CC(C)CO,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,Serum paraoxonase/lactonase 3,Q15166
+Isobutanol,C4H10O,CC(C)CO,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,Serum paraoxonase/arylesterase 1,P27169
+Isobutanol,C4H10O,CC(C)CO,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,Serum paraoxonase/arylesterase 2,Q15165
+Isobutanol,C4H10O,CC(C)CO,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,Intestinal-type alkaline phosphatase,P09923
+Isobutanol,C4H10O,CC(C)CO,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,Lysosomal acid phosphatase,P11117
+Isobutanol,C4H10O,CC(C)CO,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,"Alkaline phosphatase, tissue-nonspecific isozyme",P05186
+Isobutanol,C4H10O,CC(C)CO,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,Tartrate-resistant acid phosphatase type 5,P13686
+Isobutanol,C4H10O,CC(C)CO,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,"Alkaline phosphatase, placental-like",P10696
+Isobutanol,C4H10O,CC(C)CO,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,"Aldehyde dehydrogenase X, mitochondrial",P30837
+Isobutanol,C4H10O,CC(C)CO,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,Sulfotransferase family cytosolic 2B member 1,O00204
+Isobutanol,C4H10O,CC(C)CO,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,Sorbitol dehydrogenase,Q00796
+Isobutanol,C4H10O,CC(C)CO,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,Alcohol dehydrogenase [NADP(+)],P14550
+Isobutanol,C4H10O,CC(C)CO,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,Alcohol dehydrogenase 4,P08319
+Isobutanol,C4H10O,CC(C)CO,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,Alcohol dehydrogenase 1B,P00325
+Isobutanol,C4H10O,CC(C)CO,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,Alcohol dehydrogenase 1A,P07327
+Isobutanol,C4H10O,CC(C)CO,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,Alcohol dehydrogenase 6,P28332
+Isobutanol,C4H10O,CC(C)CO,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,Beta-glucuronidase,P08236
+Isobutanol,C4H10O,CC(C)CO,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,Plasma alpha-L-fucosidase,Q9BTY2
+Isobutanol,C4H10O,CC(C)CO,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,"Trans-2-enoyl-CoA reductase, mitochondrial",Q9BV79
+Isobutanol,C4H10O,CC(C)CO,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,Lecithin retinol acyltransferase,O95237
+Isobutanol,C4H10O,CC(C)CO,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,Nuclear receptor subfamily 1 group I member 3,Q14994
+Isobutanol,C4H10O,CC(C)CO,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,Zinc-binding alcohol dehydrogenase domain-containing protein 2,Q8N4Q0
+Isobutanol,C4H10O,CC(C)CO,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,"Hydroxyacid-oxoacid transhydrogenase, mitochondrial",Q8IWW8
+Isobutanol,C4H10O,CC(C)CO,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,Fatty acyl-CoA reductase 2,Q96K12
+Isobutanol,C4H10O,CC(C)CO,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,Acyl-CoA wax alcohol acyltransferase 2,Q6E213
+Isobutanol,C4H10O,CC(C)CO,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,Klotho,Q9UEF7
+Isobutanol,C4H10O,CC(C)CO,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,Testicular acid phosphatase,Q9BZG2
+Isobutanol,C4H10O,CC(C)CO,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,Carboxylesterase 5A,Q6NT32
+Isobutanol,C4H10O,CC(C)CO,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,Acid phosphatase-like protein 2,Q8TE99
+Isobutanol,C4H10O,CC(C)CO,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,Synaptic vesicle membrane protein VAT-1 homolog-like,Q9HCJ6
+Isobutanol,C4H10O,CC(C)CO,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,Quinone oxidoreductase PIG3,Q53FA7
+Isobutanol,C4H10O,CC(C)CO,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,Synaptic vesicle membrane protein VAT-1 homolog,Q99536
+Isobutanol,C4H10O,CC(C)CO,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,"Reticulon-4-interacting protein 1, mitochondrial",Q8WWV3
+Isopentanol,C5H12O,CC(C)CCO,PHTQWCKDNZKARW-UHFFFAOYSA-N,Renin,P00797
+3-Hydroxyhippuric acid,C9H9NO4,OC(=O)CNC(=O)C1=CC=CC(O)=C1,XDOFWFNMYJRHEW-UHFFFAOYSA-N,Glycine N-acyltransferase,Q6IB77
+3-Hydroxyhippuric acid,C9H9NO4,OC(=O)CNC(=O)C1=CC=CC(O)=C1,XDOFWFNMYJRHEW-UHFFFAOYSA-N,Glycine N-acyltransferase-like protein 1,Q969I3
+3-Hydroxyhippuric acid,C9H9NO4,OC(=O)CNC(=O)C1=CC=CC(O)=C1,XDOFWFNMYJRHEW-UHFFFAOYSA-N,Glycine N-acyltransferase-like protein 2,Q8WU03
+3-Hydroxyhippuric acid,C9H9NO4,OC(=O)CNC(=O)C1=CC=CC(O)=C1,XDOFWFNMYJRHEW-UHFFFAOYSA-N,Glycine N-acyltransferase-like protein 3,Q5SZD4
+2-Phenylpropionate,C9H10O2,CC(C(O)=O)C1=CC=CC=C1,YPGCWEMNNLXISK-UHFFFAOYSA-N,UDP-glucuronosyltransferase 1-1,P22309
+Phenylethylamine,C8H11N,NCCC1=CC=CC=C1,BHHGXPLMPWCGHP-UHFFFAOYSA-N,Serotonin N-acetyltransferase,Q16613
+Phenylethylamine,C8H11N,NCCC1=CC=CC=C1,BHHGXPLMPWCGHP-UHFFFAOYSA-N,Amine oxidase [flavin-containing] B,P27338
+Phenylethylamine,C8H11N,NCCC1=CC=CC=C1,BHHGXPLMPWCGHP-UHFFFAOYSA-N,Amine oxidase [flavin-containing] A,P21397
+Phenylethylamine,C8H11N,NCCC1=CC=CC=C1,BHHGXPLMPWCGHP-UHFFFAOYSA-N,Aromatic-L-amino-acid decarboxylase,P20711
+Phenylethylamine,C8H11N,NCCC1=CC=CC=C1,BHHGXPLMPWCGHP-UHFFFAOYSA-N,Membrane primary amine oxidase,Q16853
+Phenylethylamine,C8H11N,NCCC1=CC=CC=C1,BHHGXPLMPWCGHP-UHFFFAOYSA-N,Retina-specific copper amine oxidase,O75106
+Phenylethylamine,C8H11N,NCCC1=CC=CC=C1,BHHGXPLMPWCGHP-UHFFFAOYSA-N,Trace amine-associated receptor 1,Q96RJ0
+"5-(3',4'-Dihydroxyphenyl)-gamma-valerolactone",C11H12O4,OC1=C(O)C=C(C[C@H]2CCC(=O)O2)C=C1,ZNXXWTPQHVLMQT-MRVPVSSYSA-N,Catechol O-methyltransferase,P21964
+"5-(3',4'-Dihydroxyphenyl)-gamma-valerolactone",C11H12O4,OC1=C(O)C=C(C[C@H]2CCC(=O)O2)C=C1,ZNXXWTPQHVLMQT-MRVPVSSYSA-N,UDP-glucuronosyltransferase 1-1,P22309
+"5-(3',4'-Dihydroxyphenyl)-gamma-valerolactone",C11H12O4,OC1=C(O)C=C(C[C@H]2CCC(=O)O2)C=C1,ZNXXWTPQHVLMQT-MRVPVSSYSA-N,Sulfotransferase 1A3,P0DMM9
+"1,2,3-Propanetricarboxylic acid",C6H8O6,OC(=O)CC(CC(O)=O)C(O)=O,KQTIIICEAUMSDG-UHFFFAOYSA-N,"Aconitate hydratase, mitochondrial",Q99798
+Indolepyruvate,C11H9NO3,OC(=O)C(=O)CC1=CNC2=C1C=CC=C2,RSTKLPZEZYGQPY-UHFFFAOYSA-N,L-amino-acid oxidase,Q96RQ9

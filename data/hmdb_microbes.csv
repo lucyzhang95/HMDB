@@ -1,0 +1,626 @@
+scientific_name,taxid,lineage,parent_taxid,rank
+Alcaligenes eutrophus,,,,
+Pseudomonas aeruginosa,287,"[287, 136841, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",136841,species
+Klebsiella pneumoniae,573,"[573, 570, 2890311, 543, 91347, 1236, 1224, 2, 131567, 1]",570,species
+Acinetobacter baumannii,470,"[470, 909768, 469, 468, 2887326, 1236, 1224, 2, 131567, 1]",909768,species
+Clostridium difficile,,,,
+Clostridium lituseburense,,,,
+Clostridium propionicum,,,,
+Clostridium putrefaciens,99675,"[99675, 1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",1485,species
+Clostridium stricklandii,,,,
+Clostridium subterminale,1550,"[1550, 1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",1485,species
+Anaerostipes,207244,"[207244, 186803, 186802, 186801, 1239, 1783272, 2, 131567, 1]",186803,genus
+Eubacterium,1730,"[1730, 186806, 186802, 186801, 1239, 1783272, 2, 131567, 1]",186806,genus
+Roseburia,841,"[841, 186803, 186802, 186801, 1239, 1783272, 2, 131567, 1]",186803,genus
+Faecalibacterium prausnitzii,853,"[853, 216851, 216572, 186802, 186801, 1239, 1783272, 2, 131567, 1]",216851,species
+Coprococcus comes ,,,,
+Coprococcus eutactus ,,,,
+Acinetobacter,469,"[469, 468, 2887326, 1236, 1224, 2, 131567, 1]",468,genus
+Bacteroidetes bacterium hgw-bacteroidetes-13,2013681,"[2013681, 37452, 976, 68336, 1783270, 2, 131567, 1]",37452,species
+Bifidobacterium,1678,"[1678, 31953, 85004, 1760, 201174, 1783272, 2, 131567, 1]",31953,genus
+Enterobacter,547,"[547, 543, 91347, 1236, 1224, 2, 131567, 1]",543,genus
+Prevotella,838,"[838, 171552, 171549, 200643, 976, 68336, 1783270, 2, 131567, 1]",171552,genus
+Ruminococcus,1263,"[1263, 216572, 186802, 186801, 1239, 1783272, 2, 131567, 1]",216572,genus
+Streptococcus sp. 'group b',1319,"[1319, 2608887, 1301, 1300, 186826, 91061, 1239, 1783272, 2, 131567, 1]",2608887,species
+Staphylococcus saprophyticus,29385,"[29385, 1279, 90964, 1385, 91061, 1239, 1783272, 2, 131567, 1]",1279,species
+Pseudomonas aeruginosa,287,"[287, 136841, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",136841,species
+Proteus mirabilis,584,"[584, 583, 1903414, 91347, 1236, 1224, 2, 131567, 1]",583,species
+Klebsiella pneumoniae,573,"[573, 570, 2890311, 543, 91347, 1236, 1224, 2, 131567, 1]",570,species
+Escherichia coli,562,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",561,species
+Enterococcus faecalis,1351,"[1351, 1350, 81852, 186826, 91061, 1239, 1783272, 2, 131567, 1]",1350,species
+Citrobacter frundii,,,,
+Akkermansia muciniphilia,,,,
+Ketogulonicigenium vulgare,92945,"[92945, 92944, 2854170, 204455, 28211, 1224, 2, 131567, 1]",92944,species
+Leuconostoc mesenteroides,1245,"[1245, 1243, 33958, 186826, 91061, 1239, 1783272, 2, 131567, 1]",1243,species
+Dickeya dadantii,204038,"[204038, 204037, 1903410, 91347, 1236, 1224, 2, 131567, 1]",204037,species
+Erwinia chrysanthemi,,,,
+Escherichia coli,562,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",561,species
+Escherichia coli,562,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",561,species
+Bacillus,1386,"[1386, 186817, 1385, 91061, 1239, 1783272, 2, 131567, 1]",186817,genus
+Bacillus,1386,"[1386, 186817, 1385, 91061, 1239, 1783272, 2, 131567, 1]",186817,genus
+Serratia,2985502,"[2985502, 433515, 7049, 71193, 41087, 41084, 7041, 33392, 33340, 7496, 85512, 50557, 6960, 197562, 197563, 6656, 88770, 1206794, 33317, 33213, 6072, 33208, 33154, 2759, 131567, 1]",433515,genus
+Micrococcus,1269,"[1269, 1268, 85006, 1760, 201174, 1783272, 2, 131567, 1]",1268,genus
+Arthrobacter globiformis,1665,"[1665, 1663, 1268, 85006, 1760, 201174, 1783272, 2, 131567, 1]",1663,species
+Hansenula polymorpha,,,,
+Bifidobacterium,1678,"[1678, 31953, 85004, 1760, 201174, 1783272, 2, 131567, 1]",31953,genus
+Lactobacillus,1578,"[1578, 33958, 186826, 91061, 1239, 1783272, 2, 131567, 1]",33958,genus
+Alcaligenes,507,"[507, 506, 80840, 28216, 1224, 2, 131567, 1]",506,genus
+Acetobacter,434,"[434, 433, 204441, 28211, 1224, 2, 131567, 1]",433,genus
+Rhodococcus rhodochrous,1829,"[1829, 1827, 85025, 85007, 1760, 201174, 1783272, 2, 131567, 1]",1827,species
+Pseudomonas putida,303,"[303, 136845, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",136845,species
+Leptospirillum ferriphilum,178606,"[178606, 261386, 179, 189779, 189778, 203693, 40117, 2, 131567, 1]",261386,species
+Gluconobacter dioxyacetonicus,,,,
+Gluconobacter industrius,,,,
+Gluconobacter suboxydans,,,,
+Escherichia coli,562,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",561,species
+Acidithiobacillus caldus,33059,"[33059, 119977, 225058, 225057, 1807140, 1224, 2, 131567, 1]",119977,species
+Acidithiobacillus ferrooxidans,920,"[920, 119977, 225058, 225057, 1807140, 1224, 2, 131567, 1]",119977,species
+Corynebacterium glutamicum,1718,"[1718, 1716, 1653, 85007, 1760, 201174, 1783272, 2, 131567, 1]",1716,species
+Bifidobacterium,1678,"[1678, 31953, 85004, 1760, 201174, 1783272, 2, 131567, 1]",31953,genus
+Biﬁdobacterium,,,,
+Lactobacillus,1578,"[1578, 33958, 186826, 91061, 1239, 1783272, 2, 131567, 1]",33958,genus
+Bacteroides,816,"[816, 815, 171549, 200643, 976, 68336, 1783270, 2, 131567, 1]",815,genus
+Bifidobacterium,1678,"[1678, 31953, 85004, 1760, 201174, 1783272, 2, 131567, 1]",31953,genus
+Clostridium,1485,"[1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",31979,genus
+Lactobacillus,1578,"[1578, 33958, 186826, 91061, 1239, 1783272, 2, 131567, 1]",33958,genus
+Acinetobacter,469,"[469, 468, 2887326, 1236, 1224, 2, 131567, 1]",468,genus
+Enterobacter,547,"[547, 543, 91347, 1236, 1224, 2, 131567, 1]",543,genus
+Streptococcus sp. 'group b',1319,"[1319, 2608887, 1301, 1300, 186826, 91061, 1239, 1783272, 2, 131567, 1]",2608887,species
+Staphylococcus saprophyticus,29385,"[29385, 1279, 90964, 1385, 91061, 1239, 1783272, 2, 131567, 1]",1279,species
+Pseudomonas aeruginosa,287,"[287, 136841, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",136841,species
+Proteus mirabilis,584,"[584, 583, 1903414, 91347, 1236, 1224, 2, 131567, 1]",583,species
+Klebsiella pneumoniae,573,"[573, 570, 2890311, 543, 91347, 1236, 1224, 2, 131567, 1]",570,species
+Escherichia coli,562,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",561,species
+Enterococcus faecalis,1351,"[1351, 1350, 81852, 186826, 91061, 1239, 1783272, 2, 131567, 1]",1350,species
+Citrobacter frundii,,,,
+Acinetobacter,469,"[469, 468, 2887326, 1236, 1224, 2, 131567, 1]",468,genus
+Enterobacter,547,"[547, 543, 91347, 1236, 1224, 2, 131567, 1]",543,genus
+Corynebacterium glutamicum,1718,"[1718, 1716, 1653, 85007, 1760, 201174, 1783272, 2, 131567, 1]",1716,species
+Bacillus coagulans,,,,
+Streptococcus sp. 'group b',1319,"[1319, 2608887, 1301, 1300, 186826, 91061, 1239, 1783272, 2, 131567, 1]",2608887,species
+Staphylococcus saprophyticus,29385,"[29385, 1279, 90964, 1385, 91061, 1239, 1783272, 2, 131567, 1]",1279,species
+Pseudomonas aeruginosa,287,"[287, 136841, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",136841,species
+Proteus mirabilis,584,"[584, 583, 1903414, 91347, 1236, 1224, 2, 131567, 1]",583,species
+Klebsiella pneumoniae,573,"[573, 570, 2890311, 543, 91347, 1236, 1224, 2, 131567, 1]",570,species
+Escherichia coli,562,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",561,species
+Enterococcus faecalis,1351,"[1351, 1350, 81852, 186826, 91061, 1239, 1783272, 2, 131567, 1]",1350,species
+Citrobacter frundii,,,,
+Bradyrhizobium,374,"[374, 41294, 356, 28211, 1224, 2, 131567, 1]",41294,genus
+Rhizobium,379,"[379, 227290, 82115, 356, 28211, 1224, 2, 131567, 1]",227290,genus
+Pseudomonas aeruginosa,287,"[287, 136841, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",136841,species
+Pseudomonas fluorescens,294,"[294, 136843, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",136843,species
+Pseudomonas savastanoi pv. savastanoi,360920,"[360920, 29438, 251698, 136849, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",29438,no rank
+Pseudomonas syringae,317,"[317, 251695, 136849, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",251695,species
+Pantoea agglomerans,549,"[549, 1654067, 53335, 1903409, 91347, 1236, 1224, 2, 131567, 1]",1654067,species
+Enterobacter cloacae,550,"[550, 354276, 547, 543, 91347, 1236, 1224, 2, 131567, 1]",354276,species
+Clostridium lituseburense,,,,
+Clostridium putrefaciens,99675,"[99675, 1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",1485,species
+Clostridium subterminale,1550,"[1550, 1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",1485,species
+Clostridium sticklandii,,,,
+Bacillus subtilis,1423,"[1423, 653685, 1386, 186817, 1385, 91061, 1239, 1783272, 2, 131567, 1]",653685,species
+Agrobacterium tumefaciens,358,"[358, 1183400, 357, 227290, 82115, 356, 28211, 1224, 2, 131567, 1]",1183400,species
+Azospirillum brasilense,192,"[192, 191, 2829815, 204441, 28211, 1224, 2, 131567, 1]",191,species
+Lactobacillus,1578,"[1578, 33958, 186826, 91061, 1239, 1783272, 2, 131567, 1]",33958,genus
+Corynebacterium glutamicum,1718,"[1718, 1716, 1653, 85007, 1760, 201174, 1783272, 2, 131567, 1]",1716,species
+Bacillus,1386,"[1386, 186817, 1385, 91061, 1239, 1783272, 2, 131567, 1]",186817,genus
+Escherichia,561,"[561, 543, 91347, 1236, 1224, 2, 131567, 1]",543,genus
+Escherichia coli,562,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",561,species
+Pseudomonas putida,303,"[303, 136845, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",136845,species
+Dialister,39948,"[39948, 31977, 1843489, 909932, 1239, 1783272, 2, 131567, 1]",31977,genus
+Veillonella alcalescens,,,,
+Veillonella parvula,29466,"[29466, 29465, 31977, 1843489, 909932, 1239, 1783272, 2, 131567, 1]",29465,species
+Selenomonas ruminantium,971,"[971, 970, 1843491, 909929, 909932, 1239, 1783272, 2, 131567, 1]",970,species
+Selenomonas sputigena,69823,"[69823, 970, 1843491, 909929, 909932, 1239, 1783272, 2, 131567, 1]",970,species
+Salmonella enterica subsp. enterica serovar typhimurium,90371,"[90371, 59201, 28901, 590, 543, 91347, 1236, 1224, 2, 131567, 1]",59201,no rank
+Propionigenum modestum,,,,
+Propionibacterium acidipropionici,,,,
+Propionibacterium freudenreichii,1744,"[1744, 1743, 31957, 85009, 1760, 201174, 1783272, 2, 131567, 1]",1743,species
+Propionibacterium freudenreichii subsp. shermanii,1752,"[1752, 1744, 1743, 31957, 85009, 1760, 201174, 1783272, 2, 131567, 1]",1744,subspecies
+Phascolarctobacterium succinatutens,626940,"[626940, 33024, 909930, 1843488, 909932, 1239, 1783272, 2, 131567, 1]",33024,species
+Megasphaera elsdenii,907,"[907, 906, 31977, 1843489, 909932, 1239, 1783272, 2, 131567, 1]",906,species
+Bacteroides fragilis,817,"[817, 816, 815, 171549, 200643, 976, 68336, 1783270, 2, 131567, 1]",816,species
+Bacteroides ruminicola,,,,
+Bacteroides spp. ,,,,
+Clostridium,1485,"[1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",31979,genus
+Clostridia propionicum,,,,
+Corynebacterium glutamicum,1718,"[1718, 1716, 1653, 85007, 1760, 201174, 1783272, 2, 131567, 1]",1716,species
+Escherichia coli,562,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",561,species
+Acinetobacter,469,"[469, 468, 2887326, 1236, 1224, 2, 131567, 1]",468,genus
+Enterobacter,547,"[547, 543, 91347, 1236, 1224, 2, 131567, 1]",543,genus
+Corynebacterium glutamicum,1718,"[1718, 1716, 1653, 85007, 1760, 201174, 1783272, 2, 131567, 1]",1716,species
+Basfia succiniciproducens,653940,"[653940, 697331, 712, 135625, 1236, 1224, 2, 131567, 1]",697331,species
+Pseudomonas aeruginosa,287,"[287, 136841, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",136841,species
+Proteus mirabilis,584,"[584, 583, 1903414, 91347, 1236, 1224, 2, 131567, 1]",583,species
+[mannheimia] succiniciproducens,157673,"[157673, 697331, 712, 135625, 1236, 1224, 2, 131567, 1]",697331,species
+Klebsiella pneumoniae,573,"[573, 570, 2890311, 543, 91347, 1236, 1224, 2, 131567, 1]",570,species
+Escherichia coli,562,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",561,species
+Enterococcus faecalis,1351,"[1351, 1350, 81852, 186826, 91061, 1239, 1783272, 2, 131567, 1]",1350,species
+Citrobacter frundii,,,,
+Anaerobiospirillum succiniciproducens,13335,"[13335, 13334, 83763, 135624, 1236, 1224, 2, 131567, 1]",13334,species
+Actinobacillus succinogenes ,,,,
+Enterococcus,1350,"[1350, 81852, 186826, 91061, 1239, 1783272, 2, 131567, 1]",81852,genus
+Streptococcus,1301,"[1301, 1300, 186826, 91061, 1239, 1783272, 2, 131567, 1]",1300,genus
+Escherichia coli,562,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",561,species
+Enterococcus,1350,"[1350, 81852, 186826, 91061, 1239, 1783272, 2, 131567, 1]",81852,genus
+Lactobacillus,1578,"[1578, 33958, 186826, 91061, 1239, 1783272, 2, 131567, 1]",33958,genus
+Tetragenococcus halophilus,51669,"[51669, 51668, 81852, 186826, 91061, 1239, 1783272, 2, 131567, 1]",51668,species
+Pseudomonas entomophila,312306,"[312306, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",286,species
+Pseudomonas putida,303,"[303, 136845, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",136845,species
+Granulibacter bethesdensis,364410,"[364410, 364409, 433, 204441, 28211, 1224, 2, 131567, 1]",364409,species
+Gluconacetobacter diazotrophicus,33996,"[33996, 89583, 433, 204441, 28211, 1224, 2, 131567, 1]",89583,species
+Bacillus thuringiensis,1428,"[1428, 86661, 1386, 186817, 1385, 91061, 1239, 1783272, 2, 131567, 1]",86661,species
+Carnobacterium divergens,2748,"[2748, 2747, 186828, 186826, 91061, 1239, 1783272, 2, 131567, 1]",2747,species
+Escherichia coli,562,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",561,species
+Escherichia coli,562,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",561,species
+Eubacterium oxidoreducens,1732,"[1732, 1730, 186806, 186802, 186801, 1239, 1783272, 2, 131567, 1]",1730,species
+Acinetobacter,469,"[469, 468, 2887326, 1236, 1224, 2, 131567, 1]",468,genus
+Moraxella,475,"[475, 468, 2887326, 1236, 1224, 2, 131567, 1]",468,genus
+Pseudomonas,286,"[286, 135621, 72274, 1236, 1224, 2, 131567, 1]",135621,genus
+Acetobacter suboxydans,,,,
+Clostridium,1485,"[1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",31979,genus
+Lactobacillus gasseri,1596,"[1596, 1578, 33958, 186826, 91061, 1239, 1783272, 2, 131567, 1]",1578,species
+Bifidobacterium animalis subsp. lactis,302911,"[302911, 28025, 1678, 31953, 85004, 1760, 201174, 1783272, 2, 131567, 1]",28025,subspecies
+Escherichia coli,562,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",561,species
+Propionibacterium acnes,,,,
+Klebsiella pneumoniae,573,"[573, 570, 2890311, 543, 91347, 1236, 1224, 2, 131567, 1]",570,species
+Clostridium-like species,40725,"[40725, 39779, 186802, 186801, 1239, 1783272, 2, 131567, 1]",39779,species
+Escherichia coli,562,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",561,species
+Bacillus subtilis,1423,"[1423, 653685, 1386, 186817, 1385, 91061, 1239, 1783272, 2, 131567, 1]",653685,species
+Streptomyces coelicolor,1902,"[1902, 1477431, 1883, 2062, 85011, 1760, 201174, 1783272, 2, 131567, 1]",1477431,species
+[clostridium] aminophilum,1526,"[1526, 1506553, 186803, 186802, 186801, 1239, 1783272, 2, 131567, 1]",1506553,species
+Clostridium disporicum,84024,"[84024, 1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",1485,species
+Clostridium drakei,332101,"[332101, 1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",1485,species
+Clostridium scatologenes,1548,"[1548, 1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",1485,species
+Lactobacillus,1578,"[1578, 33958, 186826, 91061, 1239, 1783272, 2, 131567, 1]",33958,genus
+Amycolatopsis,1813,"[1813, 2070, 85010, 1760, 201174, 1783272, 2, 131567, 1]",2070,genus
+Pseudomonas putida,303,"[303, 136845, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",136845,species
+Pseudomonas sp. az10 upm,1677868,"[1677868, 196821, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",196821,species
+Delftia acidivorans,,,,
+Arthrobacter,1663,"[1663, 1268, 85006, 1760, 201174, 1783272, 2, 131567, 1]",1268,genus
+Bifidobacterium,1678,"[1678, 31953, 85004, 1760, 201174, 1783272, 2, 131567, 1]",31953,genus
+Microbulbifer,48073,"[48073, 1706373, 1706369, 1236, 1224, 2, 131567, 1]",1706373,genus
+Escherichia coli,562,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",561,species
+Eubacterium ramulus,39490,"[39490, 1730, 186806, 186802, 186801, 1239, 1783272, 2, 131567, 1]",1730,species
+Corynebacterium glutamicum,1718,"[1718, 1716, 1653, 85007, 1760, 201174, 1783272, 2, 131567, 1]",1716,species
+Clostridium saccharogumia,,,,
+Lactobacillus,1578,"[1578, 33958, 186826, 91061, 1239, 1783272, 2, 131567, 1]",33958,genus
+Acetobacter aceti ,,,,
+Gluconobacter frateurii,38308,"[38308, 441, 433, 204441, 28211, 1224, 2, 131567, 1]",441,species
+Gluconobacter suboxydans,,,,
+Mycobacterium smegmatis,,,,
+Escherichia coli,562,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",561,species
+Clostridium sporogenes,1509,"[1509, 1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",1485,species
+Escherichia coli,562,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",561,species
+Escherichia coli,562,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",561,species
+Klebsiella pneumoniae,573,"[573, 570, 2890311, 543, 91347, 1236, 1224, 2, 131567, 1]",570,species
+Escherichia coli,562,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",561,species
+Pseudomonas putida,303,"[303, 136845, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",136845,species
+Aeromonas hydrophila,644,"[644, 642, 84642, 135624, 1236, 1224, 2, 131567, 1]",642,species
+Escherichia coli,562,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",561,species
+Actinomycetaceae,2049,"[2049, 2037, 1760, 201174, 1783272, 2, 131567, 1]",2037,family
+Clostridium,1485,"[1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",31979,genus
+Eubacterium,1730,"[1730, 186806, 186802, 186801, 1239, 1783272, 2, 131567, 1]",186806,genus
+Ruminococcus,1263,"[1263, 216572, 186802, 186801, 1239, 1783272, 2, 131567, 1]",216572,genus
+Faecalibacterium prausnitzii,853,"[853, 216851, 216572, 186802, 186801, 1239, 1783272, 2, 131567, 1]",216851,species
+Clostridium sporogenes,1509,"[1509, 1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",1485,species
+Peptostreptococcus russellii,215200,"[215200, 1257, 186804, 186802, 186801, 1239, 1783272, 2, 131567, 1]",1257,species
+Alcaligenes,507,"[507, 506, 80840, 28216, 1224, 2, 131567, 1]",506,genus
+Pseudomonas sp. st-200,,,,
+Lactobacillus,1578,"[1578, 33958, 186826, 91061, 1239, 1783272, 2, 131567, 1]",33958,genus
+Bifidobacteria,,,,
+Clostridium,1485,"[1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",31979,genus
+Staphylococcus aureus,1280,"[1280, 1279, 90964, 1385, 91061, 1239, 1783272, 2, 131567, 1]",1279,species
+Pseudomonas aeruginosa,287,"[287, 136841, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",136841,species
+Lactobacillus fermentum,,,,
+Klebsiella pneumoniae,573,"[573, 570, 2890311, 543, 91347, 1236, 1224, 2, 131567, 1]",570,species
+Eubacterium lentum,,,,
+Escherichia coli,562,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",561,species
+Enterococcus faecalis,1351,"[1351, 1350, 81852, 186826, 91061, 1239, 1783272, 2, 131567, 1]",1350,species
+Enterococcus faecium,1352,"[1352, 1350, 81852, 186826, 91061, 1239, 1783272, 2, 131567, 1]",1350,species
+Bifidobacterium bifidum,1681,"[1681, 1678, 31953, 85004, 1760, 201174, 1783272, 2, 131567, 1]",1678,species
+Acinetobacter baumannii,470,"[470, 909768, 469, 468, 2887326, 1236, 1224, 2, 131567, 1]",909768,species
+Bacteroides fragilis,817,"[817, 816, 815, 171549, 200643, 976, 68336, 1783270, 2, 131567, 1]",816,species
+Bacteroides thetaiotaomicron,818,"[818, 816, 815, 171549, 200643, 976, 68336, 1783270, 2, 131567, 1]",816,species
+Human gut microbiota,,,,
+Clostridium bifermentans,,,,
+Clostridium botulinum,1491,"[1491, 1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",1485,species
+Clostridium caproicum,2933746,"[2933746, 1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",1485,species
+Clostridium sordellii,,,,
+Clostridium sporogenes,1509,"[1509, 1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",1485,species
+Clostridium difficile,,,,
+Eubacterium ramulus,39490,"[39490, 1730, 186806, 186802, 186801, 1239, 1783272, 2, 131567, 1]",1730,species
+Clostridium,1485,"[1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",31979,genus
+Streptococcus,1301,"[1301, 1300, 186826, 91061, 1239, 1783272, 2, 131567, 1]",1300,genus
+Leuconostoc mesenteroides,1245,"[1245, 1243, 33958, 186826, 91061, 1239, 1783272, 2, 131567, 1]",1243,species
+Zymomonas mobilis,542,"[542, 541, 2844881, 204457, 28211, 1224, 2, 131567, 1]",541,species
+Torulaspora delbrueckii,,,,
+Rhodobacteraceae bacterium caa105,476842,"[476842, 58840, 31989, 204455, 28211, 1224, 2, 131567, 1]",58840,species
+Rhodobacter spaeroides,,,,
+Pseudomonas uorescens,,,,
+Lactococcus lactis,1358,"[1358, 1357, 1300, 186826, 91061, 1239, 1783272, 2, 131567, 1]",1357,species
+Gluconobacter suboxydans,,,,
+Lactobacillus brevis,,,,
+Staphylococcus,1279,"[1279, 90964, 1385, 91061, 1239, 1783272, 2, 131567, 1]",90964,genus
+Clostridium,1485,"[1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",31979,genus
+Klebsiella,570,"[570, 2890311, 543, 91347, 1236, 1224, 2, 131567, 1]",2890311,genus
+Staphylococcus,1279,"[1279, 90964, 1385, 91061, 1239, 1783272, 2, 131567, 1]",90964,genus
+Pseudomonas aeruginosa,287,"[287, 136841, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",136841,species
+Lactobacillus fermentum,,,,
+Eubacterium lentum,,,,
+Escherichia coli,562,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",561,species
+Enterococcus faecalis,1351,"[1351, 1350, 81852, 186826, 91061, 1239, 1783272, 2, 131567, 1]",1350,species
+Enterococcus faecium,1352,"[1352, 1350, 81852, 186826, 91061, 1239, 1783272, 2, 131567, 1]",1350,species
+Bifidobacterium bifidum,1681,"[1681, 1678, 31953, 85004, 1760, 201174, 1783272, 2, 131567, 1]",1678,species
+Acinetobacter baumannii,470,"[470, 909768, 469, 468, 2887326, 1236, 1224, 2, 131567, 1]",909768,species
+Bacteroides fragilis,817,"[817, 816, 815, 171549, 200643, 976, 68336, 1783270, 2, 131567, 1]",816,species
+Bacteroides thetaiotaomicron,818,"[818, 816, 815, 171549, 200643, 976, 68336, 1783270, 2, 131567, 1]",816,species
+Thermobifida fusca,2021,"[2021, 83677, 83676, 85012, 1760, 201174, 1783272, 2, 131567, 1]",83677,species
+Synechococcus elongatus,32046,"[32046, 1129, 1890426, 1890424, 3028117, 1117, 1798711, 1783272, 2, 131567, 1]",1129,species
+Propionibacterium acidipropionici,,,,
+Propionibacterium freudenreichii,1744,"[1744, 1743, 31957, 85009, 1760, 201174, 1783272, 2, 131567, 1]",1743,species
+Escherichia coli,562,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",561,species
+Clostridium acetobutylicum,1488,"[1488, 1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",1485,species
+Clostridium beijerinckii,1520,"[1520, 1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",1485,species
+Clostridium neopropionicum,,,,
+Alkalibaculum bacchi,645887,"[645887, 696745, 186806, 186802, 186801, 1239, 1783272, 2, 131567, 1]",696745,species
+Klebsiella,570,"[570, 2890311, 543, 91347, 1236, 1224, 2, 131567, 1]",2890311,genus
+Pseudomonas sp. dsm 2874,,,,
+Clostridium aurantibutyricum,,,,
+Clostridium beijerinckii,1520,"[1520, 1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",1485,species
+Lactobacillus,1578,"[1578, 33958, 186826, 91061, 1239, 1783272, 2, 131567, 1]",33958,genus
+Photobacterium phosphoreum ,,,,
+Lactobacillus,1578,"[1578, 33958, 186826, 91061, 1239, 1783272, 2, 131567, 1]",33958,genus
+Escherichia coli,562,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",561,species
+Achromobacter,222,"[222, 506, 80840, 28216, 1224, 2, 131567, 1]",506,genus
+Acinetobacter,469,"[469, 468, 2887326, 1236, 1224, 2, 131567, 1]",468,genus
+Actinobacteria bacterium hgw-actinobacteria-4,2013649,"[2013649, 1752188, 201174, 1783272, 2, 131567, 1]",1752188,species
+Aeromonas,642,"[642, 84642, 135624, 1236, 1224, 2, 131567, 1]",84642,genus
+Alcaligenes,507,"[507, 506, 80840, 28216, 1224, 2, 131567, 1]",506,genus
+Alteromonas,226,"[226, 2903219, 72275, 135622, 1236, 1224, 2, 131567, 1]",2903219,genus
+Anaerococcus,165779,"[165779, 1570339, 1737405, 1737404, 1239, 1783272, 2, 131567, 1]",1570339,genus
+Bacillus,1386,"[1386, 186817, 1385, 91061, 1239, 1783272, 2, 131567, 1]",186817,genus
+Bacteroides,816,"[816, 815, 171549, 200643, 976, 68336, 1783270, 2, 131567, 1]",815,genus
+Bacteroidetes bacterium hgw-bacteroidetes-13,2013681,"[2013681, 37452, 976, 68336, 1783270, 2, 131567, 1]",37452,species
+Burkholderia,32008,"[32008, 119060, 80840, 28216, 1224, 2, 131567, 1]",119060,genus
+Campylobacter,194,"[194, 72294, 213849, 3031852, 29547, 2, 131567, 1]",72294,genus
+Citrobacter,544,"[544, 543, 91347, 1236, 1224, 2, 131567, 1]",543,genus
+Desulfitobacterium,36853,"[36853, 2937909, 186802, 186801, 1239, 1783272, 2, 131567, 1]",2937909,genus
+Desulfovibrio,872,"[872, 194924, 213115, 3031449, 200940, 2, 131567, 1]",194924,genus
+Desulfuromonas,890,"[890, 213421, 69541, 3031651, 200940, 2, 131567, 1]",213421,genus
+Edwardsiella,132406,"[132406, 45349, 6103, 6102, 6101, 6073, 6072, 33208, 33154, 2759, 131567, 1]",45349,genus
+Enterococcus,1350,"[1350, 81852, 186826, 91061, 1239, 1783272, 2, 131567, 1]",81852,genus
+Eubacterium,1730,"[1730, 186806, 186802, 186801, 1239, 1783272, 2, 131567, 1]",186806,genus
+Firmicutes bacterium hgw-firmicutes-15,2013776,"[2013776, 84086, 1239, 1783272, 2, 131567, 1]",84086,species
+Flavobacterium,237,"[237, 49546, 200644, 117743, 976, 68336, 1783270, 2, 131567, 1]",49546,genus
+Gammaproteobacteria,1236,"[1236, 1224, 2, 131567, 1]",1224,class
+Haloanaerobacter,,,,
+Klebsiella,570,"[570, 2890311, 543, 91347, 1236, 1224, 2, 131567, 1]",2890311,genus
+Micrococcus,1269,"[1269, 1268, 85006, 1760, 201174, 1783272, 2, 131567, 1]",1268,genus
+Mobiluncus,2050,"[2050, 2049, 2037, 1760, 201174, 1783272, 2, 131567, 1]",2049,genus
+Olsenella,133925,"[133925, 1643824, 84999, 84998, 201174, 1783272, 2, 131567, 1]",1643824,genus
+Photobacterium,657,"[657, 641, 135623, 1236, 1224, 2, 131567, 1]",641,genus
+Proteobacteria bacterium bvirr177,1397201,"[1397201, 81684, 1224, 2, 131567, 1]",81684,species
+Providencia,586,"[586, 1903414, 91347, 1236, 1224, 2, 131567, 1]",1903414,genus
+Pseudomonas,286,"[286, 135621, 72274, 1236, 1224, 2, 131567, 1]",135621,genus
+Rhodopseudomonas,1073,"[1073, 41294, 356, 28211, 1224, 2, 131567, 1]",41294,genus
+Ruminococcus,1263,"[1263, 216572, 186802, 186801, 1239, 1783272, 2, 131567, 1]",216572,genus
+Salmonella,590,"[590, 543, 91347, 1236, 1224, 2, 131567, 1]",543,genus
+Sarcina,1266,"[1266, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",31979,genus
+Serratia,2985502,"[2985502, 433515, 7049, 71193, 41087, 41084, 7041, 33392, 33340, 7496, 85512, 50557, 6960, 197562, 197563, 6656, 88770, 1206794, 33317, 33213, 6072, 33208, 33154, 2759, 131567, 1]",433515,genus
+Shewanella,22,"[22, 267890, 135622, 1236, 1224, 2, 131567, 1]",267890,genus
+Shigella,620,"[620, 543, 91347, 1236, 1224, 2, 131567, 1]",543,genus
+Sinorhizobium,28105,"[28105, 227292, 82115, 356, 28211, 1224, 2, 131567, 1]",227292,genus
+Sporomusa,2375,"[2375, 1843490, 909929, 909932, 1239, 1783272, 2, 131567, 1]",1843490,genus
+Staphylococcus,1279,"[1279, 90964, 1385, 91061, 1239, 1783272, 2, 131567, 1]",90964,genus
+Stigmatella,40,"[40, 39, 80811, 29, 32015, 2818505, 2, 131567, 1]",39,genus
+Streptococcus,1301,"[1301, 1300, 186826, 91061, 1239, 1783272, 2, 131567, 1]",1300,genus
+Vibrio ,,,,
+Yokenella,158876,"[158876, 543, 91347, 1236, 1224, 2, 131567, 1]",543,genus
+Proteus mirabilis,584,"[584, 583, 1903414, 91347, 1236, 1224, 2, 131567, 1]",583,species
+Escherichia coli,562,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",561,species
+Enterobacter cloacae,550,"[550, 354276, 547, 543, 91347, 1236, 1224, 2, 131567, 1]",354276,species
+Clostridium xiva,,,,
+Bacteroidetes bacterium hgw-bacteroidetes-13,2013681,"[2013681, 37452, 976, 68336, 1783270, 2, 131567, 1]",37452,species
+Ruminococcus,1263,"[1263, 216572, 186802, 186801, 1239, 1783272, 2, 131567, 1]",216572,genus
+Alcaligenes,507,"[507, 506, 80840, 28216, 1224, 2, 131567, 1]",506,genus
+Pseudomonas ligustri,,,,
+Pseudomonas orvilla,,,,
+Pseudomonas pseudomaleii,,,,
+Cellulomonas galba,,,,
+Brevibacterium healii,,,,
+Pseudomonas acidovorans,,,,
+Pseudomonas fluorescens,294,"[294, 136843, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",136843,species
+Agrobacterium,357,"[357, 227290, 82115, 356, 28211, 1224, 2, 131567, 1]",227290,genus
+Nocardia,1817,"[1817, 85025, 85007, 1760, 201174, 1783272, 2, 131567, 1]",85025,genus
+Rhizobium,379,"[379, 227290, 82115, 356, 28211, 1224, 2, 131567, 1]",227290,genus
+Pseudomonas aeruginosa,287,"[287, 136841, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",136841,species
+Escherichia coli,562,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",561,species
+Mycobacterium tuberculosis,1773,"[1773, 77643, 1763, 1762, 85007, 1760, 201174, 1783272, 2, 131567, 1]",77643,species
+Propionibacterium,1743,"[1743, 31957, 85009, 1760, 201174, 1783272, 2, 131567, 1]",31957,genus
+Burkholderia stabilis,95485,"[95485, 87882, 32008, 119060, 80840, 28216, 1224, 2, 131567, 1]",87882,species
+Escherichia coli,562,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",561,species
+Bifidobacterium,1678,"[1678, 31953, 85004, 1760, 201174, 1783272, 2, 131567, 1]",31953,genus
+Lactobacillus,1578,"[1578, 33958, 186826, 91061, 1239, 1783272, 2, 131567, 1]",33958,genus
+Helicobacter pylori,210,"[210, 209, 72293, 213849, 3031852, 29547, 2, 131567, 1]",209,species
+Escherichia coli,562,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",561,species
+Escherichia coli,562,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",561,species
+Escherichia coli,562,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",561,species
+Mycobacterium tuberculosis,1773,"[1773, 77643, 1763, 1762, 85007, 1760, 201174, 1783272, 2, 131567, 1]",77643,species
+Escherichia coli,562,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",561,species
+Escherichia coli,562,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",561,species
+Escherichia coli,562,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",561,species
+Escherichia coli,562,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",561,species
+Streptomyces,1883,"[1883, 2062, 85011, 1760, 201174, 1783272, 2, 131567, 1]",2062,genus
+Ketogulonicigenium vulgare,92945,"[92945, 92944, 2854170, 204455, 28211, 1224, 2, 131567, 1]",92944,species
+Unclassified gram-positive bacteria,53420,"[53420, 2323, 2, 131567, 1]",2323,no rank
+Aerococcus,1375,"[1375, 186827, 186826, 91061, 1239, 1783272, 2, 131567, 1]",186827,genus
+Carnobacterium,2747,"[2747, 186828, 186826, 91061, 1239, 1783272, 2, 131567, 1]",186828,genus
+Enterococcus,1350,"[1350, 81852, 186826, 91061, 1239, 1783272, 2, 131567, 1]",81852,genus
+Lactococcus,1357,"[1357, 1300, 186826, 91061, 1239, 1783272, 2, 131567, 1]",1300,genus
+Leuconostoc,1243,"[1243, 33958, 186826, 91061, 1239, 1783272, 2, 131567, 1]",33958,genus
+Oenococcus,46254,"[46254, 33958, 186826, 91061, 1239, 1783272, 2, 131567, 1]",33958,genus
+Pediococcus,1253,"[1253, 33958, 186826, 91061, 1239, 1783272, 2, 131567, 1]",33958,genus
+Streptococcus,1301,"[1301, 1300, 186826, 91061, 1239, 1783272, 2, 131567, 1]",1300,genus
+Tetragenococcus,51668,"[51668, 81852, 186826, 91061, 1239, 1783272, 2, 131567, 1]",81852,genus
+Vagococcus,2737,"[2737, 81852, 186826, 91061, 1239, 1783272, 2, 131567, 1]",81852,genus
+Weissella,46255,"[46255, 33958, 186826, 91061, 1239, 1783272, 2, 131567, 1]",33958,genus
+Lactobacillus delbruekii,,,,
+Lactobacillus jensenii,109790,"[109790, 1578, 33958, 186826, 91061, 1239, 1783272, 2, 131567, 1]",1578,species
+Escherichia coli,562,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",561,species
+Corynebacterium glutamicum,1718,"[1718, 1716, 1653, 85007, 1760, 201174, 1783272, 2, 131567, 1]",1716,species
+Bacillus coagulans,,,,
+Unclassified gram-positive bacteria,53420,"[53420, 2323, 2, 131567, 1]",2323,no rank
+Cyanobacteria bacterium m_surface_7_m2_040,2775522,"[2775522, 1983111, 1117, 1798711, 1783272, 2, 131567, 1]",1983111,species
+Rhodobacteraceae bacterium caa105,476842,"[476842, 58840, 31989, 204455, 28211, 1224, 2, 131567, 1]",58840,species
+Rhodobacter sphaeroides,,,,
+Halobacterium salinarum,,,,
+Citrobacter intermediuns,,,,
+Enterobacter aerogenes,,,,
+Gram-negative bacteria,,,,
+Achromobacter,222,"[222, 506, 80840, 28216, 1224, 2, 131567, 1]",506,genus
+Alcaligenes,507,"[507, 506, 80840, 28216, 1224, 2, 131567, 1]",506,genus
+Clostridium,1485,"[1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",31979,genus
+Rhodobacteraceae bacterium caa105,476842,"[476842, 58840, 31989, 204455, 28211, 1224, 2, 131567, 1]",58840,species
+Rlzodopseudomonas spheroides,,,,
+Acetobacter suboxydans,,,,
+Enterobacter aerogenes,,,,
+Cronobacter sakazakii,28141,"[28141, 413496, 543, 91347, 1236, 1224, 2, 131567, 1]",413496,species
+Citrobacter braakii,57706,"[57706, 1344959, 544, 543, 91347, 1236, 1224, 2, 131567, 1]",1344959,species
+Citrobacter freundii,546,"[546, 1344959, 544, 543, 91347, 1236, 1224, 2, 131567, 1]",1344959,species
+Citrobacter youngae,133448,"[133448, 1344959, 544, 543, 91347, 1236, 1224, 2, 131567, 1]",1344959,species
+Corynebacterium glutamicum,1718,"[1718, 1716, 1653, 85007, 1760, 201174, 1783272, 2, 131567, 1]",1716,species
+Escherichia coli,562,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",561,species
+Clostridium acetobutylicum,1488,"[1488, 1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",1485,species
+Clostridium beijerinckii,1520,"[1520, 1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",1485,species
+Clostridium butylicum,,,,
+Clostridium felsenium,,,,
+Clostridium glycolycum,,,,
+Clostridium pasteurianum ,,,,
+Clostridium propylbutyricum ,,,,
+Clostridium saccharoperbutylacetonicum ,,,,
+Clostridium thermosaccharolyticum,,,,
+Azomonas macrocytogenes,69962,"[69962, 69961, 351, 135621, 72274, 1236, 1224, 2, 131567, 1]",69961,species
+Bacteroides,816,"[816, 815, 171549, 200643, 976, 68336, 1783270, 2, 131567, 1]",815,genus
+Bifidobacterium,1678,"[1678, 31953, 85004, 1760, 201174, 1783272, 2, 131567, 1]",31953,genus
+Enterobacter,547,"[547, 543, 91347, 1236, 1224, 2, 131567, 1]",543,genus
+Lactobacillus,1578,"[1578, 33958, 186826, 91061, 1239, 1783272, 2, 131567, 1]",33958,genus
+Clostridium difficile,,,,
+Serratia marcescens,615,"[615, 613, 1903411, 91347, 1236, 1224, 2, 131567, 1]",613,species
+Escherichia coli,562,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",561,species
+Arthrobacter,1663,"[1663, 1268, 85006, 1760, 201174, 1783272, 2, 131567, 1]",1268,genus
+Lysinibacillus cresolivorans,479077,"[479077, 400634, 186817, 1385, 91061, 1239, 1783272, 2, 131567, 1]",400634,species
+Pseudomonas sp. cp4,,,,
+Corynebacterium glutamicum,1718,"[1718, 1716, 1653, 85007, 1760, 201174, 1783272, 2, 131567, 1]",1716,species
+Bifidobacterium,1678,"[1678, 31953, 85004, 1760, 201174, 1783272, 2, 131567, 1]",31953,genus
+Escherichia coli,562,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",561,species
+Clostridium,1485,"[1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",31979,genus
+Klebsiella,570,"[570, 2890311, 543, 91347, 1236, 1224, 2, 131567, 1]",2890311,genus
+Staphylococcus,1279,"[1279, 90964, 1385, 91061, 1239, 1783272, 2, 131567, 1]",90964,genus
+Pseudomonas aeruginosa,287,"[287, 136841, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",136841,species
+Lactobacillus fermentum,,,,
+Eubacterium lentum,,,,
+Enterococcus faecalis,1351,"[1351, 1350, 81852, 186826, 91061, 1239, 1783272, 2, 131567, 1]",1350,species
+Enterococcus faecium,1352,"[1352, 1350, 81852, 186826, 91061, 1239, 1783272, 2, 131567, 1]",1350,species
+Clostridium orbiscindens,,,,
+Clostridium sporogenes,1509,"[1509, 1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",1485,species
+Clostridium botulinium,,,,
+Bifidobacterium bifidum,1681,"[1681, 1678, 31953, 85004, 1760, 201174, 1783272, 2, 131567, 1]",1678,species
+Acinetobacter baumannii,470,"[470, 909768, 469, 468, 2887326, 1236, 1224, 2, 131567, 1]",909768,species
+Bacteroides fragilis,817,"[817, 816, 815, 171549, 200643, 976, 68336, 1783270, 2, 131567, 1]",816,species
+Bacteroides thetaiotaomicron,818,"[818, 816, 815, 171549, 200643, 976, 68336, 1783270, 2, 131567, 1]",816,species
+Bifidobacterium,1678,"[1678, 31953, 85004, 1760, 201174, 1783272, 2, 131567, 1]",31953,genus
+Eggerthella,84111,"[84111, 1643826, 1643822, 84998, 201174, 1783272, 2, 131567, 1]",1643826,genus
+Lactobacillus mucosae,,,,
+Enterococcus faecalis,1351,"[1351, 1350, 81852, 186826, 91061, 1239, 1783272, 2, 131567, 1]",1350,species
+Bacteroides ovatus,28116,"[28116, 816, 815, 171549, 200643, 976, 68336, 1783270, 2, 131567, 1]",816,species
+Streptomyces maritimus,115828,"[115828, 1883, 2062, 85011, 1760, 201174, 1783272, 2, 131567, 1]",1883,species
+Clostridium sporogenes,1509,"[1509, 1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",1485,species
+Cyanothece,43988,"[43988, 1892249, 1150, 1301283, 3028117, 1117, 1798711, 1783272, 2, 131567, 1]",1892249,genus
+Rhizobiaceae,82115,"[82115, 356, 28211, 1224, 2, 131567, 1]",356,family
+Rhizobium leguminosarum,384,"[384, 379, 227290, 82115, 356, 28211, 1224, 2, 131567, 1]",379,species
+Pseudomonas deceptionensis,882211,"[882211, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",286,species
+Bradyrhizobium diazoefficiens,1355477,"[1355477, 374, 41294, 356, 28211, 1224, 2, 131567, 1]",374,species
+Escherichia coli,562,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",561,species
+Corynebacterium glutamicum,1718,"[1718, 1716, 1653, 85007, 1760, 201174, 1783272, 2, 131567, 1]",1716,species
+Escherichia coli,562,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",561,species
+Pseudomonas putida,303,"[303, 136845, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",136845,species
+Pseudomonas,286,"[286, 135621, 72274, 1236, 1224, 2, 131567, 1]",135621,genus
+Clostridium bifermentans,,,,
+Clostridium calortolerans,,,,
+Clostridium difficile,,,,
+Clostridium ghoni,,,,
+Clostridium mangenoyi,,,,
+Clostridium sporogenes,1509,"[1509, 1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",1485,species
+Clostridium botulinium,,,,
+Serratia marcescens,615,"[615, 613, 1903411, 91347, 1236, 1224, 2, 131567, 1]",613,species
+Achromobacter xylosoxydans,,,,
+Pseudomonas acidovorans,,,,
+Pseudomonas fluorescens,294,"[294, 136843, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",136843,species
+Methanobrevibacter,,,,
+Methanococcus,,,,
+Methanocorpusculum,,,,
+Methanoculleus,,,,
+Methanoflorens,,,,
+Methanofollis,,,,
+Methanogenium,,,,
+Methanomicrobium,,,,
+Methanopyrus,,,,
+Methanoregula,,,,
+Methanosarcina,,,,
+Methanothermobacter,,,,
+Methanosaeta,,,,
+Methanothrix sochngenii,,,,
+Methanospirillium hungatei,,,,
+Methanosphaera stadtmanae,,,,
+Desulfovibrio vulgaris,881,"[881, 872, 194924, 213115, 3031449, 200940, 2, 131567, 1]",872,species
+Methanobacterium bryantii,,,,
+Methanobacterium espanolae,,,,
+Formosa,225842,"[225842, 49546, 200644, 117743, 976, 68336, 1783270, 2, 131567, 1]",49546,genus
+Pseudomonas aeruginosa,287,"[287, 136841, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",136841,species
+Bacillus subtilis,1423,"[1423, 653685, 1386, 186817, 1385, 91061, 1239, 1783272, 2, 131567, 1]",653685,species
+Zeaxanthinibacter enoshimensi,,,,
+Sphingomonas jaspsi,392409,"[392409, 13687, 41297, 204457, 28211, 1224, 2, 131567, 1]",13687,species
+Sphingomonas natatoria,,,,
+Siansivirga zeaxanthinifaciens,762954,"[762954, 1204360, 49546, 200644, 117743, 976, 68336, 1783270, 2, 131567, 1]",1204360,species
+Paracoccus zeaxanthinifaciens,187400,"[187400, 265, 31989, 204455, 28211, 1224, 2, 131567, 1]",265,species
+Nubsella zeaxanthinifaciens,392412,"[392412, 565005, 84566, 200666, 117747, 976, 68336, 1783270, 2, 131567, 1]",565005,species
+Muricauda aquimarina,,,,
+Muricauda flavescens,,,,
+Muricauda lutaonensis,,,,
+Muricauda olearia,,,,
+Mesoflavibacter aestuarii,,,,
+Mesoflavibacter zeaxanthinifaciens,393060,"[393060, 444051, 49546, 200644, 117743, 976, 68336, 1783270, 2, 131567, 1]",444051,species
+Kordia aquimaris,1227947,"[1227947, 221065, 49546, 200644, 117743, 976, 68336, 1783270, 2, 131567, 1]",221065,species
+Hyunsoonleella jejuensis,419940,"[419940, 1080193, 49546, 200644, 117743, 976, 68336, 1783270, 2, 131567, 1]",1080193,species
+Gramella oceani,,,,
+Gramella planctonica,,,,
+Flavobacterium multivorum,,,,
+Escherichia coli,562,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",561,species
+Algibacter sp. aqp096,,,,
+Aquibacter zeaxanthinifacien,,,,
+Serratia marcescens,615,"[615, 613, 1903411, 91347, 1236, 1224, 2, 131567, 1]",613,species
+Klebsiella oxytoca,571,"[571, 570, 2890311, 543, 91347, 1236, 1224, 2, 131567, 1]",570,species
+Klebsiella pneumoniae,573,"[573, 570, 2890311, 543, 91347, 1236, 1224, 2, 131567, 1]",570,species
+Bacillus polymyxa,,,,
+Enterobacter aerogenes,,,,
+Alcaligenes,507,"[507, 506, 80840, 28216, 1224, 2, 131567, 1]",506,genus
+Pseudomonas aeruginosa,287,"[287, 136841, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",136841,species
+Proteus vulgaris,585,"[585, 583, 1903414, 91347, 1236, 1224, 2, 131567, 1]",583,species
+Klebsiella pneumoniae subsp. rhinoscleromatis,39831,"[39831, 573, 570, 2890311, 543, 91347, 1236, 1224, 2, 131567, 1]",573,subspecies
+Chromobacterium prodigiosum,,,,
+Escherichia coli,562,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",561,species
+Lactobacillus paracasei,,,,
+Lactobacillus plantarum,,,,
+Corynebacterium glutamicum,1718,"[1718, 1716, 1653, 85007, 1760, 201174, 1783272, 2, 131567, 1]",1716,species
+Clostridium,1485,"[1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",31979,genus
+Corynebacterium jekeium,,,,
+Escherichia coli,562,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",561,species
+Escherichia coli,562,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",561,species
+Actinomycetales,2037,"[2037, 1760, 201174, 1783272, 2, 131567, 1]",1760,order
+Mycobacterium tuberculosis,1773,"[1773, 77643, 1763, 1762, 85007, 1760, 201174, 1783272, 2, 131567, 1]",77643,species
+Methylobacterium,407,"[407, 119045, 356, 28211, 1224, 2, 131567, 1]",119045,genus
+Bifidobacteria catenulatum,,,,
+Lactococcus lactis,1358,"[1358, 1357, 1300, 186826, 91061, 1239, 1783272, 2, 131567, 1]",1357,species
+Lactobacillus gasseri,1596,"[1596, 1578, 33958, 186826, 91061, 1239, 1783272, 2, 131567, 1]",1578,species
+Bifidobacterium animalis subsp. lactis,302911,"[302911, 28025, 1678, 31953, 85004, 1760, 201174, 1783272, 2, 131567, 1]",28025,subspecies
+Escherichia coli,562,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",561,species
+Thermoanaerobacterium saccharolyticum,28896,"[28896, 28895, 186814, 68295, 186801, 1239, 1783272, 2, 131567, 1]",28895,species
+Synechococcus elongatus,32046,"[32046, 1129, 1890426, 1890424, 3028117, 1117, 1798711, 1783272, 2, 131567, 1]",1129,species
+Pseudomonas putida,303,"[303, 136845, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",136845,species
+Lactobacillus brevis,,,,
+Escherichia coli,562,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",561,species
+Bacillus cereus ,,,,
+Bacillus subtilis,1423,"[1423, 653685, 1386, 186817, 1385, 91061, 1239, 1783272, 2, 131567, 1]",653685,species
+Clostridium acetobutylicum,1488,"[1488, 1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",1485,species
+Clostridium beijerinckii,1520,"[1520, 1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",1485,species
+Clostridium butylicum,,,,
+Clostridium carboxidivorans,217159,"[217159, 1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",1485,species
+Clostridium cellulovorans,1493,"[1493, 1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",1485,species
+Clostridium pasteurianum ,,,,
+Clostridium tyrobutyricum,1519,"[1519, 1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",1485,species
+Cupriavidus basilensis,68895,"[68895, 106589, 119060, 80840, 28216, 1224, 2, 131567, 1]",106589,species
+Afipia,1033,"[1033, 41294, 356, 28211, 1224, 2, 131567, 1]",41294,genus
+Escherichia coli,562,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",561,species
+Synechococcus elongatus,32046,"[32046, 1129, 1890426, 1890424, 3028117, 1117, 1798711, 1783272, 2, 131567, 1]",1129,species
+Geobacillus thermoglucosidasius,,,,
+Escherichia coli,562,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",561,species
+Clostridium cellulolyticum,,,,
+Clostridium thermocellum,,,,
+Cupriavidus necator,106590,"[106590, 106589, 119060, 80840, 28216, 1224, 2, 131567, 1]",106589,species
+Escherichia coli,562,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",561,species
+Clostridium-like species,40725,"[40725, 39779, 186802, 186801, 1239, 1783272, 2, 131567, 1]",39779,species
+Arthrobacter,1663,"[1663, 1268, 85006, 1760, 201174, 1783272, 2, 131567, 1]",1268,genus
+Escherichia coli,562,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",561,species
+Pseudomonas putida,303,"[303, 136845, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",136845,species
+Christensenellaceae,990719,"[990719, 186802, 186801, 1239, 1783272, 2, 131567, 1]",186802,family
+Lachnospiraceae,186803,"[186803, 186802, 186801, 1239, 1783272, 2, 131567, 1]",186802,family
+Ruminococcaceae bacterium uba5295,1952376,"[1952376, 473772, 216572, 186802, 186801, 1239, 1783272, 2, 131567, 1]",473772,species
+Escherichia coli,562,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",561,species
+Escherichia coli,562,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",561,species
+Escherichia coli,562,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",561,species
+Klebsiella pneumoniae,573,"[573, 570, 2890311, 543, 91347, 1236, 1224, 2, 131567, 1]",570,species
+Lactobacillus casei group,655183,"[655183, 1578, 33958, 186826, 91061, 1239, 1783272, 2, 131567, 1]",1578,species group
+Escherichia coli,562,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",561,species
+Lactobacillus,1578,"[1578, 33958, 186826, 91061, 1239, 1783272, 2, 131567, 1]",33958,genus
+Enterobacter,547,"[547, 543, 91347, 1236, 1224, 2, 131567, 1]",543,genus
+Bifidobacterium,1678,"[1678, 31953, 85004, 1760, 201174, 1783272, 2, 131567, 1]",31953,genus
+Clostridium difficile,,,,
+Gluconobacter suboxydans,,,,
+Clostridium,1485,"[1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",31979,genus
+Klebsiella,570,"[570, 2890311, 543, 91347, 1236, 1224, 2, 131567, 1]",2890311,genus
+Staphylococcus,1279,"[1279, 90964, 1385, 91061, 1239, 1783272, 2, 131567, 1]",90964,genus
+Pseudomonas aeruginosa,287,"[287, 136841, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",136841,species
+Lactobacillus fermentum,,,,
+Eubacterium lentum,,,,
+Escherichia coli,562,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",561,species
+Enterococcus faecalis,1351,"[1351, 1350, 81852, 186826, 91061, 1239, 1783272, 2, 131567, 1]",1350,species
+Enterococcus faecium,1352,"[1352, 1350, 81852, 186826, 91061, 1239, 1783272, 2, 131567, 1]",1350,species
+Bifidobacterium bifidum,1681,"[1681, 1678, 31953, 85004, 1760, 201174, 1783272, 2, 131567, 1]",1678,species
+Acinetobacter baumannii,470,"[470, 909768, 469, 468, 2887326, 1236, 1224, 2, 131567, 1]",909768,species
+Bacteroides fragilis,817,"[817, 816, 815, 171549, 200643, 976, 68336, 1783270, 2, 131567, 1]",816,species
+Bacteroides thetaiotaomicron,818,"[818, 816, 815, 171549, 200643, 976, 68336, 1783270, 2, 131567, 1]",816,species
+Lactobacillus brevis,,,,
+Lactobacillus hilgardii,,,,
+Bacillus subtilis,1423,"[1423, 653685, 1386, 186817, 1385, 91061, 1239, 1783272, 2, 131567, 1]",653685,species
+Enterococcus faecium,1352,"[1352, 1350, 81852, 186826, 91061, 1239, 1783272, 2, 131567, 1]",1350,species
+Ketogulonicigenium vulgare,92945,"[92945, 92944, 2854170, 204455, 28211, 1224, 2, 131567, 1]",92944,species
+Meningococcus,,,,
+Salmonella enterica subsp. enterica serovar typhimurium,90371,"[90371, 59201, 28901, 590, 543, 91347, 1236, 1224, 2, 131567, 1]",59201,no rank
+Escherichia coli,562,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",561,species
+Pseudomonas aeruginosa,287,"[287, 136841, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",136841,species
+Salmonella enterica,28901,"[28901, 590, 543, 91347, 1236, 1224, 2, 131567, 1]",590,species
+Escherichia coli,562,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",561,species
+Pseudomonas aeruginosa,287,"[287, 136841, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",136841,species
+Escherichia coli,562,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",561,species
+Pseudomonas,286,"[286, 135621, 72274, 1236, 1224, 2, 131567, 1]",135621,genus
+Salmonella,590,"[590, 543, 91347, 1236, 1224, 2, 131567, 1]",543,genus
+Pseudomonas fluorescens,294,"[294, 136843, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",136843,species
+Human gut microbiota,,,,
+Clostridium,1485,"[1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",31979,genus
+Lactobacillus,1578,"[1578, 33958, 186826, 91061, 1239, 1783272, 2, 131567, 1]",33958,genus
+Clostridium sporogenes,1509,"[1509, 1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",1485,species
+Streptococcus thermophilus,1308,"[1308, 1301, 1300, 186826, 91061, 1239, 1783272, 2, 131567, 1]",1301,species
+Pediococcus acidilactici,1254,"[1254, 1670797, 1253, 33958, 186826, 91061, 1239, 1783272, 2, 131567, 1]",1670797,species
+Pediococcus pentosaceus,1255,"[1255, 1253, 33958, 186826, 91061, 1239, 1783272, 2, 131567, 1]",1253,species
+Lactococcus lactis,1358,"[1358, 1357, 1300, 186826, 91061, 1239, 1783272, 2, 131567, 1]",1357,species
+Lactobacillus delbrueckii,1584,"[1584, 1578, 33958, 186826, 91061, 1239, 1783272, 2, 131567, 1]",1578,species
+Lactobacillus helveticus,1587,"[1587, 1578, 33958, 186826, 91061, 1239, 1783272, 2, 131567, 1]",1578,species
+Lactobacillus plantarum,,,,
+Geobacillus stearothermophilus,1422,"[1422, 129337, 186817, 1385, 91061, 1239, 1783272, 2, 131567, 1]",129337,species
+Escherichia coli,562,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",561,species
+Enterococcus faecalis,1351,"[1351, 1350, 81852, 186826, 91061, 1239, 1783272, 2, 131567, 1]",1350,species
+Enterococcus faecium,1352,"[1352, 1350, 81852, 186826, 91061, 1239, 1783272, 2, 131567, 1]",1350,species
+Enterobacter aerogenes,,,,
+Clostridium acetobutylicum,1488,"[1488, 1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",1485,species
+Clostridium sporogenes,1509,"[1509, 1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",1485,species
+Alicyclobacillus acidocaldarius,405212,"[405212, 29330, 186823, 1385, 91061, 1239, 1783272, 2, 131567, 1]",29330,species
+Bifidobacterium longum,216816,"[216816, 1678, 31953, 85004, 1760, 201174, 1783272, 2, 131567, 1]",1678,species
+Wolinella succinogenes,844,"[844, 843, 72293, 213849, 3031852, 29547, 2, 131567, 1]",843,species
+Megasphaera elsdenii,907,"[907, 906, 31977, 1843489, 909932, 1239, 1783272, 2, 131567, 1]",906,species
+Bacteroides ruminicola,,,,
+Butyrivibrio fibrisolvens,831,"[831, 830, 186803, 186802, 186801, 1239, 1783272, 2, 131567, 1]",830,species
+Xenorhabdus nematophila,628,"[628, 626, 1903414, 91347, 1236, 1224, 2, 131567, 1]",626,species
+Clostridium sporogenes,1509,"[1509, 1485, 31979, 186802, 186801, 1239, 1783272, 2, 131567, 1]",1485,species
+Lactobacillus,1578,"[1578, 33958, 186826, 91061, 1239, 1783272, 2, 131567, 1]",33958,genus
+Escherichia coli,562,"[562, 561, 543, 91347, 1236, 1224, 2, 131567, 1]",561,species
+Pseudomonas putida,303,"[303, 136845, 286, 135621, 72274, 1236, 1224, 2, 131567, 1]",136845,species
