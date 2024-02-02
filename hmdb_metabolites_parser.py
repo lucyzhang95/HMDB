@@ -228,8 +228,8 @@ def load_hmdb_data() -> Iterator[dict]:
     pathways, diseases, and proteins, state, status, anatomical locations
     """
     path = Path.cwd()
-    file_path = os.path.join(path, "source/hmdb_metabolites.zip")
-    file_name = "source/hmdb_metabolites.xml"
+    file_path = os.path.join(path, "source", "hmdb_metabolites.zip")
+    file_name = "hmdb_metabolites.xml"
 
     with zipfile.ZipFile(file_path, "r") as zip_f:
         with zip_f.open(file_name) as xml_f:
