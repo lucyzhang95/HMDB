@@ -80,7 +80,7 @@ def get_all_microbe_names(input_xml: str | pathlib.Path) -> Iterator[str]:
                                 )
                                 # The first item is always "Microbe", so skip it
                                 for microbe_name in microbe_descendants[1:]:
-                                    yield microbe_name.text
+                                    yield microbe_name.text.strip()
 
 
 def get_taxon_info(microbial_names: set) -> dict:
