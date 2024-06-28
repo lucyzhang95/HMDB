@@ -262,7 +262,7 @@ def load_hmdb_data() -> Iterator[dict]:
                                 output["_id"] = metabolite.text
                         elif tname == "name":
                             if metabolite.text:
-                                output["name"] = metabolite.text
+                                output["name"] = metabolite.text.lower()
                         elif tname in tname_list:
                             if metabolite.text:
                                 if "_id" in tname:
@@ -335,7 +335,7 @@ def load_hmdb_data() -> Iterator[dict]:
                                 if pathways:
                                     for pathway in pathways.iter("{http://www.hmdb.ca}pathway"):
                                         pathway_dict = {
-                                            "name": pathway.findtext("{http://www.hmdb.ca}name"),
+                                            "name": pathway.findtext("{http://www.hmdb.ca}name").lower(),
                                             "kegg_map_id": pathway.findtext(
                                                 "{http://www.hmdb.ca}kegg_map_id"
                                             ),
@@ -348,7 +348,7 @@ def load_hmdb_data() -> Iterator[dict]:
                             for diseases in metabolite.iter("{http://www.hmdb.ca}disease"):
                                 if diseases:
                                     disease_dict = {
-                                        "name": diseases.findtext("{http://www.hmdb.ca}name")
+                                        "name": diseases.findtext("{http://www.hmdb.ca}name").lower()
                                     }
                                     if diseases.findtext("{http://www.hmdb.ca}omim_id"):
                                         disease_dict[
@@ -363,7 +363,7 @@ def load_hmdb_data() -> Iterator[dict]:
                             for proteins in metabolite.iter("{http://www.hmdb.ca}protein"):
                                 if proteins:
                                     protein_dict = {
-                                        "name": proteins.findtext("{http://www.hmdb.ca}name"),
+                                        "name": proteins.findtext("{http://www.hmdb.ca}name").lower(),
                                         "uniprotkb": proteins.findtext(
                                             "{http://www.hmdb.ca}uniprot_id"
                                         ),
