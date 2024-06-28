@@ -329,7 +329,7 @@ def load_hmdb_data() -> Iterator[dict]:
                                 )
                                 if biospec_loc:
                                     specimens = [specimen.text.lower() for specimen in biospec_loc]
-                                    output["biospecimen_samples"] = specimens
+                                    output["sources"] = specimens
 
                                 pathways = child.find("{http://www.hmdb.ca}pathways")
                                 if pathways:
@@ -407,5 +407,5 @@ def load_hmdb_data() -> Iterator[dict]:
 if __name__ == "__main__":
     hmdb_data = load_hmdb_data()
     for obj in hmdb_data:
-        if "associated_microbes" in obj:
+        if obj["_id"] == "HMDB0000020":
             print(obj)
