@@ -414,8 +414,10 @@ def load_hmdb_data() -> Iterator[dict]:
                     yield output
 
 
-if __name__ == "__main__":
-    hmdb_data = load_hmdb_data()
-    for obj in hmdb_data:
-        if obj["_id"] == "HMDB0000020":
-            print(obj)
+# if __name__ == "__main__":
+#     import pickle
+#     hmdb_data = load_hmdb_data()
+#     for obj in hmdb_data:
+#         if "associated_microbes" in obj:
+#             with open("data/hmdb_microbe_metabolites.pkl", "wb") as handle:
+#                 pickle.dump(obj, handle, protocol=pickle.HIGHEST_PROTOCOL)
