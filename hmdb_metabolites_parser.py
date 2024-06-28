@@ -218,6 +218,21 @@ def replace_dict_keys(d: dict, new_k: str, old_k: str):
         del d["xrefs"][old_k]
 
 
+def add_biolink_type(output_d: dict, output_key: str, biolink_type: str):
+    """adds a Biolink model type to each dictionary in a list within a given key of an output dictionary.
+    This function checks if a specified key exists in the provided dictionary and
+    for each dictionary in the list, the function adds a new key-value pair provided Biolink type
+
+    :param output_d: output dict
+    :param output_key: output dictionary entity key
+    :param biolink_type: biolink model type
+    :return: None
+    """
+    if output_key in output_d and isinstance(output_d[output_key], list):
+        for d in output_d[output_key]:
+            d["type"] = biolink_type
+
+
 def load_hmdb_data() -> Iterator[dict]:
     """load data from HMDB database
 
@@ -411,13 +426,20 @@ def load_hmdb_data() -> Iterator[dict]:
                                 else:
                                     taxon_dict["type"] = "biolink:OrganismalEntity"
 
+                    # add biolink type to associated_pathways
+                    add_biolink_type(output, "associated_pathways", "biolink:Pathway")
+                    # add disease type to associated_diseases
+                    add_biolink_type(output, "associated_diseases", "biolink:Disease")
+                    # add biolink type to associated_proteins
+                    add_biolink_type(output, "associated_proteins", "biolink:Protein")
+
                     yield output
 
 
-# if __name__ == "__main__":
-#     import pickle
-#     hmdb_data = load_hmdb_data()
-#     for obj in hmdb_data:
-#         if "associated_microbes" in obj:
-#             with open("data/hmdb_microbe_metabolites.pkl", "wb") as handle:
-#                 pickle.dump(obj, handle, protocol=pickle.HIGHEST_PROTOCOL)
+if __name__ == "__main__":
+    hmdb_data = load_hmdb_data()
+    examp = [print(obj) for obj in hmdb_data if obj["_id"] == "HMDB0000020"]
+    print(examp)
+    parser_o = [obj for obj in hmdb_data if "associated_microbes" in obj]
+    with open("data/hmdb_microbe_metabolites.pkl", "wb") as handle:
+        pickle.dump(parser_o, handle, protocol=pickle.HIGHEST_PROTOCOL)
