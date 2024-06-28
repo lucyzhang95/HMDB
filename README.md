@@ -5,13 +5,13 @@ Current output:
 ```ruby
 {
    "_id":"HMDB0000020",
-   "name":"p-Hydroxyphenylacetic acid",
+   "name":"p-hydroxyphenylacetic acid",
    "chemical_formula":"C8H8O3",
    "description":"p-Hydroxyphenylacetic acid, also known as 4-hydroxybenzeneacetate, is classified as a member of the 1-hydroxy-2-unsubstituted benzenoids. 1-Hydroxy-2-unsubstituted benzenoids are phenols that are unsubstituted at the 2-position. p-Hydroxyphenylacetic acid is considered to be slightly soluble (in water) and acidic.\\xa0 p-Hydroxyphenylacetic acid can be synthesized from acetic acid. It is also a parent compound for other transformation products, including but not limited to, methyl 2-(4-hydroxyphenyl)acetate, ixerochinolide, and lactucopicrin 15-oxalate.\\xa0 p-Hydroxyphenylacetic acid can be found in numerous foods such as olives, cocoa beans, oats, and mushrooms. p-Hydroxyphenylacetic acid can be found throughout all human tissues and in all biofluids. Within a cell, p-hydroxyphenylacetic acid is primarily located in the cytoplasm and in the extracellular space. p-Hydroxyphenylacetic acid is also a microbial metabolite produced by Acinetobacter, Clostridium, Klebsiella, Pseudomonas, and Proteus. Higher levels of this metabolite are associated with an overgrowth of small intestinal bacteria from Clostridia species including C. difficile, C. stricklandii, C. lituseburense, C. subterminale, C. putrefaciens, and C. propionicum (PMID: 476929, 12173102). p-Hydroxyphenylacetic acid is detected after the consumption of whole grain.",
    "xrefs":{
       "smiles":"OC(=O)CC1=CC=C(O)C=C1",
       "inchikey":"XQXPVVBIMDBYFF-UHFFFAOYSA-N",
-      "kegg":"KEGG.COMPOUND:C00642",
+      "kegg_compound":"KEGG.COMPOUND:C00642",
       "pubchem_cid":"PUBCHEM.COMPOUND:127",
       "chebi":"CHEBI:18101",
       "chemspider":"CHEMSPIDER:124",
@@ -34,7 +34,8 @@ Current output:
             1
          ],
          "parent_taxid":136841,
-         "rank":"species"
+         "rank":"species",
+         "type":"biolink:Bacterium"
       },
       {
          "taxid":573,
@@ -52,7 +53,8 @@ Current output:
             1
          ],
          "parent_taxid":570,
-         "rank":"species"
+         "rank":"species",
+         "type":"biolink:Bacterium"
       },
       {
          "taxid":470,
@@ -70,7 +72,8 @@ Current output:
             1
          ],
          "parent_taxid":909768,
-         "rank":"species"
+         "rank":"species",
+         "type":"biolink:Bacterium"
       },
       {
          "scientific_name":"clostridium difficile"
@@ -97,7 +100,8 @@ Current output:
             1
          ],
          "parent_taxid":1485,
-         "rank":"species"
+         "rank":"species",
+         "type":"biolink:Bacterium"
       },
       {
          "scientific_name":"clostridium stricklandii"
@@ -118,46 +122,47 @@ Current output:
             1
          ],
          "parent_taxid":1485,
-         "rank":"species"
+         "rank":"species",
+         "type":"biolink:Bacterium"
       }
    ],
    "associated_pathways":[
       {
-         "name":"Alkaptonuria",
+         "name":"alkaptonuria",
          "smpdb_id":"SMP00169"
       },
       {
-         "name":"Disulfiram Action Pathway",
+         "name":"disulfiram action pathway",
          "smpdb_id":"SMP00429"
       },
       {
-         "name":"Dopamine beta-hydroxylase deficiency",
+         "name":"dopamine beta-hydroxylase deficiency",
          "smpdb_id":"SMP00498"
       },
       {
-         "name":"Hawkinsinuria",
+         "name":"hawkinsinuria",
          "smpdb_id":"SMP00190"
       },
       {
-         "name":"Monoamine oxidase-a deficiency (MAO-A)",
+         "name":"monoamine oxidase-a deficiency (mao-a)",
          "smpdb_id":"SMP00533"
       },
       {
-         "name":"Tyrosine metabolism",
+         "name":"tyrosine metabolism",
          "kegg_map_id":"map00350"
       },
       {
-         "name":"Tyrosinemia Type I",
+         "name":"tyrosinemia type i",
          "smpdb_id":"SMP00218"
       },
       {
-         "name":"Tyrosinemia, transient, of the newborn",
+         "name":"tyrosinemia, transient, of the newborn",
          "smpdb_id":"SMP00494"
       }
    ],
    "associated_diseases":[
       {
-         "name":"Schizophrenia",
+         "name":"schizophrenia",
          "omim":"OMIM:181500",
          "pmid":[
             115032,
@@ -195,7 +200,7 @@ Current output:
          ]
       },
       {
-         "name":"Epilepsy",
+         "name":"epilepsy",
          "pmid":[
             14992292,
             7869898,
@@ -213,7 +218,7 @@ Current output:
          ]
       },
       {
-         "name":"Colorectal cancer",
+         "name":"colorectal cancer",
          "omim":"OMIM:114500",
          "pmid":[
             7482520,
@@ -233,7 +238,7 @@ Current output:
          ]
       },
       {
-         "name":"Ulcerative colitis",
+         "name":"ulcerative colitis",
          "pmid":[
             21059682,
             1740537,
@@ -251,7 +256,7 @@ Current output:
          ]
       },
       {
-         "name":"Crohn's disease",
+         "name":"crohn's disease",
          "omim":"OMIM:266600",
          "pmid":[
             16440420,
@@ -270,7 +275,7 @@ Current output:
          ]
       },
       {
-         "name":"Lung Cancer",
+         "name":"lung cancer",
          "omim":"OMIM:211980",
          "pmid":[
             22157537,
@@ -279,7 +284,7 @@ Current output:
          ]
       },
       {
-         "name":"Spina Bifida",
+         "name":"spina bifida",
          "omim":"OMIM:182940",
          "pmid":[
             15681999,
@@ -288,11 +293,11 @@ Current output:
          ]
       },
       {
-         "name":"Eosinophilic esophagitis",
+         "name":"eosinophilic esophagitis",
          "omim":"OMIM:610247"
       },
       {
-         "name":"Perillyl alcohol administration for cancer treatment",
+         "name":"perillyl alcohol administration for cancer treatment",
          "pmid":[
             17668437,
             15607313,
@@ -307,7 +312,7 @@ Current output:
          ]
       },
       {
-         "name":"Fumarase deficiency",
+         "name":"fumarase deficiency",
          "omim":"OMIM:606812",
          "pmid":[
             26078636,
@@ -318,7 +323,7 @@ Current output:
          ]
       },
       {
-         "name":"Phenylketonuria",
+         "name":"phenylketonuria",
          "omim":"OMIM:261600",
          "pmid":[
             7333014,
@@ -337,27 +342,27 @@ Current output:
    ],
    "associated_proteins":[
       {
-         "name":"Aldehyde dehydrogenase, dimeric NADP-preferring",
+         "name":"aldehyde dehydrogenase, dimeric nadp-preferring",
          "uniprotkb":"P30838"
       },
       {
-         "name":"Aldehyde dehydrogenase family 1 member A3",
+         "name":"aldehyde dehydrogenase family 1 member a3",
          "uniprotkb":"P47895"
       },
       {
-         "name":"UDP-glucuronosyltransferase 1-1",
+         "name":"udp-glucuronosyltransferase 1-1",
          "uniprotkb":"P22309"
       },
       {
-         "name":"Aldehyde dehydrogenase family 3 member B2",
+         "name":"aldehyde dehydrogenase family 3 member b2",
          "uniprotkb":"P48448"
       },
       {
-         "name":"Aldehyde dehydrogenase family 3 member B1",
+         "name":"aldehyde dehydrogenase family 3 member b1",
          "uniprotkb":"P43353"
       },
       {
-         "name":"Sulfotransferase 1A3",
+         "name":"sulfotransferase 1a3",
          "uniprotkb":"P0DMM9"
       }
    ],
@@ -365,7 +370,7 @@ Current output:
    "average_mw":152.1473,
    "monoisotopic_mw":152.047344122,
    "state":"solid",
-   "biospecimen_samples":[
+   "sources":[
       "blood",
       "cerebrospinal fluid (csf)",
       "feces",
