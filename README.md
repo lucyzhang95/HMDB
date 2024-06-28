@@ -129,35 +129,43 @@ Current output:
    "associated_pathways":[
       {
          "name":"alkaptonuria",
-         "smpdb_id":"SMP00169"
+         "smpdb_id":"SMP00169",
+         "type":"biolink:Pathway"
       },
       {
          "name":"disulfiram action pathway",
-         "smpdb_id":"SMP00429"
+         "smpdb_id":"SMP00429",
+         "type":"biolink:Pathway"
       },
       {
          "name":"dopamine beta-hydroxylase deficiency",
-         "smpdb_id":"SMP00498"
+         "smpdb_id":"SMP00498",
+         "type":"biolink:Pathway"
       },
       {
          "name":"hawkinsinuria",
-         "smpdb_id":"SMP00190"
+         "smpdb_id":"SMP00190",
+         "type":"biolink:Pathway"
       },
       {
          "name":"monoamine oxidase-a deficiency (mao-a)",
-         "smpdb_id":"SMP00533"
+         "smpdb_id":"SMP00533",
+         "type":"biolink:Pathway"
       },
       {
          "name":"tyrosine metabolism",
-         "kegg_map_id":"map00350"
+         "kegg_map_id":"map00350",
+         "type":"biolink:Pathway"
       },
       {
          "name":"tyrosinemia type i",
-         "smpdb_id":"SMP00218"
+         "smpdb_id":"SMP00218",
+         "type":"biolink:Pathway"
       },
       {
          "name":"tyrosinemia, transient, of the newborn",
-         "smpdb_id":"SMP00494"
+         "smpdb_id":"SMP00494",
+         "type":"biolink:Pathway"
       }
    ],
    "associated_diseases":[
@@ -197,7 +205,8 @@ Current output:
             17440431,
             25729574,
             22257447
-         ]
+         ],
+         "type":"biolink:Disease"
       },
       {
          "name":"epilepsy",
@@ -215,7 +224,8 @@ Current output:
             19817812,
             10688964,
             436860
-         ]
+         ],
+         "type":"biolink:Disease"
       },
       {
          "name":"colorectal cancer",
@@ -235,7 +245,8 @@ Current output:
             27107423,
             27275383,
             28587349
-         ]
+         ],
+         "type":"biolink:Disease"
       },
       {
          "name":"ulcerative colitis",
@@ -253,7 +264,8 @@ Current output:
             26848182,
             27609529,
             28842642
-         ]
+         ],
+         "type":"biolink:Disease"
       },
       {
          "name":"crohn's disease",
@@ -272,7 +284,8 @@ Current output:
             26848182,
             27609529,
             28842642
-         ]
+         ],
+         "type":"biolink:Disease"
       },
       {
          "name":"lung cancer",
@@ -281,7 +294,8 @@ Current output:
             22157537,
             18953024,
             25961003
-         ]
+         ],
+         "type":"biolink:Disease"
       },
       {
          "name":"spina bifida",
@@ -290,11 +304,13 @@ Current output:
             15681999,
             4903899,
             6084371
-         ]
+         ],
+         "type":"biolink:Disease"
       },
       {
          "name":"eosinophilic esophagitis",
-         "omim":"OMIM:610247"
+         "omim":"OMIM:610247",
+         "type":"biolink:Disease"
       },
       {
          "name":"perillyl alcohol administration for cancer treatment",
@@ -309,7 +325,8 @@ Current output:
             22061338,
             19783829,
             19010317
-         ]
+         ],
+         "type":"biolink:Disease"
       },
       {
          "name":"fumarase deficiency",
@@ -320,7 +337,8 @@ Current output:
             24182348,
             6616883,
             16972175
-         ]
+         ],
+         "type":"biolink:Disease"
       },
       {
          "name":"phenylketonuria",
@@ -337,33 +355,40 @@ Current output:
             25964343,
             15168722,
             4837567
-         ]
+         ],
+         "type":"biolink:Disease"
       }
    ],
    "associated_proteins":[
       {
          "name":"aldehyde dehydrogenase, dimeric nadp-preferring",
-         "uniprotkb":"P30838"
+         "uniprotkb":"P30838",
+         "type":"biolink:Protein"
       },
       {
          "name":"aldehyde dehydrogenase family 1 member a3",
-         "uniprotkb":"P47895"
+         "uniprotkb":"P47895",
+         "type":"biolink:Protein"
       },
       {
          "name":"udp-glucuronosyltransferase 1-1",
-         "uniprotkb":"P22309"
+         "uniprotkb":"P22309",
+         "type":"biolink:Protein"
       },
       {
          "name":"aldehyde dehydrogenase family 3 member b2",
-         "uniprotkb":"P48448"
+         "uniprotkb":"P48448",
+         "type":"biolink:Protein"
       },
       {
          "name":"aldehyde dehydrogenase family 3 member b1",
-         "uniprotkb":"P43353"
+         "uniprotkb":"P43353",
+         "type":"biolink:Protein"
       },
       {
          "name":"sulfotransferase 1a3",
-         "uniprotkb":"P0DMM9"
+         "uniprotkb":"P0DMM9",
+         "type":"biolink:Protein"
       }
    ],
    "status":"quantified",
