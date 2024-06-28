@@ -278,7 +278,9 @@ def load_hmdb_data() -> Iterator[dict]:
                                 )
                         elif tname == "kegg_id":
                             if metabolite.text:
-                                output["xrefs"].update({"kegg_compound": f"KEGG.COMPOUND:{metabolite.text}"})
+                                output["xrefs"].update(
+                                    {"kegg_compound": f"KEGG.COMPOUND:{metabolite.text}"}
+                                )
                         elif tname == "status":
                             if metabolite.text:
                                 output["status"] = metabolite.text
@@ -335,7 +337,9 @@ def load_hmdb_data() -> Iterator[dict]:
                                 if pathways:
                                     for pathway in pathways.iter("{http://www.hmdb.ca}pathway"):
                                         pathway_dict = {
-                                            "name": pathway.findtext("{http://www.hmdb.ca}name").lower(),
+                                            "name": pathway.findtext(
+                                                "{http://www.hmdb.ca}name"
+                                            ).lower(),
                                             "kegg_map_id": pathway.findtext(
                                                 "{http://www.hmdb.ca}kegg_map_id"
                                             ),
@@ -348,7 +352,9 @@ def load_hmdb_data() -> Iterator[dict]:
                             for diseases in metabolite.iter("{http://www.hmdb.ca}disease"):
                                 if diseases:
                                     disease_dict = {
-                                        "name": diseases.findtext("{http://www.hmdb.ca}name").lower()
+                                        "name": diseases.findtext(
+                                            "{http://www.hmdb.ca}name"
+                                        ).lower()
                                     }
                                     if diseases.findtext("{http://www.hmdb.ca}omim_id"):
                                         disease_dict[
@@ -363,7 +369,9 @@ def load_hmdb_data() -> Iterator[dict]:
                             for proteins in metabolite.iter("{http://www.hmdb.ca}protein"):
                                 if proteins:
                                     protein_dict = {
-                                        "name": proteins.findtext("{http://www.hmdb.ca}name").lower(),
+                                        "name": proteins.findtext(
+                                            "{http://www.hmdb.ca}name"
+                                        ).lower(),
                                         "uniprotkb": proteins.findtext(
                                             "{http://www.hmdb.ca}uniprot_id"
                                         ),
@@ -387,7 +395,9 @@ def load_hmdb_data() -> Iterator[dict]:
                     replace_dict_keys(output, "pdb", "pdb_id")
 
                     # assign microbial type following biolink schema
-                    if "associated_microbes" in output and isinstance(output["associated_microbes"], list):
+                    if "associated_microbes" in output and isinstance(
+                        output["associated_microbes"], list
+                    ):
                         for taxon_dict in output["associated_microbes"]:
                             if "lineage" in taxon_dict:
                                 if 2 in taxon_dict["lineage"]:
