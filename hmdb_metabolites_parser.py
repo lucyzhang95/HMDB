@@ -209,7 +209,7 @@ def replace_dict_keys(d: dict, new_k: str, old_k: str):
     and delete the old dictionary
 
     :param d: output_dict
-    :param new_k: "kegg", "chebi", "bigg", etc.
+    :param new_k: "kegg_compound", "chebi", "bigg", etc.
     :param old_k: "kegg_id", "chebi_id", "bigg_id", etc.
     :return: updated output dictionary
     """
@@ -278,7 +278,7 @@ def load_hmdb_data() -> Iterator[dict]:
                                 )
                         elif tname == "kegg_id":
                             if metabolite.text:
-                                output["xrefs"].update({"kegg": f"KEGG.COMPOUND:{metabolite.text}"})
+                                output["xrefs"].update({"kegg_compound": f"KEGG.COMPOUND:{metabolite.text}"})
                         elif tname == "status":
                             if metabolite.text:
                                 output["status"] = metabolite.text
