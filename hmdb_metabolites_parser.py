@@ -115,8 +115,7 @@ def get_taxon_info(microbial_names: set) -> dict:
         taxon_d = defaultdict(list)
         for d in taxon_info:
             if "notfound" not in d:
-                # taxid 2 is bacteria super kingdom on ncbi taxon browser
-                if 2 in d["lineage"] and d["rank"] != "subgenus":
+                if d["rank"] != "subgenus":
                     taxon_d[d["query"]].append((d["_score"]))
 
         # Take the highest score associated with the query microbial name
@@ -132,7 +131,7 @@ def get_taxon_info(microbial_names: set) -> dict:
                     "parent_taxid": d["parent_taxid"],
                     "rank": d["rank"],
                 }
-        # print(unique_taxon_d)
+        print(unique_taxon_d)
         yield unique_taxon_d
 
 
@@ -386,4 +385,27 @@ def load_hmdb_data() -> Iterator[dict]:
                     replace_dict_keys(output, "drugbank", "drugbank_id")
                     replace_dict_keys(output, "foodb", "foodb_id")
                     replace_dict_keys(output, "pdb", "pdb_id")
+
+                    # assign microbial type following biolink schema
+                    if "associated_microbes" in output and isinstance(output["associated_microbes"], list):
+                        for taxon_dict in output["associated_microbes"]:
+                            if "lineage" in taxon_dict:
+                                if 2 in taxon_dict["lineage"]:
+                                    taxon_dict["type"] = "biolink:Bacterium"
+                                elif 10239 in taxon_dict["lineage"]:
+                                    taxon_dict["type"] = "biolink:Virus"
+                                elif 4751 in taxon_dict["lineage"]:
+                                    taxon_dict["type"] = "biolink:Fungus"
+                                elif 2157 in taxon_dict["lineage"]:
+                                    taxon_dict["type"] = "biolink:Archaea"
+                                else:
+                                    taxon_dict["type"] = "biolink:OrganismalEntity"
+
                     yield output
+
+
+if __name__ == "__main__":
+    hmdb_data = load_hmdb_data()
+    for obj in hmdb_data:
+        if "associated_microbes" in obj:
+            print(obj)
