@@ -233,10 +233,10 @@ def add_biolink_type(output_d: dict, output_key: str, biolink_type: str):
             d["type"] = biolink_type
 
 
-def load_hmdb_data() -> Iterator[dict]:
+def load_hmdb_data(data_path) -> Iterator[dict]:
     """load data from HMDB database
 
-
+    :param data_path: path required for biothings_cli data upload (not used if run locally)
     :return: a generator consists of an iterator of dictionaries containing hmdb accession id,
     metabolite name, chemical_formula, description, cross-reference ontologies, associated_microbes,
     pathways, diseases, and proteins, state, status, anatomical locations
@@ -438,8 +438,10 @@ def load_hmdb_data() -> Iterator[dict]:
 
 # if __name__ == "__main__":
 #     hmdb_data = load_hmdb_data()
-#     # examp = [print(obj) for obj in hmdb_data if obj["_id"] == "HMDB0000020"]
-#     # print(examp)
-#     parser_o = [obj for obj in hmdb_data if "associated_microbes" in obj]
-#     with open("data/hmdb_microbe_metabolites.pkl", "wb") as handle:
-#         pickle.dump(parser_o, handle, protocol=pickle.HIGHEST_PROTOCOL)
+    # examp = [print(obj) for obj in hmdb_data if obj["_id"] == "HMDB0000020"]
+    # print(examp)
+    # parser_o = [obj for obj in hmdb_data if "associated_microbes" in obj]
+    # print(parser_o)
+    # print(len(set(parser_o)))
+    # with open("data/hmdb_microbe_metabolites.pkl", "wb") as handle:
+    #     pickle.dump(parser_o, handle, protocol=pickle.HIGHEST_PROTOCOL)
