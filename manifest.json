@@ -1,0 +1,19 @@
+{
+  "version": "0.3",
+  "__metadata__": {
+    "url": "https://hmdb.ca/",
+    "description": "The Human Metabolome Database"
+  },
+  "display_name": "HMDB",
+  "biothing_type": "chemical",
+  "requires": ["requests","ete3", "bs4"],
+  "dumper": {
+    "data_url": ["https://hmdb.ca/system/downloads/current/hmdb_metabolites.zip"],
+    "uncompress" : true,
+    "release": "version:get_release"
+  },
+  "uploader": {
+    "parser": "hmdb_metabolites_parser:load_hmdb_data",
+    "on_duplicates": "error"
+  }
+}
