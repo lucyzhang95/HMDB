@@ -1,15 +1,26 @@
 import os
 import pathlib
 import pickle
+from typing import Union
 
 # import time
 import xml.etree.ElementTree as ET
-import zipfile
 from collections import defaultdict
 from collections.abc import Iterator
 from pathlib import Path
 
 import biothings_client
+
+from biothings import config
+
+
+def plugin_directory() -> pathlib.Path:
+    """
+    Returns the plugin directory for accessing local data
+    """
+    plugin_name = "HMDB_data"
+    plugin_path = pathlib.Path(config.DATA_PLUGIN_FOLDER) / plugin_name
+    return plugin_path.resolve().absolute()
 
 
 def strip_tag_namespace(tag: str) -> str:
@@ -65,13 +76,19 @@ def get_all_microbe_names(input_xml: str | pathlib.Path) -> Iterator[str]:
     :param input_xml: hmdb_metabolites.xml file
     :return: an iterator of strings of microbial names
     """
-    if not os.path.exists("data/hmdb_mapped_taxon.pkl"):
+    plugin_path = plugin_directory()
+    data_path = Path(plugin_path) / "data"
+    hmdb_mapped_taxon_path = data_path.joinpath("hmdb_mapped_taxon.pkl")
+
+    if not os.path.exists(str(hmdb_mapped_taxon_path)):
         for event, elem in ET.iterparse(input_xml, events=("start", "end")):
             if event == "end" and elem.tag.endswith("metabolite"):
                 for metabolite in elem:
                     tagname = strip_tag_namespace(metabolite.tag)
                     if tagname == "ontology":
-                        for descendant in metabolite.iter("{http://www.hmdb.ca}descendant"):
+                        for descendant in metabolite.iter(
+                            "{http://www.hmdb.ca}descendant"
+                        ):
                             term = descendant.findall("{http://www.hmdb.ca}term")
                             if term and term[0].text == "Microbe":
                                 # findall returns a list of items
@@ -97,7 +114,12 @@ def get_taxon_info(microbial_names: set) -> dict:
     :return: a dictionary contains all taxid and associated info
     """
     t = biothings_client.get_client("taxon")
-    if not os.path.exists("data/hmdb_mapped_taxon.pkl"):
+
+    plugin_path = plugin_directory()
+    data_path = Path(plugin_path) / "data"
+    hmdb_mapped_taxon_path = data_path.joinpath("hmdb_mapped_taxon.pkl")
+
+    if not os.path.exists(str(hmdb_mapped_taxon_path)):
         taxon_info = t.querymany(
             microbial_names,
             scopes="scientific_name",
@@ -233,7 +255,7 @@ def add_biolink_type(output_d: dict, output_key: str, biolink_type: str):
             d["type"] = biolink_type
 
 
-def load_hmdb_data(data_path) -> Iterator[dict]:
+def load_hmdb_data(data_path: Union[str, Path]) -> Iterator[dict]:
     """load data from HMDB database
 
     :param data_path: path required for biothings_cli data upload (not used if run locally)
@@ -241,207 +263,224 @@ def load_hmdb_data(data_path) -> Iterator[dict]:
     metabolite name, chemical_formula, description, cross-reference ontologies, associated_microbes,
     pathways, diseases, and proteins, state, status, anatomical locations
     """
-    path = Path.cwd()
-    file_path = os.path.join(path, "source", "hmdb_metabolites.zip")
     file_name = "hmdb_metabolites.xml"
+    metabolites_file = os.path.join(data_path, file_name)
 
-    with zipfile.ZipFile(file_path, "r") as zip_f:
-        with zip_f.open(file_name) as xml_f:
-            save_mapped_taxon_to_pkl(xml_f, "data/hmdb_mapped_taxon.pkl")
-            for event, elem in ET.iterparse(xml_f, events=("start", "end")):
-                if event == "end" and elem.tag.endswith("metabolite"):
-                    output = {
-                        "_id": None,
-                        "name": None,
-                        "chemical_formula": None,
-                        "description": None,
-                        "xrefs": {},
-                        "associated_microbes": [],
-                        "associated_pathways": [],
-                        "associated_diseases": [],
-                        "associated_proteins": [],
-                    }
-                    for metabolite in elem:
-                        tname = strip_tag_namespace(metabolite.tag)
-                        tname_list = [
-                            "chebi_id",
-                            "chemspider_id",
-                            "drugbank_id",
-                            "foodb_id",
-                            "smiles",
-                            "inchikey",
-                            "pdb_id",
-                        ]
-                        if tname == "accession":
-                            if metabolite.text:
-                                output["_id"] = metabolite.text
-                        elif tname == "name":
-                            if metabolite.text:
-                                output["name"] = metabolite.text.lower()
-                        elif tname in tname_list:
-                            if metabolite.text:
-                                if "_id" in tname:
-                                    prefix = tname.replace("_id", "").upper()
-                                    xref_ids = {tname: f"{prefix}:{metabolite.text}"}
-                                else:
-                                    xref_ids = {tname: metabolite.text}
-                                output["xrefs"].update(xref_ids)
-                        elif tname == "pubchem_compound_id":
-                            if metabolite.text:
-                                output["xrefs"].update(
-                                    {"pubchem_cid": f"PUBCHEM.COMPOUND:{int(metabolite.text)}"}
-                                )
-                        elif tname == "kegg_id":
-                            if metabolite.text:
-                                output["xrefs"].update(
-                                    {"kegg_compound": f"KEGG.COMPOUND:{metabolite.text}"}
-                                )
-                        elif tname == "status":
-                            if metabolite.text:
-                                output["status"] = metabolite.text
-                        elif tname == "description":
-                            if metabolite.text:
-                                output["description"] = metabolite.text
-                        elif tname == "state":
-                            if metabolite.text:
-                                output["state"] = metabolite.text.lower()
-                        elif tname == "chemical_formula":
-                            if metabolite.text:
-                                output["chemical_formula"] = metabolite.text
-                        elif tname == "average_molecular_weight":
-                            if metabolite.text:
-                                output["average_mw"] = float(metabolite.text)
-                        elif tname == "monisotopic_molecular_weight":
-                            if metabolite.text:
-                                output["monoisotopic_mw"] = float(metabolite.text)
-                        elif tname == "ontology":
-                            for descendant in metabolite.iter("{http://www.hmdb.ca}descendant"):
-                                term = descendant.findall("{http://www.hmdb.ca}term")
-                                if term and term[0].text == "Microbe":
-                                    microbe_descendants = descendant.findall(
-                                        ".//{http://www.hmdb.ca}term"
-                                    )
-                                    # The output of microbe_descendants = ['Microbe', 'Alcaligenes', 'Alcaligenes eutrophus']
-                                    microbe_names = [
-                                        microbe.text for microbe in microbe_descendants[1:]
-                                    ]
-                                    unique_microbes = remove_duplicate_microbe(microbe_names)
-                                    with open("data/hmdb_mapped_taxon.pkl", "rb") as handle:
-                                        taxon = pickle.load(handle)
-                                        for microbe in unique_microbes:
-                                            if microbe in taxon:
-                                                output[microbe] = output[
-                                                    "associated_microbes"
-                                                ].append(taxon[microbe])
-                                            else:
-                                                output[microbe] = output[
-                                                    "associated_microbes"
-                                                ].append({"scientific_name": microbe.lower()})
-                        elif tname == "biological_properties":
-                            for child in metabolite.iter(
-                                "{http://www.hmdb.ca}biological_properties"
-                            ):
-                                biospec_loc = child.find(
-                                    "{http://www.hmdb.ca}biospecimen_locations"
-                                )
-                                if biospec_loc:
-                                    specimens = [specimen.text.lower() for specimen in biospec_loc]
-                                    output["sources"] = specimens
+    with open(metabolites_file) as xml_f:
 
-                                pathways = child.find("{http://www.hmdb.ca}pathways")
-                                if pathways:
-                                    for pathway in pathways.iter("{http://www.hmdb.ca}pathway"):
-                                        pathway_dict = {
-                                            "name": pathway.findtext(
-                                                "{http://www.hmdb.ca}name"
-                                            ).lower(),
-                                            "kegg_map_id": pathway.findtext(
-                                                "{http://www.hmdb.ca}kegg_map_id"
-                                            ),
-                                            "smpdb_id": pathway.findtext(
-                                                "{http://www.hmdb.ca}smpdb_id"
-                                            ),
-                                        }
-                                        output["associated_pathways"].append(pathway_dict)
-                        elif tname == "diseases":
-                            for diseases in metabolite.iter("{http://www.hmdb.ca}disease"):
-                                if diseases:
-                                    disease_dict = {
-                                        "name": diseases.findtext(
-                                            "{http://www.hmdb.ca}name"
-                                        ).lower()
-                                    }
-                                    if diseases.findtext("{http://www.hmdb.ca}omim_id"):
-                                        disease_dict[
-                                            "omim"
-                                        ] = f"OMIM:{diseases.findtext('{http://www.hmdb.ca}omim_id')}"
-                                    disease_dict["pmid"] = []
-                                    for ref in diseases.findall(".//{http://www.hmdb.ca}pubmed_id"):
-                                        if ref.text:
-                                            disease_dict["pmid"].append(int(ref.text))
-                                    output["associated_diseases"].append(disease_dict)
-                        elif tname == "protein_associations":
-                            for proteins in metabolite.iter("{http://www.hmdb.ca}protein"):
-                                if proteins:
-                                    protein_dict = {
-                                        "name": proteins.findtext(
+        plugin_path = plugin_directory()
+        data_path = Path(plugin_path) / "data"
+        hmdb_mapped_taxon_path = data_path.joinpath("hmdb_mapped_taxon.pkl")
+
+        save_mapped_taxon_to_pkl(xml_f, str(hmdb_mapped_taxon_path))
+        for event, elem in ET.iterparse(xml_f, events=("start", "end")):
+            if event == "end" and elem.tag.endswith("metabolite"):
+                output = {
+                    "_id": None,
+                    "name": None,
+                    "chemical_formula": None,
+                    "description": None,
+                    "xrefs": {},
+                    "associated_microbes": [],
+                    "associated_pathways": [],
+                    "associated_diseases": [],
+                    "associated_proteins": [],
+                }
+                for metabolite in elem:
+                    tname = strip_tag_namespace(metabolite.tag)
+                    tname_list = [
+                        "chebi_id",
+                        "chemspider_id",
+                        "drugbank_id",
+                        "foodb_id",
+                        "smiles",
+                        "inchikey",
+                        "pdb_id",
+                    ]
+                    if tname == "accession":
+                        if metabolite.text:
+                            output["_id"] = metabolite.text
+                    elif tname == "name":
+                        if metabolite.text:
+                            output["name"] = metabolite.text.lower()
+                    elif tname in tname_list:
+                        if metabolite.text:
+                            if "_id" in tname:
+                                prefix = tname.replace("_id", "").upper()
+                                xref_ids = {tname: f"{prefix}:{metabolite.text}"}
+                            else:
+                                xref_ids = {tname: metabolite.text}
+                            output["xrefs"].update(xref_ids)
+                    elif tname == "pubchem_compound_id":
+                        if metabolite.text:
+                            output["xrefs"].update(
+                                {
+                                    "pubchem_cid": f"PUBCHEM.COMPOUND:{int(metabolite.text)}"
+                                }
+                            )
+                    elif tname == "kegg_id":
+                        if metabolite.text:
+                            output["xrefs"].update(
+                                {"kegg_compound": f"KEGG.COMPOUND:{metabolite.text}"}
+                            )
+                    elif tname == "status":
+                        if metabolite.text:
+                            output["status"] = metabolite.text
+                    elif tname == "description":
+                        if metabolite.text:
+                            output["description"] = metabolite.text
+                    elif tname == "state":
+                        if metabolite.text:
+                            output["state"] = metabolite.text.lower()
+                    elif tname == "chemical_formula":
+                        if metabolite.text:
+                            output["chemical_formula"] = metabolite.text
+                    elif tname == "average_molecular_weight":
+                        if metabolite.text:
+                            output["average_mw"] = float(metabolite.text)
+                    elif tname == "monisotopic_molecular_weight":
+                        if metabolite.text:
+                            output["monoisotopic_mw"] = float(metabolite.text)
+                    elif tname == "ontology":
+                        for descendant in metabolite.iter(
+                            "{http://www.hmdb.ca}descendant"
+                        ):
+                            term = descendant.findall("{http://www.hmdb.ca}term")
+                            if term and term[0].text == "Microbe":
+                                microbe_descendants = descendant.findall(
+                                    ".//{http://www.hmdb.ca}term"
+                                )
+                                # The output of microbe_descendants = ['Microbe', 'Alcaligenes', 'Alcaligenes eutrophus']
+                                microbe_names = [
+                                    microbe.text for microbe in microbe_descendants[1:]
+                                ]
+                                unique_microbes = remove_duplicate_microbe(
+                                    microbe_names
+                                )
+                                with open(str(hmdb_mapped_taxon_path), "rb") as handle:
+                                    taxon = pickle.load(handle)
+                                    for microbe in unique_microbes:
+                                        if microbe in taxon:
+                                            output[microbe] = output[
+                                                "associated_microbes"
+                                            ].append(taxon[microbe])
+                                        else:
+                                            output[microbe] = output[
+                                                "associated_microbes"
+                                            ].append(
+                                                {"scientific_name": microbe.lower()}
+                                            )
+                    elif tname == "biological_properties":
+                        for child in metabolite.iter(
+                            "{http://www.hmdb.ca}biological_properties"
+                        ):
+                            biospec_loc = child.find(
+                                "{http://www.hmdb.ca}biospecimen_locations"
+                            )
+                            if biospec_loc:
+                                specimens = [
+                                    specimen.text.lower() for specimen in biospec_loc
+                                ]
+                                output["sources"] = specimens
+
+                            pathways = child.find("{http://www.hmdb.ca}pathways")
+                            if pathways:
+                                for pathway in pathways.iter(
+                                    "{http://www.hmdb.ca}pathway"
+                                ):
+                                    pathway_dict = {
+                                        "name": pathway.findtext(
                                             "{http://www.hmdb.ca}name"
                                         ).lower(),
-                                        "uniprotkb": proteins.findtext(
-                                            "{http://www.hmdb.ca}uniprot_id"
+                                        "kegg_map_id": pathway.findtext(
+                                            "{http://www.hmdb.ca}kegg_map_id"
+                                        ),
+                                        "smpdb_id": pathway.findtext(
+                                            "{http://www.hmdb.ca}smpdb_id"
                                         ),
                                     }
-                                    output["associated_proteins"].append(protein_dict)
+                                    output["associated_pathways"].append(pathway_dict)
+                    elif tname == "diseases":
+                        for diseases in metabolite.iter("{http://www.hmdb.ca}disease"):
+                            if diseases:
+                                disease_dict = {
+                                    "name": diseases.findtext(
+                                        "{http://www.hmdb.ca}name"
+                                    ).lower()
+                                }
+                                if diseases.findtext("{http://www.hmdb.ca}omim_id"):
+                                    disease_dict["omim"] = (
+                                        f"OMIM:{diseases.findtext('{http://www.hmdb.ca}omim_id')}"
+                                    )
+                                disease_dict["pmid"] = []
+                                for ref in diseases.findall(
+                                    ".//{http://www.hmdb.ca}pubmed_id"
+                                ):
+                                    if ref.text:
+                                        disease_dict["pmid"].append(int(ref.text))
+                                output["associated_diseases"].append(disease_dict)
+                    elif tname == "protein_associations":
+                        for proteins in metabolite.iter("{http://www.hmdb.ca}protein"):
+                            if proteins:
+                                protein_dict = {
+                                    "name": proteins.findtext(
+                                        "{http://www.hmdb.ca}name"
+                                    ).lower(),
+                                    "uniprotkb": proteins.findtext(
+                                        "{http://www.hmdb.ca}uniprot_id"
+                                    ),
+                                }
+                                output["associated_proteins"].append(protein_dict)
 
-                    output["associated_pathways"] = remove_empty_values(
-                        output["associated_pathways"]
-                    )
-                    output["associated_diseases"] = remove_empty_values(
-                        output["associated_diseases"]
-                    )
-                    output["associated_proteins"] = remove_empty_values(
-                        output["associated_proteins"]
-                    )
-                    output = {k: v for k, v in output.items() if v}
-                    replace_dict_keys(output, "chebi", "chebi_id")
-                    replace_dict_keys(output, "chemspider", "chemspider_id")
-                    replace_dict_keys(output, "drugbank", "drugbank_id")
-                    replace_dict_keys(output, "foodb", "foodb_id")
-                    replace_dict_keys(output, "pdb", "pdb_id")
+                output["associated_pathways"] = remove_empty_values(
+                    output["associated_pathways"]
+                )
+                output["associated_diseases"] = remove_empty_values(
+                    output["associated_diseases"]
+                )
+                output["associated_proteins"] = remove_empty_values(
+                    output["associated_proteins"]
+                )
+                output = {k: v for k, v in output.items() if v}
+                replace_dict_keys(output, "chebi", "chebi_id")
+                replace_dict_keys(output, "chemspider", "chemspider_id")
+                replace_dict_keys(output, "drugbank", "drugbank_id")
+                replace_dict_keys(output, "foodb", "foodb_id")
+                replace_dict_keys(output, "pdb", "pdb_id")
 
-                    # assign microbial type following biolink schema
-                    if "associated_microbes" in output and isinstance(
-                        output["associated_microbes"], list
-                    ):
-                        for taxon_dict in output["associated_microbes"]:
-                            if "lineage" in taxon_dict:
-                                if 2 in taxon_dict["lineage"]:
-                                    taxon_dict["type"] = "biolink:Bacterium"
-                                elif 10239 in taxon_dict["lineage"]:
-                                    taxon_dict["type"] = "biolink:Virus"
-                                elif 4751 in taxon_dict["lineage"]:
-                                    taxon_dict["type"] = "biolink:Fungus"
-                                elif 2157 in taxon_dict["lineage"]:
-                                    taxon_dict["type"] = "biolink:Archaea"
-                                else:
-                                    taxon_dict["type"] = "biolink:OrganismalEntity"
+                # assign microbial type following biolink schema
+                if "associated_microbes" in output and isinstance(
+                    output["associated_microbes"], list
+                ):
+                    for taxon_dict in output["associated_microbes"]:
+                        if "lineage" in taxon_dict:
+                            if 2 in taxon_dict["lineage"]:
+                                taxon_dict["type"] = "biolink:Bacterium"
+                            elif 10239 in taxon_dict["lineage"]:
+                                taxon_dict["type"] = "biolink:Virus"
+                            elif 4751 in taxon_dict["lineage"]:
+                                taxon_dict["type"] = "biolink:Fungus"
+                            elif 2157 in taxon_dict["lineage"]:
+                                taxon_dict["type"] = "biolink:Archaea"
+                            else:
+                                taxon_dict["type"] = "biolink:OrganismalEntity"
 
-                    # add biolink type to associated_pathways
-                    add_biolink_type(output, "associated_pathways", "biolink:Pathway")
-                    # add disease type to associated_diseases
-                    add_biolink_type(output, "associated_diseases", "biolink:Disease")
-                    # add biolink type to associated_proteins
-                    add_biolink_type(output, "associated_proteins", "biolink:Protein")
+                # add biolink type to associated_pathways
+                add_biolink_type(output, "associated_pathways", "biolink:Pathway")
+                # add disease type to associated_diseases
+                add_biolink_type(output, "associated_diseases", "biolink:Disease")
+                # add biolink type to associated_proteins
+                add_biolink_type(output, "associated_proteins", "biolink:Protein")
 
-                    yield output
+                yield output
 
 
 # if __name__ == "__main__":
 #     hmdb_data = load_hmdb_data()
-    # examp = [print(obj) for obj in hmdb_data if obj["_id"] == "HMDB0000020"]
-    # print(examp)
-    # parser_o = [obj for obj in hmdb_data if "associated_microbes" in obj]
-    # print(parser_o)
-    # print(len(set(parser_o)))
-    # with open("data/hmdb_microbe_metabolites.pkl", "wb") as handle:
-    #     pickle.dump(parser_o, handle, protocol=pickle.HIGHEST_PROTOCOL)
+# examp = [print(obj) for obj in hmdb_data if obj["_id"] == "HMDB0000020"]
+# print(examp)
+# parser_o = [obj for obj in hmdb_data if "associated_microbes" in obj]
+# print(parser_o)
+# print(len(set(parser_o)))
+# with open("data/hmdb_microbe_metabolites.pkl", "wb") as handle:
+#     pickle.dump(parser_o, handle, protocol=pickle.HIGHEST_PROTOCOL)
