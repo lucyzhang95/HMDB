@@ -233,7 +233,7 @@ def add_biolink_type(output_d: dict, output_key: str, biolink_type: str):
             d["type"] = biolink_type
 
 
-def load_hmdb_data(data_path) -> Iterator[dict]:
+def load_hmdb_data() -> Iterator[dict]:
     """load data from HMDB database
 
     :param data_path: path required for biothings_cli data upload (not used if run locally)
