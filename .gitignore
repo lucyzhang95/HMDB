@@ -5,3 +5,10 @@ venv
 pyproject.toml
 source
 data/hmdb_metabolites_output.pkl
+.biothings_hub/
+.ipynb_checkpoints/
+__pycache__/
+data/hmdb_metabolites_full.json
+data/hmdb_metabolites_full.pkl
+data/hmdb_microbe_metabolites.json
+taxdump.tar.gz
